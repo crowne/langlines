@@ -39,19 +39,21 @@ export class Grid {
 
         const container = this.scene.add.container(x, y);
 
-        // Tile Background - Make it interactive
-        const rect = this.scene.add.rectangle(0, 0, this.tileSize - 4, this.tileSize - 4, 0xffffff);
-        rect.setStrokeStyle(2, 0x000000);
-        rect.setName('bg');
+        // Tile Background
+        const bg = this.scene.add.graphics();
+        bg.fillStyle(0xffffff, 1);
+        bg.fillRoundedRect(-this.tileSize / 2 + 2, -this.tileSize / 2 + 2, this.tileSize - 4, this.tileSize - 4, 8);
+        bg.setName('bg');
 
         // Letter
         const text = this.scene.add.text(0, 0, char, {
-            fontSize: `${this.tileSize * 0.6}px`,
-            color: '#000000',
-            fontFamily: 'Arial'
+            fontSize: `${this.tileSize * 0.5}px`,
+            color: '#333333',
+            fontFamily: 'Arial',
+            fontStyle: 'bold'
         }).setOrigin(0.5);
 
-        container.add([rect, text]);
+        container.add([bg, text]);
         container.setData('letter', char);
         container.setData('row', row);
         container.setData('col', col);
@@ -98,9 +100,20 @@ export class Grid {
     }
 
     private highlightTile(tile: Phaser.GameObjects.Container, isSelected: boolean) {
-        const rect = tile.getByName('bg') as Phaser.GameObjects.Rectangle;
-        if (rect) {
-            rect.setFillStyle(isSelected ? 0xffff00 : 0xffffff);
+        const bg = tile.getByName('bg') as Phaser.GameObjects.Graphics;
+        if (bg) {
+            bg.clear();
+            if (isSelected) {
+                bg.fillStyle(0x646cff, 1); // Vibrant purple/blue for selection
+            } else {
+                bg.fillStyle(0xffffff, 1);
+            }
+            bg.fillRoundedRect(-this.tileSize / 2 + 2, -this.tileSize / 2 + 2, this.tileSize - 4, this.tileSize - 4, 8);
+        }
+
+        const text = tile.list[1] as Phaser.GameObjects.Text;
+        if (text) {
+            text.setColor(isSelected ? '#ffffff' : '#333333');
         }
     }
 }

@@ -28,15 +28,27 @@ export class GameScene extends Phaser.Scene {
         // Background
         this.add.rectangle(width / 2, height / 2, width, height, 0x222222);
 
-        // Calculate grid size based on screen width (portrait mode mostly)
-        // Leave some padding
+        // Calculate grid size based on available space (width vs height)
         const padding = 20;
+        const topOffset = height * 0.15; // 15% top margin for UI
         const availableWidth = width - (padding * 2);
-        const tileSize = Math.floor(availableWidth / 8);
+        const availableHeight = height - topOffset - padding;
 
-        const gridStartX = padding + (tileSize / 2);
-        const gridStartY = height * 0.2 + (tileSize / 2);
+        // Calculate size based on the smaller dimension to ensure fit
+        const tileSize = Math.min(
+            Math.floor(availableWidth / 8),
+            Math.floor(availableHeight / 8)
+        );
 
+        // Center the grid
+        const gridWidth = tileSize * 8;
+        // const gridHeight = tileSize * 8;
+        const gridStartX = (width - gridWidth) / 2 + (tileSize / 2);
+        // Start Y includes the offset and half tile for centering
+        const gridStartY = topOffset + (tileSize / 2);
+
+        this.grid = new Grid(this, 8, 8, tileSize, (word: string) => this.handleWordSelection(word));
+        this.grid.create(gridStartX, gridStartY);
         this.grid = new Grid(this, 8, 8, tileSize, (word: string) => this.handleWordSelection(word));
         this.grid.create(gridStartX, gridStartY);
     }
