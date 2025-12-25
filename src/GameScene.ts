@@ -6,22 +6,33 @@ export class GameScene extends Phaser.Scene {
     private grid!: Grid;
     private wordLogic: WordLogic;
 
+    private homeLang: string = 'en';
+    private learningLang: string = 'es';
+
     constructor() {
         super('GameScene');
         this.wordLogic = new WordLogic();
     }
 
+    init(data: { homeLang: string, learningLang: string }) {
+        if (data && data.homeLang) {
+            this.homeLang = data.homeLang;
+            this.learningLang = data.learningLang;
+        }
+    }
+
     preload() {
         // Load assets here
         this.load.setBaseURL('./');
-        // We will likely generate textures programmatically for now to save time/assets
     }
 
     create() {
-        // Load Dictionary
-        this.wordLogic.loadDictionary('data/en.json')
-            .then(() => console.log('Dictionary loaded'))
-            .catch(e => console.error(e));
+        // Load Dictionaries for both languages
+        Promise.all([
+            this.wordLogic.loadDictionary(`data/${this.homeLang}.json`, this.homeLang),
+            this.wordLogic.loadDictionary(`data/${this.learningLang}.json`, this.learningLang)
+        ]).then(() => console.log('Dictionaries loaded'))
+            .catch(e => console.error('Error loading dictionaries:', e));
 
         const { width, height } = this.scale;
 
@@ -94,23 +105,53 @@ export class GameScene extends Phaser.Scene {
 
         this.add.rectangle(width / 2, y, width, panelHeight, 0x333333);
 
-        // Shuffle Button (Placeholder)
-        const btn = this.add.text(width / 2, y, 'SHUFFLE', {
-            fontSize: '32px',
+        const refillLabel = this.homeLang === 'es' ? 'GRID' : 'GRID';
+        const dictLabel = this.homeLang === 'es' ? 'DICT' : 'DICT';
+
+        // Grid Reload Button
+        const gridBtn = this.add.text(width / 2 - 100, y, refillLabel, {
+            fontSize: '24px',
             color: '#ffffff',
             backgroundColor: '#555555',
-            padding: { x: 20, y: 10 }
+            padding: { x: 15, y: 10 }
         }).setOrigin(0.5);
-        btn.setInteractive({ useHandCursor: true });
-        btn.on('pointerdown', () => console.log('Shuffle clicked'));
+        gridBtn.setInteractive({ useHandCursor: true });
+        gridBtn.on('pointerdown', () => this.grid.reloadGrid());
+
+        // Dict Reload Button
+        const dictBtn = this.add.text(width / 2 + 100, y, dictLabel, {
+            fontSize: '24px',
+            color: '#ffffff',
+            backgroundColor: '#555555',
+            padding: { x: 15, y: 10 }
+        }).setOrigin(0.5);
+        dictBtn.setInteractive({ useHandCursor: true });
+        dictBtn.on('pointerdown', () => this.reloadDictionaries());
+    }
+
+    private reloadDictionaries() {
+        console.log('Reloading dictionaries...');
+        this.wordLogic.clear();
+        Promise.all([
+            this.wordLogic.loadDictionary(`data/${this.homeLang}.json`, this.homeLang),
+            this.wordLogic.loadDictionary(`data/${this.learningLang}.json`, this.learningLang)
+        ]).then(() => {
+            console.log('Dictionaries reloaded');
+            // Flash a small feedback
+            this.cameras.main.flash(100, 100, 100, 255);
+        }).catch(e => console.error(e));
     }
 
     private updateTopPanel(word: string) {
         if (word.length >= 3) {
-            const isValid = this.wordLogic.isValidWord(word);
-            if (isValid) {
-                const score = word.length;
-                this.topText.setText(`${word} (+${score})`);
+            // Prioritize learning language match for preview
+            const matchLang = this.wordLogic.checkWord(word, this.learningLang);
+            if (matchLang) {
+                const multiplier = (matchLang === this.learningLang) ? 3 : 1;
+                const score = word.length * multiplier;
+                const langCode = matchLang.toUpperCase();
+
+                this.topText.setText(`${word} (${langCode}) +${score}`);
                 this.topText.setColor('#00ff00');
             } else {
                 this.topText.setText(word);
@@ -123,12 +164,14 @@ export class GameScene extends Phaser.Scene {
     }
 
     private handleWordSelection(word: string) {
-        const isValid = this.wordLogic.isValidWord(word);
-        console.log(`Selected word: ${word}, Valid: ${isValid}`);
+        // Prioritize learning language match
+        const matchLang = this.wordLogic.checkWord(word, this.learningLang);
+        console.log(`Selected word: ${word}, Match: ${matchLang}`);
 
-        if (isValid) {
-            // Scoring: 1 point per letter
-            const score = word.length;
+        if (matchLang) {
+            // Scoring: 1 point per letter for home, 3 for learning
+            const multiplier = (matchLang === this.learningLang) ? 3 : 1;
+            const score = word.length * multiplier;
             this.currentScore += score;
             this.scoreText.setText(`Score: ${this.currentScore}`);
 

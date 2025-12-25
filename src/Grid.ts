@@ -202,6 +202,56 @@ export class Grid {
     }
 
 
+    public refillGrid() {
+        for (let row = 0; row < this.rows; row++) {
+            for (let col = 0; col < this.cols; col++) {
+                if (this.tiles[row][col] === null) {
+                    const x = this.startX + (col * this.tileSize);
+                    const y = this.startY + (row * this.tileSize);
+                    this.createTile(row, col, x, y);
+
+                    // Fade in effect
+                    const tile = this.tiles[row][col]!;
+                    tile.setAlpha(0);
+                    this.scene.tweens.add({
+                        targets: tile,
+                        alpha: 1,
+                        duration: 300
+                    });
+                }
+            }
+        }
+    }
+
+    public reloadGrid() {
+        // Destroy all existing tiles
+        for (let row = 0; row < this.rows; row++) {
+            for (let col = 0; col < this.cols; col++) {
+                if (this.tiles[row][col]) {
+                    this.tiles[row][col]!.destroy();
+                    this.tiles[row][col] = null;
+                }
+            }
+        }
+        // Rebuild
+        for (let row = 0; row < this.rows; row++) {
+            for (let col = 0; col < this.cols; col++) {
+                const x = this.startX + (col * this.tileSize);
+                const y = this.startY + (row * this.tileSize);
+                this.createTile(row, col, x, y);
+
+                const tile = this.tiles[row][col]!;
+                tile.setAlpha(0);
+                this.scene.tweens.add({
+                    targets: tile,
+                    alpha: 1,
+                    duration: 300,
+                    delay: (row * this.cols + col) * 10 // Staggered fade in
+                });
+            }
+        }
+    }
+
     private startSelection(tile: Phaser.GameObjects.Container) {
         this.selectedTiles = [tile];
         this.highlightTile(tile, true);

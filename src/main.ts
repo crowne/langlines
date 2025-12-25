@@ -1,4 +1,5 @@
-import Phaser from 'phaser';
+import { BootScene } from './BootScene';
+import { SetupScene } from './SetupScene';
 import { GameScene } from './GameScene';
 
 const config: Phaser.Types.Core.GameConfig = {
@@ -7,7 +8,7 @@ const config: Phaser.Types.Core.GameConfig = {
     height: window.innerHeight,
     parent: 'app',
     backgroundColor: '#020202',
-    scene: [GameScene],
+    scene: [BootScene, SetupScene, GameScene],
     scale: {
         mode: Phaser.Scale.RESIZE,
         autoCenter: Phaser.Scale.CENTER_BOTH
