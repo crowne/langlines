@@ -2,6 +2,18 @@ import Phaser from 'phaser';
 import { Grid } from './Grid';
 import { WordLogic } from './WordLogic';
 
+/**
+ * The main game scene.
+ * |-----------------------------------|
+ * | [home]       topPanel    score: 0 |
+ * |    WORD (EN) +3 * 2 * 3 = 18      |
+ * |-----------------------------------|
+ * | grid                              |
+ * |-----------------------------------|
+ * |         bottomPanel               |
+ * | [grid reload] [shuffle] [dict]    |
+ * |-----------------------------------|
+ */
 export class GameScene extends Phaser.Scene {
     private grid!: Grid;
     private wordLogic: WordLogic;
@@ -71,8 +83,8 @@ export class GameScene extends Phaser.Scene {
             8,
             8,
             tileSize,
-            (word: string) => this.handleWordSelection(word),
-            (word: string) => this.updateTopPanel(word)
+            (word: string, multipliers: number[]) => this.handleWordSelection(word, multipliers),
+            (word: string, multipliers: number[]) => this.updateTopPanel(word, multipliers)
         );
         this.grid.create(gridStartX, gridStartY);
     }
@@ -150,16 +162,25 @@ export class GameScene extends Phaser.Scene {
         }).catch(e => console.error(e));
     }
 
-    private updateTopPanel(word: string) {
+    private updateTopPanel(word: string, multipliers: number[] = []) {
         if (word.length >= 3) {
             // Prioritize learning language match for preview
             const matchLang = this.wordLogic.checkWord(word, this.learningLang);
             if (matchLang) {
-                const multiplier = (matchLang === this.learningLang) ? 3 : 1;
-                const score = word.length * multiplier;
-                const langCode = matchLang.toUpperCase();
+                const langMultiplier = (matchLang === this.learningLang) ? 3 : 1;
+                const baseScore = word.length * langMultiplier;
 
-                this.topText.setText(`${word} (${langCode}) +${score}`);
+                let totalScore = baseScore;
+                let multString = '';
+                multipliers.forEach(m => {
+                    totalScore *= m;
+                    multString += ` *${m}`;
+                });
+
+                const langCode = matchLang.toUpperCase();
+                const scoreDisplay = multipliers.length > 0 ? `+${baseScore}${multString} = ${totalScore}` : `+${baseScore}`;
+
+                this.topText.setText(`${word} (${langCode}) ${scoreDisplay}`);
                 this.topText.setColor('#00ff00');
             } else {
                 this.topText.setText(word);
@@ -171,16 +192,19 @@ export class GameScene extends Phaser.Scene {
         }
     }
 
-    private handleWordSelection(word: string) {
+    private handleWordSelection(word: string, multipliers: number[] = []) {
         // Prioritize learning language match
         const matchLang = this.wordLogic.checkWord(word, this.learningLang);
-        console.log(`Selected word: ${word}, Match: ${matchLang}`);
+        console.log(`Selected word: ${word}, Match: ${matchLang}, Multipliers: ${multipliers.join(',')}`);
 
         if (matchLang) {
             // Scoring: 1 point per letter for home, 3 for learning
-            const multiplier = (matchLang === this.learningLang) ? 3 : 1;
-            const score = word.length * multiplier;
-            this.currentScore += score;
+            const langMultiplier = (matchLang === this.learningLang) ? 3 : 1;
+            const baseScore = word.length * langMultiplier;
+            let totalScore = baseScore;
+            multipliers.forEach(m => totalScore *= m);
+
+            this.currentScore += totalScore;
             const i18n = this.cache.json.get('i18n');
             const scoreLabel = i18n?.game?.score || 'Score';
             this.scoreText.setText(`${scoreLabel}: ${this.currentScore}`);

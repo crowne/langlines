@@ -8,12 +8,12 @@ export class Grid {
     private tiles: (Phaser.GameObjects.Container | null)[][];
     private letters: string[] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
     private selectedTiles: Phaser.GameObjects.Container[] = [];
-    private onWordSelected: (word: string) => void;
-    private onSelectionUpdate: (word: string) => void;
+    private onWordSelected: (word: string, multipliers: number[]) => void;
+    private onSelectionUpdate: (word: string, multipliers: number[]) => void;
     private startX: number = 0;
     private startY: number = 0;
 
-    constructor(scene: Phaser.Scene, rows: number, cols: number, tileSize: number, onWordSelected: (word: string) => void, onSelectionUpdate: (word: string) => void) {
+    constructor(scene: Phaser.Scene, rows: number, cols: number, tileSize: number, onWordSelected: (word: string, multipliers: number[]) => void, onSelectionUpdate: (word: string, multipliers: number[]) => void) {
         this.scene = scene;
         this.rows = rows;
         this.cols = cols;
@@ -36,11 +36,13 @@ export class Grid {
             }
         }
 
+        this.assignSpecialTiles();
+
         // Handle global input up to end selection even if off-tile
         this.scene.input.on('pointerup', () => this.endSelection());
     }
 
-    private createTile(row: number, col: number, x: number, y: number) {
+    private createTile(row: number, col: number, x: number, y: number, multiplier: number = 1) {
         const char = Phaser.Utils.Array.GetRandom(this.letters);
 
         const container = this.scene.add.container(x, y);
@@ -63,6 +65,21 @@ export class Grid {
         container.setData('letter', char);
         container.setData('row', row);
         container.setData('col', col);
+        container.setData('multiplier', multiplier);
+
+        if (multiplier > 1) {
+            const badgeColor = multiplier === 3 ? 0xffd700 : 0x00bfff;
+            const badge = this.scene.add.graphics();
+            badge.fillStyle(badgeColor, 1);
+            badge.fillRoundedRect(this.tileSize / 2 - 25, -this.tileSize / 2 + 5, 20, 20, 4);
+
+            const badgeText = this.scene.add.text(this.tileSize / 2 - 15, -this.tileSize / 2 + 15, `${multiplier}x`, {
+                fontSize: '10px',
+                color: '#ffffff',
+                fontStyle: 'bold'
+            }).setOrigin(0.5);
+            container.add([badge, badgeText]);
+        }
 
         // Make container size match tile for interaction
         container.setSize(this.tileSize - 4, this.tileSize - 4);
@@ -84,7 +101,7 @@ export class Grid {
             tile.destroy();
         });
         this.selectedTiles = [];
-        this.onSelectionUpdate('');
+        this.onSelectionUpdate('', []);
 
         // Apply physics
         this.applyGravity(() => {
@@ -133,6 +150,39 @@ export class Grid {
         } else {
             onComplete();
         }
+    }
+
+    private assignSpecialTiles() {
+        const allTiles: { row: number, col: number }[] = [];
+        for (let r = 0; r < this.rows; r++) {
+            for (let c = 0; c < this.cols; c++) {
+                allTiles.push({ row: r, col: c });
+            }
+        }
+
+        Phaser.Utils.Array.Shuffle(allTiles);
+
+        // Assign 2x to first 3
+        for (let i = 0; i < 3; i++) {
+            const pos = allTiles[i];
+            this.updateMultiplier(pos.row, pos.col, 2);
+        }
+
+        // Assign 3x to next 2
+        for (let i = 3; i < 5; i++) {
+            const pos = allTiles[i];
+            this.updateMultiplier(pos.row, pos.col, 3);
+        }
+    }
+
+    private updateMultiplier(row: number, col: number, multiplier: number) {
+        const tile = this.tiles[row][col];
+        if (!tile) return;
+
+        const x = tile.x;
+        const y = tile.y;
+        tile.destroy();
+        this.createTile(row, col, x, y, multiplier);
     }
 
     private shiftColumns(onComplete: () => void) {
@@ -250,6 +300,8 @@ export class Grid {
                 });
             }
         }
+
+        this.assignSpecialTiles();
     }
 
     public shuffleTiles() {
@@ -319,13 +371,26 @@ export class Grid {
 
     private emitSelectionUpdate() {
         const word = this.selectedTiles.map(t => t.getData('letter')).join('');
-        this.onSelectionUpdate(word);
+        const multipliers = this.getMultipliers();
+        this.onSelectionUpdate(word, multipliers);
+    }
+
+    private getMultipliers(): number[] {
+        const multipliers: number[] = [];
+        this.selectedTiles.forEach(t => {
+            const m = t.getData('multiplier') || 1;
+            if (m > 1) {
+                multipliers.push(m);
+            }
+        });
+        return multipliers;
     }
 
     private endSelection() {
         if (this.selectedTiles.length > 0) {
             const word = this.selectedTiles.map(t => t.getData('letter')).join('');
-            this.onWordSelected(word);
+            const multipliers = this.getMultipliers();
+            this.onWordSelected(word, multipliers);
 
             // Reset visual IF match handling doesn't take over
             // In GameScene, handleWordSelection will call handleMatch if valid.
@@ -334,7 +399,7 @@ export class Grid {
             this.selectedTiles = [];
 
             // Clear current selection text
-            this.onSelectionUpdate('');
+            this.onSelectionUpdate('', []);
         }
     }
 
