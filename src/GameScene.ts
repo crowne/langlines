@@ -24,6 +24,7 @@ export class GameScene extends Phaser.Scene {
     preload() {
         // Load assets here
         this.load.setBaseURL('./');
+        this.load.json('i18n', `data/i18n/${this.homeLang}.json`);
     }
 
     create() {
@@ -91,8 +92,11 @@ export class GameScene extends Phaser.Scene {
             fontStyle: 'bold'
         }).setOrigin(0.5);
 
+        const i18n = this.cache.json.get('i18n');
+        const scoreLabel = i18n?.game?.score || 'Score';
+
         // Score
-        this.scoreText = this.add.text(width - 20, 20, 'Score: 0', {
+        this.scoreText = this.add.text(width - 20, 20, `${scoreLabel}: 0`, {
             fontSize: '24px',
             color: '#aaaaaa',
             fontFamily: 'Arial'
@@ -105,9 +109,10 @@ export class GameScene extends Phaser.Scene {
 
         this.add.rectangle(width / 2, y, width, panelHeight, 0x333333);
 
-        const gridLabel = 'GRID';
-        const shuffleLabel = 'SHUFFLE';
-        const dictLabel = 'DICT';
+        const i18n = this.cache.json.get('i18n');
+        const gridLabel = i18n?.game?.btn?.grid || 'GRID';
+        const shuffleLabel = i18n?.game?.btn?.shuffle || 'SHUFFLE';
+        const dictLabel = i18n?.game?.btn?.dict || 'DICT';
 
         const buttonStyle = {
             fontSize: '24px',
@@ -176,7 +181,9 @@ export class GameScene extends Phaser.Scene {
             const multiplier = (matchLang === this.learningLang) ? 3 : 1;
             const score = word.length * multiplier;
             this.currentScore += score;
-            this.scoreText.setText(`Score: ${this.currentScore}`);
+            const i18n = this.cache.json.get('i18n');
+            const scoreLabel = i18n?.game?.score || 'Score';
+            this.scoreText.setText(`${scoreLabel}: ${this.currentScore}`);
 
             // Flash feedback and apply gravity
             this.cameras.main.flash(200, 0, 255, 0);

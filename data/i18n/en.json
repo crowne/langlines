@@ -1,0 +1,26 @@
+{
+    "setup": {
+        "title": "LANG-LINES",
+        "select": "Select Your Languages",
+        "home": "Home: English",
+        "learning": "Learning: Spanish",
+        "start": "START GAME"
+    },
+    "game": {
+        "score": "Score",
+        "timer": "Time",
+        "btn": {
+            "grid": "GRID",
+            "shuffle": "SHUFFLE",
+            "dict": "DICT"
+        }
+    },
+    "summary": {
+        "title": "ROUND COMPLETE",
+        "score": "Final Score",
+        "words": "Words Found",
+        "homeCount": "Home Language",
+        "learningCount": "Learning Language",
+        "restart": "PLAY AGAIN"
+    }
+}

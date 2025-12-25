@@ -1,0 +1,26 @@
+{
+    "setup": {
+        "title": "LINGUA-LÍNEAS",
+        "select": "Selecciona tus idiomas",
+        "home": "Hogar: Español",
+        "learning": "Aprendiendo: Inglés",
+        "start": "EMPEZAR JUEGO"
+    },
+    "game": {
+        "score": "Puntaje",
+        "timer": "Tiempo",
+        "btn": {
+            "grid": "RED",
+            "shuffle": "BARAJAR",
+            "dict": "DICT"
+        }
+    },
+    "summary": {
+        "title": "RONDA COMPLETADA",
+        "score": "Puntaje Final",
+        "words": "Palabras Encontradas",
+        "homeCount": "Idioma Natal",
+        "learningCount": "Idioma Aprendiendo",
+        "restart": "JUGAR DE NUEVO"
+    }
+}
