@@ -50,55 +50,94 @@ export class SummaryScene extends Phaser.Scene {
         this.add.text(width / 2, statsY, `Score: ${this.result.score}`, { fontSize: '20px' }).setOrigin(0.5);
         this.add.text(width / 2, statsY + 30, `Lines Cleared: ${this.result.linesCleared} / ${this.result.round}`, { fontSize: '20px' }).setOrigin(0.5);
 
-        // Word List
-        this.add.text(width / 2, statsY + 70, 'Words Found:', { fontSize: '24px', fontStyle: 'bold' }).setOrigin(0.5);
+        // Word List Setup
+        const listHeader = this.add.text(width / 2, statsY + 70, 'Words Found:', { fontSize: '24px', fontStyle: 'bold' }).setOrigin(0.5);
 
-        let currentY = statsY + 110;
-        const maxDisplay = 6; // Reduced count to allow for multi-line definitions
+        const listAreaY = listHeader.y + 30;
+        const listAreaHeight = height - listAreaY - 120; // Space for buttons
         const wrapWidth = width * 0.8;
 
-        this.result.foundWords.slice(0, maxDisplay).forEach((w) => {
+        // Container for scrollable content
+        const listContainer = this.add.container(0, 0);
+
+        let currentY = 0;
+        this.result.foundWords.forEach((w) => {
             const langCode = w.lang.toUpperCase();
             const scoreText = `(+${w.score})`;
 
-            // 1. Word Line (Word + Lang + Score)
-            this.add.text(width / 2, currentY, `${w.word} (${langCode}) ${scoreText}`, {
+            // 1. Word Line
+            const wordTxt = this.add.text(width / 2, currentY, `${w.word} (${langCode}) ${scoreText}`, {
                 fontSize: '18px',
                 color: '#ffffff',
                 fontStyle: 'bold'
-            }).setOrigin(0.5);
+            }).setOrigin(0.5, 0);
+            listContainer.add(wordTxt);
 
-            currentY += 22;
+            currentY += 25;
 
-            // 2. Definition Line (Translation + Meaning)
+            // 2. Definition Line
             if (w.translation || w.meaning) {
                 const trans = w.translation ? `[${w.translation}]` : '';
                 const meaning = w.meaning ? (trans ? ` - ${w.meaning}` : w.meaning) : '';
                 const display = `${trans}${meaning}`;
 
-                const defText = this.add.text(width / 2, currentY, display, {
+                const defTxt = this.add.text(width / 2, currentY, display, {
                     fontSize: '14px',
                     color: '#aaaaaa',
                     align: 'center',
                     wordWrap: { width: wrapWidth }
                 }).setOrigin(0.5, 0);
+                listContainer.add(defTxt);
 
-                // Advance Y based on the height of the wrapped text
-                currentY += defText.height + 15;
+                currentY += defTxt.height + 15;
             } else {
                 currentY += 15;
             }
         });
 
-        if (this.result.foundWords.length > maxDisplay) {
-            this.add.text(width / 2, currentY, `... and ${this.result.foundWords.length - maxDisplay} more`, {
-                fontSize: '16px',
-                color: '#777777'
-            }).setOrigin(0.5, 0);
-        }
+        // Scrolling Logic
+        const minY = listAreaY;
+        const maxY = listAreaY - Math.max(0, currentY - listAreaHeight);
+        listContainer.y = minY;
+
+        let isDragging = false;
+        let dragStartY = 0;
+        let containerStartY = 0;
+
+        // Mask
+        const maskShape = this.make.graphics({});
+        maskShape.fillStyle(0xffffff);
+        maskShape.fillRect(0, listAreaY, width, listAreaHeight);
+        const mask = maskShape.createGeometryMask();
+        listContainer.setMask(mask);
+
+        // Input: Mouse Wheel
+        this.input.on('wheel', (_pointer: Phaser.Input.Pointer, _gameObjects: any, _deltaX: number, deltaY: number) => {
+            listContainer.y = Phaser.Math.Clamp(listContainer.y - deltaY, maxY, minY);
+        });
+
+        // Input: Drag
+        this.input.on('pointerdown', (pointer: Phaser.Input.Pointer) => {
+            if (pointer.y > listAreaY && pointer.y < listAreaY + listAreaHeight) {
+                isDragging = true;
+                dragStartY = pointer.y;
+                containerStartY = listContainer.y;
+            }
+        });
+
+        this.input.on('pointermove', (pointer: Phaser.Input.Pointer) => {
+            if (isDragging && pointer.isDown) {
+                const diff = pointer.y - dragStartY;
+                listContainer.y = Phaser.Math.Clamp(containerStartY + diff, maxY, minY);
+            }
+        });
+
+        this.input.on('pointerup', () => {
+            isDragging = false;
+        });
 
         // Buttons
-        const buttonY = height - 100;
+        const buttonY = height - 80;
         const buttonStyle = {
             fontSize: '28px',
             color: '#ffffff',
@@ -125,7 +164,7 @@ export class SummaryScene extends Phaser.Scene {
                     homeLang: this.result.homeLang,
                     learningLang: this.result.learningLang,
                     round: this.result.round,
-                    score: 0 // Reset score on failure? Or keep? User said "back to Home/SetupScene"
+                    score: 0
                 });
             });
 
