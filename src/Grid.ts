@@ -419,4 +419,54 @@ export class Grid {
             text.setColor(isSelected ? '#ffffff' : '#333333');
         }
     }
+
+    public setInteractive(enabled: boolean) {
+        for (let row = 0; row < this.rows; row++) {
+            for (let col = 0; col < this.cols; col++) {
+                const tile = this.tiles[row][col];
+                if (tile) {
+                    if (enabled) {
+                        tile.setInteractive();
+                    } else {
+                        tile.disableInteractive();
+                        this.highlightTile(tile, false);
+                    }
+                }
+            }
+        }
+        if (!enabled) {
+            this.selectedTiles = [];
+            this.onSelectionUpdate('', []);
+        }
+    }
+
+    public getLinesCleared(): number {
+        let cleared = 0;
+
+        // Check rows
+        for (let r = 0; r < this.rows; r++) {
+            let rowEmpty = true;
+            for (let c = 0; c < this.cols; c++) {
+                if (this.tiles[r][c] !== null) {
+                    rowEmpty = false;
+                    break;
+                }
+            }
+            if (rowEmpty) cleared++;
+        }
+
+        // Check columns
+        for (let c = 0; c < this.cols; c++) {
+            let colEmpty = true;
+            for (let r = 0; r < this.rows; r++) {
+                if (this.tiles[r][c] !== null) {
+                    colEmpty = false;
+                    break;
+                }
+            }
+            if (colEmpty) cleared++;
+        }
+
+        return cleared;
+    }
 }

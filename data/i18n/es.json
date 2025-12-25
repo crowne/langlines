@@ -13,7 +13,10 @@
             "grid": "RED",
             "shuffle": "BARAJAR",
             "dict": "DICT"
-        }
+        },
+        "goal": "Meta",
+        "line": "Línea",
+        "lines": "Líneas"
     },
     "summary": {
         "title": "RONDA COMPLETADA",

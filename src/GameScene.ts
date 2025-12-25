@@ -21,15 +21,28 @@ export class GameScene extends Phaser.Scene {
     private homeLang: string = 'en';
     private learningLang: string = 'es';
 
+    private topText!: Phaser.GameObjects.Text;
+    private scoreText!: Phaser.GameObjects.Text;
+    private timerText!: Phaser.GameObjects.Text;
+    private goalText!: Phaser.GameObjects.Text;
+    private currentScore = 0;
+    private currentRound = 1;
+    private foundWords: { word: string, lang: string, score: number }[] = [];
+    private timeRemaining = 180; // 3 minutes
+    private timerEvent!: Phaser.Time.TimerEvent;
+
     constructor() {
         super('GameScene');
         this.wordLogic = new WordLogic();
     }
 
-    init(data: { homeLang: string, learningLang: string }) {
+    init(data: { homeLang: string, learningLang: string, round?: number, score?: number }) {
         if (data && data.homeLang) {
             this.homeLang = data.homeLang;
             this.learningLang = data.learningLang;
+            this.currentRound = data.round || 1;
+            this.currentScore = data.score || 0;
+            this.foundWords = []; // Reset word list for the new round
         }
     }
 
@@ -43,9 +56,10 @@ export class GameScene extends Phaser.Scene {
         // Load Dictionaries for both languages
         Promise.all([
             this.wordLogic.loadDictionary(`data/${this.homeLang}.json`, this.homeLang),
-            this.wordLogic.loadDictionary(`data/${this.learningLang}.json`, this.learningLang)
-        ]).then(() => console.log('Dictionaries loaded'))
-            .catch(e => console.error('Error loading dictionaries:', e));
+            this.wordLogic.loadDictionary(`data/${this.learningLang}.json`, this.learningLang),
+            this.wordLogic.loadDefinitions('data/definitions.json')
+        ]).then(() => console.log('Dictionaries and definitions loaded'))
+            .catch(e => console.error('Error loading data:', e));
 
         const { width, height } = this.scale;
 
@@ -87,11 +101,36 @@ export class GameScene extends Phaser.Scene {
             (word: string, multipliers: number[]) => this.updateTopPanel(word, multipliers)
         );
         this.grid.create(gridStartX, gridStartY);
+
+        this.startTimer();
+        this.updateScoreDisplay();
+        this.updateGoalDisplay();
     }
 
-    private topText!: Phaser.GameObjects.Text;
-    private scoreText!: Phaser.GameObjects.Text;
-    private currentScore = 0;
+    private updateScoreDisplay() {
+        const i18n = this.cache.json.get('i18n');
+        const scoreLabel = i18n?.game?.score || 'Score';
+        this.scoreText.setText(`${scoreLabel}: ${this.currentScore}`);
+    }
+
+    private updateGoalDisplay() {
+        const i18n = this.cache.json.get('i18n');
+        const goalLabel = i18n?.game?.goal || 'Goal';
+        const linesLabel = i18n?.game?.lines || 'Lines';
+        const lineLabel = i18n?.game?.line || 'Line';
+
+        const targetLines = this.currentRound;
+        const currentProgress = this.grid ? this.grid.getLinesCleared() : 0;
+        const lineText = targetLines === 1 ? lineLabel : linesLabel;
+
+        this.goalText.setText(`${goalLabel}: ${currentProgress} / ${targetLines} ${lineText}`);
+
+        if (currentProgress >= targetLines) {
+            this.goalText.setColor('#00ff00');
+        } else {
+            this.goalText.setColor('#ffff00');
+        }
+    }
 
     private createTopPanel(width: number, height: number) {
         this.add.rectangle(width / 2, height / 2, width, height, 0x333333);
@@ -105,6 +144,14 @@ export class GameScene extends Phaser.Scene {
         }).setOrigin(0.5);
 
         const i18n = this.cache.json.get('i18n');
+
+        // Round Goal Text
+        this.goalText = this.add.text(width / 2, 20, '', {
+            fontSize: '20px',
+            color: '#ffff00',
+            fontStyle: 'bold'
+        }).setOrigin(0.5, 0);
+
         const scoreLabel = i18n?.game?.score || 'Score';
 
         // Score
@@ -113,6 +160,15 @@ export class GameScene extends Phaser.Scene {
             color: '#aaaaaa',
             fontFamily: 'Arial'
         }).setOrigin(1, 0);
+
+        const timerLabel = i18n?.game?.timer || 'Time';
+
+        // Timer
+        this.timerText = this.add.text(20, 20, `${timerLabel}: 03:00`, {
+            fontSize: '24px',
+            color: '#aaaaaa',
+            fontFamily: 'Arial'
+        }).setOrigin(0, 0);
     }
 
     private createBottomPanel(width: number, height: number) {
@@ -147,6 +203,78 @@ export class GameScene extends Phaser.Scene {
         const dictBtn = this.add.text(width / 2 + 140, y, dictLabel, buttonStyle).setOrigin(0.5);
         dictBtn.setInteractive({ useHandCursor: true });
         dictBtn.on('pointerdown', () => this.reloadDictionaries());
+    }
+
+    private startTimer() {
+        this.timeRemaining = 180;
+        this.updateTimerDisplay();
+
+        if (this.timerEvent) this.timerEvent.destroy();
+
+        this.timerEvent = this.time.addEvent({
+            delay: 1000,
+            callback: this.updateTimer,
+            callbackScope: this,
+            loop: true
+        });
+    }
+
+    private updateTimer() {
+        this.timeRemaining--;
+        this.updateTimerDisplay();
+
+        if (this.timeRemaining <= 0) {
+            this.handleTimeUp();
+        }
+    }
+
+    private updateTimerDisplay() {
+        const i18n = this.cache.json.get('i18n');
+        const timerLabel = i18n?.game?.timer || 'Time';
+
+        const minutes = Math.floor(this.timeRemaining / 60);
+        const seconds = this.timeRemaining % 60;
+        const timeString = `${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+
+        this.timerText.setText(`${timerLabel}: ${timeString}`);
+
+        if (this.timeRemaining <= 10) {
+            this.timerText.setColor('#ff0000');
+        } else {
+            this.timerText.setColor('#aaaaaa');
+        }
+    }
+
+    private handleTimeUp() {
+        if (this.timerEvent) this.timerEvent.destroy();
+        this.grid.setInteractive(false);
+
+        const linesCleared = this.grid.getLinesCleared();
+        const goalMet = linesCleared >= this.currentRound;
+
+        // Enrich found words with definitions
+        const enrichedWords = this.foundWords.map(w => {
+            const def = this.wordLogic.getDefinition(w.word);
+            return {
+                ...w,
+                translation: def?.translation,
+                meaning: def?.meaning
+            };
+        });
+
+        this.time.delayedCall(1500, () => {
+            this.scene.start('SummaryScene', {
+                round: this.currentRound,
+                score: this.currentScore,
+                foundWords: enrichedWords,
+                linesCleared: linesCleared,
+                goalMet: goalMet,
+                homeLang: this.homeLang,
+                learningLang: this.learningLang
+            });
+        });
+
+        this.cameras.main.shake(500, 0.02);
     }
 
     private reloadDictionaries() {
@@ -205,13 +333,15 @@ export class GameScene extends Phaser.Scene {
             multipliers.forEach(m => totalScore *= m);
 
             this.currentScore += totalScore;
-            const i18n = this.cache.json.get('i18n');
-            const scoreLabel = i18n?.game?.score || 'Score';
-            this.scoreText.setText(`${scoreLabel}: ${this.currentScore}`);
+            this.foundWords.push({ word: word, lang: matchLang, score: totalScore });
+            this.updateScoreDisplay();
 
             // Flash feedback and apply gravity
             this.cameras.main.flash(200, 0, 255, 0);
             this.grid.handleMatch();
+
+            // Update goal progress after a short delay to allow gravity to start
+            this.time.delayedCall(500, () => this.updateGoalDisplay());
         } else {
             this.cameras.main.shake(100, 0.01);
         }

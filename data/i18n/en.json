@@ -13,7 +13,10 @@
             "grid": "GRID",
             "shuffle": "SHUFFLE",
             "dict": "DICT"
-        }
+        },
+        "goal": "Goal",
+        "line": "Line",
+        "lines": "Lines"
     },
     "summary": {
         "title": "ROUND COMPLETE",

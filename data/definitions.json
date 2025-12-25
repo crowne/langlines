@@ -1,0 +1,38 @@
+{
+    "HOLA": {
+        "translation": "HELLO",
+        "meaning": "A greeting."
+    },
+    "SOY": {
+        "translation": "I AM",
+        "meaning": "From the verb ser (to be)."
+    },
+    "MUNDO": {
+        "translation": "WORLD",
+        "meaning": "Planet Earth or all of humanity."
+    },
+    "HOY": {
+        "translation": "TODAY",
+        "meaning": "On this current day."
+    },
+    "JUEGO": {
+        "translation": "GAME",
+        "meaning": "A form of play or sport."
+    },
+    "AXE": {
+        "translation": "HACHA",
+        "meaning": "A tool used for chopping wood."
+    },
+    "BAR": {
+        "translation": "BARRA",
+        "meaning": "A long, thin object or a place to drink."
+    },
+    "RUNGS": {
+        "translation": "PELDAÑOS",
+        "meaning": "The steps of a ladder."
+    },
+    "CODIGO": {
+        "translation": "CODE",
+        "meaning": "A system of symbols or rules."
+    }
+}
