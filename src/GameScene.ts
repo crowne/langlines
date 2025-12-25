@@ -47,16 +47,86 @@ export class GameScene extends Phaser.Scene {
         // Start Y includes the offset and half tile for centering
         const gridStartY = topOffset + (tileSize / 2);
 
-        this.grid = new Grid(this, 8, 8, tileSize, (word: string) => this.handleWordSelection(word));
+        this.createTopPanel(width, topOffset);
+        this.createBottomPanel(width, height); // Use remaining space if needed
+
+        this.grid = new Grid(
+            this,
+            8,
+            8,
+            tileSize,
+            (word: string) => this.handleWordSelection(word),
+            (word: string) => this.updateTopPanel(word)
+        );
         this.grid.create(gridStartX, gridStartY);
-        this.grid = new Grid(this, 8, 8, tileSize, (word: string) => this.handleWordSelection(word));
-        this.grid.create(gridStartX, gridStartY);
+    }
+
+    private topText!: Phaser.GameObjects.Text;
+    private scoreText!: Phaser.GameObjects.Text;
+    private currentScore = 0;
+
+    private createTopPanel(width: number, height: number) {
+        this.add.rectangle(width / 2, height / 2, width, height, 0x333333);
+
+        // Word Display
+        this.topText = this.add.text(width / 2, height * 0.6, '', {
+            fontSize: '48px',
+            color: '#ffffff',
+            fontFamily: 'Arial',
+            fontStyle: 'bold'
+        }).setOrigin(0.5);
+
+        // Score
+        this.scoreText = this.add.text(width - 20, 20, 'Score: 0', {
+            fontSize: '24px',
+            color: '#aaaaaa',
+            fontFamily: 'Arial'
+        }).setOrigin(1, 0);
+    }
+
+    private createBottomPanel(width: number, height: number) {
+        const panelHeight = height * 0.15;
+        const y = height - (panelHeight / 2);
+
+        this.add.rectangle(width / 2, y, width, panelHeight, 0x333333);
+
+        // Shuffle Button (Placeholder)
+        const btn = this.add.text(width / 2, y, 'SHUFFLE', {
+            fontSize: '32px',
+            color: '#ffffff',
+            backgroundColor: '#555555',
+            padding: { x: 20, y: 10 }
+        }).setOrigin(0.5);
+        btn.setInteractive({ useHandCursor: true });
+        btn.on('pointerdown', () => console.log('Shuffle clicked'));
+    }
+
+    private updateTopPanel(word: string) {
+        this.topText.setText(word);
+
+        if (word.length >= 3) {
+            const isValid = this.wordLogic.isValidWord(word);
+            this.topText.setColor(isValid ? '#00ff00' : '#ffffff');
+        } else {
+            this.topText.setColor('#ffffff');
+        }
     }
 
     private handleWordSelection(word: string) {
         const isValid = this.wordLogic.isValidWord(word);
         console.log(`Selected word: ${word}, Valid: ${isValid}`);
-        // Todo: If valid, score it and remove tiles
+
+        if (isValid) {
+            // Simple scoring: length * 10
+            const score = word.length * 10;
+            this.currentScore += score;
+            this.scoreText.setText(`Score: ${this.currentScore}`);
+
+            // Flash feedback
+            this.cameras.main.flash(200, 0, 255, 0);
+        } else {
+            this.cameras.main.shake(100, 0.01);
+        }
     }
 
     update() {

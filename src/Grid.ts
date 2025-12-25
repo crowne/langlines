@@ -9,14 +9,16 @@ export class Grid {
     private letters: string[] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
     private selectedTiles: Phaser.GameObjects.Container[] = [];
     private onWordSelected: (word: string) => void;
+    private onSelectionUpdate: (word: string) => void;
 
-    constructor(scene: Phaser.Scene, rows: number, cols: number, tileSize: number, onWordSelected: (word: string) => void) {
+    constructor(scene: Phaser.Scene, rows: number, cols: number, tileSize: number, onWordSelected: (word: string) => void, onSelectionUpdate: (word: string) => void) {
         this.scene = scene;
         this.rows = rows;
         this.cols = cols;
         this.tileSize = tileSize;
         this.tiles = [];
         this.onWordSelected = onWordSelected;
+        this.onSelectionUpdate = onSelectionUpdate;
     }
 
     create(startX: number, startY: number) {
@@ -72,6 +74,7 @@ export class Grid {
     private startSelection(tile: Phaser.GameObjects.Container) {
         this.selectedTiles = [tile];
         this.highlightTile(tile, true);
+        this.emitSelectionUpdate();
     }
 
     private updateSelection(tile: Phaser.GameObjects.Container) {
@@ -84,8 +87,14 @@ export class Grid {
             if (dRow <= 1 && dCol <= 1) {
                 this.selectedTiles.push(tile);
                 this.highlightTile(tile, true);
+                this.emitSelectionUpdate();
             }
         }
+    }
+
+    private emitSelectionUpdate() {
+        const word = this.selectedTiles.map(t => t.getData('letter')).join('');
+        this.onSelectionUpdate(word);
     }
 
     private endSelection() {
@@ -96,6 +105,9 @@ export class Grid {
             // Reset visual
             this.selectedTiles.forEach(t => this.highlightTile(t, false));
             this.selectedTiles = [];
+
+            // Clear current selection text
+            this.onSelectionUpdate('');
         }
     }
 
