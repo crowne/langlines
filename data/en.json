@@ -1,5 +1,7 @@
 [
+    "CODE",
     "FOO",
+    "GAME",
     "HAM",
     "HELLO",
     "HIT",
@@ -8,16 +10,16 @@
     "HOT",
     "HUM",
     "HUT",
-    "WORLD",
-    "GAME",
+    "LANG",
+    "LINES",
+    "PHASER",
     "SKI",
     "SKY",
     "SNACKS",
-    "LANG",
-    "LINES",
+    "STAFF",
     "TEST",
     "TAG",
     "TOE",
-    "CODE",
-    "PHASER"
+    "WORLD",
+    "ZAP"
 ]

@@ -31,8 +31,9 @@ export class GameScene extends Phaser.Scene {
         // Calculate grid size based on available space (width vs height)
         const padding = 20;
         const topOffset = height * 0.15; // 15% top margin for UI
+        const bottomOffset = height * 0.15; // 15% bottom margin for UI
         const availableWidth = width - (padding * 2);
-        const availableHeight = height - topOffset - padding;
+        const availableHeight = height - topOffset - bottomOffset - padding;
 
         // Calculate size based on the smaller dimension to ensure fit
         const tileSize = Math.min(
@@ -42,10 +43,13 @@ export class GameScene extends Phaser.Scene {
 
         // Center the grid
         const gridWidth = tileSize * 8;
-        // const gridHeight = tileSize * 8;
+        const gridHeight = tileSize * 8;
         const gridStartX = (width - gridWidth) / 2 + (tileSize / 2);
-        // Start Y includes the offset and half tile for centering
-        const gridStartY = topOffset + (tileSize / 2);
+
+        // Vertical centering within the available space between top and bottom panels
+        const availableVerticalSpace = height - topOffset - bottomOffset;
+        const verticalPadding = (availableVerticalSpace - gridHeight) / 2;
+        const gridStartY = topOffset + verticalPadding + (tileSize / 2);
 
         this.createTopPanel(width, topOffset);
         this.createBottomPanel(width, height); // Use remaining space if needed
@@ -102,12 +106,18 @@ export class GameScene extends Phaser.Scene {
     }
 
     private updateTopPanel(word: string) {
-        this.topText.setText(word);
-
         if (word.length >= 3) {
             const isValid = this.wordLogic.isValidWord(word);
-            this.topText.setColor(isValid ? '#00ff00' : '#ffffff');
+            if (isValid) {
+                const score = word.length * 10;
+                this.topText.setText(`${word} (+${score})`);
+                this.topText.setColor('#00ff00');
+            } else {
+                this.topText.setText(word);
+                this.topText.setColor('#ffffff');
+            }
         } else {
+            this.topText.setText(word);
             this.topText.setColor('#ffffff');
         }
     }
