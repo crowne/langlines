@@ -1,38 +1,1894 @@
 {
-    "HOLA": {
-        "translation": "HELLO",
-        "meaning": "A greeting."
+    "ABLE": {
+        "translation": "CAPAZ",
+        "meaning": "Having the power, skill, or means to do something."
     },
-    "SOY": {
-        "translation": "I AM",
-        "meaning": "From the verb ser (to be)."
+    "ABOUT": {
+        "translation": "SOBRE",
+        "meaning": "On the subject of; concerning."
     },
-    "MUNDO": {
-        "translation": "WORLD",
-        "meaning": "Planet Earth or all of humanity."
+    "ABSOLUTE": {
+        "translation": "ABSOLUTO",
+        "meaning": "Total and complete."
     },
-    "HOY": {
-        "translation": "TODAY",
-        "meaning": "On this current day."
+    "ACCEPT": {
+        "translation": "ACEPTAR",
+        "meaning": "Consent to receive something offered."
     },
-    "JUEGO": {
-        "translation": "GAME",
-        "meaning": "A form of play or sport."
+    "ACCOUNT": {
+        "translation": "CUENTA",
+        "meaning": "A report or description of an event or experience."
     },
-    "AXE": {
-        "translation": "HACHA",
-        "meaning": "A tool used for chopping wood."
+    "ACHIEVE": {
+        "translation": "LOGRAR",
+        "meaning": "Successfully bring about or reach by effort."
+    },
+    "ACROSS": {
+        "translation": "A TRAVES",
+        "meaning": "From one side to the other of something."
+    },
+    "ACT": {
+        "translation": "ACTUAR",
+        "meaning": "Take action; do something."
+    },
+    "ACTIVE": {
+        "translation": "ACTIVO",
+        "meaning": "Engaging or ready to engage in physically energetic pursuits."
+    },
+    "ACTUAL": {
+        "translation": "REAL",
+        "meaning": "Existing in fact; real."
+    },
+    "ADD": {
+        "translation": "ANADIR",
+        "meaning": "Join something to something else so as to increase the size."
+    },
+    "ADDRESS": {
+        "translation": "DIRECCION",
+        "meaning": "The particulars of the place where someone lives."
+    },
+    "ADMIT": {
+        "translation": "ADMITIR",
+        "meaning": "Confess to be true or to be the case."
+    },
+    "AFTER": {
+        "translation": "DESPUES",
+        "meaning": "During the period of time following an event."
+    },
+    "AGAIN": {
+        "translation": "OTRA VEZ",
+        "meaning": "Another time; once more."
+    },
+    "AGAINST": {
+        "translation": "CONTRA",
+        "meaning": "In opposition to."
+    },
+    "AGE": {
+        "translation": "EDAD",
+        "meaning": "The length of time that a person has lived."
+    },
+    "AGENT": {
+        "translation": "AGENTE",
+        "meaning": "A person who acts on behalf of another person or group."
+    },
+    "AGO": {
+        "translation": "HACE",
+        "meaning": "Before the present; earlier."
+    },
+    "AGREE": {
+        "translation": "ACORDAR",
+        "meaning": "Have the same opinion about something."
+    },
+    "AIR": {
+        "translation": "AIRE",
+        "meaning": "The invisible gaseous substance surrounding the earth."
+    },
+    "ALL": {
+        "translation": "TODO",
+        "meaning": "Used to refer to the whole quantity or extent of a particular group."
+    },
+    "ALLOW": {
+        "translation": "PERMITIR",
+        "meaning": "Give someone permission to do something."
+    },
+    "ALMOST": {
+        "translation": "CASI",
+        "meaning": "Not quite; very nearly."
+    },
+    "ALONG": {
+        "translation": "A LO LARGO",
+        "meaning": "Moving in a constant direction on a path or any more or less horizontal surface."
+    },
+    "ALREADY": {
+        "translation": "YA",
+        "meaning": "Before or by now or the time in question."
+    },
+    "ALSO": {
+        "translation": "TAMBIEN",
+        "meaning": "In addition; too."
+    },
+    "ALWAYS": {
+        "translation": "SIEMPRE",
+        "meaning": "At all times; on all occasions."
+    },
+    "AMOUNT": {
+        "translation": "CANTIDAD",
+        "meaning": "A quantity of something, especially the total of a thing or things in number, size, value, or extent."
+    },
+    "AND": {
+        "translation": "Y",
+        "meaning": "Used to connect words of the same part of speech, clauses, or sentences."
+    },
+    "ANOTHER": {
+        "translation": "OTRO",
+        "meaning": "Used to refer to an additional person or thing of the same type."
+    },
+    "ANSWER": {
+        "translation": "RESPUESTA",
+        "meaning": "A thing said, written, or done to deal with or as a reaction to a question, statement, or situation."
+    },
+    "ANY": {
+        "translation": "CUALQUIER",
+        "meaning": "Used to refer to one or some of a thing or number of things, no matter how much or many."
+    },
+    "APART": {
+        "translation": "APARTE",
+        "meaning": "Separated by a distance; at a specified distance from each other in time or space."
+    },
+    "APPEAR": {
+        "translation": "APARECER",
+        "meaning": "Come into sight; become visible or noticeable, typically without visible agent or apparent cause."
+    },
+    "APPLY": {
+        "translation": "APLICAR",
+        "meaning": "Make a formal application or request."
+    },
+    "AREA": {
+        "translation": "AREA",
+        "meaning": "A region or part of a town, a country, or the world."
+    },
+    "ARM": {
+        "translation": "BRAZO",
+        "meaning": "Each of the two upper limbs of the human body from the shoulder to the hand."
+    },
+    "AROUND": {
+        "translation": "ALREDEDOR",
+        "meaning": "On every side of."
+    },
+    "ART": {
+        "translation": "ARTE",
+        "meaning": "The expression or application of human creative skill and imagination."
+    },
+    "ASK": {
+        "translation": "PREGUNTAR",
+        "meaning": "Say something in order to obtain information or advice."
+    },
+    "AT": {
+        "translation": "EN",
+        "meaning": "Expressing location or arrival in a particular place or position."
+    },
+    "AWAY": {
+        "translation": "LEJOS",
+        "meaning": "At a distance from a particular person or place."
+    },
+    "BABY": {
+        "translation": "BEBE",
+        "meaning": "A very young child."
+    },
+    "BACK": {
+        "translation": "ESPALDA",
+        "meaning": "The rear surface of the human body from the shoulders to the hips."
+    },
+    "BAD": {
+        "translation": "MALO",
+        "meaning": "Of poor quality; low standard."
+    },
+    "BAG": {
+        "translation": "BOLSA",
+        "meaning": "A container made of flexible material."
+    },
+    "BALL": {
+        "translation": "BOLA",
+        "meaning": "A solid or hollow spherical or egg-shaped object."
+    },
+    "BANK": {
+        "translation": "BANCO",
+        "meaning": "A financial establishment that invests money deposited by customers."
     },
     "BAR": {
         "translation": "BARRA",
-        "meaning": "A long, thin object or a place to drink."
+        "meaning": "A long rigid piece of wood, metal, or some other solid substance."
     },
-    "RUNGS": {
-        "translation": "PELDAÑOS",
-        "meaning": "The steps of a ladder."
+    "BASE": {
+        "translation": "BASE",
+        "meaning": "The lowest part or edge of something, especially the part on which it rests or is supported."
     },
-    "CODIGO": {
-        "translation": "CODE",
-        "meaning": "A system of symbols or rules."
+    "BE": {
+        "translation": "SER",
+        "meaning": "Exist."
+    },
+    "BEAR": {
+        "translation": "OSO",
+        "meaning": "A large, heavy, mammal that walks on the soles of its feet."
+    },
+    "BECOME": {
+        "translation": "LLEGAR A SER",
+        "meaning": "Begin to be."
+    },
+    "BED": {
+        "translation": "CAMA",
+        "meaning": "A piece of furniture for sleep or rest."
+    },
+    "BEFORE": {
+        "translation": "ANTES",
+        "meaning": "During the period of time preceding a particular event or time."
+    },
+    "BEGIN": {
+        "translation": "EMPEZAR",
+        "meaning": "Start."
+    },
+    "BEHIND": {
+        "translation": "DETRAS",
+        "meaning": "At or to the far side of something, typically so as to be hidden by it."
+    },
+    "BELIEVE": {
+        "translation": "CREER",
+        "meaning": "Accept something as true; feel sure of the truth of."
+    },
+    "BEST": {
+        "translation": "MEJOR",
+        "meaning": "Of the most excellent, effective, or desirable type or quality."
+    },
+    "BET": {
+        "translation": "APUESTA",
+        "meaning": "An act of risking a sum of money on the outcome of a future event."
+    },
+    "BIG": {
+        "translation": "GRANDE",
+        "meaning": "Of considerable size, extent, or intensity."
+    },
+    "BILL": {
+        "translation": "FACTURA",
+        "meaning": "A printed or written statement of the money owed for goods or services."
+    },
+    "BIRTH": {
+        "translation": "NACIMIENTO",
+        "meaning": "The emergence of a baby or other young from the body of its mother."
+    },
+    "BIT": {
+        "translation": "UN POCO",
+        "meaning": "A small piece, part, or quantity of something."
+    },
+    "BLACK": {
+        "translation": "NEGRO",
+        "meaning": "Of the very darkest color owing to the absence of or complete absorption of light."
+    },
+    "BLUE": {
+        "translation": "AZUL",
+        "meaning": "Of a color intermediate between green and violet."
+    },
+    "BOARD": {
+        "translation": "TABLERO",
+        "meaning": "A long, thin, flat piece of wood or other hard material, used for floors or other building purposes."
+    },
+    "BOAT": {
+        "translation": "BARCO",
+        "meaning": "A small vessel for traveling over water."
+    },
+    "BODY": {
+        "translation": "CUERPO",
+        "meaning": "The physical structure of a person or an animal."
+    },
+    "BOOK": {
+        "translation": "LIBRO",
+        "meaning": "A written or printed work consisting of pages glued or sewed together along one side and bound in covers."
+    },
+    "BOX": {
+        "translation": "CAJA",
+        "meaning": "A container with a flat base and sides, typically square or rectangular and having a lid."
+    },
+    "BOY": {
+        "translation": "NINO",
+        "meaning": "A male child or young man."
+    },
+    "BREAK": {
+        "translation": "ROMPER",
+        "meaning": "Separate or cause to separate into pieces as a result of a blow, shock, or strain."
+    },
+    "BRING": {
+        "translation": "TRAER",
+        "meaning": "Take or go with to a place."
+    },
+    "BUILD": {
+        "translation": "CONSTRUIR",
+        "meaning": "Construct by putting parts or material together."
+    },
+    "BUS": {
+        "translation": "AUTOBUS",
+        "meaning": "A large motor vehicle carrying passengers by road."
+    },
+    "BUSY": {
+        "translation": "OCUPADO",
+        "meaning": "Having a great deal to do."
+    },
+    "BUT": {
+        "translation": "PERO",
+        "meaning": "Used to introduce a phrase or clause contrasting with what has already been mentioned."
+    },
+    "BUY": {
+        "translation": "COMPRAR",
+        "meaning": "Obtain in exchange for payment."
+    },
+    "CALL": {
+        "translation": "LLAMAR",
+        "meaning": "Cry out to (someone) in order to summon them or attract their attention."
+    },
+    "CAN": {
+        "translation": "PUEDE",
+        "meaning": "Be able to."
+    },
+    "CAR": {
+        "translation": "COCHE",
+        "meaning": "A road vehicle, typically with four wheels, powered by an internal combustion engine and able to carry a small number of people."
+    },
+    "CARD": {
+        "translation": "TARJETA",
+        "meaning": "A piece of thick, stiff paper or thin pasteboard, in particular one used for writing or printing on."
+    },
+    "CARE": {
+        "translation": "CUIDAR",
+        "meaning": "The provision of what is necessary for the health, welfare, maintenance, and protection of someone or something."
+    },
+    "CARRY": {
+        "translation": "LLEVAR",
+        "meaning": "Support and move (someone or something) from one place to another."
+    },
+    "CASE": {
+        "translation": "CASO",
+        "meaning": "An instance of a particular situation; an example of something occurring."
+    },
+    "CAT": {
+        "translation": "GATO",
+        "meaning": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws."
+    },
+    "CATCH": {
+        "translation": "COGER",
+        "meaning": "Intercept and hold (something which has been thrown, propelled, or dropped)."
+    },
+    "CAUSE": {
+        "translation": "CAUSA",
+        "meaning": "A person or thing that gives rise to an action, phenomenon, or condition."
+    },
+    "CENT": {
+        "translation": "CENTAVO",
+        "meaning": "A monetary unit in various countries, equal to one-hundredth of a dollar, euro, or other decimal currency unit."
+    },
+    "CENTER": {
+        "translation": "CENTRO",
+        "meaning": "The middle point of a circle or sphere, equidistant from every point on the circumference or surface."
+    },
+    "CHAIR": {
+        "translation": "SILLA",
+        "meaning": "A separate seat for one person, typically with a back and four legs."
+    },
+    "CHANGE": {
+        "translation": "CAMBIO",
+        "meaning": "Make or become different."
+    },
+    "CHARGE": {
+        "translation": "CARGA",
+        "meaning": "Demand (an amount) as a price from someone for a service rendered or goods supplied."
+    },
+    "CHEAP": {
+        "translation": "BARATO",
+        "meaning": "Low in price; worth more than its cost."
+    },
+    "CHECK": {
+        "translation": "COMPROBAR",
+        "meaning": "Examine (something) in order to determine its accuracy, quality, or condition."
+    },
+    "CHILD": {
+        "translation": "NINO",
+        "meaning": "A young human being below the age of puberty or below the legal age of majority."
+    },
+    "CHOOSE": {
+        "translation": "ELEGIR",
+        "meaning": "Pick out or select (someone or something) as being the best or most appropriate of two or more alternatives."
+    },
+    "CHURCH": {
+        "translation": "IGLESIA",
+        "meaning": "A building used for public Christian worship."
+    },
+    "CITY": {
+        "translation": "CIUDAD",
+        "meaning": "A large town."
+    },
+    "CLASS": {
+        "translation": "CLASE",
+        "meaning": "A set or category of things having some property or attribute in common and differentiated from others by kind, type, or quality."
+    },
+    "CLEAN": {
+        "translation": "LIMPIO",
+        "meaning": "Free from dirt, marks, or stains."
+    },
+    "CLEAR": {
+        "translation": "CLARO",
+        "meaning": "Easy to perceive, understand, or interpret."
+    },
+    "CLOCK": {
+        "translation": "RELOJ",
+        "meaning": "A mechanical or electrical device for measuring and indicating time, typically by means of hands on a dial or displayed figures."
+    },
+    "CLOSE": {
+        "translation": "CERRAR",
+        "meaning": "Move or be moved so as to cover an opening."
+    },
+    "COLD": {
+        "translation": "FRIO",
+        "meaning": "Of or at a low or relatively low temperature, especially when compared with the human body."
+    },
+    "COLOR": {
+        "translation": "COLOR",
+        "meaning": "The property possessed by an object of producing different sensations on the eye as a result of the way the object reflects or emits light."
+    },
+    "COME": {
+        "translation": "VENIR",
+        "meaning": "Move or travel toward or into a place thought of as near or familiar to the speaker."
+    },
+    "COOK": {
+        "translation": "COCINAR",
+        "meaning": "Prepare (food, a dish, or a meal) by combining and heating the ingredients in various ways."
+    },
+    "COPY": {
+        "translation": "COPIA",
+        "meaning": "A thing made to be similar or identical to another."
+    },
+    "CORNER": {
+        "translation": "ESQUINA",
+        "meaning": "A place or angle where two or more sides or edges meet."
+    },
+    "COST": {
+        "translation": "COSTE",
+        "meaning": "An amount that has to be paid or spent to buy or obtain something."
+    },
+    "COUNT": {
+        "translation": "CONTAR",
+        "meaning": "Determine the total number of (a collection of items)."
+    },
+    "COUNTRY": {
+        "translation": "PAIS",
+        "meaning": "A nation with its own government, occupying a particular territory."
+    },
+    "COURSE": {
+        "translation": "CURSO",
+        "meaning": "An area of land or water on which a race is held."
+    },
+    "COURT": {
+        "translation": "CORTE",
+        "meaning": "A tribunal presided over by a judge, judges, or a magistrate in civil and criminal cases."
+    },
+    "COVER": {
+        "translation": "CUBRIR",
+        "meaning": "Put something over or on top of (something else), typically in order to protect or conceal it."
+    },
+    "CREATE": {
+        "translation": "CREAR",
+        "meaning": "Bring (something) into existence."
+    },
+    "CROSS": {
+        "translation": "CRUZ",
+        "meaning": "A mark, object, or figure formed by two short intersecting lines or pieces (+ or x)."
+    },
+    "CUP": {
+        "translation": "TAZA",
+        "meaning": "A small bowl-shaped container for drinking from, typically having a handle."
+    },
+    "CUT": {
+        "translation": "CORTAR",
+        "meaning": "Make an opening, incision, or wound in (something) with a sharp-edged tool or object."
+    },
+    "DAD": {
+        "translation": "PAPA",
+        "meaning": "One's father."
+    },
+    "DATE": {
+        "translation": "FECHA",
+        "meaning": "The day of the month or year as specified by a number."
+    },
+    "DAY": {
+        "translation": "DIA",
+        "meaning": "A period of twenty-four hours as a unit of time."
+    },
+    "DEAD": {
+        "translation": "MUERTO",
+        "meaning": "No longer alive."
+    },
+    "DEEP": {
+        "translation": "PROFUNDO",
+        "meaning": "Extending far down from the top or surface."
+    },
+    "DIE": {
+        "translation": "MORIR",
+        "meaning": "(of a person, animal, or plant) stop living."
+    },
+    "DO": {
+        "translation": "HACER",
+        "meaning": "Perform or complete (an action or activity)."
+    },
+    "DOG": {
+        "translation": "PERRO",
+        "meaning": "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractile claws, and a barking, howling, or whining voice."
+    },
+    "DOOR": {
+        "translation": "PUERTA",
+        "meaning": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard."
+    },
+    "DOUBLE": {
+        "translation": "DOBLE",
+        "meaning": "Consisting of two equal, identical, or similar parts or things."
+    },
+    "DOUBT": {
+        "translation": "DUDA",
+        "meaning": "A feeling of uncertainty or lack of conviction."
+    },
+    "DOWN": {
+        "translation": "ABAJO",
+        "meaning": "Toward or in a lower place or position, especially to or on the ground or another surface."
+    },
+    "DRAW": {
+        "translation": "DIBUJAR",
+        "meaning": "Produce (a picture or diagram) by making lines and marks, especially with a pen or pencil, on paper."
+    },
+    "DRINK": {
+        "translation": "BEBER",
+        "meaning": "Take (a liquid) into the mouth and swallow."
+    },
+    "DRIVE": {
+        "translation": "CONDUCIR",
+        "meaning": "Operate and control the direction and speed of a motor vehicle."
+    },
+    "DROP": {
+        "translation": "DEJAR CAER",
+        "meaning": "Let or make (something) fall vertically."
+    },
+    "DRY": {
+        "translation": "SECO",
+        "meaning": "Free from moisture or liquid; not wet or moist."
+    },
+    "DUE": {
+        "translation": "DEBIDO",
+        "meaning": "Expected at or planned for at a certain time."
+    },
+    "EACH": {
+        "translation": "CADA",
+        "meaning": "Used to refer to every one of two or more people or things, regarded and identified separately."
+    },
+    "EARLY": {
+        "translation": "TEMPRANO",
+        "meaning": "Happening or done before the usual or expected time."
+    },
+    "EAST": {
+        "translation": "ESTE",
+        "meaning": "The direction toward the point of the horizon where the sun rises at the equinoxes."
+    },
+    "EASY": {
+        "translation": "FACIL",
+        "meaning": "Achieved without great effort; presenting few difficulties."
+    },
+    "EAT": {
+        "translation": "COMER",
+        "meaning": "Put (food) into the mouth and chew and swallow it."
+    },
+    "EGG": {
+        "translation": "HUEVO",
+        "meaning": "An oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo."
+    },
+    "EIGHT": {
+        "translation": "OCHO",
+        "meaning": "Equivalent to the product of two and four; one more than seven."
+    },
+    "ELSE": {
+        "translation": "MAS",
+        "meaning": "In addition; besides."
+    },
+    "END": {
+        "translation": "FINAL",
+        "meaning": "A final part of something, especially a period of time, an activity, or a story."
+    },
+    "ENJOY": {
+        "translation": "DISFRUTAR",
+        "meaning": "Take delight or pleasure in (an activity or occasion)."
+    },
+    "ENTER": {
+        "translation": "ENTRAR",
+        "meaning": "Come or go into (a place)."
+    },
+    "EQUAL": {
+        "translation": "IGUAL",
+        "meaning": "Being the same in quantity, size, degree, or value."
+    },
+    "EVEN": {
+        "translation": "INCLUSO",
+        "meaning": "Used to emphasize something surprising or extreme."
+    },
+    "EVER": {
+        "translation": "SIEMPRE",
+        "meaning": "At any time."
+    },
+    "EVERY": {
+        "translation": "CADA",
+        "meaning": "Used to refer to all the individual members of a set without exception."
+    },
+    "EXACT": {
+        "translation": "EXACTO",
+        "meaning": "Not approximated in any way; precise."
+    },
+    "EYE": {
+        "translation": "OJO",
+        "meaning": "Each of a pair of globular organs in the head through which people and vertebrate animals see."
+    },
+    "FACE": {
+        "translation": "CARA",
+        "meaning": "The front part of a person's head from the forehead to the chin, or the corresponding part in an animal."
+    },
+    "FACT": {
+        "translation": "HECHO",
+        "meaning": "A thing that is known or proved to be true."
+    },
+    "FAIR": {
+        "translation": "JUSTO",
+        "meaning": "In accordance with the rules or standards; legitimate."
+    },
+    "FALL": {
+        "translation": "CAER",
+        "meaning": "Move downward and typically rapidly and freely without control, from a higher to a lower level."
+    },
+    "FAR": {
+        "translation": "LEJOS",
+        "meaning": "At, to, or by a great distance."
+    },
+    "FAST": {
+        "translation": "RAPIDO",
+        "meaning": "Moving or capable of moving at high speed."
+    },
+    "FEEL": {
+        "translation": "SENTIR",
+        "meaning": "Be aware of (a person or object) through touching or being touched."
+    },
+    "FEW": {
+        "translation": "POCOS",
+        "meaning": "A small number of."
+    },
+    "FIELD": {
+        "translation": "CAMPO",
+        "meaning": "An area of open land, especially one planted with crops or used for pasture."
+    },
+    "FIGHT": {
+        "translation": "LUCHA",
+        "meaning": "Take part in a violent struggle involving the exchange of physical blows or the use of weapons."
+    },
+    "FILL": {
+        "translation": "LLENAR",
+        "meaning": "Cause (a space or container) to become full or almost full by putting something into it."
+    },
+    "FINAL": {
+        "translation": "FINAL",
+        "meaning": "Coming at the end of a series."
+    },
+    "FIND": {
+        "translation": "ENCONTRAR",
+        "meaning": "Discover or perceive by chance or unexpectedly."
+    },
+    "FINE": {
+        "translation": "BIEN",
+        "meaning": "Of very high quality; very good of its kind."
+    },
+    "FIRE": {
+        "translation": "FUEGO",
+        "meaning": "A process in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke; combustion or burning."
+    },
+    "FISH": {
+        "translation": "PEZ",
+        "meaning": "A limbless cold-blooded vertebrate animal with gills and fins and living wholly in water."
+    },
+    "FIT": {
+        "translation": "EN FORMA",
+        "meaning": "Of a suitable quality, standard, or type to meet the required purpose."
+    },
+    "FIVE": {
+        "translation": "CINCO",
+        "meaning": "Equivalent to the product of one and five; one more than four."
+    },
+    "FLAT": {
+        "translation": "PLANO",
+        "meaning": "Having a level and even surface; without marked lumps or indentations."
+    },
+    "FLY": {
+        "translation": "VOLAR",
+        "meaning": "(of a bird, bat, or insect) move through the air using wings."
+    },
+    "FOOD": {
+        "translation": "COMIDA",
+        "meaning": "Any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth."
+    },
+    "FOOT": {
+        "translation": "PIE",
+        "meaning": "The lower extremity of the leg below the ankle, on which a person stands or walks."
+    },
+    "FOR": {
+        "translation": "PARA",
+        "meaning": "In support of or in favor of (a person or policy)."
+    },
+    "FORM": {
+        "translation": "FORMA",
+        "meaning": "The visible shape or configuration of something."
+    },
+    "FOUR": {
+        "translation": "CUATRO",
+        "meaning": "Equivalent to the product of two and two; one more than three."
+    },
+    "FREE": {
+        "translation": "LIBRE",
+        "meaning": "Able to act or be done as one wishes; not under the control of another."
+    },
+    "FROM": {
+        "translation": "DESDE",
+        "meaning": "Indicating the point in space at which a journey, motion, or action starts."
+    },
+    "FULL": {
+        "translation": "LLENO",
+        "meaning": "Containing or holding as much or as many as possible; having no empty space."
+    },
+    "FUN": {
+        "translation": "DIVERSION",
+        "meaning": "Enjoyment, amusement, or lighthearted pleasure."
+    },
+    "GAME": {
+        "translation": "JUEGO",
+        "meaning": "A form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck."
+    },
+    "GAS": {
+        "translation": "GAS",
+        "meaning": "An air-like fluid substance which expands freely to fill any space available, irrespective of its quantity."
+    },
+    "GET": {
+        "translation": "OBTENER",
+        "meaning": "Come to have or hold (something); receive."
+    },
+    "GIRL": {
+        "translation": "NINA",
+        "meaning": "A female child or adolescent."
+    },
+    "GIVE": {
+        "translation": "DAR",
+        "meaning": "Freely transfer the possession of (something) to (someone); hand over to."
+    },
+    "GLASS": {
+        "translation": "VASO",
+        "meaning": "A hard, brittle substance, typically transparent or translucent, made by fusing sand with soda, lime, and sometimes other ingredients and cooling rapidly."
+    },
+    "GO": {
+        "translation": "IR",
+        "meaning": "Move from one place to another; travel."
+    },
+    "GOAL": {
+        "translation": "META",
+        "meaning": "(in football, rugby, hockey, and some other games) a pair of posts linked by a crossbar and typically with a net between them, into which or over which the ball has to be sent in order to score."
+    },
+    "GOD": {
+        "translation": "DIOS",
+        "meaning": "(in monotheistic religion) the creator and ruler of the universe and source of all moral authority; the supreme being."
+    },
+    "GOLD": {
+        "translation": "ORO",
+        "meaning": "A yellow precious metal, the chemical element of atomic number 79, valued especially for use in jewelry and decoration, and to guarantee the value of currencies."
+    },
+    "GOOD": {
+        "translation": "BUENO",
+        "meaning": "To be desired or approved of."
+    },
+    "GREAT": {
+        "translation": "GRAN",
+        "meaning": "Of an extent, amount, or intensity considerably above the normal or average."
+    },
+    "GREEN": {
+        "translation": "VERDE",
+        "meaning": "Of the color between blue and yellow in the spectrum; colored like grass or emeralds."
+    },
+    "GROUP": {
+        "translation": "GRUPO",
+        "meaning": "A number of people or things that are located close together or are considered or classed together."
+    },
+    "GUY": {
+        "translation": "CHICO",
+        "meaning": "A man."
+    },
+    "HAIR": {
+        "translation": "PELO",
+        "meaning": "Any of the fine thread-like strands that grow from the skin of humans, other mammals, and some other animals."
+    },
+    "HALF": {
+        "translation": "MITAD",
+        "meaning": "Either of two equal or corresponding parts into which something is or can be divided."
+    },
+    "HALL": {
+        "translation": "VESTIBULO",
+        "meaning": "The area inside the entrance of a building."
+    },
+    "HAM": {
+        "translation": "JAMON",
+        "meaning": "Meat from the upper part of a pig's leg salted and dried or smoked."
+    },
+    "HAND": {
+        "translation": "MANO",
+        "meaning": "The end part of a person's arm beyond the wrist, including the palm, fingers, and thumb."
+    },
+    "HAPPY": {
+        "translation": "FELIZ",
+        "meaning": "Feeling or showing pleasure or contentment."
+    },
+    "HARD": {
+        "translation": "DURO",
+        "meaning": "Solid, firm, and resistant to pressure; not easily broken or bent."
+    },
+    "HAVE": {
+        "translation": "TENER",
+        "meaning": "Possess, own, or hold."
+    },
+    "HE": {
+        "translation": "EL",
+        "meaning": "Used to refer to a man, boy, or male animal previously mentioned or easily identified."
+    },
+    "HEAD": {
+        "translation": "CABEZA",
+        "meaning": "The upper part of the human body, or the front or upper part of the body of an animal, typically containing the abdomen, eyes, and mouth."
+    },
+    "HEAR": {
+        "translation": "OIR",
+        "meaning": "Perceive with the ear the sound made by (someone or something)."
+    },
+    "HEART": {
+        "translation": "CORAZON",
+        "meaning": "A hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction and dilation."
+    },
+    "HEAT": {
+        "translation": "CALOR",
+        "meaning": "The quality of being hot; high temperature."
+    },
+    "HELL": {
+        "translation": "INFIERNO",
+        "meaning": "A place regarded in various religions as a spiritual realm of evil and suffering, often depicted as a place of perpetual fire or as an abyss."
+    },
+    "HELLO": {
+        "translation": "HOLA",
+        "meaning": "Used as a greeting or to begin a telephone conversation."
+    },
+    "HELP": {
+        "translation": "AYUDA",
+        "meaning": "Make it easier for (someone) to do something by offering one's services or resources."
+    },
+    "HERE": {
+        "translation": "AQUI",
+        "meaning": "In, at, or to this place or position."
+    },
+    "HIGH": {
+        "translation": "ALTO",
+        "meaning": "Of great vertical extent."
+    },
+    "HIT": {
+        "translation": "GOLPEAR",
+        "meaning": "Bring one's hand (or a weapon) into contact with (someone or something) quickly and forcefully."
+    },
+    "HOLD": {
+        "translation": "SOSTENER",
+        "meaning": "Grasp, carry, or support with one's arms or hands."
+    },
+    "HOME": {
+        "translation": "CASA",
+        "meaning": "The place where one lives permanently, especially as a member of a family or household."
+    },
+    "HOPE": {
+        "translation": "ESPERANZA",
+        "meaning": "A feeling of expectation and desire for a certain thing to happen."
+    },
+    "HOT": {
+        "translation": "CALIENTE",
+        "meaning": "Having a high degree of heat or a high temperature."
+    },
+    "HOUR": {
+        "translation": "HORA",
+        "meaning": "A period of time equal to a twenty-fourth part of a day and night and divided into 60 minutes."
+    },
+    "HOUSE": {
+        "translation": "CASA",
+        "meaning": "A building for human habitation, especially one that is lived in by a family or small group of people."
+    },
+    "HOW": {
+        "translation": "COMO",
+        "meaning": "In what way or manner; by what means."
+    },
+    "HUGE": {
+        "translation": "ENORME",
+        "meaning": "Extremely large; enormous."
+    },
+    "ICE": {
+        "translation": "HIELO",
+        "meaning": "Frozen water, a brittle transparent crystalline solid."
+    },
+    "IDEA": {
+        "translation": "IDEA",
+        "meaning": "A thought or suggestion as to a possible course of action."
+    },
+    "IF": {
+        "translation": "SI",
+        "meaning": "Introducing a conditional clause."
+    },
+    "IN": {
+        "translation": "EN",
+        "meaning": "Expressing the situation of something that is or appears to be enclosed or surrounded by something else."
+    },
+    "IRON": {
+        "translation": "HIERRO",
+        "meaning": "A strong, hard magnetic silvery-gray metal, much used as a material for construction and manufacturing, especially in the form of steel."
+    },
+    "IS": {
+        "translation": "ES",
+        "meaning": "3rd person singular present of be."
+    },
+    "IT": {
+        "translation": "ESO",
+        "meaning": "Used to refer to a thing previously mentioned or easily identified."
+    },
+    "ITEM": {
+        "translation": "ARTICULO",
+        "meaning": "An individual article or unit, especially one that is part of a list, collection, or set."
+    },
+    "JOB": {
+        "translation": "TRABAJO",
+        "meaning": "A paid position of regular employment."
+    },
+    "JOIN": {
+        "translation": "UNIRSE",
+        "meaning": "Link; connect."
+    },
+    "JUMP": {
+        "translation": "SALTAR",
+        "meaning": "Push oneself off a surface and into the air by using the muscles in one's legs and feet."
+    },
+    "JUST": {
+        "translation": "SOLO",
+        "meaning": "Based on or behaving according to what is morally right and fair."
+    },
+    "KEEP": {
+        "translation": "MANTENER",
+        "meaning": "Have or retain possession of."
+    },
+    "KEY": {
+        "translation": "LLAVE",
+        "meaning": "A small piece of shaped metal with incisions cut to fit the wards of a particular lock, which is inserted into a lock and turned to open or close it."
+    },
+    "KID": {
+        "translation": "NINO",
+        "meaning": "A child or young person."
+    },
+    "KILL": {
+        "translation": "MATAR",
+        "meaning": "Cause the death of (a person, animal, or other living thing)."
+    },
+    "KING": {
+        "translation": "REY",
+        "meaning": "The male ruler of an independent state, especially one who inherits the position by right of birth."
+    },
+    "KNOW": {
+        "translation": "SABER",
+        "meaning": "Be aware of through mind; have information of."
+    },
+    "LAND": {
+        "translation": "TIERRA",
+        "meaning": "The part of the earth's surface that is not covered by water, as opposed to the sea or the air."
+    },
+    "LAST": {
+        "translation": "ULTIMO",
+        "meaning": "Coming after all others in time or order; final."
+    },
+    "LAW": {
+        "translation": "LEY",
+        "meaning": "The system of rules which a particular country or community recognizes as regulating the actions of its members and which it may enforce by the imposition of penalties."
+    },
+    "LEAD": {
+        "translation": "DIRIGIR",
+        "meaning": "Cause (a person or animal) to go with one by holding them by the hand, a halter, a rope, etc., while moving forward."
+    },
+    "LEFT": {
+        "translation": "IZQUIERDA",
+        "meaning": "On, toward, or relating to the side of a human body or of a thing that is at the west when the person or thing is facing north."
+    },
+    "LET": {
+        "translation": "DEJAR",
+        "meaning": "Not prevent or forbid; allow."
+    },
+    "LEVEL": {
+        "translation": "NIVEL",
+        "meaning": "A horizontal plane or line with respect to the distance above or below a given point."
+    },
+    "LIFE": {
+        "translation": "VIDA",
+        "meaning": "The condition that distinguishes animals and plants from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death."
+    },
+    "LIGHT": {
+        "translation": "LUZ",
+        "meaning": "The natural agent that stimulates sight and makes things visible."
+    },
+    "LIKE": {
+        "translation": "GUSTAR",
+        "meaning": "Find agreeable, enjoyable, or satisfactory."
+    },
+    "LINE": {
+        "translation": "LINEA",
+        "meaning": "A long, narrow mark or band."
+    },
+    "LIST": {
+        "translation": "LISTA",
+        "meaning": "A number of connected items or names written or printed consecutively, typically one below the other."
+    },
+    "LIVE": {
+        "translation": "VIVIR",
+        "meaning": "Remain alive."
+    },
+    "LONG": {
+        "translation": "LARGO",
+        "meaning": "Measuring a great distance from end to end."
+    },
+    "LOOK": {
+        "translation": "MIRAR",
+        "meaning": "Direct one's gaze toward someone or something or in a specified direction."
+    },
+    "LOT": {
+        "translation": "MUCHO",
+        "meaning": "A large number or amount."
+    },
+    "LOVE": {
+        "translation": "AMOR",
+        "meaning": "An intense feeling of deep affection."
+    },
+    "LOW": {
+        "translation": "BAJO",
+        "meaning": "Of less than average height from top to bottom or to the top from the ground."
+    },
+    "MAIN": {
+        "translation": "PRINCIPAL",
+        "meaning": "Chief in size or importance."
+    },
+    "MAKE": {
+        "translation": "HACER",
+        "meaning": "Form (something) by putting parts together or combining substances; construct; create."
+    },
+    "MAN": {
+        "translation": "HOMBRE",
+        "meaning": "An adult male human being."
+    },
+    "MANY": {
+        "translation": "MUCHOS",
+        "meaning": "A large number of."
+    },
+    "MAY": {
+        "translation": "MAYO",
+        "meaning": "The fifth month of the year, in the northern spring and the southern autumn."
+    },
+    "ME": {
+        "translation": "AYUDAME",
+        "meaning": "Used by a speaker to refer to himself or herself as the object of a verb or preposition."
+    },
+    "MEAN": {
+        "translation": "SIGNIFICAR",
+        "meaning": "Intend to convey, indicate, or refer to (a particular thing or notion)."
+    },
+    "MEET": {
+        "translation": "CONOCER",
+        "meaning": "Come into the presence or company of (someone) by chance or arrangement."
+    },
+    "MIND": {
+        "translation": "MENTE",
+        "meaning": "The element of a person that enables them to be aware of the world and their experiences, to think, and to feel; the faculty of consciousness and thought."
+    },
+    "MISS": {
+        "translation": "PERDER",
+        "meaning": "Fail to hit, reach, or come into contact with (something aimed at)."
+    },
+    "MONEY": {
+        "translation": "DINERO",
+        "meaning": "A current medium of exchange in the form of coins and banknotes; coins and banknotes collectively."
+    },
+    "MONTH": {
+        "translation": "MES",
+        "meaning": "Each of the twelve named periods into which a year is divided."
+    },
+    "MORE": {
+        "translation": "MAS",
+        "meaning": "A greater or additional amount or degree."
+    },
+    "MOST": {
+        "translation": "MAYORIA",
+        "meaning": "Greatest in amount or degree."
+    },
+    "MOVE": {
+        "translation": "MOVER",
+        "meaning": "Go in a specified direction or manner."
+    },
+    "MUCH": {
+        "translation": "MUCHO",
+        "meaning": "A great amount or quantity."
+    },
+    "MUST": {
+        "translation": "DEBER",
+        "meaning": "Be obliged to; should (expressing necessity)."
+    },
+    "MY": {
+        "translation": "MI",
+        "meaning": "Belonging to or associated with the speaker."
+    },
+    "NAME": {
+        "translation": "NOMBRE",
+        "meaning": "A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to."
+    },
+    "NEAR": {
+        "translation": "CERCA",
+        "meaning": "At or to a short distance away; close by."
+    },
+    "NEED": {
+        "translation": "NECESITAR",
+        "meaning": "Require (something) because it is essential or very important."
+    },
+    "NEVER": {
+        "translation": "NUNCA",
+        "meaning": "At no time in the past or future; on no occasion; not ever."
+    },
+    "NEW": {
+        "translation": "NUEVO",
+        "meaning": "Not existing before; made, introduced, or discovered recently or now for the first time."
+    },
+    "NEXT": {
+        "translation": "SIGUIENTE",
+        "meaning": "(of a time or season) coming immediately after the time of writing or speaking."
+    },
+    "NIGHT": {
+        "translation": "NOCHE",
+        "meaning": "The period from sunset to sunrise in each twenty-four hours."
+    },
+    "NINE": {
+        "translation": "NUEVE",
+        "meaning": "Equivalent to the product of three and three; one more than eight."
+    },
+    "NO": {
+        "translation": "NO",
+        "meaning": "Not any."
+    },
+    "NORTH": {
+        "translation": "NORTE",
+        "meaning": "The direction in which a compass needle normally points."
+    },
+    "NOT": {
+        "translation": "NO",
+        "meaning": "Used with an auxiliary verb or 'be' to form the negative."
+    },
+    "NOTE": {
+        "translation": "NOTA",
+        "meaning": "A brief record of facts, topics, or thoughts, written down as an aid to memory."
+    },
+    "NOW": {
+        "translation": "AHORA",
+        "meaning": "At the present time."
+    },
+    "NUMBER": {
+        "translation": "NUMERO",
+        "meaning": "An arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations and for showing position in a series."
+    },
+    "OF": {
+        "translation": "DE",
+        "meaning": "Expressing the relationship between a part and a whole."
+    },
+    "OFF": {
+        "translation": "APAGADO",
+        "meaning": "Away from the place in question; at a distance."
+    },
+    "OH": {
+        "translation": "OH",
+        "meaning": "Used to express a range of emotions including surprise, anger, disappointment, or joy, or when reacting to something that has just been said."
+    },
+    "OK": {
+        "translation": "OK",
+        "meaning": "Used to express agreement or acceptance."
+    },
+    "OLD": {
+        "translation": "VIEJO",
+        "meaning": "Having lived for a long time; no longer young."
+    },
+    "ON": {
+        "translation": "EN",
+        "meaning": "Physically in contact with and supported by (a surface)."
+    },
+    "ONCE": {
+        "translation": "UNA VEZ",
+        "meaning": "On one occasion or at one time only."
+    },
+    "ONE": {
+        "translation": "UNO",
+        "meaning": "The lowest cardinal number; half of two; 1."
+    },
+    "ONLY": {
+        "translation": "SOLO",
+        "meaning": "And no one or nothing else besides; solely or exclusively."
+    },
+    "OPEN": {
+        "translation": "ABIERTO",
+        "meaning": "Allowing access, passage, or a view through an empty space; not closed or blocked up."
+    },
+    "OR": {
+        "translation": "O",
+        "meaning": "Used to link alternatives."
+    },
+    "OUT": {
+        "translation": "FUERA",
+        "meaning": "Moving or appearing to move away from a particular place, especially one that is enclosed or hidden."
+    },
+    "OVER": {
+        "translation": "SOBRE",
+        "meaning": "Extending directly upward from."
+    },
+    "OWN": {
+        "translation": "PROPIO",
+        "meaning": "Used with a possessive adjective to emphasize that someone or something belongs or relates to a particular person."
+    },
+    "PAGE": {
+        "translation": "PAGINA",
+        "meaning": "One side of a leaf of something printed or written, such as a book, magazine, or newspaper."
+    },
+    "PAPER": {
+        "translation": "PAPEL",
+        "meaning": "Material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on, or as wrapping material."
+    },
+    "PART": {
+        "translation": "PARTE",
+        "meaning": "An amount or section which, with others, makes up the whole of something."
+    },
+    "PAST": {
+        "translation": "PASADO",
+        "meaning": "The time or a period of time before the moment of speaking or writing."
+    },
+    "PAY": {
+        "translation": "PAGAR",
+        "meaning": "Give (someone) money that is due for work done, goods received, or a debt incurred."
+    },
+    "PEOPLE": {
+        "translation": "GENTE",
+        "meaning": "Human beings in general or considered collectively."
+    },
+    "PER": {
+        "translation": "POR",
+        "meaning": "For each (used with units to express a rate)."
+    },
+    "PHOTO": {
+        "translation": "FOTO",
+        "meaning": "A photograph."
+    },
+    "PICK": {
+        "translation": "ELEGIR",
+        "meaning": "Detach and remove (a flower, fruit, or vegetable) from where it is growing."
+    },
+    "PIECE": {
+        "translation": "PIEZA",
+        "meaning": "A portion of an object or of a material, produced by cutting, tearing, or breaking the whole."
+    },
+    "PLACE": {
+        "translation": "LUGAR",
+        "meaning": "A particular position or point in space."
+    },
+    "PLAN": {
+        "translation": "PLAN",
+        "meaning": "A detailed proposal for doing or achieving something."
+    },
+    "PLAY": {
+        "translation": "JUGAR",
+        "meaning": "Engage in activity for enjoyment and recreation rather than a serious or practical purpose."
+    },
+    "PLEASE": {
+        "translation": "POR FAVOR",
+        "meaning": "Used in polite requests."
+    },
+    "POINT": {
+        "translation": "PUNTO",
+        "meaning": "A dot or other punctuation mark, in particular a period."
+    },
+    "POOR": {
+        "translation": "POBRE",
+        "meaning": "Lacking sufficient money to live at a standard considered comfortable or normal in a society."
+    },
+    "PUT": {
+        "translation": "PONER",
+        "meaning": "Move to or place in a particular position."
+    },
+    "QUICK": {
+        "translation": "RAPIDO",
+        "meaning": "Moving or capable of moving at high speed."
+    },
+    "QUIET": {
+        "translation": "TRANQUILO",
+        "meaning": "Making little or no noise."
+    },
+    "QUITE": {
+        "translation": "BASTANTE",
+        "meaning": "To a certain or fairly significant extent or degree; fairly."
+    },
+    "READ": {
+        "translation": "LEER",
+        "meaning": "Look at and comprehend the meaning of (written or printed matter) by interpreting the characters or symbols of which it is composed."
+    },
+    "READY": {
+        "translation": "LISTO",
+        "meaning": "In a suitable state for an action or situation; fully prepared."
+    },
+    "REAL": {
+        "translation": "REAL",
+        "meaning": "Actually existing as a thing or occurring in fact; not imagined or supposed."
+    },
+    "RED": {
+        "translation": "ROJO",
+        "meaning": "Of a color at the end of the spectrum next to orange and opposite violet, as of blood, fire, or rubies."
+    },
+    "REST": {
+        "translation": "DESCANSO",
+        "meaning": "Cease work or movement in order to relax, refresh oneself, or recover strength."
+    },
+    "RIGHT": {
+        "translation": "DERECHA",
+        "meaning": "Morally good, justified, or acceptable."
+    },
+    "ROAD": {
+        "translation": "CAMINO",
+        "meaning": "A wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use."
+    },
+    "ROOM": {
+        "translation": "HABITACION",
+        "meaning": "A space that can be occupied or where something can be done."
+    },
+    "ROUND": {
+        "translation": "RONDA",
+        "meaning": "Shaped like a circle or cylinder."
+    },
+    "RULE": {
+        "translation": "REGLA",
+        "meaning": "One of a set of explicit or understood regulations or principles governing conduct within a particular activity or sphere."
+    },
+    "RUN": {
+        "translation": "CORRER",
+        "meaning": "Move at a speed faster than a walk, never having both or all the feet on the ground at the same time."
+    },
+    "SAD": {
+        "translation": "TRISTE",
+        "meaning": "Feeling or showing sorrow; unhappy."
+    },
+    "SAFE": {
+        "translation": "SEGURO",
+        "meaning": "Protected from or not exposed to danger or risk; not likely to be harmed or lost."
+    },
+    "SAME": {
+        "translation": "MISMO",
+        "meaning": "Identical; not different."
+    },
+    "SAY": {
+        "translation": "DECIR",
+        "meaning": "Utter words so as to convey information, an opinion, a feeling or intention, or an instruction."
+    },
+    "SCHOOL": {
+        "translation": "ESCUELA",
+        "meaning": "An institution for educating children."
+    },
+    "SCORE": {
+        "translation": "PUNTUACION",
+        "meaning": "The number of points, goals, runs, etc., achieved in a game or by a team or an individual."
+    },
+    "SEA": {
+        "translation": "MAR",
+        "meaning": "The expanse of salt water that covers most of the earth's surface and surrounds its landmasses."
+    },
+    "SECOND": {
+        "translation": "SEGUNDO",
+        "meaning": "Constituting number two in a sequence; coming after the first in time or order."
+    },
+    "SEE": {
+        "translation": "VER",
+        "meaning": "Perceive with the eyes; discern visually."
+    },
+    "SEEM": {
+        "translation": "PARECER",
+        "meaning": "Give the impression or sensation of being something or having a particular quality."
+    },
+    "SEND": {
+        "translation": "ENVIAR",
+        "meaning": "Cause to go or be taken to a particular destination; arrange for the delivery of, especially by post."
+    },
+    "SET": {
+        "translation": "CONFIGURAR",
+        "meaning": "Put, lay, or stand (something) in a specified place or position."
+    },
+    "SEVEN": {
+        "translation": "SIETE",
+        "meaning": "Equivalent to the product of one and seven; one more than six."
+    },
+    "SHE": {
+        "translation": "ELLA",
+        "meaning": "Used to refer to a woman, girl, or female animal previously mentioned or easily identified."
+    },
+    "SHOP": {
+        "translation": "TIENDA",
+        "meaning": "A building or part of a building where goods or services are sold; a store."
+    },
+    "SHOW": {
+        "translation": "MOSTRAR",
+        "meaning": "Allow or cause to be visible."
+    },
+    "SIDE": {
+        "translation": "LADO",
+        "meaning": "A position to the left or right of an object, place, or central point."
+    },
+    "SIGN": {
+        "translation": "SIGNO",
+        "meaning": "An object, quality, or event whose presence or occurrence indicates the probable presence or occurrence of something else."
+    },
+    "SING": {
+        "translation": "CANTAR",
+        "meaning": "Make musical sounds with the voice, especially words with a set tune."
+    },
+    "SIR": {
+        "translation": "SENOR",
+        "meaning": "Used as a polite or respectful way of addressing a man, especially one in a position of authority."
+    },
+    "SISTER": {
+        "translation": "HERMANA",
+        "meaning": "A woman or girl in relation to other daughters and sons of her parents."
+    },
+    "SIT": {
+        "translation": "SENTARSE",
+        "meaning": "Adopt or be in a position in which one's weight is supported by one's buttocks rather than one's feet and one's back is upright."
+    },
+    "SIX": {
+        "translation": "SEIS",
+        "meaning": "Equivalent to the product of two and three; one more than five."
+    },
+    "SIZE": {
+        "translation": "TAMANO",
+        "meaning": "The overall dimensions or magnitude of a thing."
+    },
+    "SLEEP": {
+        "translation": "DORMIR",
+        "meaning": "A condition of body and mind which typically recurs for several hours every night, in which the nervous system is relatively inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended."
+    },
+    "SLOW": {
+        "translation": "LENTO",
+        "meaning": "Moving or operating, or designed to move or operate, at a low speed."
+    },
+    "SMALL": {
+        "translation": "PEQUENO",
+        "meaning": "Of a size that is less than normal or usual."
+    },
+    "SO": {
+        "translation": "ASI",
+        "meaning": "To such a great extent."
+    },
+    "SOME": {
+        "translation": "ALGUNOS",
+        "meaning": "An unspecified amount or number of."
+    },
+    "SON": {
+        "translation": "HIJO",
+        "meaning": "A male child or person in relation to his parents."
+    },
+    "SOON": {
+        "translation": "PRONTO",
+        "meaning": "In or after a short time."
+    },
+    "SORRY": {
+        "translation": "PERDON",
+        "meaning": "Feeling regret or penitence."
+    },
+    "SOUND": {
+        "translation": "SONIDO",
+        "meaning": "Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear."
+    },
+    "SOUTH": {
+        "translation": "SUR",
+        "meaning": "The direction toward the point of the horizon 90 to the right of east."
+    },
+    "SPACE": {
+        "translation": "ESPACIO",
+        "meaning": "A continuous area or expanse which is free, available, or unoccupied."
+    },
+    "SPEAK": {
+        "translation": "HABLAR",
+        "meaning": "Say something in order to convey information, an opinion, or a feeling."
+    },
+    "STAR": {
+        "translation": "ESTRELLA",
+        "meaning": "A fixed luminous point in the night sky which is a large, remote incandescent body like the sun."
+    },
+    "START": {
+        "translation": "COMENZAR",
+        "meaning": "Begin or be reckoned from a particular point in time or space."
+    },
+    "STAY": {
+        "translation": "QUEDARSE",
+        "meaning": "Remain in the same place."
+    },
+    "STEP": {
+        "translation": "PASO",
+        "meaning": "An act or movement of lifting the foot and setting it down again when walking or running."
+    },
+    "STILL": {
+        "translation": "TODAVIA",
+        "meaning": "Up to and including the present or the time mentioned; even now (or then) as formerly."
+    },
+    "STOP": {
+        "translation": "PARAR",
+        "meaning": "(of an event, action, or process) come to an end; cease to happen."
+    },
+    "STORY": {
+        "translation": "HISTORIA",
+        "meaning": "An account of imaginary or real people and events told for entertainment."
+    },
+    "SUN": {
+        "translation": "SOL",
+        "meaning": "The star around which the earth orbits."
+    },
+    "SURE": {
+        "translation": "SEGURO",
+        "meaning": "Confident in what one thinks or knows; having no doubt that one is right."
+    },
+    "SYSTEM": {
+        "translation": "SISTEMA",
+        "meaning": "A set of connected things or parts forming a complex whole, in particular a set of things working together as parts of a mechanism or an interconnecting network."
+    },
+    "TABLE": {
+        "translation": "MESA",
+        "meaning": "A piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed, and that can be used for such as eating, writing, or working."
+    },
+    "TAKE": {
+        "translation": "TOMAR",
+        "meaning": "Lay hold of (something) with one's hands; reach for and hold."
+    },
+    "TALK": {
+        "translation": "HABLAR",
+        "meaning": "Speak in order to give information or express ideas or feelings."
+    },
+    "TEA": {
+        "translation": "TE",
+        "meaning": "A hot drink made by infusing the dried crushed leaves of the tea plant in boiling water."
+    },
+    "TEAM": {
+        "translation": "EQUIPO",
+        "meaning": "A group of players forming one side in a competitive game or sport."
+    },
+    "TELL": {
+        "translation": "CONTAR",
+        "meaning": "Communicate information, facts, or news to someone in spoken or written words."
+    },
+    "TEN": {
+        "translation": "DIEZ",
+        "meaning": "Equivalent to the product of five and two; one more than nine."
+    },
+    "TEST": {
+        "translation": "PRUEBA",
+        "meaning": "A procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use."
+    },
+    "THAN": {
+        "translation": "QUE",
+        "meaning": "Used in expressions, introducing the second element in a comparison."
+    },
+    "THAT": {
+        "translation": "ESO",
+        "meaning": "Used to identify a specific person or thing observed by the speaker."
+    },
+    "THE": {
+        "translation": "EL",
+        "meaning": "Denoting one or more people or things already mentioned or assumed to be common knowledge."
+    },
+    "THEM": {
+        "translation": "ELLOS",
+        "meaning": "Used as the object of a verb or preposition to refer to two or more people or things previously mentioned or easily identified."
+    },
+    "THERE": {
+        "translation": "ALLI",
+        "meaning": "In, at, or to that place or position."
+    },
+    "THESE": {
+        "translation": "ESTOS",
+        "meaning": "Used to identify specific people or things close at hand or being indicated or experienced."
+    },
+    "THEY": {
+        "translation": "ELLOS",
+        "meaning": "Used to refer to two or more people or things previously mentioned or easily identified."
+    },
+    "THING": {
+        "translation": "COSA",
+        "meaning": "An object that one need not or cannot specific name."
+    },
+    "THINK": {
+        "translation": "PENSAR",
+        "meaning": "Have a particular opinion, belief, or idea about someone or something."
+    },
+    "THIS": {
+        "translation": "ESTE",
+        "meaning": "Used to identify a specific person or thing close at hand, being indicated or experienced, or for the first time."
+    },
+    "THOSE": {
+        "translation": "ESOS",
+        "meaning": "Used to identify specific people or things at a distance or previously mentioned."
+    },
+    "THREE": {
+        "translation": "TRES",
+        "meaning": "Equivalent to the product of one and three; one more than two."
+    },
+    "THROUGH": {
+        "translation": "A TRAVES",
+        "meaning": "Moving in one side and out of the other side of (an opening, channel, or location)."
+    },
+    "TIME": {
+        "translation": "TIEMPO",
+        "meaning": "The indefinite continued progress of existence and events in the past, present, and future regarded as a whole."
+    },
+    "TINY": {
+        "translation": "DIMINUTO",
+        "meaning": "Very small."
+    },
+    "TITLE": {
+        "translation": "TITULO",
+        "meaning": "The name of a book, composition, or other artistic work."
+    },
+    "TO": {
+        "translation": "A",
+        "meaning": "Expressing motion in the direction of (a particular location)."
+    },
+    "TODAY": {
+        "translation": "HOY",
+        "meaning": "On or during the present day."
+    },
+    "TOO": {
+        "translation": "TAMBIEN",
+        "meaning": "To a higher degree than is desirable, permissible, or possible; excessively."
+    },
+    "TOOL": {
+        "translation": "HERRAMIENTA",
+        "meaning": "A device or implement, especially one held in the hand, used to carry out a particular function."
+    },
+    "TOP": {
+        "translation": "ARRIBA",
+        "meaning": "The highest or uppermost point, part, or surface of something."
+    },
+    "TOTAL": {
+        "translation": "TOTAL",
+        "meaning": "Comprising the whole number or amount."
+    },
+    "TOWN": {
+        "translation": "PUEBLO",
+        "meaning": "An urban area that has a name, defined boundaries, and local government, and that is larger than a village and generally smaller than a city."
+    },
+    "TREE": {
+        "translation": "ARBOL",
+        "meaning": "A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground."
+    },
+    "TRUE": {
+        "translation": "VERDADERO",
+        "meaning": "In accordance with fact or reality."
+    },
+    "TRY": {
+        "translation": "INTENTAR",
+        "meaning": "Make an attempt or effort to do something."
+    },
+    "TURN": {
+        "translation": "GIRAR",
+        "meaning": "Move in a circular direction wholly or partly around an axis or point."
+    },
+    "TWO": {
+        "translation": "DOS",
+        "meaning": "Equivalent to the sum of one and one; one more than one; 2."
+    },
+    "TYPE": {
+        "translation": "TIPO",
+        "meaning": "A category of people or things having common characteristics."
+    },
+    "UNDER": {
+        "translation": "BAJO",
+        "meaning": "Extending or directly below."
+    },
+    "UNIT": {
+        "translation": "UNIDAD",
+        "meaning": "An individual thing or person regarded as single and complete but which can also form an individual component of a larger or more complex whole."
+    },
+    "UP": {
+        "translation": "ARRIBA",
+        "meaning": "Toward a higher place or position."
+    },
+    "USE": {
+        "translation": "USO",
+        "meaning": "Take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result."
+    },
+    "VALUE": {
+        "translation": "VALOR",
+        "meaning": "The regard that something is held to deserve; the importance, worth, or usefulness of something."
+    },
+    "VERY": {
+        "translation": "MUY",
+        "meaning": "In a high degree."
+    },
+    "VIDEO": {
+        "translation": "VIDEO",
+        "meaning": "The recording, reproducing, or broadcasting of moving visual images."
+    },
+    "VIEW": {
+        "translation": "VISTA",
+        "meaning": "Visual percept of a region."
+    },
+    "VOTE": {
+        "translation": "VOTO",
+        "meaning": "A formal indication of a choice between two or more candidates or courses of action, expressed typically through a ballot or a show of hands."
+    },
+    "WAIT": {
+        "translation": "ESPERAR",
+        "meaning": "Stay where one is or delay action until a particular time or event."
+    },
+    "WALK": {
+        "translation": "CAMINAR",
+        "meaning": "Move at a regular pace by lifting and setting down each foot in turn, never having both feet off the ground at once."
+    },
+    "WALL": {
+        "translation": "PARED",
+        "meaning": "A continuous vertical brick or stone structure that encloses or divides an area of land."
+    },
+    "WANT": {
+        "translation": "QUERER",
+        "meaning": "Have a desire to possess or do (something); wish for."
+    },
+    "WAR": {
+        "translation": "GUERRA",
+        "meaning": "A state of armed conflict between different nations or states or different groups within a nation or state."
+    },
+    "WARM": {
+        "translation": "CALIENTE",
+        "meaning": "Of or at a fairly or comfortably high temperature."
+    },
+    "WATCH": {
+        "translation": "RELOJ",
+        "meaning": "Look at or observe attentively over a period of time."
+    },
+    "WATER": {
+        "translation": "AGUA",
+        "meaning": "A colorless, transparent, odorless, tasteless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms."
+    },
+    "WAY": {
+        "translation": "CAMINO",
+        "meaning": "A method, style, or manner of doing something."
+    },
+    "WE": {
+        "translation": "NOSOTROS",
+        "meaning": "Used by a speaker to refer to himself or herself and one or more other people considered together."
+    },
+    "WEEK": {
+        "translation": "SEMANA",
+        "meaning": "A period of seven days."
+    },
+    "WELL": {
+        "translation": "BIEN",
+        "meaning": "In a good or satisfactory way."
+    },
+    "WEST": {
+        "translation": "OESTE",
+        "meaning": "The direction toward the point of the horizon where the sun sets at the equinoxes; the side of the earth or heaven which is at the left of a person facing north."
+    },
+    "WHAT": {
+        "translation": "QUE",
+        "meaning": "Asking for information specifying something."
+    },
+    "WHEN": {
+        "translation": "CUANDO",
+        "meaning": "At or during which time."
+    },
+    "WHERE": {
+        "translation": "DONDE",
+        "meaning": "In or to what place or position."
+    },
+    "WHITE": {
+        "translation": "BLANCO",
+        "meaning": "Of the color of milk or fresh snow, due to the reflection of all visible rays of light; the opposite of black."
+    },
+    "WHO": {
+        "translation": "QUIEN",
+        "meaning": "Asking about the identity of a person."
+    },
+    "WHOLE": {
+        "translation": "TODO",
+        "meaning": "All of; entire."
+    },
+    "WHY": {
+        "translation": "POR QUE",
+        "meaning": "For what reason or purpose."
+    },
+    "WIDE": {
+        "translation": "ANCHO",
+        "meaning": "Of great or more than average width."
+    },
+    "WIFE": {
+        "translation": "ESPOSA",
+        "meaning": "A married woman considered in relation to her husband."
+    },
+    "WILL": {
+        "translation": "VOLUNTAD",
+        "meaning": "Expressing the future tense."
+    },
+    "WIN": {
+        "translation": "GANAR",
+        "meaning": "Be successful or victorious in (a contest or conflict)."
+    },
+    "WIND": {
+        "translation": "VIENTO",
+        "meaning": "The perceptible natural movement of the air, especially in the form of a current of air blowing from a particular direction."
+    },
+    "WISH": {
+        "translation": "DESEO",
+        "meaning": "Feel or express a strong desire or hope for something that is not easily attainable; want something that cannot or probably will not happen."
+    },
+    "WITH": {
+        "translation": "CON",
+        "meaning": "Accompanied by (another person or thing)."
+    },
+    "WOMAN": {
+        "translation": "MUJER",
+        "meaning": "An adult female human being."
+    },
+    "WOOD": {
+        "translation": "MADERA",
+        "meaning": "The hard fibrous material that forms the main substance of the trunk or branches of a tree or shrub, used for fuel or timber."
+    },
+    "WORD": {
+        "translation": "PALABRA",
+        "meaning": "A single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed."
+    },
+    "WORK": {
+        "translation": "TRABAJO",
+        "meaning": "Activity involving mental or physical effort done in order to achieve a purpose or result."
+    },
+    "WORLD": {
+        "translation": "MUNDO",
+        "meaning": "The earth, together with all of its countries, peoples, and natural features."
+    },
+    "WRITE": {
+        "translation": "ESCRIBIR",
+        "meaning": "Mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement."
+    },
+    "WRONG": {
+        "translation": "INCORRECTO",
+        "meaning": "Not correct or true."
+    },
+    "YEAR": {
+        "translation": "ANO",
+        "meaning": "The time taken by a planetary body to make one revolution around its sun."
+    },
+    "YES": {
+        "translation": "SI",
+        "meaning": "Used to give an affirmative response."
+    },
+    "YET": {
+        "translation": "TODAVIA",
+        "meaning": "Up to the present or a specified or implied time; by now or then."
+    },
+    "YOU": {
+        "translation": "TU",
+        "meaning": "Used to refer to the person or people that the speaker is addressing."
+    },
+    "YOUNG": {
+        "translation": "JOVEN",
+        "meaning": "Having lived or existed for only a short time."
+    },
+    "YOUR": {
+        "translation": "TU",
+        "meaning": "Belonging to or associated with the person or people that the speaker is addressing."
     }
 }

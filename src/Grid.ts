@@ -6,7 +6,7 @@ export class Grid {
     private cols: number;
     private tileSize: number;
     private tiles: (Phaser.GameObjects.Container | null)[][];
-    private letters: string[] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
+    private letters: string[] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Ñ'];
     private selectedTiles: Phaser.GameObjects.Container[] = [];
     private onWordSelected: (word: string, multipliers: number[]) => void;
     private onSelectionUpdate: (word: string, multipliers: number[]) => void;
