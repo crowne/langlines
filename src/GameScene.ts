@@ -109,7 +109,7 @@ export class GameScene extends Phaser.Scene {
         if (word.length >= 3) {
             const isValid = this.wordLogic.isValidWord(word);
             if (isValid) {
-                const score = word.length * 10;
+                const score = word.length;
                 this.topText.setText(`${word} (+${score})`);
                 this.topText.setColor('#00ff00');
             } else {
@@ -127,8 +127,8 @@ export class GameScene extends Phaser.Scene {
         console.log(`Selected word: ${word}, Valid: ${isValid}`);
 
         if (isValid) {
-            // Simple scoring: length * 10
-            const score = word.length * 10;
+            // Scoring: 1 point per letter
+            const score = word.length;
             this.currentScore += score;
             this.scoreText.setText(`Score: ${this.currentScore}`);
 
