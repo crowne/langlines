@@ -5,11 +5,13 @@ export class Grid {
     private rows: number;
     private cols: number;
     private tileSize: number;
-    private tiles: Phaser.GameObjects.Container[][];
+    private tiles: (Phaser.GameObjects.Container | null)[][];
     private letters: string[] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'];
     private selectedTiles: Phaser.GameObjects.Container[] = [];
     private onWordSelected: (word: string) => void;
     private onSelectionUpdate: (word: string) => void;
+    private startX: number = 0;
+    private startY: number = 0;
 
     constructor(scene: Phaser.Scene, rows: number, cols: number, tileSize: number, onWordSelected: (word: string) => void, onSelectionUpdate: (word: string) => void) {
         this.scene = scene;
@@ -22,6 +24,8 @@ export class Grid {
     }
 
     create(startX: number, startY: number) {
+        this.startX = startX;
+        this.startY = startY;
         for (let row = 0; row < this.rows; row++) {
             this.tiles[row] = [];
             for (let col = 0; col < this.cols; col++) {
@@ -71,6 +75,133 @@ export class Grid {
         this.tiles[row][col] = container;
     }
 
+    public handleMatch() {
+        // Destroy selected tiles and null them in grid
+        this.selectedTiles.forEach(tile => {
+            const row = tile.getData('row');
+            const col = tile.getData('col');
+            this.tiles[row][col] = null;
+            tile.destroy();
+        });
+        this.selectedTiles = [];
+        this.onSelectionUpdate('');
+
+        // Apply physics
+        this.applyGravity(() => {
+            this.shiftColumns(() => {
+                // No refill as per user request
+            });
+        });
+    }
+
+    private applyGravity(onComplete: () => void) {
+        let maxDuration = 0;
+        let animatedAny = false;
+
+        for (let col = 0; col < this.cols; col++) {
+            let emptySpots = 0;
+            // Iterate from bottom to top
+            for (let row = this.rows - 1; row >= 0; row--) {
+                if (this.tiles[row][col] === null) {
+                    emptySpots++;
+                } else if (emptySpots > 0) {
+                    // Move current tile down by emptySpots gaps
+                    const tile = this.tiles[row][col]!;
+                    const newRow = row + emptySpots;
+
+                    this.tiles[newRow][col] = tile;
+                    this.tiles[row][col] = null;
+                    tile.setData('row', newRow);
+
+                    const targetY = this.startY + (newRow * this.tileSize);
+                    const duration = emptySpots * 100;
+                    maxDuration = Math.max(maxDuration, duration);
+                    animatedAny = true;
+
+                    this.scene.tweens.add({
+                        targets: tile,
+                        y: targetY,
+                        duration: duration,
+                        ease: 'Bounce.easeOut'
+                    });
+                }
+            }
+        }
+
+        if (animatedAny) {
+            this.scene.time.delayedCall(maxDuration, onComplete);
+        } else {
+            onComplete();
+        }
+    }
+
+    private shiftColumns(onComplete: () => void) {
+        let animatedAny = false;
+        let maxDuration = 0;
+
+        // Check columns from right to left
+        for (let col = this.cols - 1; col > 0; col--) {
+            let isColumnEmpty = true;
+            for (let row = 0; row < this.rows; row++) {
+                if (this.tiles[row][col] !== null) {
+                    isColumnEmpty = false;
+                    break;
+                }
+            }
+
+            if (isColumnEmpty) {
+                // If this column is empty, we might need to shift left columns into it.
+                // But if they are ALSO empty, we need to find the first non-empty column to the left.
+                let sourceCol = -1;
+                for (let c = col - 1; c >= 0; c--) {
+                    let hasContent = false;
+                    for (let r = 0; r < this.rows; r++) {
+                        if (this.tiles[r][c] !== null) {
+                            hasContent = true;
+                            break;
+                        }
+                    }
+                    if (hasContent) {
+                        sourceCol = c;
+                        break;
+                    }
+                }
+
+                if (sourceCol !== -1) {
+                    // Move the source column to this column
+                    for (let row = 0; row < this.rows; row++) {
+                        const tile = this.tiles[row][sourceCol];
+                        if (tile) {
+                            this.tiles[row][col] = tile;
+                            this.tiles[row][sourceCol] = null;
+                            tile.setData('col', col);
+
+                            const targetX = this.startX + (col * this.tileSize);
+                            maxDuration = Math.max(maxDuration, 200);
+                            animatedAny = true;
+
+                            this.scene.tweens.add({
+                                targets: tile,
+                                x: targetX,
+                                duration: 200,
+                                ease: 'Power2'
+                            });
+                        }
+                    }
+                    // After moving sourceCol to col, we continue but the sourceCol is now empty.
+                    // The loop will eventually reach it and shift more.
+                }
+            }
+        }
+
+        if (animatedAny) {
+            this.scene.time.delayedCall(maxDuration, onComplete);
+        } else {
+            onComplete();
+        }
+    }
+
+
     private startSelection(tile: Phaser.GameObjects.Container) {
         this.selectedTiles = [tile];
         this.highlightTile(tile, true);
@@ -102,7 +233,9 @@ export class Grid {
             const word = this.selectedTiles.map(t => t.getData('letter')).join('');
             this.onWordSelected(word);
 
-            // Reset visual
+            // Reset visual IF match handling doesn't take over
+            // In GameScene, handleWordSelection will call handleMatch if valid.
+            // We should only reset here if NOT match, but for now reset and let handleMatch destroy.
             this.selectedTiles.forEach(t => this.highlightTile(t, false));
             this.selectedTiles = [];
 

@@ -132,8 +132,9 @@ export class GameScene extends Phaser.Scene {
             this.currentScore += score;
             this.scoreText.setText(`Score: ${this.currentScore}`);
 
-            // Flash feedback
+            // Flash feedback and apply gravity
             this.cameras.main.flash(200, 0, 255, 0);
+            this.grid.handleMatch();
         } else {
             this.cameras.main.shake(100, 0.01);
         }
