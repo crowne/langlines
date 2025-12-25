@@ -26,7 +26,7 @@ export class SetupScene extends Phaser.Scene {
     private homeBtn!: Phaser.GameObjects.Text;
     private learningBtn!: Phaser.GameObjects.Text;
     private startBtnContainer!: Phaser.GameObjects.Container;
-    private startBtnRect!: Phaser.GameObjects.Rectangle;
+    private startBtnGraphics!: Phaser.GameObjects.Graphics;
     private startBtnText!: Phaser.GameObjects.Text;
 
     constructor() {
@@ -60,26 +60,32 @@ export class SetupScene extends Phaser.Scene {
         // Start Button Container
         this.startBtnContainer = this.add.container(width / 2, height * 0.8);
 
-        this.startBtnRect = this.add.rectangle(0, 0, 400, 100, 0x646cff);
+        this.startBtnGraphics = this.add.graphics();
         this.startBtnText = this.add.text(0, 0, '', {
             fontSize: '48px',
             color: '#ffffff',
-            fontFamily: 'Arial'
+            fontFamily: 'Arial',
+            fontStyle: 'bold'
         }).setOrigin(0.5);
 
-        this.startBtnContainer.add([this.startBtnRect, this.startBtnText]);
+        this.startBtnContainer.add([this.startBtnGraphics, this.startBtnText]);
 
-        this.startBtnRect.setInteractive({ useHandCursor: true });
-        this.startBtnRect.on('pointerdown', () => {
+        // Hit area for the container or a hidden rectangle
+        const hitArea = this.add.rectangle(0, 0, 400, 100, 0x000000, 0);
+        hitArea.setName('hitArea');
+        this.startBtnContainer.add(hitArea);
+
+        hitArea.setInteractive({ useHandCursor: true });
+        hitArea.on('pointerdown', () => {
             this.scene.start('GameScene', {
                 homeLang: this.homeLang,
                 learningLang: this.learningLang
             });
         });
 
-        // Hover effect
-        this.startBtnRect.on('pointerover', () => this.startBtnRect.setFillStyle(0x7c84ff));
-        this.startBtnRect.on('pointerout', () => this.startBtnRect.setFillStyle(0x646cff));
+        // Hover effect for the graphics
+        hitArea.on('pointerover', () => this.drawStartButton(true));
+        hitArea.on('pointerout', () => this.drawStartButton(false));
 
         this.updateLabels();
     }
@@ -112,13 +118,24 @@ export class SetupScene extends Phaser.Scene {
         this.learningBtn.setText(this.labels[this.homeLang].learning);
         this.startBtnText.setText(l.start);
 
-        // Adjust start button border
-        if (this.startBtnRect && this.startBtnText) {
-            const padding = 80;
-            const newWidth = Math.max(400, this.startBtnText.width + padding);
-            this.startBtnRect.width = newWidth;
-            // Since elements are in a container at (0,0), and origin is 0.5, 
-            // they remain perfectly centered relative to the container's x.
+        this.drawStartButton(false);
+    }
+
+    private drawStartButton(isHover: boolean) {
+        if (!this.startBtnGraphics || !this.startBtnText) return;
+
+        const padding = 80;
+        const btnWidth = Math.max(400, this.startBtnText.width + padding);
+        const btnHeight = 100;
+
+        this.startBtnGraphics.clear();
+        this.startBtnGraphics.fillStyle(isHover ? 0x7c84ff : 0x646cff, 1);
+        this.startBtnGraphics.fillRoundedRect(-btnWidth / 2, -btnHeight / 2, btnWidth, btnHeight, 12);
+
+        // Update hit area size too
+        const hitArea = this.startBtnContainer.getByName('hitArea') as Phaser.GameObjects.Rectangle;
+        if (hitArea) {
+            hitArea.setSize(btnWidth, btnHeight);
         }
     }
 
