@@ -252,6 +252,50 @@ export class Grid {
         }
     }
 
+    public shuffleTiles() {
+        const activeTiles: Phaser.GameObjects.Container[] = [];
+        const positions: { row: number, col: number, x: number, y: number }[] = [];
+
+        // Collect all existing tiles and their positions
+        for (let row = 0; row < this.rows; row++) {
+            for (let col = 0; col < this.cols; col++) {
+                const tile = this.tiles[row][col];
+                if (tile) {
+                    activeTiles.push(tile);
+                    positions.push({
+                        row: row,
+                        col: col,
+                        x: tile.x,
+                        y: tile.y
+                    });
+                }
+            }
+        }
+
+        // Shuffle the positions array
+        for (let i = positions.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [positions[i], positions[j]] = [positions[j], positions[i]];
+        }
+
+        // Reassign tiles to new shuffled positions
+        activeTiles.forEach((tile, index) => {
+            const pos = positions[index];
+            this.tiles[pos.row][pos.col] = tile;
+            tile.setData('row', pos.row);
+            tile.setData('col', pos.col);
+
+            // Animate to new position
+            this.scene.tweens.add({
+                targets: tile,
+                x: pos.x,
+                y: pos.y,
+                duration: 400,
+                ease: 'Power2'
+            });
+        });
+    }
+
     private startSelection(tile: Phaser.GameObjects.Container) {
         this.selectedTiles = [tile];
         this.highlightTile(tile, true);

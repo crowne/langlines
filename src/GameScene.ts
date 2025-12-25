@@ -105,26 +105,29 @@ export class GameScene extends Phaser.Scene {
 
         this.add.rectangle(width / 2, y, width, panelHeight, 0x333333);
 
-        const refillLabel = this.homeLang === 'es' ? 'GRID' : 'GRID';
-        const dictLabel = this.homeLang === 'es' ? 'DICT' : 'DICT';
+        const gridLabel = 'GRID';
+        const shuffleLabel = 'SHUFFLE';
+        const dictLabel = 'DICT';
 
-        // Grid Reload Button
-        const gridBtn = this.add.text(width / 2 - 100, y, refillLabel, {
+        const buttonStyle = {
             fontSize: '24px',
             color: '#ffffff',
             backgroundColor: '#555555',
             padding: { x: 15, y: 10 }
-        }).setOrigin(0.5);
+        };
+
+        // Grid Reload Button (Left)
+        const gridBtn = this.add.text(width / 2 - 140, y, gridLabel, buttonStyle).setOrigin(0.5);
         gridBtn.setInteractive({ useHandCursor: true });
         gridBtn.on('pointerdown', () => this.grid.reloadGrid());
 
-        // Dict Reload Button
-        const dictBtn = this.add.text(width / 2 + 100, y, dictLabel, {
-            fontSize: '24px',
-            color: '#ffffff',
-            backgroundColor: '#555555',
-            padding: { x: 15, y: 10 }
-        }).setOrigin(0.5);
+        // Shuffle Button (Center)
+        const shuffleBtn = this.add.text(width / 2, y, shuffleLabel, buttonStyle).setOrigin(0.5);
+        shuffleBtn.setInteractive({ useHandCursor: true });
+        shuffleBtn.on('pointerdown', () => this.grid.shuffleTiles());
+
+        // Dict Reload Button (Right)
+        const dictBtn = this.add.text(width / 2 + 140, y, dictLabel, buttonStyle).setOrigin(0.5);
         dictBtn.setInteractive({ useHandCursor: true });
         dictBtn.on('pointerdown', () => this.reloadDictionaries());
     }
