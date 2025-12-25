@@ -51,23 +51,50 @@ export class SummaryScene extends Phaser.Scene {
         this.add.text(width / 2, statsY + 30, `Lines Cleared: ${this.result.linesCleared} / ${this.result.round}`, { fontSize: '20px' }).setOrigin(0.5);
 
         // Word List
-        this.add.text(width / 2, statsY + 80, 'Words Found:', { fontSize: '24px', fontStyle: 'bold' }).setOrigin(0.5);
+        this.add.text(width / 2, statsY + 70, 'Words Found:', { fontSize: '24px', fontStyle: 'bold' }).setOrigin(0.5);
 
-        const listStartY = statsY + 110;
-        const maxDisplay = 10;
-        this.result.foundWords.slice(0, maxDisplay).forEach((w, i) => {
-            const trans = w.translation ? ` [${w.translation}]` : '';
-            const meaning = w.meaning ? ` - ${w.meaning}` : '';
-            const display = `${w.word} (${w.lang.toUpperCase()})${trans}${meaning} (${w.score} pts)`;
+        let currentY = statsY + 110;
+        const maxDisplay = 6; // Reduced count to allow for multi-line definitions
+        const wrapWidth = width * 0.8;
 
-            this.add.text(width / 2, listStartY + (i * 25), display, {
-                fontSize: '16px',
-                color: '#aaaaaa'
+        this.result.foundWords.slice(0, maxDisplay).forEach((w) => {
+            const langCode = w.lang.toUpperCase();
+            const scoreText = `(+${w.score})`;
+
+            // 1. Word Line (Word + Lang + Score)
+            this.add.text(width / 2, currentY, `${w.word} (${langCode}) ${scoreText}`, {
+                fontSize: '18px',
+                color: '#ffffff',
+                fontStyle: 'bold'
             }).setOrigin(0.5);
+
+            currentY += 22;
+
+            // 2. Definition Line (Translation + Meaning)
+            if (w.translation || w.meaning) {
+                const trans = w.translation ? `[${w.translation}]` : '';
+                const meaning = w.meaning ? (trans ? ` - ${w.meaning}` : w.meaning) : '';
+                const display = `${trans}${meaning}`;
+
+                const defText = this.add.text(width / 2, currentY, display, {
+                    fontSize: '14px',
+                    color: '#aaaaaa',
+                    align: 'center',
+                    wordWrap: { width: wrapWidth }
+                }).setOrigin(0.5, 0);
+
+                // Advance Y based on the height of the wrapped text
+                currentY += defText.height + 15;
+            } else {
+                currentY += 15;
+            }
         });
 
         if (this.result.foundWords.length > maxDisplay) {
-            this.add.text(width / 2, listStartY + (maxDisplay * 25), `... and ${this.result.foundWords.length - maxDisplay} more`, { fontSize: '16px', color: '#777777' }).setOrigin(0.5);
+            this.add.text(width / 2, currentY, `... and ${this.result.foundWords.length - maxDisplay} more`, {
+                fontSize: '16px',
+                color: '#777777'
+            }).setOrigin(0.5, 0);
         }
 
         // Buttons
