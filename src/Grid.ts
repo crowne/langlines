@@ -68,17 +68,16 @@ export class Grid {
         container.setData('multiplier', multiplier);
 
         if (multiplier > 1) {
-            const badgeColor = multiplier === 3 ? 0xffd700 : 0x00bfff;
-            const badge = this.scene.add.graphics();
-            badge.fillStyle(badgeColor, 1);
-            badge.fillRoundedRect(this.tileSize / 2 - 25, -this.tileSize / 2 + 5, 20, 20, 4);
+            const asteriskColor = multiplier === 3 ? '#ffd700' : '#00bfff';
+            // Use Unicode ² (\u00B2) and ³ (\u00B3)
+            const superscript = multiplier === 3 ? '\u00B3' : '\u00B2';
 
-            const badgeText = this.scene.add.text(this.tileSize / 2 - 15, -this.tileSize / 2 + 15, `${multiplier}x`, {
-                fontSize: '10px',
-                color: '#ffffff',
+            const badgeText = this.scene.add.text(this.tileSize / 2 - 8, -this.tileSize / 2 + 8, superscript, {
+                fontSize: '24px',
+                color: asteriskColor,
                 fontStyle: 'bold'
-            }).setOrigin(0.5);
-            container.add([badge, badgeText]);
+            }).setOrigin(1, 0);
+            container.add(badgeText);
         }
 
         // Make container size match tile for interaction
