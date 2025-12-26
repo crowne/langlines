@@ -1156,8 +1156,10 @@
     "translations": {}
   },
   "BRUJA": {
-    "def": "",
-    "translations": {}
+    "def": "Mujer a la que se le atribuyen poderes mágicos y sobrenaturales, en la mayoría de los casos empleados para hacer el mal.",
+    "translations": {
+      "en": "WITCH"
+    }
   },
   "BRUSCO": {
     "def": "",
@@ -2112,7 +2114,7 @@
     "translations": {}
   },
   "DIA": {
-    "def": "A period of twenty-four hours as a unit of time.",
+    "def": "Día (24 horas).",
     "translations": {
       "en": "DAY"
     }

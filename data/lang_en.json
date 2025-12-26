@@ -1397,6 +1397,14 @@
     "def": "",
     "translations": {}
   },
+  "DOTE": {
+    "def": "",
+    "translations": {}
+  },
+  "DOTS": {
+    "def": "",
+    "translations": {}
+  },
   "DOUBLE": {
     "def": "Consisting of two equal, identical, or similar parts or things.",
     "translations": {
@@ -2506,6 +2514,12 @@
     "translations": {}
   },
   "HAG": {
+    "def": "(derogatory) An ugly old woman.",
+    "translations": {
+      "es": "BRUJA"
+    }
+  },
+  "HAGS": {
     "def": "",
     "translations": {}
   },
@@ -2552,8 +2566,10 @@
     }
   },
   "HANG": {
-    "def": "",
-    "translations": {}
+    "def": "Suspend (something) from a hook or other support.",
+    "translations": {
+      "es": "SUSPENDER"
+    }
   },
   "HAO": {
     "def": "",
@@ -2768,6 +2784,10 @@
     "translations": {}
   },
   "HOE": {
+    "def": "",
+    "translations": {}
+  },
+  "HOES": {
     "def": "",
     "translations": {}
   },
