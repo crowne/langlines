@@ -3501,6 +3501,12 @@
     "def": "",
     "translations": {}
   },
+  "LAVA": {
+    "def": "Molten rock that has erupted from a volcano.",
+    "translations": {
+      "es": "LAVA"
+    }
+  },
   "LAW": {
     "def": "The system of rules which a particular country or community recognizes as regulating the actions of its members and which it may enforce by the imposition of penalties.",
     "translations": {

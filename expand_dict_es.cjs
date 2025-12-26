@@ -297,7 +297,6 @@ FRÍO
 REGLA
 FONDO
 ANILLO
-PISTA
 PISTA`.split('\n');
 
 const dict = JSON.parse(fs.readFileSync(path, 'utf8'));
