@@ -1,7 +1,8 @@
 # LangLines
 
-LangLines is an HTML5 game developed with the GameSnacks SDK which helps you to improve your vocabulary.
-We are aiming to get a google play store listing as an instant app for android playstore.
+LangLines is an HTML5 game developed with the GameSnacks SDK which helps you to improve your vocabulary.  
+Play here https://crowne.github.io/langlines/  
+I am testing this to learn abou getting a google play store listing as an instant app for android playstore.
 
 ## How to play
 
@@ -28,7 +29,8 @@ The game will be available on the google play store as an instant app with no in
 The game should be playable in offline mode.
 
 ## See
-https://developers.google.com/gamesnacks/developer/sdk
+https://crowne.github.io/langlines/  
+https://developers.google.com/gamesnacks/developer/sdk  
 https://dle.rae.es/diccionario
 
 ## TODO
