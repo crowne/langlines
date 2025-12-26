@@ -40,6 +40,10 @@ export class WordLogic {
     checkWord(word: string, priorityLang?: string): { lang: string, entry: WordEntry, word: string } | null {
         const upper = word.toUpperCase();
 
+        if (upper.length < 3) {
+            return null;
+        }
+
         // 1. Check priority language first
         if (priorityLang && this.dictionaries.has(priorityLang)) {
             const dict = this.dictionaries.get(priorityLang)!;

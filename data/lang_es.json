@@ -3329,21 +3329,35 @@
     "def": "",
     "translations": {}
   },
+  "TIA": {
+    "def": "",
+    "translations": {
+      "en": "AUNT"
+    }
+  },
   "TIPO": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "TYPE"
+    }
   },
   "TRES": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "THREE"
+    }
   },
   "CADA": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "EACH"
+    }
   },
   "AÑO": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "YEAR"
+    }
   },
   "HIJO": {
     "def": "",
@@ -3575,11 +3589,21 @@
   },
   "QUE": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "WHAT"
+    }
+  },
+  "QUI": {
+    "def": "",
+    "translations": {
+      "en": "WHO"
+    }
   },
   "QUUIEN": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "WHO"
+    }
   },
   "SIN": {
     "def": "",
@@ -4040,5 +4064,11 @@
   "NUEVE": {
     "def": "",
     "translations": {}
+  },
+  "VOY": {
+    "def": "",
+    "translations": {
+      "en": "I go"
+    }
   }
 }
