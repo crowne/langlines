@@ -226,8 +226,13 @@ export class SummaryScene extends Phaser.Scene {
             padding: { x: 20, y: 10 }
         };
 
+        const i18n = this.cache.json.get(`i18n-${this.result.homeLang}`) || {};
+        const nextLabel = i18n.summary?.next || 'NEXT ROUND';
+        const retryLabel = i18n.summary?.retry || 'RETRY';
+        const exitLabel = i18n.summary?.exit || 'EXIT';
+
         if (this.result.goalMet) {
-            const nextBtn = this.add.text(width / 2, buttonY, 'NEXT ROUND', buttonStyle).setOrigin(0.5);
+            const nextBtn = this.add.text(width / 2, buttonY, nextLabel, buttonStyle).setOrigin(0.5);
             nextBtn.setInteractive({ useHandCursor: true });
             nextBtn.on('pointerdown', () => {
                 this.scene.start('GameScene', {
@@ -238,7 +243,7 @@ export class SummaryScene extends Phaser.Scene {
                 });
             });
         } else {
-            const retryBtn = this.add.text(width / 2 - 100, buttonY, 'RETRY', buttonStyle).setOrigin(0.5);
+            const retryBtn = this.add.text(width / 2 - 100, buttonY, retryLabel, buttonStyle).setOrigin(0.5);
             retryBtn.setInteractive({ useHandCursor: true });
             retryBtn.on('pointerdown', () => {
                 this.scene.start('GameScene', {
@@ -249,7 +254,7 @@ export class SummaryScene extends Phaser.Scene {
                 });
             });
 
-            const homeBtn = this.add.text(width / 2 + 100, buttonY, 'EXIT', buttonStyle).setOrigin(0.5);
+            const homeBtn = this.add.text(width / 2 + 100, buttonY, exitLabel, buttonStyle).setOrigin(0.5);
             homeBtn.setInteractive({ useHandCursor: true });
             homeBtn.on('pointerdown', () => {
                 this.scene.start('SetupScene');

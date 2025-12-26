@@ -58,7 +58,7 @@ export class GameScene extends Phaser.Scene {
     preload() {
         // Load assets here
         this.load.setBaseURL('./');
-        this.load.json('i18n', `data/i18n/${this.homeLang}.json`);
+        this.load.json(`i18n-${this.homeLang}`, `data/i18n/${this.homeLang}.json`);
     }
 
     async create() {
@@ -117,7 +117,7 @@ export class GameScene extends Phaser.Scene {
 
     private updateScoreDisplay() {
         const palette = themeManager.getPalette();
-        const i18n = this.cache.json.get('i18n');
+        const i18n = this.cache.json.get(`i18n-${this.homeLang}`);
         const scoreLabel = i18n?.game?.score || 'Score';
         this.scoreText.setText(`${scoreLabel}: ${this.currentScore}`);
         this.scoreText.setColor(palette.textSecondary);
@@ -125,7 +125,7 @@ export class GameScene extends Phaser.Scene {
 
     private updateGoalDisplay() {
         const palette = themeManager.getPalette();
-        const i18n = this.cache.json.get('i18n');
+        const i18n = this.cache.json.get(`i18n-${this.homeLang}`);
         const goalLabel = i18n?.game?.goal || 'Goal';
         const linesLabel = i18n?.game?.lines || 'Lines';
         const lineLabel = i18n?.game?.line || 'Line';
@@ -158,7 +158,7 @@ export class GameScene extends Phaser.Scene {
         }).setOrigin(0.5);
         this.topText.setShadow(2, 2, '#000000', 2, true, true);
 
-        const i18n = this.cache.json.get('i18n');
+        const i18n = this.cache.json.get(`i18n-${this.homeLang}`);
 
         // Round Goal Text
         this.goalText = this.add.text(width / 2, 15, '', {
@@ -210,8 +210,8 @@ export class GameScene extends Phaser.Scene {
 
         this.add.rectangle(width / 2, y, width, panelHeight, palette.panel);
 
-        const i18n = this.cache.json.get('i18n');
-        const gridLabel = i18n?.game?.btn?.grid || 'GRID';
+        const i18n = this.cache.json.get(`i18n-${this.homeLang}`);
+        const exitLabel = i18n?.game?.btn?.exit || 'EXIT';
         const shuffleLabel = i18n?.game?.btn?.shuffle || 'SHUFFLE';
         const dictLabel = i18n?.game?.btn?.dict || 'DICT';
 
@@ -222,10 +222,10 @@ export class GameScene extends Phaser.Scene {
             padding: { x: 15, y: 10 }
         };
 
-        // Grid Reload Button
-        const gridBtn = this.add.text(width / 2 - 140, y, gridLabel, buttonStyle).setOrigin(0.5);
-        gridBtn.setInteractive({ useHandCursor: true });
-        gridBtn.on('pointerdown', () => this.grid.reloadGrid());
+        // Exit Button
+        const exitBtn = this.add.text(width / 2 - 140, y, exitLabel, buttonStyle).setOrigin(0.5);
+        exitBtn.setInteractive({ useHandCursor: true });
+        exitBtn.on('pointerdown', () => this.scene.start('SetupScene'));
 
         // Shuffle Button
         const shuffleBtn = this.add.text(width / 2, y, shuffleLabel, buttonStyle).setOrigin(0.5);

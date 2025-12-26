@@ -10,7 +10,7 @@
         "score": "Puntaje",
         "timer": "Tiempo",
         "btn": {
-            "grid": "RED",
+            "exit": "SALIR",
             "shuffle": "BARAJAR",
             "dict": "DICT",
             "finish": "TERMINAR"
@@ -25,6 +25,9 @@
         "words": "Palabras Encontradas",
         "homeCount": "Idioma Natal",
         "learningCount": "Idioma Aprendiendo",
-        "restart": "JUGAR DE NUEVO"
+        "restart": "JUGAR DE NUEVO",
+        "next": "SIGUIENTE RONDA",
+        "retry": "REINTENTAR",
+        "exit": "SALIR"
     }
 }

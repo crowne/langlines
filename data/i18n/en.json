@@ -10,7 +10,7 @@
         "score": "Score",
         "timer": "Time",
         "btn": {
-            "grid": "GRID",
+            "exit": "EXIT",
             "shuffle": "SHUFFLE",
             "dict": "DICT",
             "finish": "FINISH"
@@ -25,6 +25,9 @@
         "words": "Words Found",
         "homeCount": "Home Language",
         "learningCount": "Learning Language",
-        "restart": "PLAY AGAIN"
+        "restart": "PLAY AGAIN",
+        "next": "NEXT ROUND",
+        "retry": "RETRY",
+        "exit": "EXIT"
     }
 }
