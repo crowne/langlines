@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 
 export default defineConfig({
-    base: './', // GameSnacks requires relative paths
+    base: '/langlines/', // GameSnacks requires relative paths
     build: {
         assetsDir: 'assets',
         outDir: 'dist',

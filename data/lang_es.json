@@ -5543,126 +5543,12 @@
     "translations": {}
   },
   "FLU": {
-    "def": "",
-    "translations": {}
-  },
-  "FLY": {
-    "def": "",
-    "translations": {}
-  },
-  "FMC": {
-    "def": "",
-    "translations": {}
-  },
-  "FMF": {
-    "def": "",
-    "translations": {}
-  },
-  "FMI": {
-    "def": "",
-    "translations": {}
-  },
-  "FMO": {
-    "def": "",
-    "translations": {}
-  },
-  "FMV": {
-    "def": "",
-    "translations": {}
-  },
-  "FNA": {
-    "def": "",
-    "translations": {}
-  },
-  "FNI": {
-    "def": "",
-    "translations": {}
-  },
-  "FNT": {
-    "def": "",
-    "translations": {}
-  },
-  "FOA": {
-    "def": "",
-    "translations": {}
-  },
-  "FOB": {
-    "def": "",
-    "translations": {}
-  },
-  "FOC": {
-    "def": "",
-    "translations": {}
-  },
-  "FOI": {
-    "def": "",
-    "translations": {}
-  },
-  "FOL": {
-    "def": "",
-    "translations": {}
-  },
-  "FON": {
-    "def": "",
-    "translations": {}
+    "def": "Influenza",
+    "translations": {
+      "en": "FLU"
+    }
   },
   "FONDO": {
-    "def": "",
-    "translations": {}
-  },
-  "FOP": {
-    "def": "",
-    "translations": {}
-  },
-  "FOR": {
-    "def": "",
-    "translations": {}
-  },
-  "FOS": {
-    "def": "",
-    "translations": {}
-  },
-  "FOT": {
-    "def": "",
-    "translations": {}
-  },
-  "FOU": {
-    "def": "",
-    "translations": {}
-  },
-  "FOX": {
-    "def": "",
-    "translations": {}
-  },
-  "FOZ": {
-    "def": "",
-    "translations": {}
-  },
-  "FPD": {
-    "def": "",
-    "translations": {}
-  },
-  "FPL": {
-    "def": "",
-    "translations": {}
-  },
-  "FPÖ": {
-    "def": "",
-    "translations": {}
-  },
-  "FPR": {
-    "def": "",
-    "translations": {}
-  },
-  "FRA": {
-    "def": "",
-    "translations": {}
-  },
-  "FRG": {
-    "def": "",
-    "translations": {}
-  },
-  "FRI": {
     "def": "",
     "translations": {}
   },
@@ -5679,101 +5565,17 @@
       "zh": "寒冷"
     }
   },
-  "FRU": {
-    "def": "",
-    "translations": {}
-  },
-  "FRY": {
-    "def": "",
-    "translations": {}
-  },
-  "FSA": {
-    "def": "",
-    "translations": {}
-  },
-  "FSB": {
-    "def": "",
-    "translations": {}
-  },
-  "FSC": {
-    "def": "",
-    "translations": {}
-  },
-  "FSE": {
-    "def": "",
-    "translations": {}
-  },
-  "FSH": {
-    "def": "",
-    "translations": {}
-  },
-  "FSM": {
-    "def": "",
-    "translations": {}
-  },
-  "FSP": {
-    "def": "",
-    "translations": {}
-  },
-  "FSV": {
-    "def": "",
-    "translations": {}
-  },
-  "FTC": {
-    "def": "",
-    "translations": {}
-  },
-  "FTP": {
-    "def": "",
-    "translations": {}
-  },
-  "FTT": {
-    "def": "",
-    "translations": {}
-  },
   "FUA": {
-    "def": "",
-    "translations": {}
-  },
-  "FUE": {
-    "def": "",
-    "translations": {}
-  },
-  "FUÉ": {
-    "def": "",
-    "translations": {}
-  },
-  "FUI": {
-    "def": "",
-    "translations": {}
-  },
-  "FUÍ": {
-    "def": "",
-    "translations": {}
+    "def": "interj. Cuba. U. para imitar el sonido que hace un golpe, o el golpe mismo.",
+    "translations": {
+      "en": "WOW"
+    }
   },
   "FUL": {
-    "def": "",
-    "translations": {}
-  },
-  "FUN": {
-    "def": "",
-    "translations": {}
-  },
-  "FUR": {
-    "def": "",
-    "translations": {}
-  },
-  "FÜR": {
-    "def": "",
-    "translations": {}
-  },
-  "FUT": {
-    "def": "",
-    "translations": {}
-  },
-  "FVF": {
-    "def": "",
-    "translations": {}
+    "def": "adj. germ. Falso, fallido.",
+    "translations": {
+      "en": "FALSE"
+    }
   },
   "GAF": {
     "def": "",

@@ -29,6 +29,7 @@ The game should be playable in offline mode.
 
 ## See
 https://developers.google.com/gamesnacks/developer/sdk
+https://dle.rae.es/diccionario
 
 ## TODO
 Remove diacritic chars from es dictionary keys except for Ñ
