@@ -77,7 +77,7 @@ export class GameScene extends Phaser.Scene {
 
         // Calculate grid size based on available space (width vs height)
         const padding = 20;
-        const topOffset = height * 0.15; // 15% top margin for UI
+        const topOffset = height * 0.20; // 20% top margin for UI (increased from 15% to prevent overlap)
         const bottomOffset = height * 0.15; // 15% bottom margin for UI
         const availableWidth = width - (padding * 2);
         const availableHeight = height - topOffset - bottomOffset - padding;
@@ -147,7 +147,7 @@ export class GameScene extends Phaser.Scene {
         this.add.rectangle(width / 2, height / 2, width, height, 0x333333);
 
         // Word Display
-        this.topText = this.add.text(width / 2, height * 0.6, '', {
+        this.topText = this.add.text(width / 2, height * 0.45, '', {
             fontSize: '48px',
             color: '#ffffff',
             fontFamily: 'Arial',
@@ -157,7 +157,7 @@ export class GameScene extends Phaser.Scene {
         const i18n = this.cache.json.get('i18n');
 
         // Round Goal Text
-        this.goalText = this.add.text(width / 2, 20, '', {
+        this.goalText = this.add.text(width / 2, 15, '', {
             fontSize: '20px',
             color: '#ffff00',
             fontStyle: 'bold'
@@ -166,7 +166,7 @@ export class GameScene extends Phaser.Scene {
         const scoreLabel = i18n?.game?.score || 'Score';
 
         // Score
-        this.scoreText = this.add.text(width - 20, 20, `${scoreLabel}: 0`, {
+        this.scoreText = this.add.text(width - 20, 15, `${scoreLabel}: 0`, {
             fontSize: '24px',
             color: '#aaaaaa',
             fontFamily: 'Arial'
@@ -175,15 +175,15 @@ export class GameScene extends Phaser.Scene {
         const timerLabel = i18n?.game?.timer || 'Time';
 
         // Timer
-        this.timerText = this.add.text(20, 20, `${timerLabel}: 03:00`, {
+        this.timerText = this.add.text(20, 15, `${timerLabel}: 03:00`, {
             fontSize: '24px',
             color: '#aaaaaa',
             fontFamily: 'Arial'
         }).setOrigin(0, 0);
 
-        // Finish Round Button (Positioned near goal)
+        // Finish Round Button (Positioned at bottom of top panel, safely below preview)
         const finishLabel = i18n?.game?.btn?.finish || 'FINISH';
-        this.finishBtn = this.add.text(width / 2, 60, finishLabel, {
+        this.finishBtn = this.add.text(width / 2, height - 35, finishLabel, {
             fontSize: '20px',
             color: '#ffffff',
             backgroundColor: '#00aa00',

@@ -3234,5 +3234,797 @@
     "translations": {
       "en": "PER"
     }
+  },
+  "COMO": {
+    "def": "",
+    "translations": {}
+  },
+  "TODO": {
+    "def": "",
+    "translations": {}
+  },
+  "SOLO": {
+    "def": "",
+    "translations": {}
+  },
+  "AQUI": {
+    "def": "",
+    "translations": {}
+  },
+  "ALGO": {
+    "def": "",
+    "translations": {}
+  },
+  "SABER": {
+    "def": "",
+    "translations": {}
+  },
+  "CREER": {
+    "def": "",
+    "translations": {}
+  },
+  "DONDE": {
+    "def": "",
+    "translations": {}
+  },
+  "HACER": {
+    "def": "",
+    "translations": {}
+  },
+  "NADA": {
+    "def": "",
+    "translations": {}
+  },
+  "VEZ": {
+    "def": "",
+    "translations": {}
+  },
+  "HACE": {
+    "def": "",
+    "translations": {}
+  },
+  "ELLA": {
+    "def": "",
+    "translations": {}
+  },
+  "DIOS": {
+    "def": "",
+    "translations": {}
+  },
+  "MUCHO": {
+    "def": "",
+    "translations": {}
+  },
+  "VER": {
+    "def": "",
+    "translations": {}
+  },
+  "HOLA": {
+    "def": "",
+    "translations": {}
+  },
+  "UNO": {
+    "def": "",
+    "translations": {}
+  },
+  "AHI": {
+    "def": "",
+    "translations": {}
+  },
+  "POCO": {
+    "def": "",
+    "translations": {}
+  },
+  "COSA": {
+    "def": "",
+    "translations": {}
+  },
+  "VIVIR": {
+    "def": "",
+    "translations": {}
+  },
+  "TIPO": {
+    "def": "",
+    "translations": {}
+  },
+  "TRES": {
+    "def": "",
+    "translations": {}
+  },
+  "CADA": {
+    "def": "",
+    "translations": {}
+  },
+  "AÑO": {
+    "def": "",
+    "translations": {}
+  },
+  "HIJO": {
+    "def": "",
+    "translations": {}
+  },
+  "AUN": {
+    "def": "",
+    "translations": {}
+  },
+  "UNOS": {
+    "def": "",
+    "translations": {}
+  },
+  "LUEGO": {
+    "def": "",
+    "translations": {}
+  },
+  "MAS": {
+    "def": "",
+    "translations": {}
+  },
+  "NOCHE": {
+    "def": "",
+    "translations": {}
+  },
+  "VISTO": {
+    "def": "",
+    "translations": {}
+  },
+  "PARTE": {
+    "def": "",
+    "translations": {}
+  },
+  "PUES": {
+    "def": "",
+    "translations": {}
+  },
+  "CASI": {
+    "def": "",
+    "translations": {}
+  },
+  "HORA": {
+    "def": "",
+    "translations": {}
+  },
+  "NUEVO": {
+    "def": "",
+    "translations": {}
+  },
+  "MAL": {
+    "def": "",
+    "translations": {}
+  },
+  "CUAL": {
+    "def": "",
+    "translations": {}
+  },
+  "ALLI": {
+    "def": "",
+    "translations": {}
+  },
+  "BAJO": {
+    "def": "",
+    "translations": {}
+  },
+  "TOMA": {
+    "def": "",
+    "translations": {}
+  },
+  "IDEA": {
+    "def": "",
+    "translations": {}
+  },
+  "ALLA": {
+    "def": "",
+    "translations": {}
+  },
+  "LADO": {
+    "def": "",
+    "translations": {}
+  },
+  "JUSTO": {
+    "def": "",
+    "translations": {}
+  },
+  "MIO": {
+    "def": "",
+    "translations": {}
+  },
+  "TARDE": {
+    "def": "",
+    "translations": {}
+  },
+  "CASO": {
+    "def": "",
+    "translations": {}
+  },
+  "MANO": {
+    "def": "",
+    "translations": {}
+  },
+  "PAR": {
+    "def": "",
+    "translations": {}
+  },
+  "IGUAL": {
+    "def": "",
+    "translations": {}
+  },
+  "VINO": {
+    "def": "",
+    "translations": {}
+  },
+  "JEFE": {
+    "def": "",
+    "translations": {}
+  },
+  "OJOS": {
+    "def": "",
+    "translations": {}
+  },
+  "OJO": {
+    "def": "",
+    "translations": {}
+  },
+  "TIO": {
+    "def": "",
+    "translations": {}
+  },
+  "AUTO": {
+    "def": "",
+    "translations": {}
+  },
+  "PASO": {
+    "def": "",
+    "translations": {}
+  },
+  "SINO": {
+    "def": "",
+    "translations": {}
+  },
+  "MALO": {
+    "def": "",
+    "translations": {}
+  },
+  "DADO": {
+    "def": "",
+    "translations": {}
+  },
+  "ODIO": {
+    "def": "",
+    "translations": {}
+  },
+  "SERIO": {
+    "def": "",
+    "translations": {}
+  },
+  "TIERRA": {
+    "def": "",
+    "translations": {}
+  },
+  "SAL": {
+    "def": "",
+    "translations": {}
+  },
+  "REY": {
+    "def": "",
+    "translations": {}
+  },
+  "ARMA": {
+    "def": "",
+    "translations": {}
+  },
+  "MES": {
+    "def": "",
+    "translations": {}
+  },
+  "NUEVA": {
+    "def": "",
+    "translations": {}
+  },
+  "NUEVAS": {
+    "def": "",
+    "translations": {}
+  },
+  "CLUB": {
+    "def": "",
+    "translations": {}
+  },
+  "PIE": {
+    "def": "",
+    "translations": {}
+  },
+  "ZONA": {
+    "def": "",
+    "translations": {}
+  },
+  "TREN": {
+    "def": "",
+    "translations": {}
+  },
+  "LEER": {
+    "def": "",
+    "translations": {}
+  },
+  "REAL": {
+    "def": "",
+    "translations": {}
+  },
+  "SOL": {
+    "def": "",
+    "translations": {}
+  },
+  "HABER": {
+    "def": "",
+    "translations": {}
+  },
+  "TENER": {
+    "def": "",
+    "translations": {}
+  },
+  "PODER": {
+    "def": "",
+    "translations": {}
+  },
+  "ESTO": {
+    "def": "",
+    "translations": {}
+  },
+  "QUUIEN": {
+    "def": "",
+    "translations": {}
+  },
+  "SIN": {
+    "def": "",
+    "translations": {}
+  },
+  "SOBRE": {
+    "def": "",
+    "translations": {}
+  },
+  "USTED": {
+    "def": "",
+    "translations": {}
+  },
+  "ENTRE": {
+    "def": "",
+    "translations": {}
+  },
+  "PADRE": {
+    "def": "",
+    "translations": {}
+  },
+  "VIDA": {
+    "def": "",
+    "translations": {}
+  },
+  "ELLOS": {
+    "def": "",
+    "translations": {}
+  },
+  "LUGAR": {
+    "def": "",
+    "translations": {}
+  },
+  "MUNDO": {
+    "def": "",
+    "translations": {}
+  },
+  "TANTO": {
+    "def": "",
+    "translations": {}
+  },
+  "SALIR": {
+    "def": "",
+    "translations": {}
+  },
+  "MUJER": {
+    "def": "",
+    "translations": {}
+  },
+  "PAPA": {
+    "def": "",
+    "translations": {}
+  },
+  "MAMA": {
+    "def": "",
+    "translations": {}
+  },
+  "UNICO": {
+    "def": "",
+    "translations": {}
+  },
+  "VENIR": {
+    "def": "",
+    "translations": {}
+  },
+  "LLAMAR": {
+    "def": "",
+    "translations": {}
+  },
+  "RAZON": {
+    "def": "",
+    "translations": {}
+  },
+  "CHICA": {
+    "def": "",
+    "translations": {}
+  },
+  "VALER": {
+    "def": "",
+    "translations": {}
+  },
+  "VIEJO": {
+    "def": "",
+    "translations": {}
+  },
+  "FELIZ": {
+    "def": "",
+    "translations": {}
+  },
+  "GENTE": {
+    "def": "",
+    "translations": {}
+  },
+  "CUEPO": {
+    "def": "",
+    "translations": {}
+  },
+  "GUSTO": {
+    "def": "",
+    "translations": {}
+  },
+  "POBRE": {
+    "def": "",
+    "translations": {}
+  },
+  "NAV": {
+    "def": "",
+    "translations": {}
+  },
+  "PLAN": {
+    "def": "",
+    "translations": {}
+  },
+  "TRAJE": {
+    "def": "",
+    "translations": {}
+  },
+  "GRUPO": {
+    "def": "",
+    "translations": {}
+  },
+  "JUNTO": {
+    "def": "",
+    "translations": {}
+  },
+  "MITAD": {
+    "def": "",
+    "translations": {}
+  },
+  "LIBRO": {
+    "def": "",
+    "translations": {}
+  },
+  "ROPA": {
+    "def": "",
+    "translations": {}
+  },
+  "ABAJO": {
+    "def": "",
+    "translations": {}
+  },
+  "SEGUN": {
+    "def": "",
+    "translations": {}
+  },
+  "PAGAR": {
+    "def": "",
+    "translations": {}
+  },
+  "VIAJE": {
+    "def": "",
+    "translations": {}
+  },
+  "BAJA": {
+    "def": "",
+    "translations": {}
+  },
+  "MODO": {
+    "def": "",
+    "translations": {}
+  },
+  "AVION": {
+    "def": "",
+    "translations": {}
+  },
+  "MENTE": {
+    "def": "",
+    "translations": {}
+  },
+  "LIBRE": {
+    "def": "",
+    "translations": {}
+  },
+  "SANTO": {
+    "def": "",
+    "translations": {}
+  },
+  "NIVEL": {
+    "def": "",
+    "translations": {}
+  },
+  "RARO": {
+    "def": "",
+    "translations": {}
+  },
+  "FINAL": {
+    "def": "",
+    "translations": {}
+  },
+  "BASE": {
+    "def": "",
+    "translations": {}
+  },
+  "LUNA": {
+    "def": "",
+    "translations": {}
+  },
+  "OCHO": {
+    "def": "",
+    "translations": {}
+  },
+  "DAÑO": {
+    "def": "",
+    "translations": {}
+  },
+  "PELO": {
+    "def": "",
+    "translations": {}
+  },
+  "VUELO": {
+    "def": "",
+    "translations": {}
+  },
+  "HOTEL": {
+    "def": "",
+    "translations": {}
+  },
+  "HONOR": {
+    "def": "",
+    "translations": {}
+  },
+  "PISO": {
+    "def": "",
+    "translations": {}
+  },
+  "RAYO": {
+    "def": "",
+    "translations": {}
+  },
+  "CULO": {
+    "def": "",
+    "translations": {}
+  },
+  "ERROR": {
+    "def": "",
+    "translations": {}
+  },
+  "BAÑO": {
+    "def": "",
+    "translations": {}
+  },
+  "GANA": {
+    "def": "",
+    "translations": {}
+  },
+  "SURN": {
+    "def": "",
+    "translations": {}
+  },
+  "ISLA": {
+    "def": "",
+    "translations": {}
+  },
+  "ORO": {
+    "def": "",
+    "translations": {}
+  },
+  "MAR": {
+    "def": "",
+    "translations": {}
+  },
+  "ÁREA": {
+    "def": "",
+    "translations": {}
+  },
+  "NENA": {
+    "def": "",
+    "translations": {}
+  },
+  "NOTA": {
+    "def": "",
+    "translations": {}
+  },
+  "ROJO": {
+    "def": "",
+    "translations": {}
+  },
+  "OLER": {
+    "def": "",
+    "translations": {}
+  },
+  "LOCA": {
+    "def": "",
+    "translations": {}
+  },
+  "MAPA": {
+    "def": "",
+    "translations": {}
+  },
+  "TAZA": {
+    "def": "",
+    "translations": {}
+  },
+  "ALTA": {
+    "def": "",
+    "translations": {}
+  },
+  "RIC": {
+    "def": "",
+    "translations": {}
+  },
+  "RATO": {
+    "def": "",
+    "translations": {}
+  },
+  "ROBO": {
+    "def": "",
+    "translations": {}
+  },
+  "DOLER": {
+    "def": "",
+    "translations": {}
+  },
+  "SUBIR": {
+    "def": "",
+    "translations": {}
+  },
+  "CANAL": {
+    "def": "",
+    "translations": {}
+  },
+  "VERDE": {
+    "def": "",
+    "translations": {}
+  },
+  "LISTO": {
+    "def": "",
+    "translations": {}
+  },
+  "LISO": {
+    "def": "",
+    "translations": {}
+  },
+  "JUEZ": {
+    "def": "",
+    "translations": {}
+  },
+  "PRIMO": {
+    "def": "",
+    "translations": {}
+  },
+  "VALOR": {
+    "def": "",
+    "translations": {}
+  },
+  "MANDO": {
+    "def": "",
+    "translations": {}
+  },
+  "FRÍO": {
+    "def": "",
+    "translations": {}
+  },
+  "REGLA": {
+    "def": "",
+    "translations": {}
+  },
+  "FONDO": {
+    "def": "",
+    "translations": {}
+  },
+  "TIRO": {
+    "def": "",
+    "translations": {}
+  },
+  "RICO": {
+    "def": "",
+    "translations": {}
+  },
+  "JODER": {
+    "def": "",
+    "translations": {}
+  },
+  "ROBAR": {
+    "def": "",
+    "translations": {}
+  },
+  "HOGAR": {
+    "def": "",
+    "translations": {}
+  },
+  "DUEÑO": {
+    "def": "",
+    "translations": {}
+  },
+  "PISTA": {
+    "def": "",
+    "translations": {}
+  },
+  "PAN": {
+    "def": "",
+    "translations": {}
+  },
+  "BALA": {
+    "def": "",
+    "translations": {}
+  },
+  "PESO": {
+    "def": "",
+    "translations": {}
+  },
+  "LÍDER": {
+    "def": "",
+    "translations": {}
+  },
+  "TEMA": {
+    "def": "",
+    "translations": {}
+  },
+  "HEROE": {
+    "def": "",
+    "translations": {}
+  },
+  "COÑO": {
+    "def": "",
+    "translations": {}
+  },
+  "CATOR": {
+    "def": "",
+    "translations": {}
+  },
+  "CORTA": {
+    "def": "",
+    "translations": {}
+  },
+  "RADIO": {
+    "def": "",
+    "translations": {}
+  },
+  "REDEL": {
+    "def": "",
+    "translations": {}
+  },
+  "LLAVE": {
+    "def": "",
+    "translations": {}
+  },
+  "PIPEL": {
+    "def": "",
+    "translations": {}
+  },
+  "PANEL": {
+    "def": "",
+    "translations": {}
+  },
+  "DUDAS": {
+    "def": "",
+    "translations": {}
+  },
+  "NOTAS": {
+    "def": "",
+    "translations": {}
+  },
+  "NUEVE": {
+    "def": "",
+    "translations": {}
   }
 }

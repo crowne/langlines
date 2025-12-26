@@ -1365,6 +1365,12 @@
     "def": "",
     "translations": {}
   },
+  "DOE": {
+    "def": "A deer, a female deer",
+    "translations": {
+      "es": ""
+    }
+  },
   "DOG": {
     "def": "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractile claws, and a barking, howling, or whining voice.",
     "translations": {
@@ -7184,8 +7190,16 @@
     }
   },
   "TIP": {
-    "def": "",
-    "translations": {}
+    "def": "A suggestion or piece of advice.",
+    "translations": {
+      "es": "CONSEJO"
+    }
+  },
+  "TIPS": {
+    "def": "A suggestion or piece of advice.",
+    "translations": {
+      "es": "CONSEJO"
+    }
   },
   "TIRE": {
     "def": "",
@@ -7710,6 +7724,14 @@
     "translations": {}
   },
   "WAD": {
+    "def": "",
+    "translations": {}
+  },
+  "WADE": {
+    "def": "",
+    "translations": {}
+  },
+  "WADED": {
     "def": "",
     "translations": {}
   },
@@ -8342,6 +8364,6130 @@
     "translations": {}
   },
   "ZUZ": {
+    "def": "",
+    "translations": {}
+  },
+  "ABBA": {
+    "def": "",
+    "translations": {}
+  },
+  "ABBE": {
+    "def": "",
+    "translations": {}
+  },
+  "ABLY": {
+    "def": "",
+    "translations": {}
+  },
+  "ACES": {
+    "def": "",
+    "translations": {}
+  },
+  "ACHE": {
+    "def": "",
+    "translations": {}
+  },
+  "ACID": {
+    "def": "",
+    "translations": {}
+  },
+  "ACME": {
+    "def": "",
+    "translations": {}
+  },
+  "ACNE": {
+    "def": "",
+    "translations": {}
+  },
+  "ACRE": {
+    "def": "",
+    "translations": {}
+  },
+  "ACTA": {
+    "def": "",
+    "translations": {}
+  },
+  "ACTS": {
+    "def": "",
+    "translations": {}
+  },
+  "ACYL": {
+    "def": "",
+    "translations": {}
+  },
+  "ADDS": {
+    "def": "",
+    "translations": {}
+  },
+  "AERO": {
+    "def": "",
+    "translations": {}
+  },
+  "AFAR": {
+    "def": "",
+    "translations": {}
+  },
+  "AFRO": {
+    "def": "",
+    "translations": {}
+  },
+  "AGAR": {
+    "def": "",
+    "translations": {}
+  },
+  "AGED": {
+    "def": "",
+    "translations": {}
+  },
+  "AGER": {
+    "def": "",
+    "translations": {}
+  },
+  "AGES": {
+    "def": "",
+    "translations": {}
+  },
+  "AIDA": {
+    "def": "",
+    "translations": {}
+  },
+  "AIDE": {
+    "def": "",
+    "translations": {}
+  },
+  "AIDS": {
+    "def": "",
+    "translations": {}
+  },
+  "AIMS": {
+    "def": "",
+    "translations": {}
+  },
+  "AIRS": {
+    "def": "",
+    "translations": {}
+  },
+  "AIRY": {
+    "def": "",
+    "translations": {}
+  },
+  "AJAR": {
+    "def": "",
+    "translations": {}
+  },
+  "AKIN": {
+    "def": "",
+    "translations": {}
+  },
+  "ALAN": {
+    "def": "",
+    "translations": {}
+  },
+  "ALAS": {
+    "def": "",
+    "translations": {}
+  },
+  "ALBA": {
+    "def": "",
+    "translations": {}
+  },
+  "ALEC": {
+    "def": "",
+    "translations": {}
+  },
+  "ALFA": {
+    "def": "",
+    "translations": {}
+  },
+  "ALGA": {
+    "def": "",
+    "translations": {}
+  },
+  "ALLY": {
+    "def": "",
+    "translations": {}
+  },
+  "ALMA": {
+    "def": "",
+    "translations": {}
+  },
+  "ALMS": {
+    "def": "",
+    "translations": {}
+  },
+  "ALOE": {
+    "def": "",
+    "translations": {}
+  },
+  "ALPS": {
+    "def": "",
+    "translations": {}
+  },
+  "ALTO": {
+    "def": "",
+    "translations": {}
+  },
+  "ALUM": {
+    "def": "",
+    "translations": {}
+  },
+  "AMEN": {
+    "def": "",
+    "translations": {}
+  },
+  "AMES": {
+    "def": "",
+    "translations": {}
+  },
+  "AMID": {
+    "def": "",
+    "translations": {}
+  },
+  "AMIN": {
+    "def": "",
+    "translations": {}
+  },
+  "AMIR": {
+    "def": "",
+    "translations": {}
+  },
+  "AMIS": {
+    "def": "",
+    "translations": {}
+  },
+  "AMMO": {
+    "def": "",
+    "translations": {}
+  },
+  "AMPS": {
+    "def": "",
+    "translations": {}
+  },
+  "ANAL": {
+    "def": "",
+    "translations": {}
+  },
+  "ANCE": {
+    "def": "",
+    "translations": {}
+  },
+  "ANEW": {
+    "def": "",
+    "translations": {}
+  },
+  "ANNA": {
+    "def": "",
+    "translations": {}
+  },
+  "ANNO": {
+    "def": "",
+    "translations": {}
+  },
+  "ANON": {
+    "def": "",
+    "translations": {}
+  },
+  "ANTE": {
+    "def": "",
+    "translations": {}
+  },
+  "ANTI": {
+    "def": "",
+    "translations": {}
+  },
+  "ANTS": {
+    "def": "",
+    "translations": {}
+  },
+  "ANUS": {
+    "def": "",
+    "translations": {}
+  },
+  "APES": {
+    "def": "",
+    "translations": {}
+  },
+  "APEX": {
+    "def": "",
+    "translations": {}
+  },
+  "APSE": {
+    "def": "",
+    "translations": {}
+  },
+  "AQUA": {
+    "def": "",
+    "translations": {}
+  },
+  "ARCH": {
+    "def": "",
+    "translations": {}
+  },
+  "ARCO": {
+    "def": "",
+    "translations": {}
+  },
+  "ARCS": {
+    "def": "",
+    "translations": {}
+  },
+  "ARDS": {
+    "def": "",
+    "translations": {}
+  },
+  "ARES": {
+    "def": "",
+    "translations": {}
+  },
+  "ARIA": {
+    "def": "",
+    "translations": {}
+  },
+  "ARID": {
+    "def": "",
+    "translations": {}
+  },
+  "ARMS": {
+    "def": "",
+    "translations": {}
+  },
+  "ARMY": {
+    "def": "",
+    "translations": {}
+  },
+  "ARSE": {
+    "def": "",
+    "translations": {}
+  },
+  "ARTS": {
+    "def": "",
+    "translations": {}
+  },
+  "ASKS": {
+    "def": "",
+    "translations": {}
+  },
+  "ATOM": {
+    "def": "",
+    "translations": {}
+  },
+  "ATOP": {
+    "def": "",
+    "translations": {}
+  },
+  "AULD": {
+    "def": "",
+    "translations": {}
+  },
+  "AUNT": {
+    "def": "",
+    "translations": {}
+  },
+  "AURA": {
+    "def": "",
+    "translations": {}
+  },
+  "AUTO": {
+    "def": "",
+    "translations": {}
+  },
+  "AVER": {
+    "def": "",
+    "translations": {}
+  },
+  "AVID": {
+    "def": "",
+    "translations": {}
+  },
+  "AWED": {
+    "def": "",
+    "translations": {}
+  },
+  "AWRY": {
+    "def": "",
+    "translations": {}
+  },
+  "AXEL": {
+    "def": "",
+    "translations": {}
+  },
+  "AXES": {
+    "def": "",
+    "translations": {}
+  },
+  "AXIS": {
+    "def": "",
+    "translations": {}
+  },
+  "AXLE": {
+    "def": "",
+    "translations": {}
+  },
+  "AXON": {
+    "def": "",
+    "translations": {}
+  },
+  "BAAL": {
+    "def": "",
+    "translations": {}
+  },
+  "BABA": {
+    "def": "",
+    "translations": {}
+  },
+  "BABE": {
+    "def": "",
+    "translations": {}
+  },
+  "BABU": {
+    "def": "",
+    "translations": {}
+  },
+  "BACH": {
+    "def": "",
+    "translations": {}
+  },
+  "BADE": {
+    "def": "",
+    "translations": {}
+  },
+  "BAGS": {
+    "def": "",
+    "translations": {}
+  },
+  "BAHT": {
+    "def": "",
+    "translations": {}
+  },
+  "BAIL": {
+    "def": "",
+    "translations": {}
+  },
+  "BAIT": {
+    "def": "",
+    "translations": {}
+  },
+  "BAKE": {
+    "def": "",
+    "translations": {}
+  },
+  "BALD": {
+    "def": "",
+    "translations": {}
+  },
+  "BALE": {
+    "def": "",
+    "translations": {}
+  },
+  "BALK": {
+    "def": "",
+    "translations": {}
+  },
+  "BALM": {
+    "def": "",
+    "translations": {}
+  },
+  "BAND": {
+    "def": "",
+    "translations": {}
+  },
+  "BANE": {
+    "def": "",
+    "translations": {}
+  },
+  "BANG": {
+    "def": "",
+    "translations": {}
+  },
+  "BANS": {
+    "def": "",
+    "translations": {}
+  },
+  "BAPU": {
+    "def": "",
+    "translations": {}
+  },
+  "BARB": {
+    "def": "",
+    "translations": {}
+  },
+  "BARD": {
+    "def": "",
+    "translations": {}
+  },
+  "BARE": {
+    "def": "",
+    "translations": {}
+  },
+  "BARK": {
+    "def": "",
+    "translations": {}
+  },
+  "BARN": {
+    "def": "",
+    "translations": {}
+  },
+  "BARS": {
+    "def": "",
+    "translations": {}
+  },
+  "BASH": {
+    "def": "",
+    "translations": {}
+  },
+  "BASK": {
+    "def": "",
+    "translations": {}
+  },
+  "BASS": {
+    "def": "",
+    "translations": {}
+  },
+  "BAST": {
+    "def": "",
+    "translations": {}
+  },
+  "BATE": {
+    "def": "",
+    "translations": {}
+  },
+  "BATH": {
+    "def": "",
+    "translations": {}
+  },
+  "BATS": {
+    "def": "",
+    "translations": {}
+  },
+  "BAUD": {
+    "def": "",
+    "translations": {}
+  },
+  "BAYS": {
+    "def": "",
+    "translations": {}
+  },
+  "BEAD": {
+    "def": "",
+    "translations": {}
+  },
+  "BEAK": {
+    "def": "",
+    "translations": {}
+  },
+  "BEAM": {
+    "def": "",
+    "translations": {}
+  },
+  "BEAN": {
+    "def": "",
+    "translations": {}
+  },
+  "BEAU": {
+    "def": "",
+    "translations": {}
+  },
+  "BECK": {
+    "def": "",
+    "translations": {}
+  },
+  "BEDE": {
+    "def": "",
+    "translations": {}
+  },
+  "BEDS": {
+    "def": "",
+    "translations": {}
+  },
+  "BEEF": {
+    "def": "",
+    "translations": {}
+  },
+  "BEEN": {
+    "def": "",
+    "translations": {}
+  },
+  "BEEP": {
+    "def": "",
+    "translations": {}
+  },
+  "BEER": {
+    "def": "",
+    "translations": {}
+  },
+  "BEES": {
+    "def": "",
+    "translations": {}
+  },
+  "BEET": {
+    "def": "",
+    "translations": {}
+  },
+  "BEGS": {
+    "def": "",
+    "translations": {}
+  },
+  "BEIN": {
+    "def": "",
+    "translations": {}
+  },
+  "BELL": {
+    "def": "",
+    "translations": {}
+  },
+  "BELT": {
+    "def": "",
+    "translations": {}
+  },
+  "BEND": {
+    "def": "",
+    "translations": {}
+  },
+  "BENE": {
+    "def": "",
+    "translations": {}
+  },
+  "BENI": {
+    "def": "",
+    "translations": {}
+  },
+  "BENT": {
+    "def": "",
+    "translations": {}
+  },
+  "BERG": {
+    "def": "",
+    "translations": {}
+  },
+  "BETA": {
+    "def": "",
+    "translations": {}
+  },
+  "BETH": {
+    "def": "",
+    "translations": {}
+  },
+  "BETS": {
+    "def": "",
+    "translations": {}
+  },
+  "BHAI": {
+    "def": "",
+    "translations": {}
+  },
+  "BIAS": {
+    "def": "",
+    "translations": {}
+  },
+  "BIDE": {
+    "def": "",
+    "translations": {}
+  },
+  "BIDS": {
+    "def": "",
+    "translations": {}
+  },
+  "BIEN": {
+    "def": "",
+    "translations": {}
+  },
+  "BIER": {
+    "def": "",
+    "translations": {}
+  },
+  "BIKE": {
+    "def": "",
+    "translations": {}
+  },
+  "BILE": {
+    "def": "",
+    "translations": {}
+  },
+  "BIND": {
+    "def": "",
+    "translations": {}
+  },
+  "BING": {
+    "def": "",
+    "translations": {}
+  },
+  "BINS": {
+    "def": "",
+    "translations": {}
+  },
+  "BIOS": {
+    "def": "",
+    "translations": {}
+  },
+  "BIRD": {
+    "def": "",
+    "translations": {}
+  },
+  "BITE": {
+    "def": "",
+    "translations": {}
+  },
+  "BITS": {
+    "def": "",
+    "translations": {}
+  },
+  "BLAH": {
+    "def": "",
+    "translations": {}
+  },
+  "BLED": {
+    "def": "",
+    "translations": {}
+  },
+  "BLEW": {
+    "def": "",
+    "translations": {}
+  },
+  "BLOB": {
+    "def": "",
+    "translations": {}
+  },
+  "BLOC": {
+    "def": "",
+    "translations": {}
+  },
+  "BLOG": {
+    "def": "",
+    "translations": {}
+  },
+  "BLOT": {
+    "def": "",
+    "translations": {}
+  },
+  "BLUR": {
+    "def": "",
+    "translations": {}
+  },
+  "BOAR": {
+    "def": "",
+    "translations": {}
+  },
+  "BOAS": {
+    "def": "",
+    "translations": {}
+  },
+  "BOCK": {
+    "def": "",
+    "translations": {}
+  },
+  "BODE": {
+    "def": "",
+    "translations": {}
+  },
+  "BOGS": {
+    "def": "",
+    "translations": {}
+  },
+  "BOIL": {
+    "def": "",
+    "translations": {}
+  },
+  "BOIS": {
+    "def": "",
+    "translations": {}
+  },
+  "BOLD": {
+    "def": "",
+    "translations": {}
+  },
+  "BOLL": {
+    "def": "",
+    "translations": {}
+  },
+  "BOLT": {
+    "def": "",
+    "translations": {}
+  },
+  "BOMB": {
+    "def": "",
+    "translations": {}
+  },
+  "BONA": {
+    "def": "",
+    "translations": {}
+  },
+  "BOND": {
+    "def": "",
+    "translations": {}
+  },
+  "BONE": {
+    "def": "",
+    "translations": {}
+  },
+  "BONY": {
+    "def": "",
+    "translations": {}
+  },
+  "BOOL": {
+    "def": "",
+    "translations": {}
+  },
+  "BOOM": {
+    "def": "",
+    "translations": {}
+  },
+  "BOON": {
+    "def": "",
+    "translations": {}
+  },
+  "BOOT": {
+    "def": "",
+    "translations": {}
+  },
+  "BORA": {
+    "def": "",
+    "translations": {}
+  },
+  "BORE": {
+    "def": "",
+    "translations": {}
+  },
+  "BORN": {
+    "def": "",
+    "translations": {}
+  },
+  "BOSS": {
+    "def": "",
+    "translations": {}
+  },
+  "BOUT": {
+    "def": "",
+    "translations": {}
+  },
+  "BOWL": {
+    "def": "",
+    "translations": {}
+  },
+  "BOWS": {
+    "def": "",
+    "translations": {}
+  },
+  "BOYS": {
+    "def": "",
+    "translations": {}
+  },
+  "BRAD": {
+    "def": "",
+    "translations": {}
+  },
+  "BRAG": {
+    "def": "",
+    "translations": {}
+  },
+  "BRAN": {
+    "def": "",
+    "translations": {}
+  },
+  "BRAS": {
+    "def": "",
+    "translations": {}
+  },
+  "BRAT": {
+    "def": "",
+    "translations": {}
+  },
+  "BRAY": {
+    "def": "",
+    "translations": {}
+  },
+  "BRED": {
+    "def": "",
+    "translations": {}
+  },
+  "BREW": {
+    "def": "",
+    "translations": {}
+  },
+  "BRIG": {
+    "def": "",
+    "translations": {}
+  },
+  "BRIM": {
+    "def": "",
+    "translations": {}
+  },
+  "BRIT": {
+    "def": "",
+    "translations": {}
+  },
+  "BROS": {
+    "def": "",
+    "translations": {}
+  },
+  "BROW": {
+    "def": "",
+    "translations": {}
+  },
+  "BUCK": {
+    "def": "",
+    "translations": {}
+  },
+  "BUDS": {
+    "def": "",
+    "translations": {}
+  },
+  "BUFF": {
+    "def": "",
+    "translations": {}
+  },
+  "BUGS": {
+    "def": "",
+    "translations": {}
+  },
+  "BULB": {
+    "def": "",
+    "translations": {}
+  },
+  "BULK": {
+    "def": "",
+    "translations": {}
+  },
+  "BULL": {
+    "def": "",
+    "translations": {}
+  },
+  "BUMP": {
+    "def": "",
+    "translations": {}
+  },
+  "BUMS": {
+    "def": "",
+    "translations": {}
+  },
+  "BUND": {
+    "def": "",
+    "translations": {}
+  },
+  "BUNK": {
+    "def": "",
+    "translations": {}
+  },
+  "BUNS": {
+    "def": "",
+    "translations": {}
+  },
+  "BUOY": {
+    "def": "",
+    "translations": {}
+  },
+  "BURG": {
+    "def": "",
+    "translations": {}
+  },
+  "BURN": {
+    "def": "",
+    "translations": {}
+  },
+  "BURR": {
+    "def": "",
+    "translations": {}
+  },
+  "BURY": {
+    "def": "",
+    "translations": {}
+  },
+  "BUSH": {
+    "def": "",
+    "translations": {}
+  },
+  "BUSS": {
+    "def": "",
+    "translations": {}
+  },
+  "BUST": {
+    "def": "",
+    "translations": {}
+  },
+  "BUTE": {
+    "def": "",
+    "translations": {}
+  },
+  "BUTT": {
+    "def": "",
+    "translations": {}
+  },
+  "BUYS": {
+    "def": "",
+    "translations": {}
+  },
+  "BUZZ": {
+    "def": "",
+    "translations": {}
+  },
+  "BYTE": {
+    "def": "",
+    "translations": {}
+  },
+  "CABS": {
+    "def": "",
+    "translations": {}
+  },
+  "CADE": {
+    "def": "",
+    "translations": {}
+  },
+  "CAFE": {
+    "def": "",
+    "translations": {}
+  },
+  "CAGE": {
+    "def": "",
+    "translations": {}
+  },
+  "CAIN": {
+    "def": "",
+    "translations": {}
+  },
+  "CALF": {
+    "def": "",
+    "translations": {}
+  },
+  "CALM": {
+    "def": "",
+    "translations": {}
+  },
+  "CAME": {
+    "def": "",
+    "translations": {}
+  },
+  "CAMP": {
+    "def": "",
+    "translations": {}
+  },
+  "CAMS": {
+    "def": "",
+    "translations": {}
+  },
+  "CANE": {
+    "def": "",
+    "translations": {}
+  },
+  "CANS": {
+    "def": "",
+    "translations": {}
+  },
+  "CANT": {
+    "def": "",
+    "translations": {}
+  },
+  "CAPE": {
+    "def": "",
+    "translations": {}
+  },
+  "CAPO": {
+    "def": "",
+    "translations": {}
+  },
+  "CAPS": {
+    "def": "",
+    "translations": {}
+  },
+  "CARL": {
+    "def": "",
+    "translations": {}
+  },
+  "CARP": {
+    "def": "",
+    "translations": {}
+  },
+  "CARR": {
+    "def": "",
+    "translations": {}
+  },
+  "CARS": {
+    "def": "",
+    "translations": {}
+  },
+  "CART": {
+    "def": "",
+    "translations": {}
+  },
+  "CASA": {
+    "def": "",
+    "translations": {}
+  },
+  "CASH": {
+    "def": "",
+    "translations": {}
+  },
+  "CASK": {
+    "def": "",
+    "translations": {}
+  },
+  "CAST": {
+    "def": "",
+    "translations": {}
+  },
+  "CATE": {
+    "def": "",
+    "translations": {}
+  },
+  "CATS": {
+    "def": "",
+    "translations": {}
+  },
+  "CAVA": {
+    "def": "",
+    "translations": {}
+  },
+  "CAVE": {
+    "def": "",
+    "translations": {}
+  },
+  "CEDE": {
+    "def": "",
+    "translations": {}
+  },
+  "CELL": {
+    "def": "",
+    "translations": {}
+  },
+  "CERT": {
+    "def": "",
+    "translations": {}
+  },
+  "CESS": {
+    "def": "",
+    "translations": {}
+  },
+  "CHAD": {
+    "def": "",
+    "translations": {}
+  },
+  "CHAI": {
+    "def": "",
+    "translations": {}
+  },
+  "CHAM": {
+    "def": "",
+    "translations": {}
+  },
+  "CHAO": {
+    "def": "",
+    "translations": {}
+  },
+  "CHAR": {
+    "def": "",
+    "translations": {}
+  },
+  "CHAS": {
+    "def": "",
+    "translations": {}
+  },
+  "CHAT": {
+    "def": "",
+    "translations": {}
+  },
+  "CHEF": {
+    "def": "",
+    "translations": {}
+  },
+  "CHER": {
+    "def": "",
+    "translations": {}
+  },
+  "CHEW": {
+    "def": "",
+    "translations": {}
+  },
+  "CHEZ": {
+    "def": "",
+    "translations": {}
+  },
+  "CHIA": {
+    "def": "",
+    "translations": {}
+  },
+  "CHIC": {
+    "def": "",
+    "translations": {}
+  },
+  "CHIN": {
+    "def": "",
+    "translations": {}
+  },
+  "CHIP": {
+    "def": "",
+    "translations": {}
+  },
+  "CHIT": {
+    "def": "",
+    "translations": {}
+  },
+  "CHOP": {
+    "def": "",
+    "translations": {}
+  },
+  "CHOU": {
+    "def": "",
+    "translations": {}
+  },
+  "CHOW": {
+    "def": "",
+    "translations": {}
+  },
+  "CHUM": {
+    "def": "",
+    "translations": {}
+  },
+  "CINE": {
+    "def": "",
+    "translations": {}
+  },
+  "CITE": {
+    "def": "",
+    "translations": {}
+  },
+  "CLAD": {
+    "def": "",
+    "translations": {}
+  },
+  "CLAM": {
+    "def": "",
+    "translations": {}
+  },
+  "CLAN": {
+    "def": "",
+    "translations": {}
+  },
+  "CLAP": {
+    "def": "",
+    "translations": {}
+  },
+  "CLAW": {
+    "def": "",
+    "translations": {}
+  },
+  "CLAY": {
+    "def": "",
+    "translations": {}
+  },
+  "CLEM": {
+    "def": "",
+    "translations": {}
+  },
+  "CLIP": {
+    "def": "",
+    "translations": {}
+  },
+  "CLOG": {
+    "def": "",
+    "translations": {}
+  },
+  "CLOT": {
+    "def": "",
+    "translations": {}
+  },
+  "CLUE": {
+    "def": "",
+    "translations": {}
+  },
+  "COAL": {
+    "def": "",
+    "translations": {}
+  },
+  "COAT": {
+    "def": "",
+    "translations": {}
+  },
+  "COAX": {
+    "def": "",
+    "translations": {}
+  },
+  "COBB": {
+    "def": "",
+    "translations": {}
+  },
+  "COCA": {
+    "def": "",
+    "translations": {}
+  },
+  "COCK": {
+    "def": "",
+    "translations": {}
+  },
+  "COCO": {
+    "def": "",
+    "translations": {}
+  },
+  "CODA": {
+    "def": "",
+    "translations": {}
+  },
+  "CODE": {
+    "def": "",
+    "translations": {}
+  },
+  "COED": {
+    "def": "",
+    "translations": {}
+  },
+  "COIL": {
+    "def": "",
+    "translations": {}
+  },
+  "COIN": {
+    "def": "",
+    "translations": {}
+  },
+  "COKE": {
+    "def": "",
+    "translations": {}
+  },
+  "COLA": {
+    "def": "",
+    "translations": {}
+  },
+  "COLE": {
+    "def": "",
+    "translations": {}
+  },
+  "COLL": {
+    "def": "",
+    "translations": {}
+  },
+  "COLS": {
+    "def": "",
+    "translations": {}
+  },
+  "COLT": {
+    "def": "",
+    "translations": {}
+  },
+  "COMA": {
+    "def": "",
+    "translations": {}
+  },
+  "COMB": {
+    "def": "",
+    "translations": {}
+  },
+  "COMM": {
+    "def": "",
+    "translations": {}
+  },
+  "COMP": {
+    "def": "",
+    "translations": {}
+  },
+  "COND": {
+    "def": "",
+    "translations": {}
+  },
+  "CONE": {
+    "def": "",
+    "translations": {}
+  },
+  "CONF": {
+    "def": "",
+    "translations": {}
+  },
+  "CONN": {
+    "def": "",
+    "translations": {}
+  },
+  "CONS": {
+    "def": "",
+    "translations": {}
+  },
+  "COOL": {
+    "def": "",
+    "translations": {}
+  },
+  "COON": {
+    "def": "",
+    "translations": {}
+  },
+  "COOP": {
+    "def": "",
+    "translations": {}
+  },
+  "COPE": {
+    "def": "",
+    "translations": {}
+  },
+  "COPS": {
+    "def": "",
+    "translations": {}
+  },
+  "CORD": {
+    "def": "",
+    "translations": {}
+  },
+  "CORE": {
+    "def": "",
+    "translations": {}
+  },
+  "CORK": {
+    "def": "",
+    "translations": {}
+  },
+  "CORN": {
+    "def": "",
+    "translations": {}
+  },
+  "CORY": {
+    "def": "",
+    "translations": {}
+  },
+  "COSY": {
+    "def": "",
+    "translations": {}
+  },
+  "COTE": {
+    "def": "",
+    "translations": {}
+  },
+  "COUP": {
+    "def": "",
+    "translations": {}
+  },
+  "COUR": {
+    "def": "",
+    "translations": {}
+  },
+  "COVE": {
+    "def": "",
+    "translations": {}
+  },
+  "COWS": {
+    "def": "",
+    "translations": {}
+  },
+  "COZY": {
+    "def": "",
+    "translations": {}
+  },
+  "CRAB": {
+    "def": "",
+    "translations": {}
+  },
+  "CRAG": {
+    "def": "",
+    "translations": {}
+  },
+  "CRAM": {
+    "def": "",
+    "translations": {}
+  },
+  "CRAP": {
+    "def": "",
+    "translations": {}
+  },
+  "CRAY": {
+    "def": "",
+    "translations": {}
+  },
+  "CREE": {
+    "def": "",
+    "translations": {}
+  },
+  "CREW": {
+    "def": "",
+    "translations": {}
+  },
+  "CRIB": {
+    "def": "",
+    "translations": {}
+  },
+  "CRIM": {
+    "def": "",
+    "translations": {}
+  },
+  "CRIT": {
+    "def": "",
+    "translations": {}
+  },
+  "CROP": {
+    "def": "",
+    "translations": {}
+  },
+  "CROW": {
+    "def": "",
+    "translations": {}
+  },
+  "CRUX": {
+    "def": "",
+    "translations": {}
+  },
+  "CUBE": {
+    "def": "",
+    "translations": {}
+  },
+  "CUBS": {
+    "def": "",
+    "translations": {}
+  },
+  "CUES": {
+    "def": "",
+    "translations": {}
+  },
+  "CUFF": {
+    "def": "",
+    "translations": {}
+  },
+  "CULT": {
+    "def": "",
+    "translations": {}
+  },
+  "CUNT": {
+    "def": "",
+    "translations": {}
+  },
+  "CUPS": {
+    "def": "",
+    "translations": {}
+  },
+  "CURB": {
+    "def": "",
+    "translations": {}
+  },
+  "CURD": {
+    "def": "",
+    "translations": {}
+  },
+  "CURE": {
+    "def": "",
+    "translations": {}
+  },
+  "CURL": {
+    "def": "",
+    "translations": {}
+  },
+  "CURR": {
+    "def": "",
+    "translations": {}
+  },
+  "CURT": {
+    "def": "",
+    "translations": {}
+  },
+  "CUSP": {
+    "def": "",
+    "translations": {}
+  },
+  "CUTE": {
+    "def": "",
+    "translations": {}
+  },
+  "CUTS": {
+    "def": "",
+    "translations": {}
+  },
+  "CYST": {
+    "def": "",
+    "translations": {}
+  },
+  "CZAR": {
+    "def": "",
+    "translations": {}
+  },
+  "DADA": {
+    "def": "",
+    "translations": {}
+  },
+  "DAFT": {
+    "def": "",
+    "translations": {}
+  },
+  "DAHL": {
+    "def": "",
+    "translations": {}
+  },
+  "DAIS": {
+    "def": "",
+    "translations": {}
+  },
+  "DALE": {
+    "def": "",
+    "translations": {}
+  },
+  "DALI": {
+    "def": "",
+    "translations": {}
+  },
+  "DAME": {
+    "def": "",
+    "translations": {}
+  },
+  "DAMN": {
+    "def": "",
+    "translations": {}
+  },
+  "DAMP": {
+    "def": "",
+    "translations": {}
+  },
+  "DAMS": {
+    "def": "",
+    "translations": {}
+  },
+  "DANG": {
+    "def": "",
+    "translations": {}
+  },
+  "DANK": {
+    "def": "",
+    "translations": {}
+  },
+  "DANS": {
+    "def": "",
+    "translations": {}
+  },
+  "DARE": {
+    "def": "",
+    "translations": {}
+  },
+  "DARK": {
+    "def": "",
+    "translations": {}
+  },
+  "DARN": {
+    "def": "",
+    "translations": {}
+  },
+  "DART": {
+    "def": "",
+    "translations": {}
+  },
+  "DASH": {
+    "def": "",
+    "translations": {}
+  },
+  "DATA": {
+    "def": "",
+    "translations": {}
+  },
+  "DAVY": {
+    "def": "",
+    "translations": {}
+  },
+  "DAWN": {
+    "def": "",
+    "translations": {}
+  },
+  "DAYS": {
+    "def": "",
+    "translations": {}
+  },
+  "DAZE": {
+    "def": "",
+    "translations": {}
+  },
+  "DEAF": {
+    "def": "",
+    "translations": {}
+  },
+  "DEAN": {
+    "def": "",
+    "translations": {}
+  },
+  "DEBS": {
+    "def": "",
+    "translations": {}
+  },
+  "DEBT": {
+    "def": "",
+    "translations": {}
+  },
+  "DECK": {
+    "def": "",
+    "translations": {}
+  },
+  "DECO": {
+    "def": "",
+    "translations": {}
+  },
+  "DEED": {
+    "def": "",
+    "translations": {}
+  },
+  "DEEM": {
+    "def": "",
+    "translations": {}
+  },
+  "DEER": {
+    "def": "",
+    "translations": {}
+  },
+  "DEFT": {
+    "def": "",
+    "translations": {}
+  },
+  "DEFY": {
+    "def": "",
+    "translations": {}
+  },
+  "DELI": {
+    "def": "",
+    "translations": {}
+  },
+  "DELL": {
+    "def": "",
+    "translations": {}
+  },
+  "DEMO": {
+    "def": "",
+    "translations": {}
+  },
+  "DENS": {
+    "def": "",
+    "translations": {}
+  },
+  "DENT": {
+    "def": "",
+    "translations": {}
+  },
+  "DENY": {
+    "def": "",
+    "translations": {}
+  },
+  "DERM": {
+    "def": "",
+    "translations": {}
+  },
+  "DESK": {
+    "def": "",
+    "translations": {}
+  },
+  "DEUS": {
+    "def": "",
+    "translations": {}
+  },
+  "DEVA": {
+    "def": "",
+    "translations": {}
+  },
+  "DIAL": {
+    "def": "",
+    "translations": {}
+  },
+  "DICE": {
+    "def": "",
+    "translations": {}
+  },
+  "DICK": {
+    "def": "",
+    "translations": {}
+  },
+  "DIDO": {
+    "def": "",
+    "translations": {}
+  },
+  "DIED": {
+    "def": "",
+    "translations": {}
+  },
+  "DIES": {
+    "def": "",
+    "translations": {}
+  },
+  "DIET": {
+    "def": "",
+    "translations": {}
+  },
+  "DIFF": {
+    "def": "",
+    "translations": {}
+  },
+  "DIGS": {
+    "def": "",
+    "translations": {}
+  },
+  "DIKE": {
+    "def": "",
+    "translations": {}
+  },
+  "DILL": {
+    "def": "",
+    "translations": {}
+  },
+  "DIME": {
+    "def": "",
+    "translations": {}
+  },
+  "DINE": {
+    "def": "",
+    "translations": {}
+  },
+  "DING": {
+    "def": "",
+    "translations": {}
+  },
+  "DINO": {
+    "def": "",
+    "translations": {}
+  },
+  "DINT": {
+    "def": "",
+    "translations": {}
+  },
+  "DIPS": {
+    "def": "",
+    "translations": {}
+  },
+  "DIRE": {
+    "def": "",
+    "translations": {}
+  },
+  "DIRK": {
+    "def": "",
+    "translations": {}
+  },
+  "DIRT": {
+    "def": "",
+    "translations": {}
+  },
+  "DISC": {
+    "def": "",
+    "translations": {}
+  },
+  "DISH": {
+    "def": "",
+    "translations": {}
+  },
+  "DISK": {
+    "def": "",
+    "translations": {}
+  },
+  "DISS": {
+    "def": "",
+    "translations": {}
+  },
+  "DIVE": {
+    "def": "",
+    "translations": {}
+  },
+  "DOCK": {
+    "def": "",
+    "translations": {}
+  },
+  "DOCS": {
+    "def": "",
+    "translations": {}
+  },
+  "DOER": {
+    "def": "",
+    "translations": {}
+  },
+  "DOES": {
+    "def": "",
+    "translations": {}
+  },
+  "DOGS": {
+    "def": "",
+    "translations": {}
+  },
+  "DOIT": {
+    "def": "",
+    "translations": {}
+  },
+  "DOLE": {
+    "def": "",
+    "translations": {}
+  },
+  "DOLL": {
+    "def": "",
+    "translations": {}
+  },
+  "DOME": {
+    "def": "",
+    "translations": {}
+  },
+  "DONA": {
+    "def": "",
+    "translations": {}
+  },
+  "DONE": {
+    "def": "",
+    "translations": {}
+  },
+  "DONG": {
+    "def": "",
+    "translations": {}
+  },
+  "DONS": {
+    "def": "",
+    "translations": {}
+  },
+  "DOOM": {
+    "def": "",
+    "translations": {}
+  },
+  "DOPA": {
+    "def": "",
+    "translations": {}
+  },
+  "DOPE": {
+    "def": "",
+    "translations": {}
+  },
+  "DORE": {
+    "def": "",
+    "translations": {}
+  },
+  "DORM": {
+    "def": "",
+    "translations": {}
+  },
+  "DOSE": {
+    "def": "",
+    "translations": {}
+  },
+  "DOST": {
+    "def": "",
+    "translations": {}
+  },
+  "DOTH": {
+    "def": "",
+    "translations": {}
+  },
+  "DOTY": {
+    "def": "",
+    "translations": {}
+  },
+  "DOUR": {
+    "def": "",
+    "translations": {}
+  },
+  "DOVE": {
+    "def": "",
+    "translations": {}
+  },
+  "DOZE": {
+    "def": "",
+    "translations": {}
+  },
+  "DRAB": {
+    "def": "",
+    "translations": {}
+  },
+  "DRAG": {
+    "def": "",
+    "translations": {}
+  },
+  "DRAM": {
+    "def": "",
+    "translations": {}
+  },
+  "DREW": {
+    "def": "",
+    "translations": {}
+  },
+  "DRIP": {
+    "def": "",
+    "translations": {}
+  },
+  "DRUG": {
+    "def": "",
+    "translations": {}
+  },
+  "DRUM": {
+    "def": "",
+    "translations": {}
+  },
+  "DUAL": {
+    "def": "",
+    "translations": {}
+  },
+  "DUCE": {
+    "def": "",
+    "translations": {}
+  },
+  "DUCK": {
+    "def": "",
+    "translations": {}
+  },
+  "DUCT": {
+    "def": "",
+    "translations": {}
+  },
+  "DUDE": {
+    "def": "",
+    "translations": {}
+  },
+  "DUEL": {
+    "def": "",
+    "translations": {}
+  },
+  "DUES": {
+    "def": "",
+    "translations": {}
+  },
+  "DUET": {
+    "def": "",
+    "translations": {}
+  },
+  "DUFF": {
+    "def": "",
+    "translations": {}
+  },
+  "DUKE": {
+    "def": "",
+    "translations": {}
+  },
+  "DULL": {
+    "def": "",
+    "translations": {}
+  },
+  "DULY": {
+    "def": "",
+    "translations": {}
+  },
+  "DUMA": {
+    "def": "",
+    "translations": {}
+  },
+  "DUMB": {
+    "def": "",
+    "translations": {}
+  },
+  "DUMP": {
+    "def": "",
+    "translations": {}
+  },
+  "DUNE": {
+    "def": "",
+    "translations": {}
+  },
+  "DUNG": {
+    "def": "",
+    "translations": {}
+  },
+  "DUNS": {
+    "def": "",
+    "translations": {}
+  },
+  "DUPE": {
+    "def": "",
+    "translations": {}
+  },
+  "DURA": {
+    "def": "",
+    "translations": {}
+  },
+  "DUSK": {
+    "def": "",
+    "translations": {}
+  },
+  "DUST": {
+    "def": "",
+    "translations": {}
+  },
+  "DUTY": {
+    "def": "",
+    "translations": {}
+  },
+  "DYAD": {
+    "def": "",
+    "translations": {}
+  },
+  "DYED": {
+    "def": "",
+    "translations": {}
+  },
+  "DYER": {
+    "def": "",
+    "translations": {}
+  },
+  "DYES": {
+    "def": "",
+    "translations": {}
+  },
+  "DYKE": {
+    "def": "",
+    "translations": {}
+  },
+  "EARL": {
+    "def": "",
+    "translations": {}
+  },
+  "EARN": {
+    "def": "",
+    "translations": {}
+  },
+  "EARS": {
+    "def": "",
+    "translations": {}
+  },
+  "EASE": {
+    "def": "",
+    "translations": {}
+  },
+  "EATS": {
+    "def": "",
+    "translations": {}
+  },
+  "ECHO": {
+    "def": "",
+    "translations": {}
+  },
+  "EDDY": {
+    "def": "",
+    "translations": {}
+  },
+  "EDGE": {
+    "def": "",
+    "translations": {}
+  },
+  "EDGY": {
+    "def": "",
+    "translations": {}
+  },
+  "EDIT": {
+    "def": "",
+    "translations": {}
+  },
+  "EELS": {
+    "def": "",
+    "translations": {}
+  },
+  "EGGS": {
+    "def": "",
+    "translations": {}
+  },
+  "EGOS": {
+    "def": "",
+    "translations": {}
+  },
+  "EINE": {
+    "def": "",
+    "translations": {}
+  },
+  "ELAN": {
+    "def": "",
+    "translations": {}
+  },
+  "ELMS": {
+    "def": "",
+    "translations": {}
+  },
+  "EMIR": {
+    "def": "",
+    "translations": {}
+  },
+  "EMIT": {
+    "def": "",
+    "translations": {}
+  },
+  "EMMA": {
+    "def": "",
+    "translations": {}
+  },
+  "EMMY": {
+    "def": "",
+    "translations": {}
+  },
+  "ENDS": {
+    "def": "",
+    "translations": {}
+  },
+  "ENVY": {
+    "def": "",
+    "translations": {}
+  },
+  "EPIC": {
+    "def": "",
+    "translations": {}
+  },
+  "ERAS": {
+    "def": "",
+    "translations": {}
+  },
+  "ERGO": {
+    "def": "",
+    "translations": {}
+  },
+  "ERIC": {
+    "def": "",
+    "translations": {}
+  },
+  "EROS": {
+    "def": "",
+    "translations": {}
+  },
+  "ERST": {
+    "def": "",
+    "translations": {}
+  },
+  "ESSE": {
+    "def": "",
+    "translations": {}
+  },
+  "ETAT": {
+    "def": "",
+    "translations": {}
+  },
+  "ETCH": {
+    "def": "",
+    "translations": {}
+  },
+  "EURO": {
+    "def": "",
+    "translations": {}
+  },
+  "EVIL": {
+    "def": "",
+    "translations": {}
+  },
+  "EWES": {
+    "def": "",
+    "translations": {}
+  },
+  "EXAM": {
+    "def": "",
+    "translations": {}
+  },
+  "EXEC": {
+    "def": "",
+    "translations": {}
+  },
+  "EXIT": {
+    "def": "",
+    "translations": {}
+  },
+  "EXON": {
+    "def": "",
+    "translations": {}
+  },
+  "EXPO": {
+    "def": "",
+    "translations": {}
+  },
+  "EYED": {
+    "def": "",
+    "translations": {}
+  },
+  "EYES": {
+    "def": "",
+    "translations": {}
+  },
+  "EYRE": {
+    "def": "",
+    "translations": {}
+  },
+  "FADE": {
+    "def": "",
+    "translations": {}
+  },
+  "FADS": {
+    "def": "",
+    "translations": {}
+  },
+  "FAIL": {
+    "def": "",
+    "translations": {}
+  },
+  "FAIN": {
+    "def": "",
+    "translations": {}
+  },
+  "FAKE": {
+    "def": "",
+    "translations": {}
+  },
+  "FAME": {
+    "def": "",
+    "translations": {}
+  },
+  "FANG": {
+    "def": "",
+    "translations": {}
+  },
+  "FANS": {
+    "def": "",
+    "translations": {}
+  },
+  "FARE": {
+    "def": "",
+    "translations": {}
+  },
+  "FART": {
+    "def": "",
+    "translations": {}
+  },
+  "FATE": {
+    "def": "",
+    "translations": {}
+  },
+  "FATS": {
+    "def": "",
+    "translations": {}
+  },
+  "FAUT": {
+    "def": "",
+    "translations": {}
+  },
+  "FAUX": {
+    "def": "",
+    "translations": {}
+  },
+  "FAWN": {
+    "def": "",
+    "translations": {}
+  },
+  "FEAT": {
+    "def": "",
+    "translations": {}
+  },
+  "FEDS": {
+    "def": "",
+    "translations": {}
+  },
+  "FEES": {
+    "def": "",
+    "translations": {}
+  },
+  "FEET": {
+    "def": "",
+    "translations": {}
+  },
+  "FELL": {
+    "def": "",
+    "translations": {}
+  },
+  "FELT": {
+    "def": "",
+    "translations": {}
+  },
+  "FEND": {
+    "def": "",
+    "translations": {}
+  },
+  "FERN": {
+    "def": "",
+    "translations": {}
+  },
+  "FETE": {
+    "def": "",
+    "translations": {}
+  },
+  "FEUD": {
+    "def": "",
+    "translations": {}
+  },
+  "FIAT": {
+    "def": "",
+    "translations": {}
+  },
+  "FIEF": {
+    "def": "",
+    "translations": {}
+  },
+  "FIFE": {
+    "def": "",
+    "translations": {}
+  },
+  "FIGS": {
+    "def": "",
+    "translations": {}
+  },
+  "FILE": {
+    "def": "",
+    "translations": {}
+  },
+  "FILS": {
+    "def": "",
+    "translations": {}
+  },
+  "FINK": {
+    "def": "",
+    "translations": {}
+  },
+  "FINS": {
+    "def": "",
+    "translations": {}
+  },
+  "FIRS": {
+    "def": "",
+    "translations": {}
+  },
+  "FISK": {
+    "def": "",
+    "translations": {}
+  },
+  "FIST": {
+    "def": "",
+    "translations": {}
+  },
+  "FITS": {
+    "def": "",
+    "translations": {}
+  },
+  "FLAG": {
+    "def": "",
+    "translations": {}
+  },
+  "FLAK": {
+    "def": "",
+    "translations": {}
+  },
+  "FLAP": {
+    "def": "",
+    "translations": {}
+  },
+  "FLAW": {
+    "def": "",
+    "translations": {}
+  },
+  "FLAX": {
+    "def": "",
+    "translations": {}
+  },
+  "FLEA": {
+    "def": "",
+    "translations": {}
+  },
+  "FLED": {
+    "def": "",
+    "translations": {}
+  },
+  "FLEE": {
+    "def": "",
+    "translations": {}
+  },
+  "FLEW": {
+    "def": "",
+    "translations": {}
+  },
+  "FLEX": {
+    "def": "",
+    "translations": {}
+  },
+  "FLIP": {
+    "def": "",
+    "translations": {}
+  },
+  "FLOP": {
+    "def": "",
+    "translations": {}
+  },
+  "FLOR": {
+    "def": "",
+    "translations": {}
+  },
+  "FLOW": {
+    "def": "",
+    "translations": {}
+  },
+  "FLUE": {
+    "def": "",
+    "translations": {}
+  },
+  "FLUX": {
+    "def": "",
+    "translations": {}
+  },
+  "FOAL": {
+    "def": "",
+    "translations": {}
+  },
+  "FOAM": {
+    "def": "",
+    "translations": {}
+  },
+  "FOCI": {
+    "def": "",
+    "translations": {}
+  },
+  "FOES": {
+    "def": "",
+    "translations": {}
+  },
+  "FOIL": {
+    "def": "",
+    "translations": {}
+  },
+  "FOLD": {
+    "def": "",
+    "translations": {}
+  },
+  "FOLK": {
+    "def": "",
+    "translations": {}
+  },
+  "FOND": {
+    "def": "",
+    "translations": {}
+  },
+  "FONT": {
+    "def": "",
+    "translations": {}
+  },
+  "FOOL": {
+    "def": "",
+    "translations": {}
+  },
+  "FORA": {
+    "def": "",
+    "translations": {}
+  },
+  "FORD": {
+    "def": "",
+    "translations": {}
+  },
+  "FORE": {
+    "def": "",
+    "translations": {}
+  },
+  "FORK": {
+    "def": "",
+    "translations": {}
+  },
+  "FORT": {
+    "def": "",
+    "translations": {}
+  },
+  "FOSS": {
+    "def": "",
+    "translations": {}
+  },
+  "FOUL": {
+    "def": "",
+    "translations": {}
+  },
+  "FOWL": {
+    "def": "",
+    "translations": {}
+  },
+  "FRAU": {
+    "def": "",
+    "translations": {}
+  },
+  "FRAY": {
+    "def": "",
+    "translations": {}
+  },
+  "FRET": {
+    "def": "",
+    "translations": {}
+  },
+  "FROG": {
+    "def": "",
+    "translations": {}
+  },
+  "FUCK": {
+    "def": "",
+    "translations": {}
+  },
+  "FUEL": {
+    "def": "",
+    "translations": {}
+  },
+  "FUJI": {
+    "def": "",
+    "translations": {}
+  },
+  "FUME": {
+    "def": "",
+    "translations": {}
+  },
+  "FUND": {
+    "def": "",
+    "translations": {}
+  },
+  "FUNG": {
+    "def": "",
+    "translations": {}
+  },
+  "FUNK": {
+    "def": "",
+    "translations": {}
+  },
+  "FURS": {
+    "def": "",
+    "translations": {}
+  },
+  "FURY": {
+    "def": "",
+    "translations": {}
+  },
+  "FUSE": {
+    "def": "",
+    "translations": {}
+  },
+  "FUSS": {
+    "def": "",
+    "translations": {}
+  },
+  "GAGE": {
+    "def": "",
+    "translations": {}
+  },
+  "GAIN": {
+    "def": "",
+    "translations": {}
+  },
+  "GAIT": {
+    "def": "",
+    "translations": {}
+  },
+  "GALA": {
+    "def": "",
+    "translations": {}
+  },
+  "GALE": {
+    "def": "",
+    "translations": {}
+  },
+  "GALL": {
+    "def": "",
+    "translations": {}
+  },
+  "GAMA": {
+    "def": "",
+    "translations": {}
+  },
+  "GANG": {
+    "def": "",
+    "translations": {}
+  },
+  "GAOL": {
+    "def": "",
+    "translations": {}
+  },
+  "GAPS": {
+    "def": "",
+    "translations": {}
+  },
+  "GARB": {
+    "def": "",
+    "translations": {}
+  },
+  "GASH": {
+    "def": "",
+    "translations": {}
+  },
+  "GASP": {
+    "def": "",
+    "translations": {}
+  },
+  "GATE": {
+    "def": "",
+    "translations": {}
+  },
+  "GAVE": {
+    "def": "",
+    "translations": {}
+  },
+  "GAYS": {
+    "def": "",
+    "translations": {}
+  },
+  "GAZE": {
+    "def": "",
+    "translations": {}
+  },
+  "GEAR": {
+    "def": "",
+    "translations": {}
+  },
+  "GELS": {
+    "def": "",
+    "translations": {}
+  },
+  "GEMS": {
+    "def": "",
+    "translations": {}
+  },
+  "GENE": {
+    "def": "",
+    "translations": {}
+  },
+  "GENS": {
+    "def": "",
+    "translations": {}
+  },
+  "GENT": {
+    "def": "",
+    "translations": {}
+  },
+  "GERM": {
+    "def": "",
+    "translations": {}
+  },
+  "GETS": {
+    "def": "",
+    "translations": {}
+  },
+  "GHEE": {
+    "def": "",
+    "translations": {}
+  },
+  "GIFT": {
+    "def": "",
+    "translations": {}
+  },
+  "GILA": {
+    "def": "",
+    "translations": {}
+  },
+  "GILL": {
+    "def": "",
+    "translations": {}
+  },
+  "GILT": {
+    "def": "",
+    "translations": {}
+  },
+  "GINN": {
+    "def": "",
+    "translations": {}
+  },
+  "GIST": {
+    "def": "",
+    "translations": {}
+  },
+  "GLAD": {
+    "def": "",
+    "translations": {}
+  },
+  "GLEE": {
+    "def": "",
+    "translations": {}
+  },
+  "GLEN": {
+    "def": "",
+    "translations": {}
+  },
+  "GLIA": {
+    "def": "",
+    "translations": {}
+  },
+  "GLIB": {
+    "def": "",
+    "translations": {}
+  },
+  "GLOW": {
+    "def": "",
+    "translations": {}
+  },
+  "GLUM": {
+    "def": "",
+    "translations": {}
+  },
+  "GLUT": {
+    "def": "",
+    "translations": {}
+  },
+  "GOAD": {
+    "def": "",
+    "translations": {}
+  },
+  "GOAT": {
+    "def": "",
+    "translations": {}
+  },
+  "GODS": {
+    "def": "",
+    "translations": {}
+  },
+  "GOES": {
+    "def": "",
+    "translations": {}
+  },
+  "GOFF": {
+    "def": "",
+    "translations": {}
+  },
+  "GOLF": {
+    "def": "",
+    "translations": {}
+  },
+  "GONE": {
+    "def": "",
+    "translations": {}
+  },
+  "GONG": {
+    "def": "",
+    "translations": {}
+  },
+  "GORE": {
+    "def": "",
+    "translations": {}
+  },
+  "GORY": {
+    "def": "",
+    "translations": {}
+  },
+  "GOSH": {
+    "def": "",
+    "translations": {}
+  },
+  "GOSS": {
+    "def": "",
+    "translations": {}
+  },
+  "GOUT": {
+    "def": "",
+    "translations": {}
+  },
+  "GOWN": {
+    "def": "",
+    "translations": {}
+  },
+  "GRAB": {
+    "def": "",
+    "translations": {}
+  },
+  "GRAD": {
+    "def": "",
+    "translations": {}
+  },
+  "GRAM": {
+    "def": "",
+    "translations": {}
+  },
+  "GRAN": {
+    "def": "",
+    "translations": {}
+  },
+  "GRAY": {
+    "def": "",
+    "translations": {}
+  },
+  "GREW": {
+    "def": "",
+    "translations": {}
+  },
+  "GREY": {
+    "def": "",
+    "translations": {}
+  },
+  "GRID": {
+    "def": "",
+    "translations": {}
+  },
+  "GRIM": {
+    "def": "",
+    "translations": {}
+  },
+  "GRIN": {
+    "def": "",
+    "translations": {}
+  },
+  "GRIP": {
+    "def": "",
+    "translations": {}
+  },
+  "GRIT": {
+    "def": "",
+    "translations": {}
+  },
+  "GRUB": {
+    "def": "",
+    "translations": {}
+  },
+  "GULF": {
+    "def": "",
+    "translations": {}
+  },
+  "GULL": {
+    "def": "",
+    "translations": {}
+  },
+  "GULP": {
+    "def": "",
+    "translations": {}
+  },
+  "GUMS": {
+    "def": "",
+    "translations": {}
+  },
+  "GUNS": {
+    "def": "",
+    "translations": {}
+  },
+  "GURU": {
+    "def": "",
+    "translations": {}
+  },
+  "GUSH": {
+    "def": "",
+    "translations": {}
+  },
+  "GUST": {
+    "def": "",
+    "translations": {}
+  },
+  "GUTS": {
+    "def": "",
+    "translations": {}
+  },
+  "GUYS": {
+    "def": "",
+    "translations": {}
+  },
+  "GYRO": {
+    "def": "",
+    "translations": {}
+  },
+  "HACK": {
+    "def": "",
+    "translations": {}
+  },
+  "HAIL": {
+    "def": "",
+    "translations": {}
+  },
+  "HAJI": {
+    "def": "",
+    "translations": {}
+  },
+  "HAJJ": {
+    "def": "",
+    "translations": {}
+  },
+  "HALE": {
+    "def": "",
+    "translations": {}
+  },
+  "HALO": {
+    "def": "",
+    "translations": {}
+  },
+  "HALT": {
+    "def": "",
+    "translations": {}
+  },
+  "HAMS": {
+    "def": "",
+    "translations": {}
+  },
+  "HANK": {
+    "def": "",
+    "translations": {}
+  },
+  "HARE": {
+    "def": "",
+    "translations": {}
+  },
+  "HARK": {
+    "def": "",
+    "translations": {}
+  },
+  "HARM": {
+    "def": "",
+    "translations": {}
+  },
+  "HARP": {
+    "def": "",
+    "translations": {}
+  },
+  "HART": {
+    "def": "",
+    "translations": {}
+  },
+  "HASH": {
+    "def": "",
+    "translations": {}
+  },
+  "HAST": {
+    "def": "",
+    "translations": {}
+  },
+  "HATE": {
+    "def": "",
+    "translations": {}
+  },
+  "HATH": {
+    "def": "",
+    "translations": {}
+  },
+  "HATS": {
+    "def": "",
+    "translations": {}
+  },
+  "HAUL": {
+    "def": "",
+    "translations": {}
+  },
+  "HAUT": {
+    "def": "",
+    "translations": {}
+  },
+  "HAWK": {
+    "def": "",
+    "translations": {}
+  },
+  "HAYS": {
+    "def": "",
+    "translations": {}
+  },
+  "HAZE": {
+    "def": "",
+    "translations": {}
+  },
+  "HAZY": {
+    "def": "",
+    "translations": {}
+  },
+  "HEAL": {
+    "def": "",
+    "translations": {}
+  },
+  "HEAP": {
+    "def": "",
+    "translations": {}
+  },
+  "HECK": {
+    "def": "",
+    "translations": {}
+  },
+  "HEED": {
+    "def": "",
+    "translations": {}
+  },
+  "HEEL": {
+    "def": "",
+    "translations": {}
+  },
+  "HEFT": {
+    "def": "",
+    "translations": {}
+  },
+  "HEIR": {
+    "def": "",
+    "translations": {}
+  },
+  "HELD": {
+    "def": "",
+    "translations": {}
+  },
+  "HELM": {
+    "def": "",
+    "translations": {}
+  },
+  "HEME": {
+    "def": "",
+    "translations": {}
+  },
+  "HEMP": {
+    "def": "",
+    "translations": {}
+  },
+  "HENS": {
+    "def": "",
+    "translations": {}
+  },
+  "HERB": {
+    "def": "",
+    "translations": {}
+  },
+  "HERD": {
+    "def": "",
+    "translations": {}
+  },
+  "HERO": {
+    "def": "",
+    "translations": {}
+  },
+  "HERS": {
+    "def": "",
+    "translations": {}
+  },
+  "HEWN": {
+    "def": "",
+    "translations": {}
+  },
+  "HICK": {
+    "def": "",
+    "translations": {}
+  },
+  "HIDE": {
+    "def": "",
+    "translations": {}
+  },
+  "HIKE": {
+    "def": "",
+    "translations": {}
+  },
+  "HILL": {
+    "def": "",
+    "translations": {}
+  },
+  "HILT": {
+    "def": "",
+    "translations": {}
+  },
+  "HINT": {
+    "def": "",
+    "translations": {}
+  },
+  "HIPS": {
+    "def": "",
+    "translations": {}
+  },
+  "HIRE": {
+    "def": "",
+    "translations": {}
+  },
+  "HISS": {
+    "def": "",
+    "translations": {}
+  },
+  "HIST": {
+    "def": "",
+    "translations": {}
+  },
+  "HITS": {
+    "def": "",
+    "translations": {}
+  },
+  "HIVE": {
+    "def": "",
+    "translations": {}
+  },
+  "HOAR": {
+    "def": "",
+    "translations": {}
+  },
+  "HOAX": {
+    "def": "",
+    "translations": {}
+  },
+  "HOCK": {
+    "def": "",
+    "translations": {}
+  },
+  "HOGG": {
+    "def": "",
+    "translations": {}
+  },
+  "HOGS": {
+    "def": "",
+    "translations": {}
+  },
+  "HOLE": {
+    "def": "",
+    "translations": {}
+  },
+  "HOLM": {
+    "def": "",
+    "translations": {}
+  },
+  "HOLT": {
+    "def": "",
+    "translations": {}
+  },
+  "HOLY": {
+    "def": "",
+    "translations": {}
+  },
+  "HOMO": {
+    "def": "",
+    "translations": {}
+  },
+  "HONE": {
+    "def": "",
+    "translations": {}
+  },
+  "HONG": {
+    "def": "",
+    "translations": {}
+  },
+  "HONS": {
+    "def": "",
+    "translations": {}
+  },
+  "HOOD": {
+    "def": "",
+    "translations": {}
+  },
+  "HOOF": {
+    "def": "",
+    "translations": {}
+  },
+  "HOOK": {
+    "def": "",
+    "translations": {}
+  },
+  "HOOP": {
+    "def": "",
+    "translations": {}
+  },
+  "HOOT": {
+    "def": "",
+    "translations": {}
+  },
+  "HOPS": {
+    "def": "",
+    "translations": {}
+  },
+  "HORA": {
+    "def": "",
+    "translations": {}
+  },
+  "HORN": {
+    "def": "",
+    "translations": {}
+  },
+  "HORS": {
+    "def": "",
+    "translations": {}
+  },
+  "HOSE": {
+    "def": "",
+    "translations": {}
+  },
+  "HOST": {
+    "def": "",
+    "translations": {}
+  },
+  "HOVE": {
+    "def": "",
+    "translations": {}
+  },
+  "HOWE": {
+    "def": "",
+    "translations": {}
+  },
+  "HOWL": {
+    "def": "",
+    "translations": {}
+  },
+  "ROSSA": {
+    "def": "",
+    "translations": {}
+  },
+  "JETTY": {
+    "def": "",
+    "translations": {}
+  },
+  "WIZZO": {
+    "def": "",
+    "translations": {}
+  },
+  "CUPPA": {
+    "def": "",
+    "translations": {}
+  },
+  "COHOE": {
+    "def": "",
+    "translations": {}
+  },
+  "GURKS": {
+    "def": "",
+    "translations": {}
+  },
+  "SQUAD": {
+    "def": "",
+    "translations": {}
+  },
+  "BEISA": {
+    "def": "",
+    "translations": {}
+  },
+  "SHRUG": {
+    "def": "",
+    "translations": {}
+  },
+  "FOSSA": {
+    "def": "",
+    "translations": {}
+  },
+  "FLUYT": {
+    "def": "",
+    "translations": {}
+  },
+  "CAMUS": {
+    "def": "",
+    "translations": {}
+  },
+  "MAMIL": {
+    "def": "",
+    "translations": {}
+  },
+  "ARRAY": {
+    "def": "",
+    "translations": {}
+  },
+  "POLIO": {
+    "def": "",
+    "translations": {}
+  },
+  "BARNS": {
+    "def": "",
+    "translations": {}
+  },
+  "PANES": {
+    "def": "",
+    "translations": {}
+  },
+  "SOUTS": {
+    "def": "",
+    "translations": {}
+  },
+  "LIMAS": {
+    "def": "",
+    "translations": {}
+  },
+  "FETCH": {
+    "def": "",
+    "translations": {}
+  },
+  "QUECK": {
+    "def": "",
+    "translations": {}
+  },
+  "TWINK": {
+    "def": "",
+    "translations": {}
+  },
+  "GRAZE": {
+    "def": "",
+    "translations": {}
+  },
+  "CROCK": {
+    "def": "",
+    "translations": {}
+  },
+  "ALMUD": {
+    "def": "",
+    "translations": {}
+  },
+  "OOHED": {
+    "def": "",
+    "translations": {}
+  },
+  "COLOG": {
+    "def": "",
+    "translations": {}
+  },
+  "WISHT": {
+    "def": "",
+    "translations": {}
+  },
+  "BEARD": {
+    "def": "",
+    "translations": {}
+  },
+  "SAMEL": {
+    "def": "",
+    "translations": {}
+  },
+  "AHIND": {
+    "def": "",
+    "translations": {}
+  },
+  "BRUNG": {
+    "def": "",
+    "translations": {}
+  },
+  "BARCA": {
+    "def": "",
+    "translations": {}
+  },
+  "MAHAL": {
+    "def": "",
+    "translations": {}
+  },
+  "JAMBE": {
+    "def": "",
+    "translations": {}
+  },
+  "PLUSH": {
+    "def": "",
+    "translations": {}
+  },
+  "BRUJA": {
+    "def": "",
+    "translations": {}
+  },
+  "HOWRE": {
+    "def": "",
+    "translations": {}
+  },
+  "MIDDY": {
+    "def": "",
+    "translations": {}
+  },
+  "KABAB": {
+    "def": "",
+    "translations": {}
+  },
+  "ZEALS": {
+    "def": "",
+    "translations": {}
+  },
+  "MAZEL": {
+    "def": "",
+    "translations": {}
+  },
+  "SPUTA": {
+    "def": "",
+    "translations": {}
+  },
+  "GOORY": {
+    "def": "",
+    "translations": {}
+  },
+  "PAILS": {
+    "def": "",
+    "translations": {}
+  },
+  "SCOGS": {
+    "def": "",
+    "translations": {}
+  },
+  "SNOOL": {
+    "def": "",
+    "translations": {}
+  },
+  "POBOY": {
+    "def": "",
+    "translations": {}
+  },
+  "DOEST": {
+    "def": "",
+    "translations": {}
+  },
+  "ORIXA": {
+    "def": "",
+    "translations": {}
+  },
+  "QUIPO": {
+    "def": "",
+    "translations": {}
+  },
+  "BURBS": {
+    "def": "",
+    "translations": {}
+  },
+  "GOADS": {
+    "def": "",
+    "translations": {}
+  },
+  "BLAUD": {
+    "def": "",
+    "translations": {}
+  },
+  "FLOCS": {
+    "def": "",
+    "translations": {}
+  },
+  "HARIM": {
+    "def": "",
+    "translations": {}
+  },
+  "MAMEY": {
+    "def": "",
+    "translations": {}
+  },
+  "PRIMP": {
+    "def": "",
+    "translations": {}
+  },
+  "LATHY": {
+    "def": "",
+    "translations": {}
+  },
+  "LUNES": {
+    "def": "",
+    "translations": {}
+  },
+  "STAPS": {
+    "def": "",
+    "translations": {}
+  },
+  "SALAD": {
+    "def": "",
+    "translations": {}
+  },
+  "AGONY": {
+    "def": "",
+    "translations": {}
+  },
+  "GUSLI": {
+    "def": "",
+    "translations": {}
+  },
+  "DAMPS": {
+    "def": "",
+    "translations": {}
+  },
+  "TOCKS": {
+    "def": "",
+    "translations": {}
+  },
+  "HOICK": {
+    "def": "",
+    "translations": {}
+  },
+  "AMPLY": {
+    "def": "",
+    "translations": {}
+  },
+  "GLISK": {
+    "def": "",
+    "translations": {}
+  },
+  "PULIS": {
+    "def": "",
+    "translations": {}
+  },
+  "APTER": {
+    "def": "",
+    "translations": {}
+  },
+  "SHELL": {
+    "def": "",
+    "translations": {}
+  },
+  "CAPAS": {
+    "def": "",
+    "translations": {}
+  },
+  "SAUNF": {
+    "def": "",
+    "translations": {}
+  },
+  "KUTIS": {
+    "def": "",
+    "translations": {}
+  },
+  "TEGGS": {
+    "def": "",
+    "translations": {}
+  },
+  "HALSH": {
+    "def": "",
+    "translations": {}
+  },
+  "GAMMA": {
+    "def": "",
+    "translations": {}
+  },
+  "TARDY": {
+    "def": "",
+    "translations": {}
+  },
+  "TEASE": {
+    "def": "",
+    "translations": {}
+  },
+  "TOWTS": {
+    "def": "",
+    "translations": {}
+  },
+  "ABUTS": {
+    "def": "",
+    "translations": {}
+  },
+  "ALLEE": {
+    "def": "",
+    "translations": {}
+  },
+  "CHINS": {
+    "def": "",
+    "translations": {}
+  },
+  "ROLLY": {
+    "def": "",
+    "translations": {}
+  },
+  "SITUS": {
+    "def": "",
+    "translations": {}
+  },
+  "BARDS": {
+    "def": "",
+    "translations": {}
+  },
+  "PHYMA": {
+    "def": "",
+    "translations": {}
+  },
+  "TORRS": {
+    "def": "",
+    "translations": {}
+  },
+  "CHACE": {
+    "def": "",
+    "translations": {}
+  },
+  "BIKKY": {
+    "def": "",
+    "translations": {}
+  },
+  "STOOR": {
+    "def": "",
+    "translations": {}
+  },
+  "QUINK": {
+    "def": "",
+    "translations": {}
+  },
+  "WEDGY": {
+    "def": "",
+    "translations": {}
+  },
+  "VISES": {
+    "def": "",
+    "translations": {}
+  },
+  "SWORE": {
+    "def": "",
+    "translations": {}
+  },
+  "UPSEE": {
+    "def": "",
+    "translations": {}
+  },
+  "GYVES": {
+    "def": "",
+    "translations": {}
+  },
+  "HEAPY": {
+    "def": "",
+    "translations": {}
+  },
+  "GILAS": {
+    "def": "",
+    "translations": {}
+  },
+  "GAIRS": {
+    "def": "",
+    "translations": {}
+  },
+  "YONIC": {
+    "def": "",
+    "translations": {}
+  },
+  "WAGON": {
+    "def": "",
+    "translations": {}
+  },
+  "RANCE": {
+    "def": "",
+    "translations": {}
+  },
+  "SWAIL": {
+    "def": "",
+    "translations": {}
+  },
+  "LAXED": {
+    "def": "",
+    "translations": {}
+  },
+  "PANNE": {
+    "def": "",
+    "translations": {}
+  },
+  "TABUS": {
+    "def": "",
+    "translations": {}
+  },
+  "ANOMY": {
+    "def": "",
+    "translations": {}
+  },
+  "SWARM": {
+    "def": "",
+    "translations": {}
+  },
+  "SWORD": {
+    "def": "",
+    "translations": {}
+  },
+  "PHARM": {
+    "def": "",
+    "translations": {}
+  },
+  "PENES": {
+    "def": "",
+    "translations": {}
+  },
+  "SNOEK": {
+    "def": "",
+    "translations": {}
+  },
+  "RAZET": {
+    "def": "",
+    "translations": {}
+  },
+  "NAHAL": {
+    "def": "",
+    "translations": {}
+  },
+  "KAPUS": {
+    "def": "",
+    "translations": {}
+  },
+  "LOKEY": {
+    "def": "",
+    "translations": {}
+  },
+  "GOBOS": {
+    "def": "",
+    "translations": {}
+  },
+  "JAILS": {
+    "def": "",
+    "translations": {}
+  },
+  "AFARS": {
+    "def": "",
+    "translations": {}
+  },
+  "NERKA": {
+    "def": "",
+    "translations": {}
+  },
+  "CUNDY": {
+    "def": "",
+    "translations": {}
+  },
+  "SNARK": {
+    "def": "",
+    "translations": {}
+  },
+  "INTRA": {
+    "def": "",
+    "translations": {}
+  },
+  "BUNDH": {
+    "def": "",
+    "translations": {}
+  },
+  "TANGA": {
+    "def": "",
+    "translations": {}
+  },
+  "BAAED": {
+    "def": "",
+    "translations": {}
+  },
+  "SOLUS": {
+    "def": "",
+    "translations": {}
+  },
+  "SENOR": {
+    "def": "",
+    "translations": {}
+  },
+  "UMAMI": {
+    "def": "",
+    "translations": {}
+  },
+  "WARED": {
+    "def": "",
+    "translations": {}
+  },
+  "SHARP": {
+    "def": "",
+    "translations": {}
+  },
+  "PEWED": {
+    "def": "",
+    "translations": {}
+  },
+  "TUKTU": {
+    "def": "",
+    "translations": {}
+  },
+  "KNOWD": {
+    "def": "",
+    "translations": {}
+  },
+  "DAWDS": {
+    "def": "",
+    "translations": {}
+  },
+  "FLURR": {
+    "def": "",
+    "translations": {}
+  },
+  "INERT": {
+    "def": "",
+    "translations": {}
+  },
+  "TAXUS": {
+    "def": "",
+    "translations": {}
+  },
+  "RUANA": {
+    "def": "",
+    "translations": {}
+  },
+  "SULCI": {
+    "def": "",
+    "translations": {}
+  },
+  "JADED": {
+    "def": "",
+    "translations": {}
+  },
+  "OTHYL": {
+    "def": "",
+    "translations": {}
+  },
+  "REDIG": {
+    "def": "",
+    "translations": {}
+  },
+  "MANKY": {
+    "def": "",
+    "translations": {}
+  },
+  "OVISM": {
+    "def": "",
+    "translations": {}
+  },
+  "MATLO": {
+    "def": "",
+    "translations": {}
+  },
+  "CEASE": {
+    "def": "",
+    "translations": {}
+  },
+  "PERAE": {
+    "def": "",
+    "translations": {}
+  },
+  "SIXES": {
+    "def": "",
+    "translations": {}
+  },
+  "PUBCO": {
+    "def": "",
+    "translations": {}
+  },
+  "YAPPY": {
+    "def": "",
+    "translations": {}
+  },
+  "FAMED": {
+    "def": "",
+    "translations": {}
+  },
+  "HEXED": {
+    "def": "",
+    "translations": {}
+  },
+  "BAWRS": {
+    "def": "",
+    "translations": {}
+  },
+  "DECRY": {
+    "def": "",
+    "translations": {}
+  },
+  "IDDAH": {
+    "def": "",
+    "translations": {}
+  },
+  "DIXIT": {
+    "def": "",
+    "translations": {}
+  },
+  "CASED": {
+    "def": "",
+    "translations": {}
+  },
+  "RUPIA": {
+    "def": "",
+    "translations": {}
+  },
+  "TOIDY": {
+    "def": "",
+    "translations": {}
+  },
+  "HODAD": {
+    "def": "",
+    "translations": {}
+  },
+  "YUKES": {
+    "def": "",
+    "translations": {}
+  },
+  "GAFFE": {
+    "def": "",
+    "translations": {}
+  },
+  "ANNOY": {
+    "def": "",
+    "translations": {}
+  },
+  "LEUGH": {
+    "def": "",
+    "translations": {}
+  },
+  "HOWAY": {
+    "def": "",
+    "translations": {}
+  },
+  "PIXEL": {
+    "def": "",
+    "translations": {}
+  },
+  "LINGA": {
+    "def": "",
+    "translations": {}
+  },
+  "BAYOU": {
+    "def": "",
+    "translations": {}
+  },
+  "LURGY": {
+    "def": "",
+    "translations": {}
+  },
+  "LEARS": {
+    "def": "",
+    "translations": {}
+  },
+  "SCRAT": {
+    "def": "",
+    "translations": {}
+  },
+  "PRIZE": {
+    "def": "",
+    "translations": {}
+  },
+  "HOMES": {
+    "def": "",
+    "translations": {}
+  },
+  "SCROO": {
+    "def": "",
+    "translations": {}
+  },
+  "EGEST": {
+    "def": "",
+    "translations": {}
+  },
+  "MOPUS": {
+    "def": "",
+    "translations": {}
+  },
+  "VERBS": {
+    "def": "",
+    "translations": {}
+  },
+  "MAPLE": {
+    "def": "",
+    "translations": {}
+  },
+  "BARFS": {
+    "def": "",
+    "translations": {}
+  },
+  "SALLE": {
+    "def": "",
+    "translations": {}
+  },
+  "SHINE": {
+    "def": "",
+    "translations": {}
+  },
+  "ZINEB": {
+    "def": "",
+    "translations": {}
+  },
+  "FLEXO": {
+    "def": "",
+    "translations": {}
+  },
+  "GISMO": {
+    "def": "",
+    "translations": {}
+  },
+  "REARS": {
+    "def": "",
+    "translations": {}
+  },
+  "KHADS": {
+    "def": "",
+    "translations": {}
+  },
+  "BEGUM": {
+    "def": "",
+    "translations": {}
+  },
+  "GLADE": {
+    "def": "",
+    "translations": {}
+  },
+  "IMAMS": {
+    "def": "",
+    "translations": {}
+  },
+  "STRAD": {
+    "def": "",
+    "translations": {}
+  },
+  "VENAE": {
+    "def": "",
+    "translations": {}
+  },
+  "SKENE": {
+    "def": "",
+    "translations": {}
+  },
+  "MOTEN": {
+    "def": "",
+    "translations": {}
+  },
+  "RUGBY": {
+    "def": "",
+    "translations": {}
+  },
+  "GOELS": {
+    "def": "",
+    "translations": {}
+  },
+  "KHAZI": {
+    "def": "",
+    "translations": {}
+  },
+  "BELIT": {
+    "def": "",
+    "translations": {}
+  },
+  "SMOLT": {
+    "def": "",
+    "translations": {}
+  },
+  "MORIN": {
+    "def": "",
+    "translations": {}
+  },
+  "OFAYS": {
+    "def": "",
+    "translations": {}
+  },
+  "SURAL": {
+    "def": "",
+    "translations": {}
+  },
+  "JANNY": {
+    "def": "",
+    "translations": {}
+  },
+  "SWISH": {
+    "def": "",
+    "translations": {}
+  },
+  "HAETS": {
+    "def": "",
+    "translations": {}
+  },
+  "OWNED": {
+    "def": "",
+    "translations": {}
+  },
+  "MUSKY": {
+    "def": "",
+    "translations": {}
+  },
+  "GIMPS": {
+    "def": "",
+    "translations": {}
+  },
+  "NODES": {
+    "def": "",
+    "translations": {}
+  },
+  "LEFTY": {
+    "def": "",
+    "translations": {}
+  },
+  "FURCA": {
+    "def": "",
+    "translations": {}
+  },
+  "EXOME": {
+    "def": "",
+    "translations": {}
+  },
+  "DRIBS": {
+    "def": "",
+    "translations": {}
+  },
+  "GOUKS": {
+    "def": "",
+    "translations": {}
+  },
+  "SMEWS": {
+    "def": "",
+    "translations": {}
+  },
+  "MUNTS": {
+    "def": "",
+    "translations": {}
+  },
+  "CHIRO": {
+    "def": "",
+    "translations": {}
+  },
+  "MOCUS": {
+    "def": "",
+    "translations": {}
+  },
+  "SLIME": {
+    "def": "",
+    "translations": {}
+  },
+  "MOKIS": {
+    "def": "",
+    "translations": {}
+  },
+  "NEVIS": {
+    "def": "",
+    "translations": {}
+  },
+  "ARCUS": {
+    "def": "",
+    "translations": {}
+  },
+  "PRIGS": {
+    "def": "",
+    "translations": {}
+  },
+  "RENTE": {
+    "def": "",
+    "translations": {}
+  },
+  "YFERE": {
+    "def": "",
+    "translations": {}
+  },
+  "HIKER": {
+    "def": "",
+    "translations": {}
+  },
+  "CRAME": {
+    "def": "",
+    "translations": {}
+  },
+  "IRKED": {
+    "def": "",
+    "translations": {}
+  },
+  "NAIRA": {
+    "def": "",
+    "translations": {}
+  },
+  "STIRE": {
+    "def": "",
+    "translations": {}
+  },
+  "NAGAS": {
+    "def": "",
+    "translations": {}
+  },
+  "PEISY": {
+    "def": "",
+    "translations": {}
+  },
+  "MISER": {
+    "def": "",
+    "translations": {}
+  },
+  "VIVDA": {
+    "def": "",
+    "translations": {}
+  },
+  "DOLIE": {
+    "def": "",
+    "translations": {}
+  },
+  "WEAVE": {
+    "def": "",
+    "translations": {}
+  },
+  "UMBEL": {
+    "def": "",
+    "translations": {}
+  },
+  "BARMY": {
+    "def": "",
+    "translations": {}
+  },
+  "LOUNS": {
+    "def": "",
+    "translations": {}
+  },
+  "DIDOS": {
+    "def": "",
+    "translations": {}
+  },
+  "VIOLD": {
+    "def": "",
+    "translations": {}
+  },
+  "FOWTH": {
+    "def": "",
+    "translations": {}
+  },
+  "GUQIN": {
+    "def": "",
+    "translations": {}
+  },
+  "KAYOS": {
+    "def": "",
+    "translations": {}
+  },
+  "FINCA": {
+    "def": "",
+    "translations": {}
+  },
+  "TATHS": {
+    "def": "",
+    "translations": {}
+  },
+  "ELIAD": {
+    "def": "",
+    "translations": {}
+  },
+  "DORTS": {
+    "def": "",
+    "translations": {}
+  },
+  "COOEY": {
+    "def": "",
+    "translations": {}
+  },
+  "DICTY": {
+    "def": "",
+    "translations": {}
+  },
+  "BOBAK": {
+    "def": "",
+    "translations": {}
+  },
+  "LOWSE": {
+    "def": "",
+    "translations": {}
+  },
+  "TUILE": {
+    "def": "",
+    "translations": {}
+  },
+  "LAKED": {
+    "def": "",
+    "translations": {}
+  },
+  "TARTS": {
+    "def": "",
+    "translations": {}
+  },
+  "REEFY": {
+    "def": "",
+    "translations": {}
+  },
+  "AGAMA": {
+    "def": "",
+    "translations": {}
+  },
+  "SHORE": {
+    "def": "",
+    "translations": {}
+  },
+  "NICKS": {
+    "def": "",
+    "translations": {}
+  },
+  "NUNNY": {
+    "def": "",
+    "translations": {}
+  },
+  "AKOYA": {
+    "def": "",
+    "translations": {}
+  },
+  "SNAWS": {
+    "def": "",
+    "translations": {}
+  },
+  "WRITS": {
+    "def": "",
+    "translations": {}
+  },
+  "ALIVE": {
+    "def": "",
+    "translations": {}
+  },
+  "BEAUT": {
+    "def": "",
+    "translations": {}
+  },
+  "IBRIK": {
+    "def": "",
+    "translations": {}
+  },
+  "HEMPS": {
+    "def": "",
+    "translations": {}
+  },
+  "TOWED": {
+    "def": "",
+    "translations": {}
+  },
+  "CROUT": {
+    "def": "",
+    "translations": {}
+  },
+  "MOGUL": {
+    "def": "",
+    "translations": {}
+  },
+  "HALID": {
+    "def": "",
+    "translations": {}
+  },
+  "PECKY": {
+    "def": "",
+    "translations": {}
+  },
+  "ECHED": {
+    "def": "",
+    "translations": {}
+  },
+  "MUSIT": {
+    "def": "",
+    "translations": {}
+  },
+  "COUTH": {
+    "def": "",
+    "translations": {}
+  },
+  "ACRON": {
+    "def": "",
+    "translations": {}
+  },
+  "DYNES": {
+    "def": "",
+    "translations": {}
+  },
+  "GOTHY": {
+    "def": "",
+    "translations": {}
+  },
+  "BUNDY": {
+    "def": "",
+    "translations": {}
+  },
+  "SEEPS": {
+    "def": "",
+    "translations": {}
+  },
+  "DEEPS": {
+    "def": "",
+    "translations": {}
+  },
+  "PLENE": {
+    "def": "",
+    "translations": {}
+  },
+  "KUKUS": {
+    "def": "",
+    "translations": {}
+  },
+  "PETRE": {
+    "def": "",
+    "translations": {}
+  },
+  "PUTTO": {
+    "def": "",
+    "translations": {}
+  },
+  "DARLS": {
+    "def": "",
+    "translations": {}
+  },
+  "WARPS": {
+    "def": "",
+    "translations": {}
+  },
+  "SHOJI": {
+    "def": "",
+    "translations": {}
+  },
+  "EMOJI": {
+    "def": "",
+    "translations": {}
+  },
+  "HIKED": {
+    "def": "",
+    "translations": {}
+  },
+  "OMITS": {
+    "def": "",
+    "translations": {}
+  },
+  "RAINY": {
+    "def": "",
+    "translations": {}
+  },
+  "FILLS": {
+    "def": "",
+    "translations": {}
+  },
+  "ZINES": {
+    "def": "",
+    "translations": {}
+  },
+  "BORES": {
+    "def": "",
+    "translations": {}
+  },
+  "ALGOR": {
+    "def": "",
+    "translations": {}
+  },
+  "OLIVA": {
+    "def": "",
+    "translations": {}
+  },
+  "MIDGE": {
+    "def": "",
+    "translations": {}
+  },
+  "VIZOR": {
+    "def": "",
+    "translations": {}
+  },
+  "HAFTA": {
+    "def": "",
+    "translations": {}
+  },
+  "MULLA": {
+    "def": "",
+    "translations": {}
+  },
+  "PALED": {
+    "def": "",
+    "translations": {}
+  },
+  "KNEED": {
+    "def": "",
+    "translations": {}
+  },
+  "FIBRE": {
+    "def": "",
+    "translations": {}
+  },
+  "PTISH": {
+    "def": "",
+    "translations": {}
+  },
+  "REDAN": {
+    "def": "",
+    "translations": {}
+  },
+  "EXODE": {
+    "def": "",
+    "translations": {}
+  },
+  "ZORRO": {
+    "def": "",
+    "translations": {}
+  },
+  "DROLL": {
+    "def": "",
+    "translations": {}
+  },
+  "NIECE": {
+    "def": "",
+    "translations": {}
+  },
+  "SEGNO": {
+    "def": "",
+    "translations": {}
+  },
+  "SCEAT": {
+    "def": "",
+    "translations": {}
+  },
+  "TUNES": {
+    "def": "",
+    "translations": {}
+  },
+  "MOMPE": {
+    "def": "",
+    "translations": {}
+  },
+  "RADON": {
+    "def": "",
+    "translations": {}
+  },
+  "AKKAS": {
+    "def": "",
+    "translations": {}
+  },
+  "JOWLY": {
+    "def": "",
+    "translations": {}
+  },
+  "GANDY": {
+    "def": "",
+    "translations": {}
+  },
+  "MEDII": {
+    "def": "",
+    "translations": {}
+  },
+  "KNELT": {
+    "def": "",
+    "translations": {}
+  },
+  "EVOKE": {
+    "def": "",
+    "translations": {}
+  },
+  "LOWTS": {
+    "def": "",
+    "translations": {}
+  },
+  "TEAKS": {
+    "def": "",
+    "translations": {}
+  },
+  "BUCKO": {
+    "def": "",
+    "translations": {}
+  },
+  "GROKS": {
+    "def": "",
+    "translations": {}
+  },
+  "LEAFY": {
+    "def": "",
+    "translations": {}
+  },
+  "MESES": {
+    "def": "",
+    "translations": {}
+  },
+  "SYNES": {
+    "def": "",
+    "translations": {}
+  },
+  "LATHS": {
+    "def": "",
+    "translations": {}
+  },
+  "ZEDAS": {
+    "def": "",
+    "translations": {}
+  },
+  "BLANK": {
+    "def": "",
+    "translations": {}
+  },
+  "JAPED": {
+    "def": "",
+    "translations": {}
+  },
+  "VOLED": {
+    "def": "",
+    "translations": {}
+  },
+  "TOXIC": {
+    "def": "",
+    "translations": {}
+  },
+  "REACH": {
+    "def": "",
+    "translations": {}
+  },
+  "NAZZY": {
+    "def": "",
+    "translations": {}
+  },
+  "PUBSY": {
+    "def": "",
+    "translations": {}
+  },
+  "PEDRO": {
+    "def": "",
+    "translations": {}
+  },
+  "CUCKS": {
+    "def": "",
+    "translations": {}
+  },
+  "BAITH": {
+    "def": "",
+    "translations": {}
+  },
+  "MAGAS": {
+    "def": "",
+    "translations": {}
+  },
+  "GOMPA": {
+    "def": "",
+    "translations": {}
+  },
+  "BILBY": {
+    "def": "",
+    "translations": {}
+  },
+  "POPES": {
+    "def": "",
+    "translations": {}
+  },
+  "HENTS": {
+    "def": "",
+    "translations": {}
+  },
+  "AURAS": {
+    "def": "",
+    "translations": {}
+  },
+  "GIDDY": {
+    "def": "",
+    "translations": {}
+  },
+  "TACOS": {
+    "def": "",
+    "translations": {}
+  },
+  "ONNED": {
+    "def": "",
+    "translations": {}
+  },
+  "BOWED": {
+    "def": "",
+    "translations": {}
+  },
+  "TSARS": {
+    "def": "",
+    "translations": {}
+  },
+  "SLOGS": {
+    "def": "",
+    "translations": {}
+  },
+  "GRIND": {
+    "def": "",
+    "translations": {}
+  },
+  "MOREL": {
+    "def": "",
+    "translations": {}
+  },
+  "ASADA": {
+    "def": "",
+    "translations": {}
+  },
+  "WEEKE": {
+    "def": "",
+    "translations": {}
+  },
+  "WINNA": {
+    "def": "",
+    "translations": {}
+  },
+  "AMMAN": {
+    "def": "",
+    "translations": {}
+  },
+  "SABJI": {
+    "def": "",
+    "translations": {}
+  },
+  "RUNTS": {
+    "def": "",
+    "translations": {}
+  },
+  "SLOPS": {
+    "def": "",
+    "translations": {}
+  },
+  "TREAD": {
+    "def": "",
+    "translations": {}
+  },
+  "LOOFA": {
+    "def": "",
+    "translations": {}
+  },
+  "FEVER": {
+    "def": "",
+    "translations": {}
+  },
+  "GLOVE": {
+    "def": "",
+    "translations": {}
+  },
+  "TRIST": {
+    "def": "",
+    "translations": {}
+  },
+  "CREPS": {
+    "def": "",
+    "translations": {}
+  },
+  "PHEON": {
+    "def": "",
+    "translations": {}
+  },
+  "BERES": {
+    "def": "",
+    "translations": {}
+  },
+  "CORSO": {
+    "def": "",
+    "translations": {}
+  },
+  "SOFAR": {
+    "def": "",
+    "translations": {}
+  },
+  "REEZE": {
+    "def": "",
+    "translations": {}
+  },
+  "PISOS": {
+    "def": "",
+    "translations": {}
+  },
+  "LAMES": {
+    "def": "",
+    "translations": {}
+  },
+  "TRECK": {
+    "def": "",
+    "translations": {}
+  },
+  "BOABS": {
+    "def": "",
+    "translations": {}
+  },
+  "GRATA": {
+    "def": "",
+    "translations": {}
+  },
+  "DAALS": {
+    "def": "",
+    "translations": {}
+  },
+  "SOYAS": {
+    "def": "",
+    "translations": {}
+  },
+  "AMOUR": {
+    "def": "",
+    "translations": {}
+  },
+  "GERNE": {
+    "def": "",
+    "translations": {}
+  },
+  "DUDES": {
+    "def": "",
+    "translations": {}
+  },
+  "NIFLE": {
+    "def": "",
+    "translations": {}
+  },
+  "SLURP": {
+    "def": "",
+    "translations": {}
+  },
+  "ULNAR": {
+    "def": "",
+    "translations": {}
+  },
+  "ETTIN": {
+    "def": "",
+    "translations": {}
+  },
+  "NOLES": {
+    "def": "",
+    "translations": {}
+  },
+  "GOBAR": {
+    "def": "",
+    "translations": {}
+  },
+  "BOHOS": {
+    "def": "",
+    "translations": {}
+  },
+  "KAWAS": {
+    "def": "",
+    "translations": {}
+  },
+  "RADGY": {
+    "def": "",
+    "translations": {}
+  },
+  "COATI": {
+    "def": "",
+    "translations": {}
+  },
+  "SCAIL": {
+    "def": "",
+    "translations": {}
+  },
+  "HELOT": {
+    "def": "",
+    "translations": {}
+  },
+  "MOTEL": {
+    "def": "",
+    "translations": {}
+  },
+  "TIDES": {
+    "def": "",
+    "translations": {}
+  },
+  "COVEN": {
+    "def": "",
+    "translations": {}
+  },
+  "JASEY": {
+    "def": "",
+    "translations": {}
+  },
+  "FLOWN": {
+    "def": "",
+    "translations": {}
+  },
+  "URUBU": {
+    "def": "",
+    "translations": {}
+  },
+  "KIDDO": {
+    "def": "",
+    "translations": {}
+  },
+  "NRTYA": {
+    "def": "",
+    "translations": {}
+  },
+  "PINNA": {
+    "def": "",
+    "translations": {}
+  },
+  "CURBS": {
+    "def": "",
+    "translations": {}
+  },
+  "BOTAS": {
+    "def": "",
+    "translations": {}
+  },
+  "CYCLE": {
+    "def": "",
+    "translations": {}
+  },
+  "YUGAS": {
+    "def": "",
+    "translations": {}
+  },
+  "UGALI": {
+    "def": "",
+    "translations": {}
+  },
+  "OPTER": {
+    "def": "",
+    "translations": {}
+  },
+  "LAVER": {
+    "def": "",
+    "translations": {}
+  },
+  "OUSTS": {
+    "def": "",
+    "translations": {}
+  },
+  "OOTID": {
+    "def": "",
+    "translations": {}
+  },
+  "EASEL": {
+    "def": "",
+    "translations": {}
+  },
+  "LEWIS": {
+    "def": "",
+    "translations": {}
+  },
+  "RENOS": {
+    "def": "",
+    "translations": {}
+  },
+  "PANED": {
+    "def": "",
+    "translations": {}
+  },
+  "CUNIT": {
+    "def": "",
+    "translations": {}
+  },
+  "MUILS": {
+    "def": "",
+    "translations": {}
+  },
+  "JEHUS": {
+    "def": "",
+    "translations": {}
+  },
+  "EBIKE": {
+    "def": "",
+    "translations": {}
+  },
+  "COTCH": {
+    "def": "",
+    "translations": {}
+  },
+  "UPPER": {
+    "def": "",
+    "translations": {}
+  },
+  "THEOR": {
+    "def": "",
+    "translations": {}
+  },
+  "UNAIS": {
+    "def": "",
+    "translations": {}
+  },
+  "IDIOT": {
+    "def": "",
+    "translations": {}
+  },
+  "MANES": {
+    "def": "",
+    "translations": {}
+  },
+  "SAWER": {
+    "def": "",
+    "translations": {}
+  },
+  "GAZOO": {
+    "def": "",
+    "translations": {}
+  },
+  "EDGED": {
+    "def": "",
+    "translations": {}
+  },
+  "PIKEY": {
+    "def": "",
+    "translations": {}
+  },
+  "MEECH": {
+    "def": "",
+    "translations": {}
+  },
+  "ADYTS": {
+    "def": "",
+    "translations": {}
+  },
+  "BOITE": {
+    "def": "",
+    "translations": {}
+  },
+  "IXIAS": {
+    "def": "",
+    "translations": {}
+  },
+  "ALIOS": {
+    "def": "",
+    "translations": {}
+  },
+  "PADLE": {
+    "def": "",
+    "translations": {}
+  },
+  "LOTAH": {
+    "def": "",
+    "translations": {}
+  },
+  "RAGAS": {
+    "def": "",
+    "translations": {}
+  },
+  "PUDUS": {
+    "def": "",
+    "translations": {}
+  },
+  "MEARE": {
+    "def": "",
+    "translations": {}
+  },
+  "GRAIP": {
+    "def": "",
+    "translations": {}
+  },
+  "QUACK": {
+    "def": "",
+    "translations": {}
+  },
+  "NOISE": {
+    "def": "",
+    "translations": {}
+  },
+  "LIVRE": {
+    "def": "",
+    "translations": {}
+  },
+  "PHEME": {
+    "def": "",
+    "translations": {}
+  },
+  "CHEST": {
+    "def": "",
+    "translations": {}
+  },
+  "LINED": {
+    "def": "",
+    "translations": {}
+  },
+  "AZLON": {
+    "def": "",
+    "translations": {}
+  },
+  "WAVES": {
+    "def": "",
+    "translations": {}
+  },
+  "ACHOO": {
+    "def": "",
+    "translations": {}
+  },
+  "VALVE": {
+    "def": "",
+    "translations": {}
+  },
+  "MAWKS": {
+    "def": "",
+    "translations": {}
+  },
+  "HYDRO": {
+    "def": "",
+    "translations": {}
+  },
+  "MUXED": {
+    "def": "",
+    "translations": {}
+  },
+  "ETUDE": {
+    "def": "",
+    "translations": {}
+  },
+  "SMITH": {
+    "def": "",
+    "translations": {}
+  },
+  "MENDS": {
+    "def": "",
+    "translations": {}
+  },
+  "PISCO": {
+    "def": "",
+    "translations": {}
+  },
+  "CILIA": {
+    "def": "",
+    "translations": {}
+  },
+  "ALGOS": {
+    "def": "",
+    "translations": {}
+  },
+  "NENES": {
+    "def": "",
+    "translations": {}
+  },
+  "KARMA": {
+    "def": "",
+    "translations": {}
+  },
+  "NEANT": {
+    "def": "",
+    "translations": {}
+  },
+  "VISIE": {
+    "def": "",
+    "translations": {}
+  },
+  "VOLAR": {
+    "def": "",
+    "translations": {}
+  },
+  "BURRO": {
+    "def": "",
+    "translations": {}
+  },
+  "DOETH": {
+    "def": "",
+    "translations": {}
+  },
+  "ECRUS": {
+    "def": "",
+    "translations": {}
+  },
+  "DEKES": {
+    "def": "",
+    "translations": {}
+  },
+  "SEEPY": {
+    "def": "",
+    "translations": {}
+  },
+  "FACTS": {
+    "def": "",
+    "translations": {}
+  },
+  "POURS": {
+    "def": "",
+    "translations": {}
+  },
+  "GAMBO": {
+    "def": "",
+    "translations": {}
+  },
+  "MENSA": {
+    "def": "",
+    "translations": {}
+  },
+  "SWEPT": {
+    "def": "",
+    "translations": {}
+  },
+  "OAFOS": {
+    "def": "",
+    "translations": {}
+  },
+  "ROAMS": {
+    "def": "",
+    "translations": {}
+  },
+  "POTTS": {
+    "def": "",
+    "translations": {}
+  },
+  "PIKER": {
+    "def": "",
+    "translations": {}
+  },
+  "TINGS": {
+    "def": "",
+    "translations": {}
+  },
+  "FOUNT": {
+    "def": "",
+    "translations": {}
+  },
+  "DAUNT": {
+    "def": "",
+    "translations": {}
+  },
+  "BATTU": {
+    "def": "",
+    "translations": {}
+  },
+  "LICIT": {
+    "def": "",
+    "translations": {}
+  },
+  "CIDER": {
+    "def": "",
+    "translations": {}
+  },
+  "FORDS": {
+    "def": "",
+    "translations": {}
+  },
+  "PALMS": {
+    "def": "",
+    "translations": {}
+  },
+  "WHEEP": {
+    "def": "",
+    "translations": {}
+  },
+  "COPES": {
+    "def": "",
+    "translations": {}
+  },
+  "WHELM": {
+    "def": "",
+    "translations": {}
+  },
+  "USNEA": {
+    "def": "",
+    "translations": {}
+  },
+  "STAID": {
+    "def": "",
+    "translations": {}
+  },
+  "DOSAI": {
+    "def": "",
+    "translations": {}
+  },
+  "PATKA": {
+    "def": "",
+    "translations": {}
+  },
+  "GAMAS": {
+    "def": "",
+    "translations": {}
+  },
+  "DROME": {
+    "def": "",
+    "translations": {}
+  },
+  "LICKS": {
+    "def": "",
+    "translations": {}
+  },
+  "ALDEA": {
+    "def": "",
+    "translations": {}
+  },
+  "SNOWY": {
+    "def": "",
+    "translations": {}
+  },
+  "QUODS": {
+    "def": "",
+    "translations": {}
+  },
+  "WAKER": {
+    "def": "",
+    "translations": {}
+  },
+  "SYPHS": {
+    "def": "",
+    "translations": {}
+  },
+  "STUMM": {
+    "def": "",
+    "translations": {}
+  },
+  "CHORE": {
+    "def": "",
+    "translations": {}
+  },
+  "SILTS": {
+    "def": "",
+    "translations": {}
+  },
+  "TOPEE": {
+    "def": "",
+    "translations": {}
+  },
+  "ZEINS": {
+    "def": "",
+    "translations": {}
+  },
+  "LIKIN": {
+    "def": "",
+    "translations": {}
+  },
+  "TOPIC": {
+    "def": "",
+    "translations": {}
+  },
+  "WAVED": {
+    "def": "",
+    "translations": {}
+  },
+  "ANEAR": {
+    "def": "",
+    "translations": {}
+  },
+  "RAYAH": {
+    "def": "",
+    "translations": {}
+  },
+  "CLIPE": {
+    "def": "",
+    "translations": {}
+  },
+  "TELOI": {
+    "def": "",
+    "translations": {}
+  },
+  "THESP": {
+    "def": "",
+    "translations": {}
+  },
+  "DUSTS": {
+    "def": "",
+    "translations": {}
+  },
+  "POOCH": {
+    "def": "",
+    "translations": {}
+  },
+  "LUNTS": {
+    "def": "",
+    "translations": {}
+  },
+  "VINNY": {
+    "def": "",
+    "translations": {}
+  },
+  "PURDA": {
+    "def": "",
+    "translations": {}
+  },
+  "ZONDA": {
+    "def": "",
+    "translations": {}
+  },
+  "WIDEN": {
+    "def": "",
+    "translations": {}
+  },
+  "JONTY": {
+    "def": "",
+    "translations": {}
+  },
+  "MOSED": {
+    "def": "",
+    "translations": {}
+  },
+  "HUSSY": {
+    "def": "",
+    "translations": {}
+  },
+  "ESCAR": {
+    "def": "",
+    "translations": {}
+  },
+  "APPAY": {
+    "def": "",
+    "translations": {}
+  },
+  "TONIC": {
+    "def": "",
+    "translations": {}
+  },
+  "TAVAH": {
+    "def": "",
+    "translations": {}
+  },
+  "BUDOS": {
+    "def": "",
+    "translations": {}
+  },
+  "CURES": {
+    "def": "",
+    "translations": {}
+  },
+  "RETIA": {
+    "def": "",
+    "translations": {}
+  },
+  "MAILE": {
+    "def": "",
+    "translations": {}
+  },
+  "UNDEE": {
+    "def": "",
+    "translations": {}
+  },
+  "QUOIS": {
+    "def": "",
+    "translations": {}
+  },
+  "VANGS": {
+    "def": "",
+    "translations": {}
+  },
+  "KYTES": {
+    "def": "",
+    "translations": {}
+  },
+  "RENDS": {
+    "def": "",
+    "translations": {}
+  },
+  "TAIGA": {
+    "def": "",
+    "translations": {}
+  },
+  "ABETS": {
+    "def": "",
+    "translations": {}
+  },
+  "LICHT": {
+    "def": "",
+    "translations": {}
+  },
+  "POTAE": {
+    "def": "",
+    "translations": {}
+  },
+  "FUNKS": {
+    "def": "",
+    "translations": {}
+  },
+  "REPAS": {
+    "def": "",
+    "translations": {}
+  },
+  "SICHT": {
+    "def": "",
+    "translations": {}
+  },
+  "MOBES": {
+    "def": "",
+    "translations": {}
+  },
+  "CEORL": {
+    "def": "",
+    "translations": {}
+  },
+  "TORTE": {
+    "def": "",
+    "translations": {}
+  },
+  "SNARL": {
+    "def": "",
+    "translations": {}
+  },
+  "GENAS": {
+    "def": "",
+    "translations": {}
+  },
+  "WASHY": {
+    "def": "",
+    "translations": {}
+  },
+  "ETATS": {
+    "def": "",
+    "translations": {}
+  },
+  "BOINK": {
+    "def": "",
+    "translations": {}
+  },
+  "PEROG": {
+    "def": "",
+    "translations": {}
+  },
+  "CODEN": {
+    "def": "",
+    "translations": {}
+  },
+  "CROWN": {
+    "def": "",
+    "translations": {}
+  },
+  "MOITY": {
+    "def": "",
+    "translations": {}
+  },
+  "HELOS": {
+    "def": "",
+    "translations": {}
+  },
+  "MURKY": {
+    "def": "",
+    "translations": {}
+  },
+  "GAITT": {
+    "def": "",
+    "translations": {}
+  },
+  "DANCE": {
+    "def": "",
+    "translations": {}
+  },
+  "GRAIL": {
+    "def": "",
+    "translations": {}
+  },
+  "DEADS": {
+    "def": "",
+    "translations": {}
+  },
+  "MIVVY": {
+    "def": "",
+    "translations": {}
+  },
+  "FUGIO": {
+    "def": "",
+    "translations": {}
+  },
+  "URSID": {
+    "def": "",
+    "translations": {}
+  },
+  "BURIN": {
+    "def": "",
+    "translations": {}
+  },
+  "MIMSY": {
+    "def": "",
+    "translations": {}
+  },
+  "LOTUS": {
+    "def": "",
+    "translations": {}
+  },
+  "FRONS": {
+    "def": "",
+    "translations": {}
+  },
+  "DURST": {
+    "def": "",
+    "translations": {}
+  },
+  "DEVIS": {
+    "def": "",
+    "translations": {}
+  },
+  "PARAE": {
+    "def": "",
+    "translations": {}
+  },
+  "MANDS": {
+    "def": "",
+    "translations": {}
+  },
+  "SARIN": {
+    "def": "",
+    "translations": {}
+  },
+  "ETHIC": {
+    "def": "",
+    "translations": {}
+  },
+  "WHIRS": {
+    "def": "",
+    "translations": {}
+  },
+  "BRIBE": {
+    "def": "",
+    "translations": {}
+  },
+  "RORTY": {
+    "def": "",
+    "translations": {}
+  },
+  "NYMPH": {
+    "def": "",
+    "translations": {}
+  },
+  "BILLY": {
+    "def": "",
+    "translations": {}
+  },
+  "GIGHE": {
+    "def": "",
+    "translations": {}
+  },
+  "KALIF": {
+    "def": "",
+    "translations": {}
+  },
+  "BREDS": {
+    "def": "",
+    "translations": {}
+  },
+  "CUTEY": {
+    "def": "",
+    "translations": {}
+  },
+  "MINCY": {
+    "def": "",
+    "translations": {}
+  },
+  "MODOC": {
+    "def": "",
+    "translations": {}
+  },
+  "ALLIN": {
+    "def": "",
+    "translations": {}
+  },
+  "YESES": {
+    "def": "",
+    "translations": {}
+  },
+  "DWALM": {
+    "def": "",
+    "translations": {}
+  },
+  "BALMS": {
+    "def": "",
+    "translations": {}
+  },
+  "YUCCA": {
+    "def": "",
+    "translations": {}
+  },
+  "CYDER": {
+    "def": "",
+    "translations": {}
+  },
+  "LOPED": {
+    "def": "",
+    "translations": {}
+  },
+  "KAGUS": {
+    "def": "",
+    "translations": {}
+  },
+  "SMEEK": {
+    "def": "",
+    "translations": {}
+  },
+  "YLEMS": {
+    "def": "",
+    "translations": {}
+  },
+  "PEAGS": {
+    "def": "",
+    "translations": {}
+  },
+  "COMPS": {
+    "def": "",
+    "translations": {}
+  },
+  "NOBLY": {
+    "def": "",
+    "translations": {}
+  },
+  "COCOA": {
+    "def": "",
+    "translations": {}
+  },
+  "PEDON": {
+    "def": "",
+    "translations": {}
+  },
+  "HITHE": {
+    "def": "",
+    "translations": {}
+  },
+  "ETROG": {
+    "def": "",
+    "translations": {}
+  },
+  "DUMPS": {
+    "def": "",
+    "translations": {}
+  },
+  "MAGIC": {
+    "def": "",
+    "translations": {}
+  },
+  "BENDY": {
+    "def": "",
+    "translations": {}
+  },
+  "SEELY": {
+    "def": "",
+    "translations": {}
+  },
+  "SPAWN": {
+    "def": "",
+    "translations": {}
+  },
+  "OXIDS": {
+    "def": "",
+    "translations": {}
+  },
+  "HAKUS": {
+    "def": "",
+    "translations": {}
+  },
+  "GRADS": {
+    "def": "",
+    "translations": {}
+  },
+  "ABACS": {
+    "def": "",
+    "translations": {}
+  },
+  "FOCUS": {
+    "def": "",
+    "translations": {}
+  },
+  "HIDES": {
+    "def": "",
+    "translations": {}
+  },
+  "HAYED": {
+    "def": "",
+    "translations": {}
+  },
+  "STONY": {
+    "def": "",
+    "translations": {}
+  },
+  "SLIMS": {
+    "def": "",
+    "translations": {}
+  },
+  "TONKA": {
+    "def": "",
+    "translations": {}
+  },
+  "IDENT": {
+    "def": "",
+    "translations": {}
+  },
+  "TANSU": {
+    "def": "",
+    "translations": {}
+  },
+  "WHIRR": {
+    "def": "",
+    "translations": {}
+  },
+  "GLIKE": {
+    "def": "",
+    "translations": {}
+  },
+  "VOTES": {
+    "def": "",
+    "translations": {}
+  },
+  "SIGRI": {
+    "def": "",
+    "translations": {}
+  },
+  "CADES": {
+    "def": "",
+    "translations": {}
+  },
+  "LAYED": {
+    "def": "",
+    "translations": {}
+  },
+  "SNAIL": {
+    "def": "",
+    "translations": {}
+  },
+  "FYKES": {
+    "def": "",
+    "translations": {}
+  },
+  "OUSIA": {
+    "def": "",
+    "translations": {}
+  },
+  "NEVUS": {
+    "def": "",
+    "translations": {}
+  },
+  "WINGS": {
+    "def": "",
+    "translations": {}
+  },
+  "TOILE": {
+    "def": "",
+    "translations": {}
+  },
+  "JUNTA": {
+    "def": "",
+    "translations": {}
+  },
+  "REGIA": {
+    "def": "",
+    "translations": {}
+  },
+  "LAVVY": {
+    "def": "",
+    "translations": {}
+  },
+  "FATTY": {
+    "def": "",
+    "translations": {}
+  },
+  "BIPPY": {
+    "def": "",
+    "translations": {}
+  },
+  "HOODY": {
+    "def": "",
+    "translations": {}
+  },
+  "BUNCO": {
+    "def": "",
+    "translations": {}
+  },
+  "ZUPAN": {
+    "def": "",
+    "translations": {}
+  },
+  "PHUBS": {
+    "def": "",
+    "translations": {}
+  },
+  "SLUSE": {
+    "def": "",
+    "translations": {}
+  },
+  "DWINE": {
+    "def": "",
+    "translations": {}
+  },
+  "PIETY": {
+    "def": "",
+    "translations": {}
+  },
+  "PYRUS": {
+    "def": "",
+    "translations": {}
+  },
+  "MOGUE": {
+    "def": "",
+    "translations": {}
+  },
+  "GLOWS": {
+    "def": "",
+    "translations": {}
+  },
+  "KUTCH": {
+    "def": "",
+    "translations": {}
+  },
+  "NGANA": {
+    "def": "",
+    "translations": {}
+  },
+  "PITON": {
+    "def": "",
+    "translations": {}
+  },
+  "SPALT": {
+    "def": "",
+    "translations": {}
+  },
+  "QIPAO": {
+    "def": "",
+    "translations": {}
+  },
+  "PAKKA": {
+    "def": "",
+    "translations": {}
+  },
+  "REDLY": {
+    "def": "",
+    "translations": {}
+  },
+  "FURZY": {
+    "def": "",
+    "translations": {}
+  },
+  "ARHAT": {
+    "def": "",
+    "translations": {}
+  },
+  "FUMER": {
+    "def": "",
+    "translations": {}
+  },
+  "ADDIN": {
+    "def": "",
+    "translations": {}
+  },
+  "CARDY": {
+    "def": "",
+    "translations": {}
+  },
+  "ZOOEA": {
+    "def": "",
+    "translations": {}
+  },
+  "CLEGS": {
+    "def": "",
+    "translations": {}
+  },
+  "DHALS": {
+    "def": "",
+    "translations": {}
+  },
+  "DESHI": {
+    "def": "",
+    "translations": {}
+  },
+  "MEANY": {
+    "def": "",
+    "translations": {}
+  },
+  "LENOS": {
+    "def": "",
+    "translations": {}
+  },
+  "CINES": {
+    "def": "",
+    "translations": {}
+  },
+  "SNEAP": {
+    "def": "",
+    "translations": {}
+  },
+  "BUSTI": {
+    "def": "",
+    "translations": {}
+  },
+  "BELTS": {
+    "def": "",
+    "translations": {}
+  },
+  "WEANS": {
+    "def": "",
+    "translations": {}
+  },
+  "GLOBE": {
+    "def": "",
+    "translations": {}
+  },
+  "DECAD": {
+    "def": "",
+    "translations": {}
+  },
+  "TINKS": {
+    "def": "",
+    "translations": {}
+  },
+  "BALLY": {
+    "def": "",
+    "translations": {}
+  },
+  "YOKES": {
+    "def": "",
+    "translations": {}
+  },
+  "ONSEN": {
+    "def": "",
+    "translations": {}
+  },
+  "LOVER": {
+    "def": "",
+    "translations": {}
+  },
+  "IDDAT": {
+    "def": "",
+    "translations": {}
+  },
+  "TERRY": {
+    "def": "",
+    "translations": {}
+  },
+  "POGEY": {
+    "def": "",
+    "translations": {}
+  },
+  "PLANH": {
+    "def": "",
+    "translations": {}
+  },
+  "LOTTE": {
+    "def": "",
+    "translations": {}
+  },
+  "CLIES": {
+    "def": "",
+    "translations": {}
+  },
+  "FEMES": {
+    "def": "",
+    "translations": {}
+  },
+  "DEEDY": {
+    "def": "",
+    "translations": {}
+  },
+  "ACNES": {
+    "def": "",
+    "translations": {}
+  },
+  "RUBLI": {
+    "def": "",
+    "translations": {}
+  },
+  "LOLOS": {
+    "def": "",
+    "translations": {}
+  },
+  "RAPES": {
+    "def": "",
+    "translations": {}
+  },
+  "MANSE": {
+    "def": "",
+    "translations": {}
+  },
+  "WIPED": {
+    "def": "",
+    "translations": {}
+  },
+  "SABHA": {
+    "def": "",
+    "translations": {}
+  },
+  "GAMER": {
+    "def": "",
+    "translations": {}
+  },
+  "AFEAR": {
+    "def": "",
+    "translations": {}
+  },
+  "ADRAW": {
+    "def": "",
+    "translations": {}
+  },
+  "OUTTA": {
+    "def": "",
+    "translations": {}
+  },
+  "SLAPS": {
+    "def": "",
+    "translations": {}
+  },
+  "TARKA": {
+    "def": "",
+    "translations": {}
+  },
+  "GOYLE": {
+    "def": "",
+    "translations": {}
+  },
+  "TOMIA": {
+    "def": "",
+    "translations": {}
+  },
+  "MISDO": {
+    "def": "",
+    "translations": {}
+  },
+  "SAYEE": {
+    "def": "",
+    "translations": {}
+  },
+  "POPSY": {
+    "def": "",
+    "translations": {}
+  },
+  "RIPED": {
+    "def": "",
+    "translations": {}
+  },
+  "BATHS": {
+    "def": "",
+    "translations": {}
+  },
+  "TAILS": {
+    "def": "",
+    "translations": {}
+  },
+  "DINNA": {
+    "def": "",
+    "translations": {}
+  },
+  "CONIN": {
+    "def": "",
+    "translations": {}
+  },
+  "BUNYA": {
+    "def": "",
+    "translations": {}
+  },
+  "SKOOL": {
+    "def": "",
+    "translations": {}
+  },
+  "KHORS": {
+    "def": "",
+    "translations": {}
+  },
+  "HULKS": {
+    "def": "",
+    "translations": {}
+  },
+  "LACET": {
+    "def": "",
+    "translations": {}
+  },
+  "LAZES": {
+    "def": "",
+    "translations": {}
+  },
+  "SEAMS": {
+    "def": "",
+    "translations": {}
+  },
+  "SLYLY": {
+    "def": "",
+    "translations": {}
+  },
+  "JOINS": {
+    "def": "",
+    "translations": {}
+  },
+  "DOATS": {
+    "def": "",
+    "translations": {}
+  },
+  "PROKE": {
+    "def": "",
+    "translations": {}
+  },
+  "KINGY": {
+    "def": "",
+    "translations": {}
+  },
+  "RANNY": {
+    "def": "",
+    "translations": {}
+  },
+  "RAKER": {
+    "def": "",
+    "translations": {}
+  },
+  "SWOUN": {
+    "def": "",
+    "translations": {}
+  },
+  "GULAR": {
+    "def": "",
+    "translations": {}
+  },
+  "SEDUM": {
+    "def": "",
+    "translations": {}
+  },
+  "OPERA": {
+    "def": "",
+    "translations": {}
+  },
+  "PERNS": {
+    "def": "",
+    "translations": {}
+  },
+  "REDIA": {
+    "def": "",
+    "translations": {}
+  },
+  "TEKKE": {
+    "def": "",
+    "translations": {}
+  },
+  "APPEL": {
+    "def": "",
+    "translations": {}
+  },
+  "WAIST": {
+    "def": "",
+    "translations": {}
+  },
+  "BOLDS": {
     "def": "",
     "translations": {}
   }
