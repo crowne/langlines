@@ -140,7 +140,7 @@ export class GameScene extends Phaser.Scene {
             this.goalText.setColor(palette.match);
             if (this.finishBtn) this.finishBtn.setVisible(true);
         } else {
-            this.goalText.setColor(themeManager.getMode() === 'dark' ? '#ffff00' : '#888800');
+            this.goalText.setColor(palette.textGoal);
             if (this.finishBtn) this.finishBtn.setVisible(false);
         }
     }
@@ -150,8 +150,8 @@ export class GameScene extends Phaser.Scene {
         this.add.rectangle(width / 2, height / 2, width, height, palette.panel);
 
         // Word Display
-        this.topText = this.add.text(width / 2, height * 0.45, '', {
-            fontSize: '48px',
+        this.topText = this.add.text(width / 2, height * 0.60, '', {
+            fontSize: '36px',
             color: palette.text,
             fontFamily: 'Outfit',
             fontStyle: 'bold'
@@ -161,9 +161,9 @@ export class GameScene extends Phaser.Scene {
         const i18n = this.cache.json.get(`i18n-${this.homeLang}`);
 
         // Round Goal Text
-        this.goalText = this.add.text(width / 2, 15, '', {
+        this.goalText = this.add.text(width / 2, 35, '', {
             fontSize: '20px',
-            color: '#ffff00',
+            color: palette.textGoal,
             fontFamily: 'Outfit',
             fontStyle: 'bold'
         }).setOrigin(0.5, 0);

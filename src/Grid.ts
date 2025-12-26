@@ -80,7 +80,7 @@ export class Grid {
             // Use Unicode ² (\u00B2) and ³ (\u00B3)
             const superscript = multiplier === 3 ? '\u00B3' : '\u00B2';
 
-            const badgeText = this.scene.add.text(this.tileSize / 2 - 8, -this.tileSize / 2 + 8, superscript, {
+            const badgeText = this.scene.add.text(this.tileSize / 2 - 2, -this.tileSize / 2 + 4, superscript, {
                 fontSize: '24px',
                 color: asteriskColor,
                 fontStyle: 'bold'

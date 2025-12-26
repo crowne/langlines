@@ -53,7 +53,7 @@ export class SetupScene extends Phaser.Scene {
 
         // Title
         this.titleText = this.add.text(width / 2, height * 0.2, '', {
-            fontSize: '64px',
+            fontSize: '48px',
             color: palette.text,
             fontFamily: 'Outfit',
             fontStyle: 'bold'
@@ -84,7 +84,7 @@ export class SetupScene extends Phaser.Scene {
 
         this.startBtnGraphics = this.add.graphics();
         this.startBtnText = this.add.text(0, 0, '', {
-            fontSize: '48px',
+            fontSize: '42px',
             color: '#ffffff',
             fontFamily: 'Outfit',
             fontStyle: 'bold'

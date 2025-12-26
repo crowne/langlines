@@ -7,6 +7,7 @@ export interface ColorPalette {
     panelStr: string;
     text: string;
     textSecondary: string;
+    textGoal: string;
     accent: string;
     accentSecondary: string;
     tileBg: number;
@@ -22,6 +23,7 @@ const DarkPalette: ColorPalette = {
     panelStr: '#333333',
     text: '#ffffff',
     textSecondary: '#aaaaaa',
+    textGoal: '#ffff00',
     accent: '#646cff',
     accentSecondary: '#7c84ff',
     tileBg: 0xffffff,
@@ -37,6 +39,7 @@ const LightPalette: ColorPalette = {
     panelStr: '#e0e0e0',
     text: '#1a1a1a',
     textSecondary: '#666666',
+    textGoal: '#ffc400ff',
     accent: '#3b43d6',
     accentSecondary: '#5a62ff',
     tileBg: 0xffffff,
