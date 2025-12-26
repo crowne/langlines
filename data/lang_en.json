@@ -7222,8 +7222,10 @@
     }
   },
   "HUH": {
-    "def": "",
-    "translations": {}
+    "def": "What do you mean",
+    "translations": {
+      "es": "¿EH?"
+    }
   },
   "HULKS": {
     "def": "",
@@ -7248,6 +7250,12 @@
   "HUP": {
     "def": "",
     "translations": {}
+  },
+  "HURT": {
+    "def": "Pain or injury",
+    "translations": {
+      "es": "DOLER"
+    }
   },
   "HUSBAND": {
     "def": "",
@@ -13060,6 +13068,12 @@
   "TOILE": {
     "def": "",
     "translations": {}
+  },
+  "TOLD": {
+    "def": "Past tense of tell",
+    "translations": {
+      "es": "DIJO"
+    }
   },
   "TOM": {
     "def": "",

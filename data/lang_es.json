@@ -1,20 +1,4 @@
 {
-  "AAA": {
-    "def": "",
-    "translations": {}
-  },
-  "AAE": {
-    "def": "",
-    "translations": {}
-  },
-  "AAP": {
-    "def": "",
-    "translations": {}
-  },
-  "ABA": {
-    "def": "",
-    "translations": {}
-  },
   "ABACO": {
     "def": "",
     "translations": {}
@@ -23,31 +7,11 @@
     "def": "",
     "translations": {}
   },
-  "ABB": {
-    "def": "",
-    "translations": {}
-  },
-  "ABC": {
-    "def": "",
-    "translations": {}
-  },
-  "ABD": {
-    "def": "",
-    "translations": {}
-  },
   "ABDOMEN": {
     "def": "",
     "translations": {}
   },
-  "ABE": {
-    "def": "",
-    "translations": {}
-  },
   "ABEJA": {
-    "def": "",
-    "translations": {}
-  },
-  "ABI": {
     "def": "",
     "translations": {}
   },
@@ -56,18 +20,6 @@
     "translations": {
       "en": "OPEN"
     }
-  },
-  "ABM": {
-    "def": "",
-    "translations": {}
-  },
-  "ABN": {
-    "def": "",
-    "translations": {}
-  },
-  "ABO": {
-    "def": "",
-    "translations": {}
   },
   "ABOGADO": {
     "def": "",
@@ -93,18 +45,6 @@
     "def": "",
     "translations": {}
   },
-  "ABS": {
-    "def": "",
-    "translations": {}
-  },
-  "ABU": {
-    "def": "",
-    "translations": {}
-  },
-  "ABÚ": {
-    "def": "",
-    "translations": {}
-  },
   "ABUELO": {
     "def": "",
     "translations": {}
@@ -115,21 +55,11 @@
   },
   "ACA": {
     "def": "",
-    "translations": {}
-  },
-  "ACÁ": {
-    "def": "",
-    "translations": {}
+    "translations": {
+      "en": "HERE"
+    }
   },
   "ACABAR": {
-    "def": "",
-    "translations": {}
-  },
-  "ACB": {
-    "def": "",
-    "translations": {}
-  },
-  "ACC": {
     "def": "",
     "translations": {}
   },
@@ -138,14 +68,6 @@
     "translations": {}
   },
   "ACCION": {
-    "def": "",
-    "translations": {}
-  },
-  "ACD": {
-    "def": "",
-    "translations": {}
-  },
-  "ACE": {
     "def": "",
     "translations": {}
   },
@@ -167,14 +89,6 @@
       "en": "ACCEPT"
     }
   },
-  "ACF": {
-    "def": "",
-    "translations": {}
-  },
-  "ACH": {
-    "def": "",
-    "translations": {}
-  },
   "ACIDO": {
     "def": "",
     "translations": {}
@@ -195,22 +109,6 @@
     "def": "",
     "translations": {}
   },
-  "ACP": {
-    "def": "",
-    "translations": {}
-  },
-  "ACR": {
-    "def": "",
-    "translations": {}
-  },
-  "ACS": {
-    "def": "",
-    "translations": {}
-  },
-  "ACT": {
-    "def": "",
-    "translations": {}
-  },
   "ACTIVO": {
     "def": "Engaging or ready to engage in physically energetic pursuits.",
     "translations": {
@@ -219,7 +117,9 @@
   },
   "ACTO": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "ACT"
+    }
   },
   "ACTRIZ": {
     "def": "",
@@ -247,31 +147,7 @@
     "def": "",
     "translations": {}
   },
-  "ADC": {
-    "def": "",
-    "translations": {}
-  },
-  "ADD": {
-    "def": "",
-    "translations": {}
-  },
-  "ADE": {
-    "def": "",
-    "translations": {}
-  },
-  "ADH": {
-    "def": "",
-    "translations": {}
-  },
-  "ADI": {
-    "def": "",
-    "translations": {}
-  },
   "ADICTO": {
-    "def": "",
-    "translations": {}
-  },
-  "ADJ": {
     "def": "",
     "translations": {}
   },
@@ -283,29 +159,15 @@
   },
   "ADN": {
     "def": "",
-    "translations": {}
-  },
-  "ADO": {
-    "def": "",
-    "translations": {}
+    "translations": {
+      "en": "DNA"
+    }
   },
   "ADOPTAR": {
     "def": "",
     "translations": {}
   },
   "ADORNO": {
-    "def": "",
-    "translations": {}
-  },
-  "ADP": {
-    "def": "",
-    "translations": {}
-  },
-  "ADR": {
-    "def": "",
-    "translations": {}
-  },
-  "ADS": {
     "def": "",
     "translations": {}
   },
@@ -317,63 +179,17 @@
     "def": "",
     "translations": {}
   },
-  "AEA": {
-    "def": "",
-    "translations": {}
-  },
-  "AEB": {
-    "def": "",
-    "translations": {}
-  },
-  "AEC": {
-    "def": "",
-    "translations": {}
-  },
-  "AEE": {
-    "def": "",
-    "translations": {}
-  },
-  "AEG": {
-    "def": "",
-    "translations": {}
-  },
-  "AEK": {
-    "def": "",
-    "translations": {}
-  },
   "AEL": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "HIM"
+    }
   },
   "AEREO": {
     "def": "",
     "translations": {}
   },
-  "AES": {
-    "def": "",
-    "translations": {}
-  },
-  "AET": {
-    "def": "",
-    "translations": {}
-  },
-  "AFA": {
-    "def": "",
-    "translations": {}
-  },
-  "AFC": {
-    "def": "",
-    "translations": {}
-  },
-  "AFE": {
-    "def": "",
-    "translations": {}
-  },
   "AFECTAR": {
-    "def": "",
-    "translations": {}
-  },
-  "AFI": {
     "def": "",
     "translations": {}
   },
@@ -389,46 +205,6 @@
     "def": "",
     "translations": {}
   },
-  "AFL": {
-    "def": "",
-    "translations": {}
-  },
-  "AFP": {
-    "def": "",
-    "translations": {}
-  },
-  "AFS": {
-    "def": "",
-    "translations": {}
-  },
-  "AFÚ": {
-    "def": "",
-    "translations": {}
-  },
-  "AGA": {
-    "def": "",
-    "translations": {}
-  },
-  "AGB": {
-    "def": "",
-    "translations": {}
-  },
-  "AGD": {
-    "def": "",
-    "translations": {}
-  },
-  "AGE": {
-    "def": "",
-    "translations": {}
-  },
-  "AGF": {
-    "def": "",
-    "translations": {}
-  },
-  "AGI": {
-    "def": "",
-    "translations": {}
-  },
   "AGIL": {
     "def": "",
     "translations": {}
@@ -437,17 +213,11 @@
     "def": "",
     "translations": {}
   },
-  "AGM": {
-    "def": "",
-    "translations": {}
-  },
-  "AGN": {
-    "def": "",
-    "translations": {}
-  },
   "AGO": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "AUG"
+    }
   },
   "AGONIA": {
     "def": "",
@@ -461,23 +231,11 @@
     "def": "",
     "translations": {}
   },
-  "AGP": {
-    "def": "",
-    "translations": {}
-  },
-  "AGR": {
-    "def": "",
-    "translations": {}
-  },
   "AGREGAR": {
     "def": "",
     "translations": {}
   },
   "AGRIO": {
-    "def": "",
-    "translations": {}
-  },
-  "AGS": {
     "def": "",
     "translations": {}
   },
@@ -499,28 +257,12 @@
     "def": "",
     "translations": {}
   },
-  "AHÁ": {
-    "def": "",
-    "translations": {}
-  },
-  "AHH": {
-    "def": "",
-    "translations": {}
-  },
   "AHI": {
     "def": "",
     "translations": {
-      "en": "HERE",
+      "en": "THERE",
       "es": "AHÍ"
     }
-  },
-  "AHM": {
-    "def": "",
-    "translations": {}
-  },
-  "AHO": {
-    "def": "",
-    "translations": {}
   },
   "AHOGO": {
     "def": "",
@@ -530,111 +272,51 @@
     "def": "",
     "translations": {}
   },
-  "AHU": {
-    "def": "",
-    "translations": {}
-  },
-  "AHV": {
-    "def": "",
-    "translations": {}
-  },
-  "AIA": {
-    "def": "",
-    "translations": {}
-  },
-  "AIC": {
-    "def": "",
-    "translations": {}
-  },
-  "AID": {
-    "def": "",
-    "translations": {}
-  },
-  "AIE": {
-    "def": "",
-    "translations": {}
-  },
-  "AIM": {
-    "def": "",
-    "translations": {}
-  },
-  "AIN": {
-    "def": "",
-    "translations": {}
-  },
-  "AIR": {
-    "def": "",
-    "translations": {}
-  },
   "AIRE": {
     "def": "The invisible gaseous substance surrounding the earth.",
     "translations": {
       "en": "AIR"
     }
   },
-  "AIS": {
-    "def": "",
-    "translations": {}
-  },
   "AISLAR": {
-    "def": "",
-    "translations": {}
-  },
-  "AIT": {
-    "def": "",
-    "translations": {}
-  },
-  "AIX": {
     "def": "",
     "translations": {}
   },
   "AJA": {
     "def": "",
-    "translations": {}
-  },
-  "AJÁ": {
-    "def": "",
-    "translations": {}
+    "translations": {
+      "en": "AHA",
+      "es": "AJÁ"
+    }
   },
   "AJENO": {
     "def": "",
     "translations": {}
   },
-  "AJÍ": {
+  "AJI": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "CHILLI",
+      "es": "AJÍ"
+    }
   },
   "AJO": {
     "def": "",
-    "translations": {}
-  },
-  "AJÓ": {
-    "def": "",
-    "translations": {}
+    "translations": {
+      "en": "GARLIC",
+      "es": "AJÓ"
+    }
   },
   "AJUSTE": {
     "def": "",
     "translations": {}
   },
-  "AKA": {
-    "def": "",
-    "translations": {}
-  },
-  "AKÉ": {
-    "def": "",
-    "translations": {}
-  },
-  "AKI": {
-    "def": "",
-    "translations": {}
-  },
   "ALA": {
     "def": "",
-    "translations": {}
-  },
-  "ALÁ": {
-    "def": "",
-    "translations": {}
+    "translations": {
+      "en": "TO THE",
+      "es": "ALÁ"
+    }
   },
   "ALARMA": {
     "def": "",
@@ -844,21 +526,16 @@
   },
   "AMO": {
     "def": "",
-    "translations": {}
-  },
-  "AMÓ": {
-    "def": "",
-    "translations": {}
+    "translations": {
+      "en": "I LOVE",
+      "es": "AMÓ"
+    }
   },
   "AMOR": {
     "def": "An intense feeling of deep affection.",
     "translations": {
       "en": "LOVE"
     }
-  },
-  "AMP": {
-    "def": "",
-    "translations": {}
   },
   "AMPARO": {
     "def": "",
@@ -868,47 +545,11 @@
     "def": "",
     "translations": {}
   },
-  "AMQ": {
-    "def": "",
-    "translations": {}
-  },
-  "AMR": {
-    "def": "",
-    "translations": {}
-  },
-  "AMS": {
-    "def": "",
-    "translations": {}
-  },
-  "AMX": {
-    "def": "",
-    "translations": {}
-  },
-  "AMY": {
-    "def": "",
-    "translations": {}
-  },
-  "ANA": {
-    "def": "",
-    "translations": {}
-  },
-  "AÑA": {
-    "def": "",
-    "translations": {}
-  },
   "ANADIR": {
     "def": "Join something to something else so as to increase the size.",
     "translations": {
       "en": "ADD"
     }
-  },
-  "ANB": {
-    "def": "",
-    "translations": {}
-  },
-  "ANC": {
-    "def": "",
-    "translations": {}
   },
   "ANCHO": {
     "def": "Of great or more than average width.",
@@ -917,10 +558,6 @@
     }
   },
   "ANCLA": {
-    "def": "",
-    "translations": {}
-  },
-  "AND": {
     "def": "",
     "translations": {}
   },
@@ -5974,17 +5611,18 @@
     "def": "",
     "translations": {}
   },
-  "FÍE": {
-    "def": "",
-    "translations": {}
-  },
-  "FIG": {
-    "def": "",
-    "translations": {}
+  "FIE": {
+    "def": "Primera persona del singular (yo) del pretérito perfecto simple de indicativo de fiar.",
+    "translations": {
+      "en": "I",
+      "es": "FÍE"
+    }
   },
   "FIL": {
-    "def": "",
-    "translations": {}
+    "def": "Elefante",
+    "translations": {
+      "en": "ELEPHANT"
+    }
   },
   "FIM": {
     "def": "",
