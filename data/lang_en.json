@@ -1,0 +1,8284 @@
+{
+  "ABLE": {
+    "def": "Having the power, skill, or means to do something.",
+    "translations": {
+      "es": "CAPAZ"
+    }
+  },
+  "ABOUT": {
+    "def": "On the subject of; concerning.",
+    "translations": {
+      "es": "SOBRE"
+    }
+  },
+  "ABSOLUTE": {
+    "def": "Total and complete.",
+    "translations": {
+      "es": "ABSOLUTO"
+    }
+  },
+  "ACCEPT": {
+    "def": "Consent to receive something offered.",
+    "translations": {
+      "es": "ACEPTAR"
+    }
+  },
+  "ACCOUNT": {
+    "def": "A report or description of an event or experience.",
+    "translations": {
+      "es": "CUENTA"
+    }
+  },
+  "ACE": {
+    "def": "",
+    "translations": {}
+  },
+  "ACHIEVE": {
+    "def": "Successfully bring about or reach by effort.",
+    "translations": {
+      "es": "LOGRAR"
+    }
+  },
+  "ACROSS": {
+    "def": "From one side to the other of something.",
+    "translations": {
+      "es": "A TRAVES"
+    }
+  },
+  "ACT": {
+    "def": "Take action; do something.",
+    "translations": {
+      "es": "ACTUAR"
+    }
+  },
+  "ACTIVE": {
+    "def": "Engaging or ready to engage in physically energetic pursuits.",
+    "translations": {
+      "es": "ACTIVO"
+    }
+  },
+  "ACTUAL": {
+    "def": "Existing in fact; real.",
+    "translations": {
+      "es": "REAL"
+    }
+  },
+  "ADD": {
+    "def": "Join something to something else so as to increase the size.",
+    "translations": {
+      "es": "ANADIR"
+    }
+  },
+  "ADDRESS": {
+    "def": "The particulars of the place where someone lives.",
+    "translations": {
+      "es": "DIRECCION"
+    }
+  },
+  "ADMIT": {
+    "def": "Confess to be true or to be the case.",
+    "translations": {
+      "es": "ADMITIR"
+    }
+  },
+  "AFFECT": {
+    "def": "",
+    "translations": {}
+  },
+  "AFFORD": {
+    "def": "",
+    "translations": {}
+  },
+  "AFTER": {
+    "def": "During the period of time following an event.",
+    "translations": {
+      "es": "DESPUES"
+    }
+  },
+  "AGAIN": {
+    "def": "Another time; once more.",
+    "translations": {
+      "es": "OTRA VEZ"
+    }
+  },
+  "AGAINST": {
+    "def": "In opposition to.",
+    "translations": {
+      "es": "CONTRA"
+    }
+  },
+  "AGE": {
+    "def": "The length of time that a person has lived.",
+    "translations": {
+      "es": "EDAD"
+    }
+  },
+  "AGENT": {
+    "def": "A person who acts on behalf of another person or group.",
+    "translations": {
+      "es": "AGENTE"
+    }
+  },
+  "AGO": {
+    "def": "Before the present; earlier.",
+    "translations": {
+      "es": "HACE"
+    }
+  },
+  "AGREE": {
+    "def": "Have the same opinion about something.",
+    "translations": {
+      "es": "ACORDAR"
+    }
+  },
+  "AID": {
+    "def": "",
+    "translations": {}
+  },
+  "AIM": {
+    "def": "",
+    "translations": {}
+  },
+  "AIR": {
+    "def": "The invisible gaseous substance surrounding the earth.",
+    "translations": {
+      "es": "AIRE"
+    }
+  },
+  "ALB": {
+    "def": "",
+    "translations": {}
+  },
+  "ALE": {
+    "def": "",
+    "translations": {}
+  },
+  "ALL": {
+    "def": "Used to refer to the whole quantity or extent of a particular group.",
+    "translations": {
+      "es": "TODO"
+    }
+  },
+  "ALLOW": {
+    "def": "Give someone permission to do something.",
+    "translations": {
+      "es": "PERMITIR"
+    }
+  },
+  "ALMOST": {
+    "def": "Not quite; very nearly.",
+    "translations": {
+      "es": "CASI"
+    }
+  },
+  "ALONG": {
+    "def": "Moving in a constant direction on a path or any more or less horizontal surface.",
+    "translations": {
+      "es": "A LO LARGO"
+    }
+  },
+  "ALP": {
+    "def": "",
+    "translations": {}
+  },
+  "ALREADY": {
+    "def": "Before or by now or the time in question.",
+    "translations": {
+      "es": "YA"
+    }
+  },
+  "ALRIGHT": {
+    "def": "",
+    "translations": {}
+  },
+  "ALSO": {
+    "def": "In addition; too.",
+    "translations": {
+      "es": "TAMBIEN"
+    }
+  },
+  "ALWAYS": {
+    "def": "At all times; on all occasions.",
+    "translations": {
+      "es": "SIEMPRE"
+    }
+  },
+  "AMERICA": {
+    "def": "",
+    "translations": {}
+  },
+  "AMOUNT": {
+    "def": "A quantity of something, especially the total of a thing or things in number, size, value, or extent.",
+    "translations": {
+      "es": "CANTIDAD"
+    }
+  },
+  "AMP": {
+    "def": "",
+    "translations": {}
+  },
+  "AND": {
+    "def": "Used to connect words of the same part of speech, clauses, or sentences.",
+    "translations": {
+      "es": "Y"
+    }
+  },
+  "ANOTHER": {
+    "def": "Used to refer to an additional person or thing of the same type.",
+    "translations": {
+      "es": "OTRO"
+    }
+  },
+  "ANSWER": {
+    "def": "A thing said, written, or done to deal with or as a reaction to a question, statement, or situation.",
+    "translations": {
+      "es": "RESPUESTA"
+    }
+  },
+  "ANT": {
+    "def": "",
+    "translations": {}
+  },
+  "ANY": {
+    "def": "Used to refer to one or some of a thing or number of things, no matter how much or many.",
+    "translations": {
+      "es": "CUALQUIER"
+    }
+  },
+  "APART": {
+    "def": "Separated by a distance; at a specified distance from each other in time or space.",
+    "translations": {
+      "es": "APARTE"
+    }
+  },
+  "APE": {
+    "def": "",
+    "translations": {}
+  },
+  "APPEAR": {
+    "def": "Come into sight; become visible or noticeable, typically without visible agent or apparent cause.",
+    "translations": {
+      "es": "APARECER"
+    }
+  },
+  "APPLY": {
+    "def": "Make a formal application or request.",
+    "translations": {
+      "es": "APLICAR"
+    }
+  },
+  "APPOINT": {
+    "def": "",
+    "translations": {}
+  },
+  "APPROACH": {
+    "def": "",
+    "translations": {}
+  },
+  "APT": {
+    "def": "",
+    "translations": {}
+  },
+  "ARC": {
+    "def": "",
+    "translations": {}
+  },
+  "ARE": {
+    "def": "",
+    "translations": {}
+  },
+  "AREA": {
+    "def": "A region or part of a town, a country, or the world.",
+    "translations": {
+      "es": "AREA"
+    }
+  },
+  "ARGUE": {
+    "def": "",
+    "translations": {}
+  },
+  "ARK": {
+    "def": "",
+    "translations": {}
+  },
+  "ARM": {
+    "def": "Each of the two upper limbs of the human body from the shoulder to the hand.",
+    "translations": {
+      "es": "BRAZO"
+    }
+  },
+  "AROUND": {
+    "def": "On every side of.",
+    "translations": {
+      "es": "ALREDEDOR"
+    }
+  },
+  "ARRANGE": {
+    "def": "",
+    "translations": {}
+  },
+  "ART": {
+    "def": "The expression or application of human creative skill and imagination.",
+    "translations": {
+      "es": "ARTE"
+    }
+  },
+  "ASH": {
+    "def": "",
+    "translations": {}
+  },
+  "ASK": {
+    "def": "Say something in order to obtain information or advice.",
+    "translations": {
+      "es": "PREGUNTAR"
+    }
+  },
+  "ASP": {
+    "def": "",
+    "translations": {}
+  },
+  "ASS": {
+    "def": "",
+    "translations": {}
+  },
+  "ASSUME": {
+    "def": "",
+    "translations": {}
+  },
+  "AT": {
+    "def": "Expressing location or arrival in a particular place or position.",
+    "translations": {
+      "es": "EN"
+    }
+  },
+  "ATE": {
+    "def": "",
+    "translations": {}
+  },
+  "ATTEND": {
+    "def": "",
+    "translations": {}
+  },
+  "AVE": {
+    "def": "",
+    "translations": {}
+  },
+  "AWARE": {
+    "def": "",
+    "translations": {}
+  },
+  "AWAY": {
+    "def": "At a distance from a particular person or place.",
+    "translations": {
+      "es": "LEJOS"
+    }
+  },
+  "AWE": {
+    "def": "",
+    "translations": {}
+  },
+  "AWFUL": {
+    "def": "",
+    "translations": {}
+  },
+  "AWL": {
+    "def": "",
+    "translations": {}
+  },
+  "AXE": {
+    "def": "",
+    "translations": {}
+  },
+  "AYE": {
+    "def": "",
+    "translations": {}
+  },
+  "BABY": {
+    "def": "A very young child.",
+    "translations": {
+      "es": "BEBE"
+    }
+  },
+  "BACK": {
+    "def": "The rear surface of the human body from the shoulders to the hips.",
+    "translations": {
+      "es": "ESPALDA"
+    }
+  },
+  "BAD": {
+    "def": "Of poor quality; low standard.",
+    "translations": {
+      "es": "MALO"
+    }
+  },
+  "BAG": {
+    "def": "A container made of flexible material.",
+    "translations": {
+      "es": "BOLSA"
+    }
+  },
+  "BALANCE": {
+    "def": "",
+    "translations": {}
+  },
+  "BALL": {
+    "def": "A solid or hollow spherical or egg-shaped object.",
+    "translations": {
+      "es": "BOLA"
+    }
+  },
+  "BAN": {
+    "def": "",
+    "translations": {}
+  },
+  "BANK": {
+    "def": "A financial establishment that invests money deposited by customers.",
+    "translations": {
+      "es": "BANCO"
+    }
+  },
+  "BAR": {
+    "def": "A long rigid piece of wood, metal, or some other solid substance.",
+    "translations": {
+      "es": "BARRA"
+    }
+  },
+  "BASE": {
+    "def": "The lowest part or edge of something, especially the part on which it rests or is supported.",
+    "translations": {
+      "es": "BASE"
+    }
+  },
+  "BASIS": {
+    "def": "",
+    "translations": {}
+  },
+  "BAT": {
+    "def": "",
+    "translations": {}
+  },
+  "BAY": {
+    "def": "",
+    "translations": {}
+  },
+  "BE": {
+    "def": "Exist.",
+    "translations": {
+      "es": "SER"
+    }
+  },
+  "BEAR": {
+    "def": "A large, heavy, mammal that walks on the soles of its feet.",
+    "translations": {
+      "es": "OSO"
+    }
+  },
+  "BEAT": {
+    "def": "",
+    "translations": {}
+  },
+  "BEAUTY": {
+    "def": "",
+    "translations": {}
+  },
+  "BECOME": {
+    "def": "Begin to be.",
+    "translations": {
+      "es": "LLEGAR A SER"
+    }
+  },
+  "BED": {
+    "def": "A piece of furniture for sleep or rest.",
+    "translations": {
+      "es": "CAMA"
+    }
+  },
+  "BEE": {
+    "def": "",
+    "translations": {}
+  },
+  "BEFORE": {
+    "def": "During the period of time preceding a particular event or time.",
+    "translations": {
+      "es": "ANTES"
+    }
+  },
+  "BEG": {
+    "def": "",
+    "translations": {}
+  },
+  "BEGIN": {
+    "def": "Start.",
+    "translations": {
+      "es": "EMPEZAR"
+    }
+  },
+  "BEHIND": {
+    "def": "At or to the far side of something, typically so as to be hidden by it.",
+    "translations": {
+      "es": "DETRAS"
+    }
+  },
+  "BEL": {
+    "def": "",
+    "translations": {}
+  },
+  "BELIEVE": {
+    "def": "Accept something as true; feel sure of the truth of.",
+    "translations": {
+      "es": "CREER"
+    }
+  },
+  "BEN": {
+    "def": "",
+    "translations": {}
+  },
+  "BENEFIT": {
+    "def": "",
+    "translations": {}
+  },
+  "BEST": {
+    "def": "Of the most excellent, effective, or desirable type or quality.",
+    "translations": {
+      "es": "MEJOR"
+    }
+  },
+  "BET": {
+    "def": "An act of risking a sum of money on the outcome of a future event.",
+    "translations": {
+      "es": "APUESTA"
+    }
+  },
+  "BIB": {
+    "def": "",
+    "translations": {}
+  },
+  "BID": {
+    "def": "",
+    "translations": {}
+  },
+  "BIG": {
+    "def": "Of considerable size, extent, or intensity.",
+    "translations": {
+      "es": "GRANDE"
+    }
+  },
+  "BILL": {
+    "def": "A printed or written statement of the money owed for goods or services.",
+    "translations": {
+      "es": "FACTURA"
+    }
+  },
+  "BIN": {
+    "def": "",
+    "translations": {}
+  },
+  "BIO": {
+    "def": "",
+    "translations": {}
+  },
+  "BIRTH": {
+    "def": "The emergence of a baby or other young from the body of its mother.",
+    "translations": {
+      "es": "NACIMIENTO"
+    }
+  },
+  "BIS": {
+    "def": "",
+    "translations": {}
+  },
+  "BIT": {
+    "def": "A small piece, part, or quantity of something.",
+    "translations": {
+      "es": "UN POCO"
+    }
+  },
+  "BLACK": {
+    "def": "Of the very darkest color owing to the absence of or complete absorption of light.",
+    "translations": {
+      "es": "NEGRO"
+    }
+  },
+  "BLOKE": {
+    "def": "",
+    "translations": {}
+  },
+  "BLOOD": {
+    "def": "",
+    "translations": {}
+  },
+  "BLOW": {
+    "def": "",
+    "translations": {}
+  },
+  "BLUE": {
+    "def": "Of a color intermediate between green and violet.",
+    "translations": {
+      "es": "AZUL"
+    }
+  },
+  "BOA": {
+    "def": "",
+    "translations": {}
+  },
+  "BOARD": {
+    "def": "A long, thin, flat piece of wood or other hard material, used for floors or other building purposes.",
+    "translations": {
+      "es": "TABLERO"
+    }
+  },
+  "BOAT": {
+    "def": "A small vessel for traveling over water.",
+    "translations": {
+      "es": "BARCO"
+    }
+  },
+  "BOB": {
+    "def": "",
+    "translations": {}
+  },
+  "BODY": {
+    "def": "The physical structure of a person or an animal.",
+    "translations": {
+      "es": "CUERPO"
+    }
+  },
+  "BOG": {
+    "def": "",
+    "translations": {}
+  },
+  "BON": {
+    "def": "",
+    "translations": {}
+  },
+  "BOO": {
+    "def": "",
+    "translations": {}
+  },
+  "BOOK": {
+    "def": "A written or printed work consisting of pages glued or sewed together along one side and bound in covers.",
+    "translations": {
+      "es": "LIBRO"
+    }
+  },
+  "BOTH": {
+    "def": "",
+    "translations": {}
+  },
+  "BOTHER": {
+    "def": "",
+    "translations": {}
+  },
+  "BOTTLE": {
+    "def": "",
+    "translations": {}
+  },
+  "BOTTOM": {
+    "def": "",
+    "translations": {}
+  },
+  "BOW": {
+    "def": "",
+    "translations": {}
+  },
+  "BOX": {
+    "def": "A container with a flat base and sides, typically square or rectangular and having a lid.",
+    "translations": {
+      "es": "CAJA"
+    }
+  },
+  "BOY": {
+    "def": "A male child or young man.",
+    "translations": {
+      "es": "NINO"
+    }
+  },
+  "BRA": {
+    "def": "",
+    "translations": {}
+  },
+  "BREAK": {
+    "def": "Separate or cause to separate into pieces as a result of a blow, shock, or strain.",
+    "translations": {
+      "es": "ROMPER"
+    }
+  },
+  "BRIEF": {
+    "def": "",
+    "translations": {}
+  },
+  "BRING": {
+    "def": "Take or go with to a place.",
+    "translations": {
+      "es": "TRAER"
+    }
+  },
+  "BRITAIN": {
+    "def": "",
+    "translations": {}
+  },
+  "BRO": {
+    "def": "",
+    "translations": {}
+  },
+  "BROTHER": {
+    "def": "",
+    "translations": {}
+  },
+  "BUB": {
+    "def": "",
+    "translations": {}
+  },
+  "BUD": {
+    "def": "",
+    "translations": {}
+  },
+  "BUDGET": {
+    "def": "",
+    "translations": {}
+  },
+  "BUG": {
+    "def": "",
+    "translations": {}
+  },
+  "BUILD": {
+    "def": "Construct by putting parts or material together.",
+    "translations": {
+      "es": "CONSTRUIR"
+    }
+  },
+  "BUM": {
+    "def": "",
+    "translations": {}
+  },
+  "BUN": {
+    "def": "",
+    "translations": {}
+  },
+  "BUR": {
+    "def": "",
+    "translations": {}
+  },
+  "BUS": {
+    "def": "A large motor vehicle carrying passengers by road.",
+    "translations": {
+      "es": "AUTOBUS"
+    }
+  },
+  "BUSY": {
+    "def": "Having a great deal to do.",
+    "translations": {
+      "es": "OCUPADO"
+    }
+  },
+  "BUT": {
+    "def": "Used to introduce a phrase or clause contrasting with what has already been mentioned.",
+    "translations": {
+      "es": "PERO"
+    }
+  },
+  "BUY": {
+    "def": "Obtain in exchange for payment.",
+    "translations": {
+      "es": "COMPRAR"
+    }
+  },
+  "BY": {
+    "def": "",
+    "translations": {}
+  },
+  "BYE": {
+    "def": "",
+    "translations": {}
+  },
+  "CAD": {
+    "def": "",
+    "translations": {}
+  },
+  "CAKE": {
+    "def": "",
+    "translations": {}
+  },
+  "CALL": {
+    "def": "Cry out to (someone) in order to summon them or attract their attention.",
+    "translations": {
+      "es": "LLAMAR"
+    }
+  },
+  "CAM": {
+    "def": "",
+    "translations": {}
+  },
+  "CAN": {
+    "def": "Be able to.",
+    "translations": {
+      "es": "PUEDE"
+    }
+  },
+  "CAP": {
+    "def": "",
+    "translations": {}
+  },
+  "CAR": {
+    "def": "A road vehicle, typically with four wheels, powered by an internal combustion engine and able to carry a small number of people.",
+    "translations": {
+      "es": "COCHE"
+    }
+  },
+  "CARD": {
+    "def": "A piece of thick, stiff paper or thin pasteboard, in particular one used for writing or printing on.",
+    "translations": {
+      "es": "TARJETA"
+    }
+  },
+  "CARE": {
+    "def": "The provision of what is necessary for the health, welfare, maintenance, and protection of someone or something.",
+    "translations": {
+      "es": "CUIDAR"
+    }
+  },
+  "CARRY": {
+    "def": "Support and move (someone or something) from one place to another.",
+    "translations": {
+      "es": "LLEVAR"
+    }
+  },
+  "CASE": {
+    "def": "An instance of a particular situation; an example of something occurring.",
+    "translations": {
+      "es": "CASO"
+    }
+  },
+  "CAT": {
+    "def": "A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws.",
+    "translations": {
+      "es": "GATO"
+    }
+  },
+  "CATCH": {
+    "def": "Intercept and hold (something which has been thrown, propelled, or dropped).",
+    "translations": {
+      "es": "COGER"
+    }
+  },
+  "CAUSE": {
+    "def": "A person or thing that gives rise to an action, phenomenon, or condition.",
+    "translations": {
+      "es": "CAUSA"
+    }
+  },
+  "CAW": {
+    "def": "",
+    "translations": {}
+  },
+  "CAY": {
+    "def": "",
+    "translations": {}
+  },
+  "CENT": {
+    "def": "A monetary unit in various countries, equal to one-hundredth of a dollar, euro, or other decimal currency unit.",
+    "translations": {
+      "es": "CENTAVO"
+    }
+  },
+  "CENTRE": {
+    "def": "",
+    "translations": {}
+  },
+  "CHAIR": {
+    "def": "A separate seat for one person, typically with a back and four legs.",
+    "translations": {
+      "es": "SILLA"
+    }
+  },
+  "CHANCE": {
+    "def": "",
+    "translations": {}
+  },
+  "CHANGE": {
+    "def": "Make or become different.",
+    "translations": {
+      "es": "CAMBIO"
+    }
+  },
+  "CHAP": {
+    "def": "",
+    "translations": {}
+  },
+  "CHARGE": {
+    "def": "Demand (an amount) as a price from someone for a service rendered or goods supplied.",
+    "translations": {
+      "es": "CARGA"
+    }
+  },
+  "CHEAP": {
+    "def": "Low in price; worth more than its cost.",
+    "translations": {
+      "es": "BARATO"
+    }
+  },
+  "CHECK": {
+    "def": "Examine (something) in order to determine its accuracy, quality, or condition.",
+    "translations": {
+      "es": "COMPROBAR"
+    }
+  },
+  "CHI": {
+    "def": "",
+    "translations": {}
+  },
+  "CHILD": {
+    "def": "A young human being below the age of puberty or below the legal age of majority.",
+    "translations": {
+      "es": "NINO"
+    }
+  },
+  "CHOICE": {
+    "def": "",
+    "translations": {}
+  },
+  "CHOOSE": {
+    "def": "Pick out or select (someone or something) as being the best or most appropriate of two or more alternatives.",
+    "translations": {
+      "es": "ELEGIR"
+    }
+  },
+  "CHURCH": {
+    "def": "A building used for public Christian worship.",
+    "translations": {
+      "es": "IGLESIA"
+    }
+  },
+  "CITY": {
+    "def": "A large town.",
+    "translations": {
+      "es": "CIUDAD"
+    }
+  },
+  "CLAIM": {
+    "def": "",
+    "translations": {}
+  },
+  "CLASS": {
+    "def": "A set or category of things having some property or attribute in common and differentiated from others by kind, type, or quality.",
+    "translations": {
+      "es": "CLASE"
+    }
+  },
+  "CLEAN": {
+    "def": "Free from dirt, marks, or stains.",
+    "translations": {
+      "es": "LIMPIO"
+    }
+  },
+  "CLEAR": {
+    "def": "Easy to perceive, understand, or interpret.",
+    "translations": {
+      "es": "CLARO"
+    }
+  },
+  "CLIENT": {
+    "def": "",
+    "translations": {}
+  },
+  "CLOCK": {
+    "def": "A mechanical or electrical device for measuring and indicating time, typically by means of hands on a dial or displayed figures.",
+    "translations": {
+      "es": "RELOJ"
+    }
+  },
+  "CLOSE": {
+    "def": "Move or be moved so as to cover an opening.",
+    "translations": {
+      "es": "CERRAR"
+    }
+  },
+  "CLOSES": {
+    "def": "",
+    "translations": {}
+  },
+  "CLUB": {
+    "def": "",
+    "translations": {}
+  },
+  "COB": {
+    "def": "",
+    "translations": {}
+  },
+  "COD": {
+    "def": "",
+    "translations": {}
+  },
+  "COFFEE": {
+    "def": "",
+    "translations": {}
+  },
+  "COG": {
+    "def": "",
+    "translations": {}
+  },
+  "COLD": {
+    "def": "Of or at a low or relatively low temperature, especially when compared with the human body.",
+    "translations": {
+      "es": "FRIO"
+    }
+  },
+  "COLLECT": {
+    "def": "",
+    "translations": {}
+  },
+  "COLLEGE": {
+    "def": "",
+    "translations": {}
+  },
+  "COLOUR": {
+    "def": "",
+    "translations": {}
+  },
+  "COME": {
+    "def": "Move or travel toward or into a place thought of as near or familiar to the speaker.",
+    "translations": {
+      "es": "VENIR"
+    }
+  },
+  "COMMENT": {
+    "def": "",
+    "translations": {}
+  },
+  "COMMIT": {
+    "def": "",
+    "translations": {}
+  },
+  "COMMON": {
+    "def": "",
+    "translations": {}
+  },
+  "COMPANY": {
+    "def": "",
+    "translations": {}
+  },
+  "COMPARE": {
+    "def": "",
+    "translations": {}
+  },
+  "CON": {
+    "def": "",
+    "translations": {}
+  },
+  "COOK": {
+    "def": "Prepare (food, a dish, or a meal) by combining and heating the ingredients in various ways.",
+    "translations": {
+      "es": "COCINAR"
+    }
+  },
+  "COP": {
+    "def": "",
+    "translations": {}
+  },
+  "COPY": {
+    "def": "A thing made to be similar or identical to another.",
+    "translations": {
+      "es": "COPIA"
+    }
+  },
+  "CORNER": {
+    "def": "A place or angle where two or more sides or edges meet.",
+    "translations": {
+      "es": "ESQUINA"
+    }
+  },
+  "CORRECT": {
+    "def": "",
+    "translations": {}
+  },
+  "COST": {
+    "def": "An amount that has to be paid or spent to buy or obtain something.",
+    "translations": {
+      "es": "COSTE"
+    }
+  },
+  "COT": {
+    "def": "A bed with a low headboard and a mattress that extends to the floor.",
+    "translations": {}
+  },
+  "COTS": {
+    "def": "A bed with a low headboard and a mattress that extends to the floor.",
+    "translations": {}
+  },
+  "COTTON": {
+    "def": "A soft fiber that is soft and strong and is used to make cloth.",
+    "translations": {}
+  },
+  "COULD": {
+    "def": "Can do or be done; possible.",
+    "translations": {}
+  },
+  "COUNCIL": {
+    "def": "",
+    "translations": {}
+  },
+  "COUNT": {
+    "def": "Determine the total number of (a collection of items).",
+    "translations": {
+      "es": "CONTAR"
+    }
+  },
+  "COUNTRY": {
+    "def": "A nation with its own government, occupying a particular territory.",
+    "translations": {
+      "es": "PAIS"
+    }
+  },
+  "COUNTY": {
+    "def": "",
+    "translations": {}
+  },
+  "COUPLE": {
+    "def": "",
+    "translations": {}
+  },
+  "COURSE": {
+    "def": "An area of land or water on which a race is held.",
+    "translations": {
+      "es": "CURSO"
+    }
+  },
+  "COURT": {
+    "def": "A tribunal presided over by a judge, judges, or a magistrate in civil and criminal cases.",
+    "translations": {
+      "es": "CORTE"
+    }
+  },
+  "COVER": {
+    "def": "Put something over or on top of (something else), typically in order to protect or conceal it.",
+    "translations": {
+      "es": "CUBRIR"
+    }
+  },
+  "COW": {
+    "def": "",
+    "translations": {}
+  },
+  "COY": {
+    "def": "",
+    "translations": {}
+  },
+  "CREATE": {
+    "def": "Bring (something) into existence.",
+    "translations": {
+      "es": "CREAR"
+    }
+  },
+  "CROSS": {
+    "def": "A mark, object, or figure formed by two short intersecting lines or pieces (+ or x).",
+    "translations": {
+      "es": "CRUZ"
+    }
+  },
+  "CRY": {
+    "def": "",
+    "translations": {}
+  },
+  "CUB": {
+    "def": "",
+    "translations": {}
+  },
+  "CUD": {
+    "def": "",
+    "translations": {}
+  },
+  "CUE": {
+    "def": "",
+    "translations": {}
+  },
+  "CUP": {
+    "def": "A small bowl-shaped container for drinking from, typically having a handle.",
+    "translations": {
+      "es": "TAZA"
+    }
+  },
+  "CUR": {
+    "def": "",
+    "translations": {}
+  },
+  "CURRENT": {
+    "def": "",
+    "translations": {}
+  },
+  "CUT": {
+    "def": "Make an opening, incision, or wound in (something) with a sharp-edged tool or object.",
+    "translations": {
+      "es": "CORTAR"
+    }
+  },
+  "DAD": {
+    "def": "One's father.",
+    "translations": {
+      "es": "PAPA"
+    }
+  },
+  "DAM": {
+    "def": "",
+    "translations": {}
+  },
+  "DAN": {
+    "def": "",
+    "translations": {}
+  },
+  "DANGER": {
+    "def": "",
+    "translations": {}
+  },
+  "DAP": {
+    "def": "",
+    "translations": {}
+  },
+  "DATE": {
+    "def": "The day of the month or year as specified by a number.",
+    "translations": {
+      "es": "FECHA"
+    }
+  },
+  "DAW": {
+    "def": "",
+    "translations": {}
+  },
+  "DAY": {
+    "def": "A period of twenty-four hours as a unit of time.",
+    "translations": {
+      "es": "DIA"
+    }
+  },
+  "DEAD": {
+    "def": "No longer alive.",
+    "translations": {
+      "es": "MUERTO"
+    }
+  },
+  "DEAL": {
+    "def": "",
+    "translations": {}
+  },
+  "DEAR": {
+    "def": "",
+    "translations": {}
+  },
+  "DEB": {
+    "def": "",
+    "translations": {}
+  },
+  "DEBATE": {
+    "def": "",
+    "translations": {}
+  },
+  "DECIDE": {
+    "def": "",
+    "translations": {}
+  },
+  "DEEP": {
+    "def": "Extending far down from the top or surface.",
+    "translations": {
+      "es": "PROFUNDO"
+    }
+  },
+  "DEGREE": {
+    "def": "",
+    "translations": {}
+  },
+  "DEN": {
+    "def": "",
+    "translations": {}
+  },
+  "DEPEND": {
+    "def": "",
+    "translations": {}
+  },
+  "DESIGN": {
+    "def": "",
+    "translations": {}
+  },
+  "DETAIL": {
+    "def": "",
+    "translations": {}
+  },
+  "DEVELOP": {
+    "def": "",
+    "translations": {}
+  },
+  "DEW": {
+    "def": "",
+    "translations": {}
+  },
+  "DID": {
+    "def": "",
+    "translations": {}
+  },
+  "DIE": {
+    "def": "(of a person, animal, or plant) stop living.",
+    "translations": {
+      "es": "MORIR"
+    }
+  },
+  "DIG": {
+    "def": "",
+    "translations": {}
+  },
+  "DIM": {
+    "def": "",
+    "translations": {}
+  },
+  "DIN": {
+    "def": "",
+    "translations": {}
+  },
+  "DINNER": {
+    "def": "",
+    "translations": {}
+  },
+  "DIP": {
+    "def": "",
+    "translations": {}
+  },
+  "DIRECT": {
+    "def": "",
+    "translations": {}
+  },
+  "DISCUSS": {
+    "def": "",
+    "translations": {}
+  },
+  "DIVIDE": {
+    "def": "",
+    "translations": {}
+  },
+  "DO": {
+    "def": "Perform or complete (an action or activity).",
+    "translations": {
+      "es": "HACER"
+    }
+  },
+  "DOC": {
+    "def": "",
+    "translations": {}
+  },
+  "DOCTOR": {
+    "def": "",
+    "translations": {}
+  },
+  "DOG": {
+    "def": "A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, nonretractile claws, and a barking, howling, or whining voice.",
+    "translations": {
+      "es": "PERRO"
+    }
+  },
+  "DOL": {
+    "def": "",
+    "translations": {}
+  },
+  "DOM": {
+    "def": "",
+    "translations": {}
+  },
+  "DON": {
+    "def": "",
+    "translations": {}
+  },
+  "DOOR": {
+    "def": "A hinged, sliding, or revolving barrier at the entrance to a building, room, or vehicle, or in the framework of a cupboard.",
+    "translations": {
+      "es": "PUERTA"
+    }
+  },
+  "DOR": {
+    "def": "",
+    "translations": {}
+  },
+  "DOT": {
+    "def": "",
+    "translations": {}
+  },
+  "DOUBLE": {
+    "def": "Consisting of two equal, identical, or similar parts or things.",
+    "translations": {
+      "es": "DOBLE"
+    }
+  },
+  "DOUBT": {
+    "def": "A feeling of uncertainty or lack of conviction.",
+    "translations": {
+      "es": "DUDA"
+    }
+  },
+  "DOWN": {
+    "def": "Toward or in a lower place or position, especially to or on the ground or another surface.",
+    "translations": {
+      "es": "ABAJO"
+    }
+  },
+  "DRAW": {
+    "def": "Produce (a picture or diagram) by making lines and marks, especially with a pen or pencil, on paper.",
+    "translations": {
+      "es": "DIBUJAR"
+    }
+  },
+  "DRESS": {
+    "def": "",
+    "translations": {}
+  },
+  "DRINK": {
+    "def": "Take (a liquid) into the mouth and swallow.",
+    "translations": {
+      "es": "BEBER"
+    }
+  },
+  "DRIVE": {
+    "def": "Operate and control the direction and speed of a motor vehicle.",
+    "translations": {
+      "es": "CONDUCIR"
+    }
+  },
+  "DROP": {
+    "def": "Let or make (something) fall vertically.",
+    "translations": {
+      "es": "DEJAR CAER"
+    }
+  },
+  "DRY": {
+    "def": "Free from moisture or liquid; not wet or moist.",
+    "translations": {
+      "es": "SECO"
+    }
+  },
+  "DUB": {
+    "def": "",
+    "translations": {}
+  },
+  "DUD": {
+    "def": "",
+    "translations": {}
+  },
+  "DUE": {
+    "def": "Expected at or planned for at a certain time.",
+    "translations": {
+      "es": "DEBIDO"
+    }
+  },
+  "DUG": {
+    "def": "",
+    "translations": {}
+  },
+  "DUH": {
+    "def": "",
+    "translations": {}
+  },
+  "DUI": {
+    "def": "",
+    "translations": {}
+  },
+  "DUN": {
+    "def": "",
+    "translations": {}
+  },
+  "DUO": {
+    "def": "",
+    "translations": {}
+  },
+  "DUP": {
+    "def": "",
+    "translations": {}
+  },
+  "DURING": {
+    "def": "",
+    "translations": {}
+  },
+  "DYE": {
+    "def": "",
+    "translations": {}
+  },
+  "EACH": {
+    "def": "Used to refer to every one of two or more people or things, regarded and identified separately.",
+    "translations": {
+      "es": "CADA"
+    }
+  },
+  "EAR": {
+    "def": "",
+    "translations": {}
+  },
+  "EARLY": {
+    "def": "Happening or done before the usual or expected time.",
+    "translations": {
+      "es": "TEMPRANO"
+    }
+  },
+  "EAST": {
+    "def": "The direction toward the point of the horizon where the sun rises at the equinoxes.",
+    "translations": {
+      "es": "ESTE"
+    }
+  },
+  "EASY": {
+    "def": "Achieved without great effort; presenting few difficulties.",
+    "translations": {
+      "es": "FACIL"
+    }
+  },
+  "EAT": {
+    "def": "Put (food) into the mouth and chew and swallow it.",
+    "translations": {
+      "es": "COMER"
+    }
+  },
+  "EBB": {
+    "def": "",
+    "translations": {}
+  },
+  "ECO": {
+    "def": "",
+    "translations": {}
+  },
+  "ECONOMY": {
+    "def": "",
+    "translations": {}
+  },
+  "ECU": {
+    "def": "",
+    "translations": {}
+  },
+  "EDD": {
+    "def": "",
+    "translations": {}
+  },
+  "EEL": {
+    "def": "",
+    "translations": {}
+  },
+  "EFFECT": {
+    "def": "",
+    "translations": {}
+  },
+  "EGG": {
+    "def": "An oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo.",
+    "translations": {
+      "es": "HUEVO"
+    }
+  },
+  "EGO": {
+    "def": "",
+    "translations": {}
+  },
+  "EHS": {
+    "def": "",
+    "translations": {}
+  },
+  "EIGHT": {
+    "def": "Equivalent to the product of two and four; one more than seven.",
+    "translations": {
+      "es": "OCHO"
+    }
+  },
+  "EITHER": {
+    "def": "In addition; besides.",
+    "translations": {}
+  },
+  "EKE": {
+    "def": "To cut or remove (something) with a sharp tool.",
+    "translations": {}
+  },
+  "ELECT": {
+    "def": "Choose (someone) to hold a position or office by voting.",
+    "translations": {}
+  },
+  "ELEVEN": {
+    "def": "The number 11.",
+    "translations": {}
+  },
+  "ELF": {
+    "def": "A mythical being that is usually depicted as a small, mischievous creature with magical powers.",
+    "translations": {}
+  },
+  "ELK": {
+    "def": "A large deer with a long neck and horns.",
+    "translations": {}
+  },
+  "ELL": {
+    "def": "A long, narrow piece of land.",
+    "translations": {}
+  },
+  "ELM": {
+    "def": "A tree with a smooth bark and leaves that are usually oval-shaped.",
+    "translations": {}
+  },
+  "ELSE": {
+    "def": "In addition; besides.",
+    "translations": {
+      "es": "MAS"
+    }
+  },
+  "EME": {
+    "def": "",
+    "translations": {}
+  },
+  "EMPLOY": {
+    "def": "",
+    "translations": {}
+  },
+  "END": {
+    "def": "A final part of something, especially a period of time, an activity, or a story.",
+    "translations": {
+      "es": "FINAL"
+    }
+  },
+  "ENG": {
+    "def": "",
+    "translations": {}
+  },
+  "ENGINE": {
+    "def": "",
+    "translations": {}
+  },
+  "ENJOY": {
+    "def": "Take delight or pleasure in (an activity or occasion).",
+    "translations": {
+      "es": "DISFRUTAR"
+    }
+  },
+  "ENOUGH": {
+    "def": "",
+    "translations": {}
+  },
+  "ENS": {
+    "def": "",
+    "translations": {}
+  },
+  "ENTER": {
+    "def": "Come or go into (a place).",
+    "translations": {
+      "es": "ENTRAR"
+    }
+  },
+  "EON": {
+    "def": "",
+    "translations": {}
+  },
+  "EQUAL": {
+    "def": "Being the same in quantity, size, degree, or value.",
+    "translations": {
+      "es": "IGUAL"
+    }
+  },
+  "ERA": {
+    "def": "",
+    "translations": {}
+  },
+  "ERE": {
+    "def": "",
+    "translations": {}
+  },
+  "ERG": {
+    "def": "",
+    "translations": {}
+  },
+  "ERN": {
+    "def": "",
+    "translations": {}
+  },
+  "ERR": {
+    "def": "",
+    "translations": {}
+  },
+  "ERS": {
+    "def": "",
+    "translations": {}
+  },
+  "ESS": {
+    "def": "",
+    "translations": {}
+  },
+  "ETA": {
+    "def": "",
+    "translations": {}
+  },
+  "EUROPE": {
+    "def": "",
+    "translations": {}
+  },
+  "EVE": {
+    "def": "",
+    "translations": {}
+  },
+  "EVEN": {
+    "def": "Used to emphasize something surprising or extreme.",
+    "translations": {
+      "es": "INCLUSO"
+    }
+  },
+  "EVER": {
+    "def": "At any time.",
+    "translations": {
+      "es": "SIEMPRE"
+    }
+  },
+  "EVERY": {
+    "def": "Used to refer to all the individual members of a set without exception.",
+    "translations": {
+      "es": "CADA"
+    }
+  },
+  "EWE": {
+    "def": "",
+    "translations": {}
+  },
+  "EXACT": {
+    "def": "Not approximated in any way; precise.",
+    "translations": {
+      "es": "EXACTO"
+    }
+  },
+  "EXCEPT": {
+    "def": "",
+    "translations": {}
+  },
+  "EXCUSE": {
+    "def": "",
+    "translations": {}
+  },
+  "EXERCISE": {
+    "def": "",
+    "translations": {}
+  },
+  "EXPECT": {
+    "def": "",
+    "translations": {}
+  },
+  "EXPENSE": {
+    "def": "",
+    "translations": {}
+  },
+  "EXPLAIN": {
+    "def": "",
+    "translations": {}
+  },
+  "EYE": {
+    "def": "Each of a pair of globular organs in the head through which people and vertebrate animals see.",
+    "translations": {
+      "es": "OJO"
+    }
+  },
+  "FAB": {
+    "def": "",
+    "translations": {}
+  },
+  "FACE": {
+    "def": "The front part of a person's head from the forehead to the chin, or the corresponding part in an animal.",
+    "translations": {
+      "es": "CARA"
+    }
+  },
+  "FACT": {
+    "def": "A thing that is known or proved to be true.",
+    "translations": {
+      "es": "HECHO"
+    }
+  },
+  "FAD": {
+    "def": "",
+    "translations": {}
+  },
+  "FAG": {
+    "def": "",
+    "translations": {}
+  },
+  "FAIR": {
+    "def": "In accordance with the rules or standards; legitimate.",
+    "translations": {
+      "es": "JUSTO"
+    }
+  },
+  "FALL": {
+    "def": "Move downward and typically rapidly and freely without control, from a higher to a lower level.",
+    "translations": {
+      "es": "CAER"
+    }
+  },
+  "FAMILY": {
+    "def": "",
+    "translations": {}
+  },
+  "FAN": {
+    "def": "",
+    "translations": {}
+  },
+  "FAR": {
+    "def": "At, to, or by a great distance.",
+    "translations": {
+      "es": "LEJOS"
+    }
+  },
+  "FARM": {
+    "def": "",
+    "translations": {}
+  },
+  "FAS": {
+    "def": "",
+    "translations": {}
+  },
+  "FAST": {
+    "def": "Moving or capable of moving at high speed.",
+    "translations": {
+      "es": "RAPIDO"
+    }
+  },
+  "FAT": {
+    "def": "",
+    "translations": {}
+  },
+  "FATHER": {
+    "def": "",
+    "translations": {}
+  },
+  "FAVOUR": {
+    "def": "",
+    "translations": {}
+  },
+  "FAX": {
+    "def": "",
+    "translations": {}
+  },
+  "FAY": {
+    "def": "",
+    "translations": {}
+  },
+  "FEAR": {
+    "def": "",
+    "translations": {}
+  },
+  "FED": {
+    "def": "",
+    "translations": {}
+  },
+  "FEE": {
+    "def": "",
+    "translations": {}
+  },
+  "FEEL": {
+    "def": "Be aware of (a person or object) through touching or being touched.",
+    "translations": {
+      "es": "SENTIR"
+    }
+  },
+  "FEG": {
+    "def": "",
+    "translations": {}
+  },
+  "FEN": {
+    "def": "",
+    "translations": {}
+  },
+  "FER": {
+    "def": "",
+    "translations": {}
+  },
+  "FES": {
+    "def": "",
+    "translations": {}
+  },
+  "FET": {
+    "def": "",
+    "translations": {}
+  },
+  "FEU": {
+    "def": "",
+    "translations": {}
+  },
+  "FEW": {
+    "def": "A small number of.",
+    "translations": {
+      "es": "POCOS"
+    }
+  },
+  "FEY": {
+    "def": "",
+    "translations": {}
+  },
+  "FEZ": {
+    "def": "",
+    "translations": {}
+  },
+  "FIB": {
+    "def": "",
+    "translations": {}
+  },
+  "FID": {
+    "def": "",
+    "translations": {}
+  },
+  "FIE": {
+    "def": "",
+    "translations": {}
+  },
+  "FIELD": {
+    "def": "An area of open land, especially one planted with crops or used for pasture.",
+    "translations": {
+      "es": "CAMPO"
+    }
+  },
+  "FIG": {
+    "def": "",
+    "translations": {}
+  },
+  "FIGHT": {
+    "def": "Take part in a violent struggle involving the exchange of physical blows or the use of weapons.",
+    "translations": {
+      "es": "LUCHA"
+    }
+  },
+  "FIGURE": {
+    "def": "",
+    "translations": {}
+  },
+  "FIL": {
+    "def": "",
+    "translations": {}
+  },
+  "FILL": {
+    "def": "Cause (a space or container) to become full or almost full by putting something into it.",
+    "translations": {
+      "es": "LLENAR"
+    }
+  },
+  "FILM": {
+    "def": "",
+    "translations": {}
+  },
+  "FIN": {
+    "def": "",
+    "translations": {}
+  },
+  "FINAL": {
+    "def": "Coming at the end of a series.",
+    "translations": {
+      "es": "FINAL"
+    }
+  },
+  "FINANCIAL": {
+    "def": "",
+    "translations": {}
+  },
+  "FIND": {
+    "def": "Discover or perceive by chance or unexpectedly.",
+    "translations": {
+      "es": "ENCONTRAR"
+    }
+  },
+  "FINE": {
+    "def": "Of very high quality; very good of its kind.",
+    "translations": {
+      "es": "BIEN"
+    }
+  },
+  "FINISH": {
+    "def": "",
+    "translations": {}
+  },
+  "FIR": {
+    "def": "",
+    "translations": {}
+  },
+  "FIRE": {
+    "def": "A process in which substances combine chemically with oxygen from the air and typically give out bright light, heat, and smoke; combustion or burning.",
+    "translations": {
+      "es": "FUEGO"
+    }
+  },
+  "FIRM": {
+    "def": "",
+    "translations": {}
+  },
+  "FIRST": {
+    "def": "",
+    "translations": {}
+  },
+  "FISH": {
+    "def": "A limbless cold-blooded vertebrate animal with gills and fins and living wholly in water.",
+    "translations": {
+      "es": "PEZ"
+    }
+  },
+  "FIT": {
+    "def": "Of a suitable quality, standard, or type to meet the required purpose.",
+    "translations": {
+      "es": "EN FORMA"
+    }
+  },
+  "FIVE": {
+    "def": "Equivalent to the product of one and five; one more than four.",
+    "translations": {
+      "es": "CINCO"
+    }
+  },
+  "FIX": {
+    "def": "",
+    "translations": {}
+  },
+  "FIZ": {
+    "def": "",
+    "translations": {}
+  },
+  "FLAT": {
+    "def": "Having a level and even surface; without marked lumps or indentations.",
+    "translations": {
+      "es": "PLANO"
+    }
+  },
+  "FLOOR": {
+    "def": "",
+    "translations": {}
+  },
+  "FLU": {
+    "def": "",
+    "translations": {}
+  },
+  "FLY": {
+    "def": "(of a bird, bat, or insect) move through the air using wings.",
+    "translations": {
+      "es": "VOLAR"
+    }
+  },
+  "FOB": {
+    "def": "(noun) A hand-held electronic device that can be used as a remote control or as a key to unlock motor cars, doors, etc., and thus, modern car keys.",
+    "translations": {}
+  },
+  "FOE": {
+    "def": "Enemy.",
+    "translations": {}
+  },
+  "FOG": {
+    "def": "Low cloud cover that reduces visibility.",
+    "translations": {}
+  },
+  "FOH": {
+    "def": "",
+    "translations": {}
+  },
+  "FOLLOW": {
+    "def": "",
+    "translations": {}
+  },
+  "FON": {
+    "def": "",
+    "translations": {}
+  },
+  "FOO": {
+    "def": "",
+    "translations": {}
+  },
+  "FOOD": {
+    "def": "Any nutritious substance that people or animals eat or drink or that plants absorb in order to maintain life and growth.",
+    "translations": {
+      "es": "COMIDA"
+    }
+  },
+  "FOOT": {
+    "def": "The lower extremity of the leg below the ankle, on which a person stands or walks.",
+    "translations": {
+      "es": "PIE"
+    }
+  },
+  "FOR": {
+    "def": "In support of or in favor of (a person or policy).",
+    "translations": {
+      "es": "PARA"
+    }
+  },
+  "FORCE": {
+    "def": "",
+    "translations": {}
+  },
+  "FORGET": {
+    "def": "",
+    "translations": {}
+  },
+  "FORM": {
+    "def": "The visible shape or configuration of something.",
+    "translations": {
+      "es": "FORMA"
+    }
+  },
+  "FORTUNE": {
+    "def": "",
+    "translations": {}
+  },
+  "FORWARD": {
+    "def": "",
+    "translations": {}
+  },
+  "FOU": {
+    "def": "",
+    "translations": {}
+  },
+  "FOUR": {
+    "def": "Equivalent to the product of two and two; one more than three.",
+    "translations": {
+      "es": "CUATRO"
+    }
+  },
+  "FOX": {
+    "def": "",
+    "translations": {}
+  },
+  "FOY": {
+    "def": "",
+    "translations": {}
+  },
+  "FREE": {
+    "def": "Able to act or be done as one wishes; not under the control of another.",
+    "translations": {
+      "es": "LIBRE"
+    }
+  },
+  "FRIEND": {
+    "def": "",
+    "translations": {}
+  },
+  "FRO": {
+    "def": "",
+    "translations": {}
+  },
+  "FROM": {
+    "def": "Indicating the point in space at which a journey, motion, or action starts.",
+    "translations": {
+      "es": "DESDE"
+    }
+  },
+  "FRONT": {
+    "def": "",
+    "translations": {}
+  },
+  "FRY": {
+    "def": "",
+    "translations": {}
+  },
+  "FUB": {
+    "def": "",
+    "translations": {}
+  },
+  "FUD": {
+    "def": "",
+    "translations": {}
+  },
+  "FUG": {
+    "def": "",
+    "translations": {}
+  },
+  "FULL": {
+    "def": "Containing or holding as much or as many as possible; having no empty space.",
+    "translations": {
+      "es": "LLENO"
+    }
+  },
+  "FUN": {
+    "def": "Enjoyment, amusement, or lighthearted pleasure.",
+    "translations": {
+      "es": "DIVERSION"
+    }
+  },
+  "FUNCTION": {
+    "def": "",
+    "translations": {}
+  },
+  "FUR": {
+    "def": "",
+    "translations": {}
+  },
+  "FURTHER": {
+    "def": "",
+    "translations": {}
+  },
+  "FUTURE": {
+    "def": "",
+    "translations": {}
+  },
+  "GAB": {
+    "def": "",
+    "translations": {}
+  },
+  "GAD": {
+    "def": "",
+    "translations": {}
+  },
+  "GAG": {
+    "def": "",
+    "translations": {}
+  },
+  "GAL": {
+    "def": "",
+    "translations": {}
+  },
+  "GAM": {
+    "def": "",
+    "translations": {}
+  },
+  "GAME": {
+    "def": "A form of play or sport, especially a competitive one played according to rules and decided by skill, strength, or luck.",
+    "translations": {
+      "es": "JUEGO"
+    }
+  },
+  "GAN": {
+    "def": "",
+    "translations": {}
+  },
+  "GAP": {
+    "def": "",
+    "translations": {}
+  },
+  "GAR": {
+    "def": "",
+    "translations": {}
+  },
+  "GARDEN": {
+    "def": "",
+    "translations": {}
+  },
+  "GAS": {
+    "def": "An air-like fluid substance which expands freely to fill any space available, irrespective of its quantity.",
+    "translations": {
+      "es": "GAS"
+    }
+  },
+  "GAT": {
+    "def": "",
+    "translations": {}
+  },
+  "GAY": {
+    "def": "",
+    "translations": {}
+  },
+  "GED": {
+    "def": "",
+    "translations": {}
+  },
+  "GEE": {
+    "def": "",
+    "translations": {}
+  },
+  "GEM": {
+    "def": "",
+    "translations": {}
+  },
+  "GEN": {
+    "def": "",
+    "translations": {}
+  },
+  "GENERAL": {
+    "def": "",
+    "translations": {}
+  },
+  "GET": {
+    "def": "Come to have or hold (something); receive.",
+    "translations": {
+      "es": "OBTENER"
+    }
+  },
+  "GEY": {
+    "def": "",
+    "translations": {}
+  },
+  "GHI": {
+    "def": "",
+    "translations": {}
+  },
+  "GIB": {
+    "def": "",
+    "translations": {}
+  },
+  "GID": {
+    "def": "",
+    "translations": {}
+  },
+  "GIE": {
+    "def": "",
+    "translations": {}
+  },
+  "GIG": {
+    "def": "",
+    "translations": {}
+  },
+  "GIN": {
+    "def": "",
+    "translations": {}
+  },
+  "GIP": {
+    "def": "",
+    "translations": {}
+  },
+  "GIRL": {
+    "def": "A female child or adolescent.",
+    "translations": {
+      "es": "NINA"
+    }
+  },
+  "GIS": {
+    "def": "",
+    "translations": {}
+  },
+  "GIT": {
+    "def": "",
+    "translations": {}
+  },
+  "GIVE": {
+    "def": "Freely transfer the possession of (something) to (someone); hand over to.",
+    "translations": {
+      "es": "DAR"
+    }
+  },
+  "GLASS": {
+    "def": "A hard, brittle substance, typically transparent or translucent, made by fusing sand with soda, lime, and sometimes other ingredients and cooling rapidly.",
+    "translations": {
+      "es": "VASO"
+    }
+  },
+  "GNU": {
+    "def": "",
+    "translations": {}
+  },
+  "GO": {
+    "def": "Move from one place to another; travel.",
+    "translations": {
+      "es": "IR"
+    }
+  },
+  "GOA": {
+    "def": "",
+    "translations": {}
+  },
+  "GOAL": {
+    "def": "(in football, rugby, hockey, and some other games) a pair of posts linked by a crossbar and typically with a net between them, into which or over which the ball has to be sent in order to score.",
+    "translations": {
+      "es": "META"
+    }
+  },
+  "GOB": {
+    "def": "",
+    "translations": {}
+  },
+  "GOD": {
+    "def": "(in monotheistic religion) the creator and ruler of the universe and source of all moral authority; the supreme being.",
+    "translations": {
+      "es": "DIOS"
+    }
+  },
+  "GOLD": {
+    "def": "A yellow precious metal, the chemical element of atomic number 79, valued especially for use in jewelry and decoration, and to guarantee the value of currencies.",
+    "translations": {
+      "es": "ORO"
+    }
+  },
+  "GON": {
+    "def": "",
+    "translations": {}
+  },
+  "GOO": {
+    "def": "",
+    "translations": {}
+  },
+  "GOOD": {
+    "def": "To be desired or approved of.",
+    "translations": {
+      "es": "BUENO"
+    }
+  },
+  "GOODBYE": {
+    "def": "",
+    "translations": {}
+  },
+  "GOR": {
+    "def": "",
+    "translations": {}
+  },
+  "GOS": {
+    "def": "",
+    "translations": {}
+  },
+  "GOT": {
+    "def": "",
+    "translations": {}
+  },
+  "GOVERN": {
+    "def": "",
+    "translations": {}
+  },
+  "GOX": {
+    "def": "",
+    "translations": {}
+  },
+  "GOY": {
+    "def": "",
+    "translations": {}
+  },
+  "GRAND": {
+    "def": "",
+    "translations": {}
+  },
+  "GREAT": {
+    "def": "Of an extent, amount, or intensity considerably above the normal or average.",
+    "translations": {
+      "es": "GRAN"
+    }
+  },
+  "GREEN": {
+    "def": "Of the color between blue and yellow in the spectrum; colored like grass or emeralds.",
+    "translations": {
+      "es": "VERDE"
+    }
+  },
+  "GROUND": {
+    "def": "",
+    "translations": {}
+  },
+  "GROUP": {
+    "def": "A number of people or things that are located close together or are considered or classed together.",
+    "translations": {
+      "es": "GRUPO"
+    }
+  },
+  "GROW": {
+    "def": "",
+    "translations": {}
+  },
+  "GUESS": {
+    "def": "",
+    "translations": {}
+  },
+  "GUL": {
+    "def": "",
+    "translations": {}
+  },
+  "GUM": {
+    "def": "",
+    "translations": {}
+  },
+  "GUN": {
+    "def": "",
+    "translations": {}
+  },
+  "GUP": {
+    "def": "",
+    "translations": {}
+  },
+  "GUR": {
+    "def": "",
+    "translations": {}
+  },
+  "GUS": {
+    "def": "",
+    "translations": {}
+  },
+  "GUT": {
+    "def": "",
+    "translations": {}
+  },
+  "GUV": {
+    "def": "",
+    "translations": {}
+  },
+  "GUY": {
+    "def": "A man.",
+    "translations": {
+      "es": "CHICO"
+    }
+  },
+  "GYM": {
+    "def": "",
+    "translations": {}
+  },
+  "GYP": {
+    "def": "",
+    "translations": {}
+  },
+  "HAD": {
+    "def": "",
+    "translations": {}
+  },
+  "HAE": {
+    "def": "",
+    "translations": {}
+  },
+  "HAG": {
+    "def": "",
+    "translations": {}
+  },
+  "HAH": {
+    "def": "",
+    "translations": {}
+  },
+  "HAIR": {
+    "def": "Any of the fine thread-like strands that grow from the skin of humans, other mammals, and some other animals.",
+    "translations": {
+      "es": "PELO"
+    }
+  },
+  "HAJ": {
+    "def": "",
+    "translations": {}
+  },
+  "HALF": {
+    "def": "Either of two equal or corresponding parts into which something is or can be divided.",
+    "translations": {
+      "es": "MITAD"
+    }
+  },
+  "HALL": {
+    "def": "The area inside the entrance of a building.",
+    "translations": {
+      "es": "VESTIBULO"
+    }
+  },
+  "HAM": {
+    "def": "Meat from the upper part of a pig's leg salted and dried or smoked.",
+    "translations": {
+      "es": "JAMON"
+    }
+  },
+  "HAN": {
+    "def": "",
+    "translations": {}
+  },
+  "HAND": {
+    "def": "The end part of a person's arm beyond the wrist, including the palm, fingers, and thumb.",
+    "translations": {
+      "es": "MANO"
+    }
+  },
+  "HANG": {
+    "def": "",
+    "translations": {}
+  },
+  "HAO": {
+    "def": "",
+    "translations": {}
+  },
+  "HAP": {
+    "def": "",
+    "translations": {}
+  },
+  "HAPPEN": {
+    "def": "",
+    "translations": {}
+  },
+  "HAPPY": {
+    "def": "Feeling or showing pleasure or contentment.",
+    "translations": {
+      "es": "FELIZ"
+    }
+  },
+  "HARD": {
+    "def": "Solid, firm, and resistant to pressure; not easily broken or bent.",
+    "translations": {
+      "es": "DURO"
+    }
+  },
+  "HAS": {
+    "def": "",
+    "translations": {}
+  },
+  "HAT": {
+    "def": "Garment worn on the head.",
+    "translations": {
+      "es": "GALLO"
+    }
+  },
+  "HATCH": {
+    "def": "Opening in the side of a ship or aircraft through which cargo is loaded or unloaded.",
+    "translations": {
+      "es": "HACHO"
+    }
+  },
+  "HAVE": {
+    "def": "Possess, own, or hold.",
+    "translations": {
+      "es": "TENER"
+    }
+  },
+  "HAW": {
+    "def": "",
+    "translations": {}
+  },
+  "HAY": {
+    "def": "",
+    "translations": {}
+  },
+  "HE": {
+    "def": "Used to refer to a man, boy, or male animal previously mentioned or easily identified.",
+    "translations": {
+      "es": "EL"
+    }
+  },
+  "HEAD": {
+    "def": "The upper part of the human body, or the front or upper part of the body of an animal, typically containing the abdomen, eyes, and mouth.",
+    "translations": {
+      "es": "CABEZA"
+    }
+  },
+  "HEALTH": {
+    "def": "",
+    "translations": {}
+  },
+  "HEAR": {
+    "def": "Perceive with the ear the sound made by (someone or something).",
+    "translations": {
+      "es": "OIR"
+    }
+  },
+  "HEART": {
+    "def": "A hollow muscular organ that pumps the blood through the circulatory system by rhythmic contraction and dilation.",
+    "translations": {
+      "es": "CORAZON"
+    }
+  },
+  "HEAT": {
+    "def": "The quality of being hot; high temperature.",
+    "translations": {
+      "es": "CALOR"
+    }
+  },
+  "HEAVY": {
+    "def": "",
+    "translations": {}
+  },
+  "HEH": {
+    "def": "",
+    "translations": {}
+  },
+  "HELL": {
+    "def": "A place regarded in various religions as a spiritual realm of evil and suffering, often depicted as a place of perpetual fire or as an abyss.",
+    "translations": {
+      "es": "INFIERNO"
+    }
+  },
+  "HELLO": {
+    "def": "Used as a greeting or to begin a telephone conversation.",
+    "translations": {
+      "es": "HOLA"
+    }
+  },
+  "HELP": {
+    "def": "Make it easier for (someone) to do something by offering one's services or resources.",
+    "translations": {
+      "es": "AYUDA"
+    }
+  },
+  "HEM": {
+    "def": "",
+    "translations": {}
+  },
+  "HEN": {
+    "def": "",
+    "translations": {}
+  },
+  "HEP": {
+    "def": "",
+    "translations": {}
+  },
+  "HER": {
+    "def": "",
+    "translations": {}
+  },
+  "HERE": {
+    "def": "In, at, or to this place or position.",
+    "translations": {
+      "es": "AQUI"
+    }
+  },
+  "HES": {
+    "def": "",
+    "translations": {}
+  },
+  "HET": {
+    "def": "",
+    "translations": {}
+  },
+  "HEW": {
+    "def": "",
+    "translations": {}
+  },
+  "HEX": {
+    "def": "",
+    "translations": {}
+  },
+  "HEY": {
+    "def": "",
+    "translations": {}
+  },
+  "HIC": {
+    "def": "",
+    "translations": {}
+  },
+  "HID": {
+    "def": "",
+    "translations": {}
+  },
+  "HIE": {
+    "def": "",
+    "translations": {}
+  },
+  "HIGH": {
+    "def": "Of great vertical extent.",
+    "translations": {
+      "es": "ALTO"
+    }
+  },
+  "HIM": {
+    "def": "",
+    "translations": {}
+  },
+  "HIN": {
+    "def": "",
+    "translations": {}
+  },
+  "HIP": {
+    "def": "",
+    "translations": {}
+  },
+  "HIS": {
+    "def": "",
+    "translations": {}
+  },
+  "HISTORY": {
+    "def": "",
+    "translations": {}
+  },
+  "HIT": {
+    "def": "Bring one's hand (or a weapon) into contact with (someone or something) quickly and forcefully.",
+    "translations": {
+      "es": "GOLPEAR"
+    }
+  },
+  "HMM": {
+    "def": "",
+    "translations": {}
+  },
+  "HOB": {
+    "def": "",
+    "translations": {}
+  },
+  "HOD": {
+    "def": "",
+    "translations": {}
+  },
+  "HOE": {
+    "def": "",
+    "translations": {}
+  },
+  "HOG": {
+    "def": "",
+    "translations": {}
+  },
+  "HOLD": {
+    "def": "Grasp, carry, or support with one's arms or hands.",
+    "translations": {
+      "es": "SOSTENER"
+    }
+  },
+  "HOLIDAY": {
+    "def": "",
+    "translations": {}
+  },
+  "HOME": {
+    "def": "The place where one lives permanently, especially as a member of a family or household.",
+    "translations": {
+      "es": "CASA"
+    }
+  },
+  "HON": {
+    "def": "",
+    "translations": {}
+  },
+  "HONEST": {
+    "def": "",
+    "translations": {}
+  },
+  "HOP": {
+    "def": "",
+    "translations": {}
+  },
+  "HOPE": {
+    "def": "A feeling of expectation and desire for a certain thing to happen.",
+    "translations": {
+      "es": "ESPERANZA"
+    }
+  },
+  "HORSE": {
+    "def": "",
+    "translations": {}
+  },
+  "HOSPITAL": {
+    "def": "",
+    "translations": {}
+  },
+  "HOT": {
+    "def": "Having a high degree of heat or a high temperature.",
+    "translations": {
+      "es": "CALIENTE"
+    }
+  },
+  "HOUR": {
+    "def": "A period of time equal to a twenty-fourth part of a day and night and divided into 60 minutes.",
+    "translations": {
+      "es": "HORA"
+    }
+  },
+  "HOUSE": {
+    "def": "A building for human habitation, especially one that is lived in by a family or small group of people.",
+    "translations": {
+      "es": "CASA"
+    }
+  },
+  "HOW": {
+    "def": "In what way or manner; by what means.",
+    "translations": {
+      "es": "COMO"
+    }
+  },
+  "HOWEVER": {
+    "def": "",
+    "translations": {}
+  },
+  "HOY": {
+    "def": "",
+    "translations": {}
+  },
+  "HUB": {
+    "def": "",
+    "translations": {}
+  },
+  "HUE": {
+    "def": "",
+    "translations": {}
+  },
+  "HUG": {
+    "def": "",
+    "translations": {}
+  },
+  "HUGE": {
+    "def": "Extremely large; enormous.",
+    "translations": {
+      "es": "ENORME"
+    }
+  },
+  "HUH": {
+    "def": "",
+    "translations": {}
+  },
+  "HUM": {
+    "def": "",
+    "translations": {}
+  },
+  "HUMAN": {
+    "def": "",
+    "translations": {}
+  },
+  "HUN": {
+    "def": "",
+    "translations": {}
+  },
+  "HUNDRED": {
+    "def": "",
+    "translations": {}
+  },
+  "HUP": {
+    "def": "",
+    "translations": {}
+  },
+  "HUSBAND": {
+    "def": "",
+    "translations": {}
+  },
+  "HUT": {
+    "def": "",
+    "translations": {}
+  },
+  "HYP": {
+    "def": "",
+    "translations": {}
+  },
+  "I": {
+    "def": "",
+    "translations": {}
+  },
+  "ICE": {
+    "def": "Frozen water, a brittle transparent crystalline solid.",
+    "translations": {
+      "es": "HIELO"
+    }
+  },
+  "ICH": {
+    "def": "",
+    "translations": {}
+  },
+  "ICK": {
+    "def": "",
+    "translations": {}
+  },
+  "ICY": {
+    "def": "",
+    "translations": {}
+  },
+  "IDEA": {
+    "def": "A thought or suggestion as to a possible course of action.",
+    "translations": {
+      "es": "IDEA"
+    }
+  },
+  "IDENTIFY": {
+    "def": "",
+    "translations": {}
+  },
+  "IDS": {
+    "def": "",
+    "translations": {}
+  },
+  "IF": {
+    "def": "Introducing a conditional clause.",
+    "translations": {
+      "es": "SI"
+    }
+  },
+  "IFF": {
+    "def": "",
+    "translations": {}
+  },
+  "IFS": {
+    "def": "",
+    "translations": {}
+  },
+  "IGG": {
+    "def": "",
+    "translations": {}
+  },
+  "ILL": {
+    "def": "",
+    "translations": {}
+  },
+  "IMAGINE": {
+    "def": "",
+    "translations": {}
+  },
+  "IMP": {
+    "def": "",
+    "translations": {}
+  },
+  "IMPORTANT": {
+    "def": "",
+    "translations": {}
+  },
+  "IMPROVE": {
+    "def": "",
+    "translations": {}
+  },
+  "IN": {
+    "def": "Expressing the situation of something that is or appears to be enclosed or surrounded by something else.",
+    "translations": {
+      "es": "EN"
+    }
+  },
+  "INCLUDE": {
+    "def": "",
+    "translations": {}
+  },
+  "INCREASE": {
+    "def": "",
+    "translations": {}
+  },
+  "INDEED": {
+    "def": "",
+    "translations": {}
+  },
+  "INDICATE": {
+    "def": "",
+    "translations": {}
+  },
+  "INDUSTRY": {
+    "def": "",
+    "translations": {}
+  },
+  "INFORM": {
+    "def": "",
+    "translations": {}
+  },
+  "INK": {
+    "def": "",
+    "translations": {}
+  },
+  "INN": {
+    "def": "",
+    "translations": {}
+  },
+  "INS": {
+    "def": "",
+    "translations": {}
+  },
+  "INSIDE": {
+    "def": "",
+    "translations": {}
+  },
+  "INSTEAD": {
+    "def": "",
+    "translations": {}
+  },
+  "INSURE": {
+    "def": "",
+    "translations": {}
+  },
+  "INTEREST": {
+    "def": "",
+    "translations": {}
+  },
+  "INTO": {
+    "def": "",
+    "translations": {}
+  },
+  "INVEST": {
+    "def": "",
+    "translations": {}
+  },
+  "INVOLVE": {
+    "def": "",
+    "translations": {}
+  },
+  "ION": {
+    "def": "",
+    "translations": {}
+  },
+  "IRE": {
+    "def": "",
+    "translations": {}
+  },
+  "IRK": {
+    "def": "",
+    "translations": {}
+  },
+  "IRON": {
+    "def": "A strong, hard magnetic silvery-gray metal, much used as a material for construction and manufacturing, especially in the form of steel.",
+    "translations": {
+      "es": "HIERRO"
+    }
+  },
+  "IS": {
+    "def": "3rd person singular present of be.",
+    "translations": {
+      "es": "ES"
+    }
+  },
+  "ISLAND": {
+    "def": "",
+    "translations": {}
+  },
+  "ISM": {
+    "def": "",
+    "translations": {}
+  },
+  "ISS": {
+    "def": "",
+    "translations": {}
+  },
+  "ISSUE": {
+    "def": "",
+    "translations": {}
+  },
+  "IT": {
+    "def": "Used to refer to a thing previously mentioned or easily identified.",
+    "translations": {
+      "es": "ESO"
+    }
+  },
+  "ITA": {
+    "def": "",
+    "translations": {}
+  },
+  "ITEM": {
+    "def": "An individual article or unit, especially one that is part of a list, collection, or set.",
+    "translations": {
+      "es": "ARTICULO"
+    }
+  },
+  "ITS": {
+    "def": "",
+    "translations": {}
+  },
+  "IVY": {
+    "def": "",
+    "translations": {}
+  },
+  "JAB": {
+    "def": "",
+    "translations": {}
+  },
+  "JAG": {
+    "def": "",
+    "translations": {}
+  },
+  "JAM": {
+    "def": "",
+    "translations": {}
+  },
+  "JAR": {
+    "def": "",
+    "translations": {}
+  },
+  "JAW": {
+    "def": "",
+    "translations": {}
+  },
+  "JAY": {
+    "def": "",
+    "translations": {}
+  },
+  "JEE": {
+    "def": "",
+    "translations": {}
+  },
+  "JET": {
+    "def": "",
+    "translations": {}
+  },
+  "JEU": {
+    "def": "",
+    "translations": {}
+  },
+  "JEW": {
+    "def": "",
+    "translations": {}
+  },
+  "JIB": {
+    "def": "",
+    "translations": {}
+  },
+  "JIG": {
+    "def": "",
+    "translations": {}
+  },
+  "JIN": {
+    "def": "",
+    "translations": {}
+  },
+  "JOB": {
+    "def": "A paid position of regular employment.",
+    "translations": {
+      "es": "TRABAJO"
+    }
+  },
+  "JOE": {
+    "def": "",
+    "translations": {}
+  },
+  "JOG": {
+    "def": "",
+    "translations": {}
+  },
+  "JOIN": {
+    "def": "Link; connect.",
+    "translations": {
+      "es": "UNIRSE"
+    }
+  },
+  "JOINT": {
+    "def": "",
+    "translations": {}
+  },
+  "JOT": {
+    "def": "",
+    "translations": {}
+  },
+  "JOY": {
+    "def": "",
+    "translations": {}
+  },
+  "JUDGE": {
+    "def": "",
+    "translations": {}
+  },
+  "JUG": {
+    "def": "",
+    "translations": {}
+  },
+  "JUMP": {
+    "def": "Push oneself off a surface and into the air by using the muscles in one's legs and feet.",
+    "translations": {
+      "es": "SALTAR"
+    }
+  },
+  "JUN": {
+    "def": "",
+    "translations": {}
+  },
+  "JUS": {
+    "def": "",
+    "translations": {}
+  },
+  "JUST": {
+    "def": "Based on or behaving according to what is morally right and fair.",
+    "translations": {
+      "es": "SOLO"
+    }
+  },
+  "JUT": {
+    "def": "",
+    "translations": {}
+  },
+  "KAY": {
+    "def": "",
+    "translations": {}
+  },
+  "KEA": {
+    "def": "",
+    "translations": {}
+  },
+  "KEEP": {
+    "def": "Have or retain possession of.",
+    "translations": {
+      "es": "MANTENER"
+    }
+  },
+  "KEF": {
+    "def": "",
+    "translations": {}
+  },
+  "KEG": {
+    "def": "",
+    "translations": {}
+  },
+  "KEN": {
+    "def": "",
+    "translations": {}
+  },
+  "KEP": {
+    "def": "",
+    "translations": {}
+  },
+  "KEX": {
+    "def": "",
+    "translations": {}
+  },
+  "KEY": {
+    "def": "A small piece of shaped metal with incisions cut to fit the wards of a particular lock, which is inserted into a lock and turned to open or close it.",
+    "translations": {
+      "es": "LLAVE"
+    }
+  },
+  "KHI": {
+    "def": "",
+    "translations": {}
+  },
+  "KID": {
+    "def": "A child or young person.",
+    "translations": {
+      "es": "NINO"
+    }
+  },
+  "KIF": {
+    "def": "",
+    "translations": {}
+  },
+  "KILL": {
+    "def": "Cause the death of (a person, animal, or other living thing).",
+    "translations": {
+      "es": "MATAR"
+    }
+  },
+  "KIN": {
+    "def": "",
+    "translations": {}
+  },
+  "KIND": {
+    "def": "",
+    "translations": {}
+  },
+  "KING": {
+    "def": "The male ruler of an independent state, especially one who inherits the position by right of birth.",
+    "translations": {
+      "es": "REY"
+    }
+  },
+  "KIP": {
+    "def": "",
+    "translations": {}
+  },
+  "KIR": {
+    "def": "",
+    "translations": {}
+  },
+  "KIT": {
+    "def": "",
+    "translations": {}
+  },
+  "KITCHEN": {
+    "def": "",
+    "translations": {}
+  },
+  "KNOCK": {
+    "def": "",
+    "translations": {}
+  },
+  "KNOW": {
+    "def": "Be aware of through mind; have information of.",
+    "translations": {
+      "es": "SABER"
+    }
+  },
+  "KOA": {
+    "def": "",
+    "translations": {}
+  },
+  "KOB": {
+    "def": "",
+    "translations": {}
+  },
+  "KOI": {
+    "def": "",
+    "translations": {}
+  },
+  "KOP": {
+    "def": "",
+    "translations": {}
+  },
+  "KOR": {
+    "def": "",
+    "translations": {}
+  },
+  "KOS": {
+    "def": "",
+    "translations": {}
+  },
+  "KUE": {
+    "def": "",
+    "translations": {}
+  },
+  "KYE": {
+    "def": "",
+    "translations": {}
+  },
+  "LAB": {
+    "def": "",
+    "translations": {}
+  },
+  "LABOUR": {
+    "def": "",
+    "translations": {}
+  },
+  "LAC": {
+    "def": "",
+    "translations": {}
+  },
+  "LAD": {
+    "def": "",
+    "translations": {}
+  },
+  "LADY": {
+    "def": "",
+    "translations": {}
+  },
+  "LAG": {
+    "def": "",
+    "translations": {}
+  },
+  "LAH": {
+    "def": "",
+    "translations": {}
+  },
+  "LAM": {
+    "def": "",
+    "translations": {}
+  },
+  "LAND": {
+    "def": "The part of the earth's surface that is not covered by water, as opposed to the sea or the air.",
+    "translations": {
+      "es": "TIERRA"
+    }
+  },
+  "LANGUAGE": {
+    "def": "",
+    "translations": {}
+  },
+  "LAP": {
+    "def": "",
+    "translations": {}
+  },
+  "LAR": {
+    "def": "",
+    "translations": {}
+  },
+  "LARGE": {
+    "def": "",
+    "translations": {}
+  },
+  "LAS": {
+    "def": "",
+    "translations": {}
+  },
+  "LAST": {
+    "def": "Coming after all others in time or order; final.",
+    "translations": {
+      "es": "ULTIMO"
+    }
+  },
+  "LAT": {
+    "def": "",
+    "translations": {}
+  },
+  "LATE": {
+    "def": "",
+    "translations": {}
+  },
+  "LAUGH": {
+    "def": "",
+    "translations": {}
+  },
+  "LAV": {
+    "def": "",
+    "translations": {}
+  },
+  "LAW": {
+    "def": "The system of rules which a particular country or community recognizes as regulating the actions of its members and which it may enforce by the imposition of penalties.",
+    "translations": {
+      "es": "LEY"
+    }
+  },
+  "LAX": {
+    "def": "",
+    "translations": {}
+  },
+  "LAY": {
+    "def": "",
+    "translations": {}
+  },
+  "LEA": {
+    "def": "",
+    "translations": {}
+  },
+  "LEAD": {
+    "def": "Cause (a person or animal) to go with one by holding them by the hand, a halter, a rope, etc., while moving forward.",
+    "translations": {
+      "es": "DIRIGIR"
+    }
+  },
+  "LEADER": {
+    "def": "",
+    "translations": {}
+  },
+  "LEARN": {
+    "def": "",
+    "translations": {}
+  },
+  "LEAVE": {
+    "def": "",
+    "translations": {}
+  },
+  "LED": {
+    "def": "",
+    "translations": {}
+  },
+  "LEE": {
+    "def": "",
+    "translations": {}
+  },
+  "LEFT": {
+    "def": "On, toward, or relating to the side of a human body or of a thing that is at the west when the person or thing is facing north.",
+    "translations": {
+      "es": "IZQUIERDA"
+    }
+  },
+  "LEG": {
+    "def": "",
+    "translations": {}
+  },
+  "LEI": {
+    "def": "",
+    "translations": {}
+  },
+  "LEK": {
+    "def": "",
+    "translations": {}
+  },
+  "LESS": {
+    "def": "",
+    "translations": {}
+  },
+  "LET": {
+    "def": "Not prevent or forbid; allow.",
+    "translations": {
+      "es": "DEJAR"
+    }
+  },
+  "LETTER": {
+    "def": "",
+    "translations": {}
+  },
+  "LEU": {
+    "def": "",
+    "translations": {}
+  },
+  "LEV": {
+    "def": "",
+    "translations": {}
+  },
+  "LEVEL": {
+    "def": "A horizontal plane or line with respect to the distance above or below a given point.",
+    "translations": {
+      "es": "NIVEL"
+    }
+  },
+  "LEX": {
+    "def": "",
+    "translations": {}
+  },
+  "LEY": {
+    "def": "",
+    "translations": {}
+  },
+  "LIB": {
+    "def": "",
+    "translations": {}
+  },
+  "LID": {
+    "def": "",
+    "translations": {}
+  },
+  "LIE": {
+    "def": "",
+    "translations": {}
+  },
+  "LIFE": {
+    "def": "The condition that distinguishes animals and plants from inorganic matter, including the capacity for growth, reproduction, functional activity, and continual change preceding death.",
+    "translations": {
+      "es": "VIDA"
+    }
+  },
+  "LIGHT": {
+    "def": "The natural agent that stimulates sight and makes things visible.",
+    "translations": {
+      "es": "LUZ"
+    }
+  },
+  "LIKE": {
+    "def": "Find agreeable, enjoyable, or satisfactory.",
+    "translations": {
+      "es": "GUSTAR"
+    }
+  },
+  "LIKELY": {
+    "def": "",
+    "translations": {}
+  },
+  "LIMIT": {
+    "def": "",
+    "translations": {}
+  },
+  "LIN": {
+    "def": "",
+    "translations": {}
+  },
+  "LINE": {
+    "def": "A long, narrow mark or band.",
+    "translations": {
+      "es": "LINEA"
+    }
+  },
+  "LINK": {
+    "def": "",
+    "translations": {}
+  },
+  "LIP": {
+    "def": "",
+    "translations": {}
+  },
+  "LIS": {
+    "def": "",
+    "translations": {}
+  },
+  "LIST": {
+    "def": "A number of connected items or names written or printed consecutively, typically one below the other.",
+    "translations": {
+      "es": "LISTA"
+    }
+  },
+  "LISTEN": {
+    "def": "",
+    "translations": {}
+  },
+  "LIT": {
+    "def": "",
+    "translations": {}
+  },
+  "LITTLE": {
+    "def": "",
+    "translations": {}
+  },
+  "LIVE": {
+    "def": "Remain alive.",
+    "translations": {
+      "es": "VIVIR"
+    }
+  },
+  "LOB": {
+    "def": "",
+    "translations": {}
+  },
+  "LOCAL": {
+    "def": "",
+    "translations": {}
+  },
+  "LOCATE": {
+    "def": "",
+    "translations": {}
+  },
+  "LOCK": {
+    "def": "",
+    "translations": {}
+  },
+  "LOG": {
+    "def": "",
+    "translations": {}
+  },
+  "LONDON": {
+    "def": "",
+    "translations": {}
+  },
+  "LONG": {
+    "def": "Measuring a great distance from end to end.",
+    "translations": {
+      "es": "LARGO"
+    }
+  },
+  "LOO": {
+    "def": "",
+    "translations": {}
+  },
+  "LOOK": {
+    "def": "Direct one's gaze toward someone or something or in a specified direction.",
+    "translations": {
+      "es": "MIRAR"
+    }
+  },
+  "LOP": {
+    "def": "",
+    "translations": {}
+  },
+  "LORD": {
+    "def": "",
+    "translations": {}
+  },
+  "LOSE": {
+    "def": "",
+    "translations": {}
+  },
+  "LOSS": {
+    "def": "",
+    "translations": {}
+  },
+  "LOT": {
+    "def": "A large number or amount.",
+    "translations": {
+      "es": "MUCHO"
+    }
+  },
+  "LOVE": {
+    "def": "An intense feeling of deep affection.",
+    "translations": {
+      "es": "AMOR"
+    }
+  },
+  "LOW": {
+    "def": "Of less than average height from top to bottom or to the top from the ground.",
+    "translations": {
+      "es": "BAJO"
+    }
+  },
+  "LOX": {
+    "def": "",
+    "translations": {}
+  },
+  "LUCKY": {
+    "def": "",
+    "translations": {}
+  },
+  "LUG": {
+    "def": "",
+    "translations": {}
+  },
+  "LUM": {
+    "def": "",
+    "translations": {}
+  },
+  "LUNCH": {
+    "def": "",
+    "translations": {}
+  },
+  "LUV": {
+    "def": "",
+    "translations": {}
+  },
+  "LUX": {
+    "def": "",
+    "translations": {}
+  },
+  "LYE": {
+    "def": "",
+    "translations": {}
+  },
+  "MAC": {
+    "def": "",
+    "translations": {}
+  },
+  "MACHINE": {
+    "def": "",
+    "translations": {}
+  },
+  "MAD": {
+    "def": "",
+    "translations": {}
+  },
+  "MAE": {
+    "def": "",
+    "translations": {}
+  },
+  "MAG": {
+    "def": "",
+    "translations": {}
+  },
+  "MAIN": {
+    "def": "Chief in size or importance.",
+    "translations": {
+      "es": "PRINCIPAL"
+    }
+  },
+  "MAINTAIN": {
+    "def": "",
+    "translations": {}
+  },
+  "MAJOR": {
+    "def": "",
+    "translations": {}
+  },
+  "MAKE": {
+    "def": "Form (something) by putting parts together or combining substances; construct; create.",
+    "translations": {
+      "es": "HACER"
+    }
+  },
+  "MAM": {
+    "def": "",
+    "translations": {}
+  },
+  "MAN": {
+    "def": "An adult male human being.",
+    "translations": {
+      "es": "HOMBRE"
+    }
+  },
+  "MANAGE": {
+    "def": "",
+    "translations": {}
+  },
+  "MANY": {
+    "def": "A large number of.",
+    "translations": {
+      "es": "MUCHOS"
+    }
+  },
+  "MAP": {
+    "def": "",
+    "translations": {}
+  },
+  "MAR": {
+    "def": "",
+    "translations": {}
+  },
+  "MARK": {
+    "def": "",
+    "translations": {}
+  },
+  "MARKET": {
+    "def": "",
+    "translations": {}
+  },
+  "MARRY": {
+    "def": "",
+    "translations": {}
+  },
+  "MAS": {
+    "def": "",
+    "translations": {}
+  },
+  "MAT": {
+    "def": "",
+    "translations": {}
+  },
+  "MATERIAL": {
+    "def": "",
+    "translations": {}
+  },
+  "MATTER": {
+    "def": "",
+    "translations": {}
+  },
+  "MAW": {
+    "def": "",
+    "translations": {}
+  },
+  "MAX": {
+    "def": "",
+    "translations": {}
+  },
+  "MAY": {
+    "def": "The fifth month of the year, in the northern spring and the southern autumn.",
+    "translations": {
+      "es": "MAYO"
+    }
+  },
+  "MAYBE": {
+    "def": "",
+    "translations": {}
+  },
+  "ME": {
+    "def": "Used by a speaker to refer to himself or herself as the object of a verb or preposition.",
+    "translations": {
+      "es": "AYUDAME"
+    }
+  },
+  "MEA": {
+    "def": "",
+    "translations": {}
+  },
+  "MEAL": {
+    "def": "",
+    "translations": {}
+  },
+  "MEAN": {
+    "def": "Intend to convey, indicate, or refer to (a particular thing or notion).",
+    "translations": {
+      "es": "SIGNIFICAR"
+    }
+  },
+  "MEASURE": {
+    "def": "",
+    "translations": {}
+  },
+  "MED": {
+    "def": "",
+    "translations": {}
+  },
+  "MEET": {
+    "def": "Come into the presence or company of (someone) by chance or arrangement.",
+    "translations": {
+      "es": "CONOCER"
+    }
+  },
+  "MEG": {
+    "def": "",
+    "translations": {}
+  },
+  "MEL": {
+    "def": "",
+    "translations": {}
+  },
+  "MEM": {
+    "def": "",
+    "translations": {}
+  },
+  "MEMBER": {
+    "def": "",
+    "translations": {}
+  },
+  "MEMORY": {
+    "def": "",
+    "translations": {}
+  },
+  "MEN": {
+    "def": "",
+    "translations": {}
+  },
+  "MENTION": {
+    "def": "",
+    "translations": {}
+  },
+  "MESSAGE": {
+    "def": "",
+    "translations": {}
+  },
+  "MET": {
+    "def": "",
+    "translations": {}
+  },
+  "METHOD": {
+    "def": "",
+    "translations": {}
+  },
+  "MEW": {
+    "def": "",
+    "translations": {}
+  },
+  "MHO": {
+    "def": "",
+    "translations": {}
+  },
+  "MIB": {
+    "def": "",
+    "translations": {}
+  },
+  "MIC": {
+    "def": "",
+    "translations": {}
+  },
+  "MID": {
+    "def": "",
+    "translations": {}
+  },
+  "MIDDLE": {
+    "def": "",
+    "translations": {}
+  },
+  "MIG": {
+    "def": "",
+    "translations": {}
+  },
+  "MIGHT": {
+    "def": "",
+    "translations": {}
+  },
+  "MIL": {
+    "def": "",
+    "translations": {}
+  },
+  "MILE": {
+    "def": "",
+    "translations": {}
+  },
+  "MILK": {
+    "def": "",
+    "translations": {}
+  },
+  "MIM": {
+    "def": "",
+    "translations": {}
+  },
+  "MIND": {
+    "def": "The element of a person that enables them to be aware of the world and their experiences, to think, and to feel; the faculty of consciousness and thought.",
+    "translations": {
+      "es": "MENTE"
+    }
+  },
+  "MINE": {
+    "def": "",
+    "translations": {}
+  },
+  "MINISTER": {
+    "def": "",
+    "translations": {}
+  },
+  "MINUS": {
+    "def": "",
+    "translations": {}
+  },
+  "MINUTE": {
+    "def": "",
+    "translations": {}
+  },
+  "MIR": {
+    "def": "",
+    "translations": {}
+  },
+  "MIS": {
+    "def": "",
+    "translations": {}
+  },
+  "MISS": {
+    "def": "Fail to hit, reach, or come into contact with (something aimed at).",
+    "translations": {
+      "es": "PERDER"
+    }
+  },
+  "MISTAKE": {
+    "def": "",
+    "translations": {}
+  },
+  "MIX": {
+    "def": "",
+    "translations": {}
+  },
+  "MIZ": {
+    "def": "",
+    "translations": {}
+  },
+  "MOA": {
+    "def": "",
+    "translations": {}
+  },
+  "MOB": {
+    "def": "",
+    "translations": {}
+  },
+  "MOC": {
+    "def": "",
+    "translations": {}
+  },
+  "MOD": {
+    "def": "",
+    "translations": {}
+  },
+  "MOG": {
+    "def": "",
+    "translations": {}
+  },
+  "MOI": {
+    "def": "",
+    "translations": {}
+  },
+  "MOL": {
+    "def": "",
+    "translations": {}
+  },
+  "MOM": {
+    "def": "",
+    "translations": {}
+  },
+  "MOMENT": {
+    "def": "",
+    "translations": {}
+  },
+  "MON": {
+    "def": "",
+    "translations": {}
+  },
+  "MONEY": {
+    "def": "A current medium of exchange in the form of coins and banknotes; coins and banknotes collectively.",
+    "translations": {
+      "es": "DINERO"
+    }
+  },
+  "MONTH": {
+    "def": "Each of the twelve named periods into which a year is divided.",
+    "translations": {
+      "es": "MES"
+    }
+  },
+  "MOO": {
+    "def": "",
+    "translations": {}
+  },
+  "MOP": {
+    "def": "",
+    "translations": {}
+  },
+  "MOR": {
+    "def": "",
+    "translations": {}
+  },
+  "MORE": {
+    "def": "A greater or additional amount or degree.",
+    "translations": {
+      "es": "MAS"
+    }
+  },
+  "MORNING": {
+    "def": "",
+    "translations": {}
+  },
+  "MOS": {
+    "def": "",
+    "translations": {}
+  },
+  "MOST": {
+    "def": "Greatest in amount or degree.",
+    "translations": {
+      "es": "MAYORIA"
+    }
+  },
+  "MOT": {
+    "def": "",
+    "translations": {}
+  },
+  "MOTHER": {
+    "def": "",
+    "translations": {}
+  },
+  "MOTION": {
+    "def": "",
+    "translations": {}
+  },
+  "MOU": {
+    "def": "",
+    "translations": {}
+  },
+  "MOVE": {
+    "def": "Go in a specified direction or manner.",
+    "translations": {
+      "es": "MOVER"
+    }
+  },
+  "MOVEMENT": {
+    "def": "",
+    "translations": {}
+  },
+  "MOVING": {
+    "def": "",
+    "translations": {}
+  },
+  "MOW": {
+    "def": "",
+    "translations": {}
+  },
+  "MRS": {
+    "def": "",
+    "translations": {}
+  },
+  "MUCH": {
+    "def": "A great amount or quantity.",
+    "translations": {
+      "es": "MUCHO"
+    }
+  },
+  "MUD": {
+    "def": "",
+    "translations": {}
+  },
+  "MUG": {
+    "def": "",
+    "translations": {}
+  },
+  "MUM": {
+    "def": "",
+    "translations": {}
+  },
+  "MUN": {
+    "def": "",
+    "translations": {}
+  },
+  "MUS": {
+    "def": "",
+    "translations": {}
+  },
+  "MUSIC": {
+    "def": "",
+    "translations": {}
+  },
+  "MUST": {
+    "def": "Be obliged to; should (expressing necessity).",
+    "translations": {
+      "es": "DEBER"
+    }
+  },
+  "MUT": {
+    "def": "",
+    "translations": {}
+  },
+  "MY": {
+    "def": "Belonging to or associated with the speaker.",
+    "translations": {
+      "es": "MI"
+    }
+  },
+  "MYC": {
+    "def": "",
+    "translations": {}
+  },
+  "NAB": {
+    "def": "",
+    "translations": {}
+  },
+  "NAE": {
+    "def": "",
+    "translations": {}
+  },
+  "NAG": {
+    "def": "",
+    "translations": {}
+  },
+  "NAH": {
+    "def": "",
+    "translations": {}
+  },
+  "NAM": {
+    "def": "",
+    "translations": {}
+  },
+  "NAME": {
+    "def": "A word or set of words by which a person, animal, place, or thing is known, addressed, or referred to.",
+    "translations": {
+      "es": "NOMBRE"
+    }
+  },
+  "NAN": {
+    "def": "",
+    "translations": {}
+  },
+  "NAP": {
+    "def": "",
+    "translations": {}
+  },
+  "NATION": {
+    "def": "",
+    "translations": {}
+  },
+  "NATURAL": {
+    "def": "",
+    "translations": {}
+  },
+  "NATURE": {
+    "def": "",
+    "translations": {}
+  },
+  "NAW": {
+    "def": "",
+    "translations": {}
+  },
+  "NAY": {
+    "def": "",
+    "translations": {}
+  },
+  "NEAR": {
+    "def": "At or to a short distance away; close by.",
+    "translations": {
+      "es": "CERCA"
+    }
+  },
+  "NEARLY": {
+    "def": "",
+    "translations": {}
+  },
+  "NEB": {
+    "def": "",
+    "translations": {}
+  },
+  "NECESSARY": {
+    "def": "",
+    "translations": {}
+  },
+  "NEE": {
+    "def": "",
+    "translations": {}
+  },
+  "NEED": {
+    "def": "Require (something) because it is essential or very important.",
+    "translations": {
+      "es": "NECESITAR"
+    }
+  },
+  "NEG": {
+    "def": "",
+    "translations": {}
+  },
+  "NET": {
+    "def": "",
+    "translations": {}
+  },
+  "NETWORK": {
+    "def": "",
+    "translations": {}
+  },
+  "NEVER": {
+    "def": "At no time in the past or future; on no occasion; not ever.",
+    "translations": {
+      "es": "NUNCA"
+    }
+  },
+  "NEW": {
+    "def": "Not existing before; made, introduced, or discovered recently or now for the first time.",
+    "translations": {
+      "es": "NUEVO"
+    }
+  },
+  "NEWS": {
+    "def": "",
+    "translations": {}
+  },
+  "NEXT": {
+    "def": "(of a time or season) coming immediately after the time of writing or speaking.",
+    "translations": {
+      "es": "SIGUIENTE"
+    }
+  },
+  "NIB": {
+    "def": "",
+    "translations": {}
+  },
+  "NICE": {
+    "def": "",
+    "translations": {}
+  },
+  "NIGHT": {
+    "def": "The period from sunset to sunrise in each twenty-four hours.",
+    "translations": {
+      "es": "NOCHE"
+    }
+  },
+  "NIL": {
+    "def": "",
+    "translations": {}
+  },
+  "NIM": {
+    "def": "",
+    "translations": {}
+  },
+  "NINE": {
+    "def": "Equivalent to the product of three and three; one more than eight.",
+    "translations": {
+      "es": "NUEVE"
+    }
+  },
+  "NIP": {
+    "def": "",
+    "translations": {}
+  },
+  "NIT": {
+    "def": "",
+    "translations": {}
+  },
+  "NIX": {
+    "def": "",
+    "translations": {}
+  },
+  "NO": {
+    "def": "Not any.",
+    "translations": {
+      "es": "NO"
+    }
+  },
+  "NOB": {
+    "def": "",
+    "translations": {}
+  },
+  "NOD": {
+    "def": "",
+    "translations": {}
+  },
+  "NOG": {
+    "def": "",
+    "translations": {}
+  },
+  "NOH": {
+    "def": "",
+    "translations": {}
+  },
+  "NOM": {
+    "def": "",
+    "translations": {}
+  },
+  "NONE": {
+    "def": "",
+    "translations": {}
+  },
+  "NOO": {
+    "def": "",
+    "translations": {}
+  },
+  "NOR": {
+    "def": "",
+    "translations": {}
+  },
+  "NORTH": {
+    "def": "The direction in which a compass needle normally points.",
+    "translations": {
+      "es": "NORTE"
+    }
+  },
+  "NOS": {
+    "def": "",
+    "translations": {}
+  },
+  "NOT": {
+    "def": "Used with an auxiliary verb or 'be' to form the negative.",
+    "translations": {
+      "es": "NO"
+    }
+  },
+  "NOTE": {
+    "def": "A brief record of facts, topics, or thoughts, written down as an aid to memory.",
+    "translations": {
+      "es": "NOTA"
+    }
+  },
+  "NOTHING": {
+    "def": "",
+    "translations": {}
+  },
+  "NOTICE": {
+    "def": "",
+    "translations": {}
+  },
+  "NOW": {
+    "def": "At the present time.",
+    "translations": {
+      "es": "AHORA"
+    }
+  },
+  "NOX": {
+    "def": "",
+    "translations": {}
+  },
+  "NOY": {
+    "def": "",
+    "translations": {}
+  },
+  "NTH": {
+    "def": "",
+    "translations": {}
+  },
+  "NUB": {
+    "def": "",
+    "translations": {}
+  },
+  "NUMBER": {
+    "def": "An arithmetical value, expressed by a word, symbol, or figure, representing a particular quantity and used in counting and making calculations and for showing position in a series.",
+    "translations": {
+      "es": "NUMERO"
+    }
+  },
+  "NUN": {
+    "def": "",
+    "translations": {}
+  },
+  "NUS": {
+    "def": "",
+    "translations": {}
+  },
+  "NUT": {
+    "def": "",
+    "translations": {}
+  },
+  "NYE": {
+    "def": "",
+    "translations": {}
+  },
+  "OAF": {
+    "def": "",
+    "translations": {}
+  },
+  "OAK": {
+    "def": "",
+    "translations": {}
+  },
+  "OAR": {
+    "def": "",
+    "translations": {}
+  },
+  "OAT": {
+    "def": "",
+    "translations": {}
+  },
+  "OBA": {
+    "def": "",
+    "translations": {}
+  },
+  "OBE": {
+    "def": "",
+    "translations": {}
+  },
+  "OBI": {
+    "def": "",
+    "translations": {}
+  },
+  "OBVIOUS": {
+    "def": "",
+    "translations": {}
+  },
+  "OCA": {
+    "def": "",
+    "translations": {}
+  },
+  "OCCASION": {
+    "def": "",
+    "translations": {}
+  },
+  "OCH": {
+    "def": "",
+    "translations": {}
+  },
+  "ODA": {
+    "def": "",
+    "translations": {}
+  },
+  "ODD": {
+    "def": "",
+    "translations": {}
+  },
+  "ODE": {
+    "def": "",
+    "translations": {}
+  },
+  "ODS": {
+    "def": "",
+    "translations": {}
+  },
+  "OES": {
+    "def": "",
+    "translations": {}
+  },
+  "OF": {
+    "def": "Expressing the relationship between a part and a whole.",
+    "translations": {
+      "es": "DE"
+    }
+  },
+  "OFF": {
+    "def": "Away from the place in question; at a distance.",
+    "translations": {
+      "es": "APAGADO"
+    }
+  },
+  "OFFER": {
+    "def": "",
+    "translations": {}
+  },
+  "OFFICE": {
+    "def": "",
+    "translations": {}
+  },
+  "OFFICER": {
+    "def": "",
+    "translations": {}
+  },
+  "OFT": {
+    "def": "",
+    "translations": {}
+  },
+  "OFTEN": {
+    "def": "",
+    "translations": {}
+  },
+  "OH": {
+    "def": "Used to express a range of emotions including surprise, anger, disappointment, or joy, or when reacting to something that has just been said.",
+    "translations": {
+      "es": "OH"
+    }
+  },
+  "OHM": {
+    "def": "",
+    "translations": {}
+  },
+  "OHO": {
+    "def": "",
+    "translations": {}
+  },
+  "OHS": {
+    "def": "",
+    "translations": {}
+  },
+  "OIL": {
+    "def": "",
+    "translations": {}
+  },
+  "OK": {
+    "def": "Used to express agreement or acceptance.",
+    "translations": {
+      "es": "OK"
+    }
+  },
+  "OKA": {
+    "def": "",
+    "translations": {}
+  },
+  "OKE": {
+    "def": "",
+    "translations": {}
+  },
+  "OLD": {
+    "def": "Having lived for a long time; no longer young.",
+    "translations": {
+      "es": "VIEJO"
+    }
+  },
+  "OLE": {
+    "def": "",
+    "translations": {}
+  },
+  "OMS": {
+    "def": "",
+    "translations": {}
+  },
+  "ON": {
+    "def": "Physically in contact with and supported by (a surface).",
+    "translations": {
+      "es": "EN"
+    }
+  },
+  "ONCE": {
+    "def": "On one occasion or at one time only.",
+    "translations": {
+      "es": "UNA VEZ"
+    }
+  },
+  "ONE": {
+    "def": "The lowest cardinal number; half of two; 1.",
+    "translations": {
+      "es": "UNO"
+    }
+  },
+  "ONLY": {
+    "def": "And no one or nothing else besides; solely or exclusively.",
+    "translations": {
+      "es": "SOLO"
+    }
+  },
+  "ONO": {
+    "def": "",
+    "translations": {}
+  },
+  "ONS": {
+    "def": "",
+    "translations": {}
+  },
+  "ONY": {
+    "def": "",
+    "translations": {}
+  },
+  "OOF": {
+    "def": "",
+    "translations": {}
+  },
+  "OOH": {
+    "def": "",
+    "translations": {}
+  },
+  "OOT": {
+    "def": "",
+    "translations": {}
+  },
+  "OPE": {
+    "def": "",
+    "translations": {}
+  },
+  "OPEN": {
+    "def": "Allowing access, passage, or a view through an empty space; not closed or blocked up.",
+    "translations": {
+      "es": "ABIERTO"
+    }
+  },
+  "OPERATE": {
+    "def": "",
+    "translations": {}
+  },
+  "OPINION": {
+    "def": "",
+    "translations": {}
+  },
+  "OPS": {
+    "def": "",
+    "translations": {}
+  },
+  "OPT": {
+    "def": "",
+    "translations": {}
+  },
+  "OR": {
+    "def": "Used to link alternatives.",
+    "translations": {
+      "es": "O"
+    }
+  },
+  "ORA": {
+    "def": "",
+    "translations": {}
+  },
+  "ORB": {
+    "def": "",
+    "translations": {}
+  },
+  "ORC": {
+    "def": "",
+    "translations": {}
+  },
+  "ORD": {
+    "def": "",
+    "translations": {}
+  },
+  "ORDER": {
+    "def": "",
+    "translations": {}
+  },
+  "ORDINARY": {
+    "def": "",
+    "translations": {}
+  },
+  "ORE": {
+    "def": "",
+    "translations": {}
+  },
+  "ORG": {
+    "def": "",
+    "translations": {}
+  },
+  "ORGANIZE": {
+    "def": "",
+    "translations": {}
+  },
+  "ORIGIN": {
+    "def": "",
+    "translations": {}
+  },
+  "ORS": {
+    "def": "",
+    "translations": {}
+  },
+  "ORT": {
+    "def": "",
+    "translations": {}
+  },
+  "OSE": {
+    "def": "",
+    "translations": {}
+  },
+  "OTHER": {
+    "def": "",
+    "translations": {}
+  },
+  "OTHERWISE": {
+    "def": "",
+    "translations": {}
+  },
+  "OUD": {
+    "def": "",
+    "translations": {}
+  },
+  "OUGHT": {
+    "def": "",
+    "translations": {}
+  },
+  "OUR": {
+    "def": "",
+    "translations": {}
+  },
+  "OUT": {
+    "def": "Moving or appearing to move away from a particular place, especially one that is enclosed or hidden.",
+    "translations": {
+      "es": "FUERA"
+    }
+  },
+  "OVA": {
+    "def": "",
+    "translations": {}
+  },
+  "OVER": {
+    "def": "Extending directly upward from.",
+    "translations": {
+      "es": "SOBRE"
+    }
+  },
+  "OWE": {
+    "def": "",
+    "translations": {}
+  },
+  "OWL": {
+    "def": "",
+    "translations": {}
+  },
+  "OWN": {
+    "def": "Used with a possessive adjective to emphasize that someone or something belongs or relates to a particular person.",
+    "translations": {
+      "es": "PROPIO"
+    }
+  },
+  "OXO": {
+    "def": "",
+    "translations": {}
+  },
+  "OXY": {
+    "def": "",
+    "translations": {}
+  },
+  "OYE": {
+    "def": "",
+    "translations": {}
+  },
+  "OYS": {
+    "def": "",
+    "translations": {}
+  },
+  "PAC": {
+    "def": "",
+    "translations": {}
+  },
+  "PACK": {
+    "def": "",
+    "translations": {}
+  },
+  "PAD": {
+    "def": "",
+    "translations": {}
+  },
+  "PAGE": {
+    "def": "One side of a leaf of something printed or written, such as a book, magazine, or newspaper.",
+    "translations": {
+      "es": "PAGINA"
+    }
+  },
+  "PAH": {
+    "def": "",
+    "translations": {}
+  },
+  "PAIN": {
+    "def": "",
+    "translations": {}
+  },
+  "PAINT": {
+    "def": "",
+    "translations": {}
+  },
+  "PAIR": {
+    "def": "",
+    "translations": {}
+  },
+  "PAL": {
+    "def": "",
+    "translations": {}
+  },
+  "PAM": {
+    "def": "",
+    "translations": {}
+  },
+  "PAN": {
+    "def": "",
+    "translations": {}
+  },
+  "PAP": {
+    "def": "",
+    "translations": {}
+  },
+  "PAPER": {
+    "def": "Material manufactured in thin sheets from the pulp of wood or other fibrous substances, used for writing, drawing, or printing on, or as wrapping material.",
+    "translations": {
+      "es": "PAPEL"
+    }
+  },
+  "PAR": {
+    "def": "",
+    "translations": {}
+  },
+  "PARAGRAPH": {
+    "def": "",
+    "translations": {}
+  },
+  "PARDON": {
+    "def": "",
+    "translations": {}
+  },
+  "PARENT": {
+    "def": "",
+    "translations": {}
+  },
+  "PARK": {
+    "def": "",
+    "translations": {}
+  },
+  "PART": {
+    "def": "An amount or section which, with others, makes up the whole of something.",
+    "translations": {
+      "es": "PARTE"
+    }
+  },
+  "PARTICULAR": {
+    "def": "",
+    "translations": {}
+  },
+  "PARTY": {
+    "def": "",
+    "translations": {}
+  },
+  "PAS": {
+    "def": "",
+    "translations": {}
+  },
+  "PASS": {
+    "def": "",
+    "translations": {}
+  },
+  "PAST": {
+    "def": "The time or a period of time before the moment of speaking or writing.",
+    "translations": {
+      "es": "PASADO"
+    }
+  },
+  "PAT": {
+    "def": "",
+    "translations": {}
+  },
+  "PAW": {
+    "def": "",
+    "translations": {}
+  },
+  "PAX": {
+    "def": "",
+    "translations": {}
+  },
+  "PAY": {
+    "def": "Give (someone) money that is due for work done, goods received, or a debt incurred.",
+    "translations": {
+      "es": "PAGAR"
+    }
+  },
+  "PEA": {
+    "def": "",
+    "translations": {}
+  },
+  "PEC": {
+    "def": "",
+    "translations": {}
+  },
+  "PEE": {
+    "def": "",
+    "translations": {}
+  },
+  "PEG": {
+    "def": "",
+    "translations": {}
+  },
+  "PEH": {
+    "def": "",
+    "translations": {}
+  },
+  "PEN": {
+    "def": "",
+    "translations": {}
+  },
+  "PENCE": {
+    "def": "",
+    "translations": {}
+  },
+  "PENSION": {
+    "def": "",
+    "translations": {}
+  },
+  "PEOPLE": {
+    "def": "Human beings in general or considered collectively.",
+    "translations": {
+      "es": "GENTE"
+    }
+  },
+  "PEP": {
+    "def": "",
+    "translations": {}
+  },
+  "PER": {
+    "def": "For each (used with units to express a rate).",
+    "translations": {
+      "es": "POR"
+    }
+  },
+  "PERCENT": {
+    "def": "",
+    "translations": {}
+  },
+  "PERFECT": {
+    "def": "",
+    "translations": {}
+  },
+  "PERHAPS": {
+    "def": "",
+    "translations": {}
+  },
+  "PERIOD": {
+    "def": "",
+    "translations": {}
+  },
+  "PERSON": {
+    "def": "",
+    "translations": {}
+  },
+  "PES": {
+    "def": "",
+    "translations": {}
+  },
+  "PET": {
+    "def": "",
+    "translations": {}
+  },
+  "PEW": {
+    "def": "",
+    "translations": {}
+  },
+  "PHI": {
+    "def": "",
+    "translations": {}
+  },
+  "PHO": {
+    "def": "",
+    "translations": {}
+  },
+  "PHOTO": {
+    "def": "A photograph.",
+    "translations": {
+      "es": "FOTO"
+    }
+  },
+  "PHRASE": {
+    "def": "",
+    "translations": {}
+  },
+  "PHT": {
+    "def": "",
+    "translations": {}
+  },
+  "PIA": {
+    "def": "",
+    "translations": {}
+  },
+  "PIC": {
+    "def": "",
+    "translations": {}
+  },
+  "PICK": {
+    "def": "Detach and remove (a flower, fruit, or vegetable) from where it is growing.",
+    "translations": {
+      "es": "ELEGIR"
+    }
+  },
+  "PICTURE": {
+    "def": "",
+    "translations": {}
+  },
+  "PIE": {
+    "def": "",
+    "translations": {}
+  },
+  "PIECE": {
+    "def": "A portion of an object or of a material, produced by cutting, tearing, or breaking the whole.",
+    "translations": {
+      "es": "PIEZA"
+    }
+  },
+  "PIG": {
+    "def": "",
+    "translations": {}
+  },
+  "PIN": {
+    "def": "",
+    "translations": {}
+  },
+  "PIP": {
+    "def": "",
+    "translations": {}
+  },
+  "PIS": {
+    "def": "",
+    "translations": {}
+  },
+  "PIT": {
+    "def": "",
+    "translations": {}
+  },
+  "PIU": {
+    "def": "",
+    "translations": {}
+  },
+  "PIX": {
+    "def": "",
+    "translations": {}
+  },
+  "PLACE": {
+    "def": "A particular position or point in space.",
+    "translations": {
+      "es": "LUGAR"
+    }
+  },
+  "PLAN": {
+    "def": "A detailed proposal for doing or achieving something.",
+    "translations": {
+      "es": "PLAN"
+    }
+  },
+  "PLANT": {
+    "def": "",
+    "translations": {}
+  },
+  "PLAY": {
+    "def": "Engage in activity for enjoyment and recreation rather than a serious or practical purpose.",
+    "translations": {
+      "es": "JUGAR"
+    }
+  },
+  "PLEASE": {
+    "def": "Used in polite requests.",
+    "translations": {
+      "es": "POR FAVOR"
+    }
+  },
+  "PLUS": {
+    "def": "",
+    "translations": {}
+  },
+  "PLY": {
+    "def": "",
+    "translations": {}
+  },
+  "POA": {
+    "def": "",
+    "translations": {}
+  },
+  "POD": {
+    "def": "",
+    "translations": {}
+  },
+  "POH": {
+    "def": "",
+    "translations": {}
+  },
+  "POI": {
+    "def": "",
+    "translations": {}
+  },
+  "POINT": {
+    "def": "A dot or other punctuation mark, in particular a period.",
+    "translations": {
+      "es": "PUNTO"
+    }
+  },
+  "POL": {
+    "def": "",
+    "translations": {}
+  },
+  "POLICE": {
+    "def": "",
+    "translations": {}
+  },
+  "POLICY": {
+    "def": "",
+    "translations": {}
+  },
+  "POLITIC": {
+    "def": "",
+    "translations": {}
+  },
+  "POM": {
+    "def": "",
+    "translations": {}
+  },
+  "POO": {
+    "def": "",
+    "translations": {}
+  },
+  "POOR": {
+    "def": "Lacking sufficient money to live at a standard considered comfortable or normal in a society.",
+    "translations": {
+      "es": "POBRE"
+    }
+  },
+  "POP": {
+    "def": "",
+    "translations": {}
+  },
+  "POS": {
+    "def": "",
+    "translations": {}
+  },
+  "POSITION": {
+    "def": "",
+    "translations": {}
+  },
+  "POSSIBLE": {
+    "def": "",
+    "translations": {}
+  },
+  "POST": {
+    "def": "",
+    "translations": {}
+  },
+  "POT": {
+    "def": "",
+    "translations": {}
+  },
+  "POUND": {
+    "def": "",
+    "translations": {}
+  },
+  "POW": {
+    "def": "",
+    "translations": {}
+  },
+  "POWER": {
+    "def": "",
+    "translations": {}
+  },
+  "POX": {
+    "def": "",
+    "translations": {}
+  },
+  "POZ": {
+    "def": "",
+    "translations": {}
+  },
+  "PRACTICE": {
+    "def": "",
+    "translations": {}
+  },
+  "PRE": {
+    "def": "",
+    "translations": {}
+  },
+  "PREPARE": {
+    "def": "",
+    "translations": {}
+  },
+  "PRESENT": {
+    "def": "",
+    "translations": {}
+  },
+  "PRESSURE": {
+    "def": "",
+    "translations": {}
+  },
+  "PRESUME": {
+    "def": "",
+    "translations": {}
+  },
+  "PRETTY": {
+    "def": "",
+    "translations": {}
+  },
+  "PREVIOUS": {
+    "def": "",
+    "translations": {}
+  },
+  "PRICE": {
+    "def": "",
+    "translations": {}
+  },
+  "PRIME": {
+    "def": "",
+    "translations": {}
+  },
+  "PRINCIPLE": {
+    "def": "",
+    "translations": {}
+  },
+  "PRINT": {
+    "def": "",
+    "translations": {}
+  },
+  "PRIOR": {
+    "def": "",
+    "translations": {}
+  },
+  "PRIORITY": {
+    "def": "",
+    "translations": {}
+  },
+  "PRIVATE": {
+    "def": "",
+    "translations": {}
+  },
+  "PRO": {
+    "def": "",
+    "translations": {}
+  },
+  "PROBABLY": {
+    "def": "",
+    "translations": {}
+  },
+  "PROBLEM": {
+    "def": "",
+    "translations": {}
+  },
+  "PROCESS": {
+    "def": "",
+    "translations": {}
+  },
+  "PRODUCE": {
+    "def": "",
+    "translations": {}
+  },
+  "PRODUCT": {
+    "def": "",
+    "translations": {}
+  },
+  "PROGRAM": {
+    "def": "",
+    "translations": {}
+  },
+  "PROGRESS": {
+    "def": "",
+    "translations": {}
+  },
+  "PROJECT": {
+    "def": "",
+    "translations": {}
+  },
+  "PROPER": {
+    "def": "",
+    "translations": {}
+  },
+  "PROPOSE": {
+    "def": "",
+    "translations": {}
+  },
+  "PROTECT": {
+    "def": "",
+    "translations": {}
+  },
+  "PROVIDE": {
+    "def": "",
+    "translations": {}
+  },
+  "PRY": {
+    "def": "",
+    "translations": {}
+  },
+  "PSI": {
+    "def": "",
+    "translations": {}
+  },
+  "PST": {
+    "def": "",
+    "translations": {}
+  },
+  "PUB": {
+    "def": "",
+    "translations": {}
+  },
+  "PUBLIC": {
+    "def": "",
+    "translations": {}
+  },
+  "PUD": {
+    "def": "",
+    "translations": {}
+  },
+  "PUG": {
+    "def": "",
+    "translations": {}
+  },
+  "PUL": {
+    "def": "",
+    "translations": {}
+  },
+  "PULL": {
+    "def": "",
+    "translations": {}
+  },
+  "PUN": {
+    "def": "",
+    "translations": {}
+  },
+  "PUP": {
+    "def": "",
+    "translations": {}
+  },
+  "PUR": {
+    "def": "",
+    "translations": {}
+  },
+  "PURPOSE": {
+    "def": "",
+    "translations": {}
+  },
+  "PUS": {
+    "def": "",
+    "translations": {}
+  },
+  "PUSH": {
+    "def": "",
+    "translations": {}
+  },
+  "PUT": {
+    "def": "Move to or place in a particular position.",
+    "translations": {
+      "es": "PONER"
+    }
+  },
+  "PYA": {
+    "def": "",
+    "translations": {}
+  },
+  "PYE": {
+    "def": "",
+    "translations": {}
+  },
+  "PYX": {
+    "def": "",
+    "translations": {}
+  },
+  "QAT": {
+    "def": "",
+    "translations": {}
+  },
+  "QIS": {
+    "def": "",
+    "translations": {}
+  },
+  "QUA": {
+    "def": "",
+    "translations": {}
+  },
+  "QUALITY": {
+    "def": "",
+    "translations": {}
+  },
+  "QUARTER": {
+    "def": "",
+    "translations": {}
+  },
+  "QUESTION": {
+    "def": "",
+    "translations": {}
+  },
+  "QUICK": {
+    "def": "Moving or capable of moving at high speed.",
+    "translations": {
+      "es": "RAPIDO"
+    }
+  },
+  "QUID": {
+    "def": "",
+    "translations": {}
+  },
+  "QUIET": {
+    "def": "Making little or no noise.",
+    "translations": {
+      "es": "TRANQUILO"
+    }
+  },
+  "QUITE": {
+    "def": "To a certain or fairly significant extent or degree; fairly.",
+    "translations": {
+      "es": "BASTANTE"
+    }
+  },
+  "RAD": {
+    "def": "",
+    "translations": {}
+  },
+  "RADIO": {
+    "def": "",
+    "translations": {}
+  },
+  "RAG": {
+    "def": "",
+    "translations": {}
+  },
+  "RAH": {
+    "def": "",
+    "translations": {}
+  },
+  "RAI": {
+    "def": "",
+    "translations": {}
+  },
+  "RAIL": {
+    "def": "",
+    "translations": {}
+  },
+  "RAISE": {
+    "def": "",
+    "translations": {}
+  },
+  "RAJ": {
+    "def": "",
+    "translations": {}
+  },
+  "RAM": {
+    "def": "",
+    "translations": {}
+  },
+  "RAN": {
+    "def": "",
+    "translations": {}
+  },
+  "RANGE": {
+    "def": "",
+    "translations": {}
+  },
+  "RAP": {
+    "def": "",
+    "translations": {}
+  },
+  "RAS": {
+    "def": "",
+    "translations": {}
+  },
+  "RAT": {
+    "def": "",
+    "translations": {}
+  },
+  "RATE": {
+    "def": "",
+    "translations": {}
+  },
+  "RATHER": {
+    "def": "",
+    "translations": {}
+  },
+  "RAW": {
+    "def": "",
+    "translations": {}
+  },
+  "RAX": {
+    "def": "",
+    "translations": {}
+  },
+  "RAY": {
+    "def": "",
+    "translations": {}
+  },
+  "READ": {
+    "def": "Look at and comprehend the meaning of (written or printed matter) by interpreting the characters or symbols of which it is composed.",
+    "translations": {
+      "es": "LEER"
+    }
+  },
+  "READY": {
+    "def": "In a suitable state for an action or situation; fully prepared.",
+    "translations": {
+      "es": "LISTO"
+    }
+  },
+  "REAL": {
+    "def": "Actually existing as a thing or occurring in fact; not imagined or supposed.",
+    "translations": {
+      "es": "REAL"
+    }
+  },
+  "REALIZE": {
+    "def": "",
+    "translations": {}
+  },
+  "REASON": {
+    "def": "",
+    "translations": {}
+  },
+  "REB": {
+    "def": "",
+    "translations": {}
+  },
+  "REC": {
+    "def": "",
+    "translations": {}
+  },
+  "RECEIVE": {
+    "def": "",
+    "translations": {}
+  },
+  "RECENT": {
+    "def": "",
+    "translations": {}
+  },
+  "RECKON": {
+    "def": "",
+    "translations": {}
+  },
+  "RECOGNIZE": {
+    "def": "",
+    "translations": {}
+  },
+  "RECORD": {
+    "def": "",
+    "translations": {}
+  },
+  "RED": {
+    "def": "Of a color at the end of the spectrum next to orange and opposite violet, as of blood, fire, or rubies.",
+    "translations": {
+      "es": "ROJO"
+    }
+  },
+  "REDUCE": {
+    "def": "",
+    "translations": {}
+  },
+  "REE": {
+    "def": "",
+    "translations": {}
+  },
+  "REF": {
+    "def": "",
+    "translations": {}
+  },
+  "REFER": {
+    "def": "",
+    "translations": {}
+  },
+  "REG": {
+    "def": "",
+    "translations": {}
+  },
+  "REGARD": {
+    "def": "",
+    "translations": {}
+  },
+  "REGION": {
+    "def": "",
+    "translations": {}
+  },
+  "REI": {
+    "def": "",
+    "translations": {}
+  },
+  "RELATE": {
+    "def": "",
+    "translations": {}
+  },
+  "RELAX": {
+    "def": "",
+    "translations": {}
+  },
+  "RELEASE": {
+    "def": "",
+    "translations": {}
+  },
+  "RELY": {
+    "def": "",
+    "translations": {}
+  },
+  "REM": {
+    "def": "",
+    "translations": {}
+  },
+  "REMAIN": {
+    "def": "",
+    "translations": {}
+  },
+  "REMEMBER": {
+    "def": "",
+    "translations": {}
+  },
+  "REMOVE": {
+    "def": "",
+    "translations": {}
+  },
+  "REN": {
+    "def": "",
+    "translations": {}
+  },
+  "REP": {
+    "def": "",
+    "translations": {}
+  },
+  "REPEAT": {
+    "def": "",
+    "translations": {}
+  },
+  "REPLACE": {
+    "def": "",
+    "translations": {}
+  },
+  "REPLY": {
+    "def": "",
+    "translations": {}
+  },
+  "REPORT": {
+    "def": "",
+    "translations": {}
+  },
+  "REPRESENT": {
+    "def": "",
+    "translations": {}
+  },
+  "REQUIRE": {
+    "def": "",
+    "translations": {}
+  },
+  "RES": {
+    "def": "",
+    "translations": {}
+  },
+  "RESEARCH": {
+    "def": "",
+    "translations": {}
+  },
+  "RESOURCE": {
+    "def": "",
+    "translations": {}
+  },
+  "RESPOND": {
+    "def": "",
+    "translations": {}
+  },
+  "RESPONSE": {
+    "def": "",
+    "translations": {}
+  },
+  "REST": {
+    "def": "Cease work or movement in order to relax, refresh oneself, or recover strength.",
+    "translations": {
+      "es": "DESCANSO"
+    }
+  },
+  "RESULT": {
+    "def": "",
+    "translations": {}
+  },
+  "RET": {
+    "def": "",
+    "translations": {}
+  },
+  "RETAIN": {
+    "def": "",
+    "translations": {}
+  },
+  "RETURN": {
+    "def": "",
+    "translations": {}
+  },
+  "REV": {
+    "def": "",
+    "translations": {}
+  },
+  "REVEAL": {
+    "def": "",
+    "translations": {}
+  },
+  "REVENUE": {
+    "def": "",
+    "translations": {}
+  },
+  "REVIEW": {
+    "def": "",
+    "translations": {}
+  },
+  "REX": {
+    "def": "",
+    "translations": {}
+  },
+  "REZ": {
+    "def": "",
+    "translations": {}
+  },
+  "RHO": {
+    "def": "",
+    "translations": {}
+  },
+  "RIA": {
+    "def": "",
+    "translations": {}
+  },
+  "RIB": {
+    "def": "",
+    "translations": {}
+  },
+  "RICE": {
+    "def": "",
+    "translations": {}
+  },
+  "RICH": {
+    "def": "",
+    "translations": {}
+  },
+  "RID": {
+    "def": "",
+    "translations": {}
+  },
+  "RIDE": {
+    "def": "",
+    "translations": {}
+  },
+  "RIF": {
+    "def": "",
+    "translations": {}
+  },
+  "RIG": {
+    "def": "",
+    "translations": {}
+  },
+  "RIGHT": {
+    "def": "Morally good, justified, or acceptable.",
+    "translations": {
+      "es": "DERECHA"
+    }
+  },
+  "RIM": {
+    "def": "",
+    "translations": {}
+  },
+  "RIN": {
+    "def": "",
+    "translations": {}
+  },
+  "RING": {
+    "def": "",
+    "translations": {}
+  },
+  "RIP": {
+    "def": "",
+    "translations": {}
+  },
+  "RISE": {
+    "def": "",
+    "translations": {}
+  },
+  "ROAD": {
+    "def": "A wide way leading from one place to another, especially one with a specially prepared surface which vehicles can use.",
+    "translations": {
+      "es": "CAMINO"
+    }
+  },
+  "ROB": {
+    "def": "",
+    "translations": {}
+  },
+  "ROC": {
+    "def": "",
+    "translations": {}
+  },
+  "ROD": {
+    "def": "",
+    "translations": {}
+  },
+  "ROE": {
+    "def": "",
+    "translations": {}
+  },
+  "ROLE": {
+    "def": "",
+    "translations": {}
+  },
+  "ROLL": {
+    "def": "",
+    "translations": {}
+  },
+  "ROM": {
+    "def": "",
+    "translations": {}
+  },
+  "ROOF": {
+    "def": "",
+    "translations": {}
+  },
+  "ROOM": {
+    "def": "A space that can be occupied or where something can be done.",
+    "translations": {
+      "es": "HABITACION"
+    }
+  },
+  "ROT": {
+    "def": "",
+    "translations": {}
+  },
+  "ROUND": {
+    "def": "Shaped like a circle or cylinder.",
+    "translations": {
+      "es": "RONDA"
+    }
+  },
+  "ROUTE": {
+    "def": "",
+    "translations": {}
+  },
+  "ROW": {
+    "def": "",
+    "translations": {}
+  },
+  "RUB": {
+    "def": "",
+    "translations": {}
+  },
+  "RUE": {
+    "def": "",
+    "translations": {}
+  },
+  "RUG": {
+    "def": "",
+    "translations": {}
+  },
+  "RULE": {
+    "def": "One of a set of explicit or understood regulations or principles governing conduct within a particular activity or sphere.",
+    "translations": {
+      "es": "REGLA"
+    }
+  },
+  "RUM": {
+    "def": "",
+    "translations": {}
+  },
+  "RUN": {
+    "def": "Move at a speed faster than a walk, never having both or all the feet on the ground at the same time.",
+    "translations": {
+      "es": "CORRER"
+    }
+  },
+  "RUT": {
+    "def": "",
+    "translations": {}
+  },
+  "RYA": {
+    "def": "",
+    "translations": {}
+  },
+  "RYE": {
+    "def": "",
+    "translations": {}
+  },
+  "SAB": {
+    "def": "",
+    "translations": {}
+  },
+  "SAC": {
+    "def": "",
+    "translations": {}
+  },
+  "SACK": {
+    "def": "",
+    "translations": {}
+  },
+  "SACKS": {
+    "def": "",
+    "translations": {}
+  },
+  "SAD": {
+    "def": "Feeling or showing sorrow; unhappy.",
+    "translations": {
+      "es": "TRISTE"
+    }
+  },
+  "SAE": {
+    "def": "",
+    "translations": {}
+  },
+  "SAFE": {
+    "def": "Protected from or not exposed to danger or risk; not likely to be harmed or lost.",
+    "translations": {
+      "es": "SEGURO"
+    }
+  },
+  "SAG": {
+    "def": "",
+    "translations": {}
+  },
+  "SAL": {
+    "def": "",
+    "translations": {}
+  },
+  "SALE": {
+    "def": "",
+    "translations": {}
+  },
+  "SAM": {
+    "def": "",
+    "translations": {}
+  },
+  "SAME": {
+    "def": "Identical; not different.",
+    "translations": {
+      "es": "MISMO"
+    }
+  },
+  "SAN": {
+    "def": "",
+    "translations": {}
+  },
+  "SAP": {
+    "def": "",
+    "translations": {}
+  },
+  "SAR": {
+    "def": "",
+    "translations": {}
+  },
+  "SAT": {
+    "def": "",
+    "translations": {}
+  },
+  "SATURDAY": {
+    "def": "",
+    "translations": {}
+  },
+  "SAU": {
+    "def": "",
+    "translations": {}
+  },
+  "SAVE": {
+    "def": "",
+    "translations": {}
+  },
+  "SAW": {
+    "def": "",
+    "translations": {}
+  },
+  "SAY": {
+    "def": "Utter words so as to convey information, an opinion, a feeling or intention, or an instruction.",
+    "translations": {
+      "es": "DECIR"
+    }
+  },
+  "SCHEME": {
+    "def": "",
+    "translations": {}
+  },
+  "SCHOOL": {
+    "def": "An institution for educating children.",
+    "translations": {
+      "es": "ESCUELA"
+    }
+  },
+  "SCIENCE": {
+    "def": "",
+    "translations": {}
+  },
+  "SCORE": {
+    "def": "The number of points, goals, runs, etc., achieved in a game or by a team or an individual.",
+    "translations": {
+      "es": "PUNTUACION"
+    }
+  },
+  "SCOTLAND": {
+    "def": "",
+    "translations": {}
+  },
+  "SEA": {
+    "def": "The expanse of salt water that covers most of the earth's surface and surrounds its landmasses.",
+    "translations": {
+      "es": "MAR"
+    }
+  },
+  "SEASON": {
+    "def": "",
+    "translations": {}
+  },
+  "SEC": {
+    "def": "",
+    "translations": {}
+  },
+  "SECOND": {
+    "def": "Constituting number two in a sequence; coming after the first in time or order.",
+    "translations": {
+      "es": "SEGUNDO"
+    }
+  },
+  "SECRETARY": {
+    "def": "",
+    "translations": {}
+  },
+  "SECTION": {
+    "def": "",
+    "translations": {}
+  },
+  "SECTOR": {
+    "def": "",
+    "translations": {}
+  },
+  "SECURE": {
+    "def": "",
+    "translations": {}
+  },
+  "SEE": {
+    "def": "Perceive with the eyes; discern visually.",
+    "translations": {
+      "es": "VER"
+    }
+  },
+  "SEEM": {
+    "def": "Give the impression or sensation of being something or having a particular quality.",
+    "translations": {
+      "es": "PARECER"
+    }
+  },
+  "SEG": {
+    "def": "",
+    "translations": {}
+  },
+  "SEI": {
+    "def": "",
+    "translations": {}
+  },
+  "SEL": {
+    "def": "",
+    "translations": {}
+  },
+  "SELECT": {
+    "def": "",
+    "translations": {}
+  },
+  "SELF": {
+    "def": "",
+    "translations": {}
+  },
+  "SELL": {
+    "def": "",
+    "translations": {}
+  },
+  "SEN": {
+    "def": "",
+    "translations": {}
+  },
+  "SEND": {
+    "def": "Cause to go or be taken to a particular destination; arrange for the delivery of, especially by post.",
+    "translations": {
+      "es": "ENVIAR"
+    }
+  },
+  "SENSE": {
+    "def": "",
+    "translations": {}
+  },
+  "SEPARATE": {
+    "def": "",
+    "translations": {}
+  },
+  "SER": {
+    "def": "",
+    "translations": {}
+  },
+  "SERIES": {
+    "def": "",
+    "translations": {}
+  },
+  "SERIOUS": {
+    "def": "",
+    "translations": {}
+  },
+  "SERVE": {
+    "def": "",
+    "translations": {}
+  },
+  "SERVICE": {
+    "def": "",
+    "translations": {}
+  },
+  "SET": {
+    "def": "Put, lay, or stand (something) in a specified place or position.",
+    "translations": {
+      "es": "CONFIGURAR"
+    }
+  },
+  "SETTLE": {
+    "def": "",
+    "translations": {}
+  },
+  "SEVEN": {
+    "def": "Equivalent to the product of one and seven; one more than six.",
+    "translations": {
+      "es": "SIETE"
+    }
+  },
+  "SEVERAL": {
+    "def": "",
+    "translations": {}
+  },
+  "SEW": {
+    "def": "",
+    "translations": {}
+  },
+  "SEX": {
+    "def": "",
+    "translations": {}
+  },
+  "SHA": {
+    "def": "",
+    "translations": {}
+  },
+  "SHALL": {
+    "def": "",
+    "translations": {}
+  },
+  "SHAPE": {
+    "def": "",
+    "translations": {}
+  },
+  "SHARE": {
+    "def": "",
+    "translations": {}
+  },
+  "SHE": {
+    "def": "Used to refer to a woman, girl, or female animal previously mentioned or easily identified.",
+    "translations": {
+      "es": "ELLA"
+    }
+  },
+  "SHEET": {
+    "def": "",
+    "translations": {}
+  },
+  "SHH": {
+    "def": "",
+    "translations": {}
+  },
+  "SHOCK": {
+    "def": "",
+    "translations": {}
+  },
+  "SHOE": {
+    "def": "",
+    "translations": {}
+  },
+  "SHOP": {
+    "def": "A building or part of a building where goods or services are sold; a store.",
+    "translations": {
+      "es": "TIENDA"
+    }
+  },
+  "SHORT": {
+    "def": "",
+    "translations": {}
+  },
+  "SHOULD": {
+    "def": "",
+    "translations": {}
+  },
+  "SHOW": {
+    "def": "Allow or cause to be visible.",
+    "translations": {
+      "es": "MOSTRAR"
+    }
+  },
+  "SHUT": {
+    "def": "",
+    "translations": {}
+  },
+  "SHY": {
+    "def": "",
+    "translations": {}
+  },
+  "SIB": {
+    "def": "",
+    "translations": {}
+  },
+  "SIC": {
+    "def": "",
+    "translations": {}
+  },
+  "SICK": {
+    "def": "",
+    "translations": {}
+  },
+  "SIDE": {
+    "def": "A position to the left or right of an object, place, or central point.",
+    "translations": {
+      "es": "LADO"
+    }
+  },
+  "SIGN": {
+    "def": "An object, quality, or event whose presence or occurrence indicates the probable presence or occurrence of something else.",
+    "translations": {
+      "es": "SIGNO"
+    }
+  },
+  "SIGNAL": {
+    "def": "",
+    "translations": {}
+  },
+  "SIM": {
+    "def": "",
+    "translations": {}
+  },
+  "SIMILAR": {
+    "def": "",
+    "translations": {}
+  },
+  "SIMPLE": {
+    "def": "",
+    "translations": {}
+  },
+  "SIN": {
+    "def": "",
+    "translations": {}
+  },
+  "SINCE": {
+    "def": "",
+    "translations": {}
+  },
+  "SING": {
+    "def": "Make musical sounds with the voice, especially words with a set tune.",
+    "translations": {
+      "es": "CANTAR"
+    }
+  },
+  "SINGLE": {
+    "def": "",
+    "translations": {}
+  },
+  "SIP": {
+    "def": "",
+    "translations": {}
+  },
+  "SIR": {
+    "def": "Used as a polite or respectful way of addressing a man, especially one in a position of authority.",
+    "translations": {
+      "es": "SENOR"
+    }
+  },
+  "SISTER": {
+    "def": "A woman or girl in relation to other daughters and sons of her parents.",
+    "translations": {
+      "es": "HERMANA"
+    }
+  },
+  "SIT": {
+    "def": "Adopt or be in a position in which one's weight is supported by one's buttocks rather than one's feet and one's back is upright.",
+    "translations": {
+      "es": "SENTARSE"
+    }
+  },
+  "SITE": {
+    "def": "",
+    "translations": {}
+  },
+  "SITUATE": {
+    "def": "",
+    "translations": {}
+  },
+  "SIX": {
+    "def": "Equivalent to the product of two and three; one more than five.",
+    "translations": {
+      "es": "SEIS"
+    }
+  },
+  "SIZE": {
+    "def": "The overall dimensions or magnitude of a thing.",
+    "translations": {
+      "es": "TAMANO"
+    }
+  },
+  "SKA": {
+    "def": "",
+    "translations": {}
+  },
+  "SKI": {
+    "def": "",
+    "translations": {}
+  },
+  "SKY": {
+    "def": "",
+    "translations": {}
+  },
+  "SLEEP": {
+    "def": "A condition of body and mind which typically recurs for several hours every night, in which the nervous system is relatively inactive, the eyes closed, the postural muscles relaxed, and consciousness practically suspended.",
+    "translations": {
+      "es": "DORMIR"
+    }
+  },
+  "SLIGHT": {
+    "def": "",
+    "translations": {}
+  },
+  "SLOW": {
+    "def": "Moving or operating, or designed to move or operate, at a low speed.",
+    "translations": {
+      "es": "LENTO"
+    }
+  },
+  "SLY": {
+    "def": "",
+    "translations": {}
+  },
+  "SMALL": {
+    "def": "Of a size that is less than normal or usual.",
+    "translations": {
+      "es": "PEQUENO"
+    }
+  },
+  "SMILE": {
+    "def": "",
+    "translations": {}
+  },
+  "SO": {
+    "def": "To such a great extent.",
+    "translations": {
+      "es": "ASI"
+    }
+  },
+  "SOB": {
+    "def": "",
+    "translations": {}
+  },
+  "SOCIAL": {
+    "def": "",
+    "translations": {}
+  },
+  "SOCIETY": {
+    "def": "",
+    "translations": {}
+  },
+  "SOD": {
+    "def": "",
+    "translations": {}
+  },
+  "SOFT": {
+    "def": "",
+    "translations": {}
+  },
+  "SOFTWARE": {
+    "def": "",
+    "translations": {}
+  },
+  "SOL": {
+    "def": "",
+    "translations": {}
+  },
+  "SOM": {
+    "def": "",
+    "translations": {}
+  },
+  "SOME": {
+    "def": "An unspecified amount or number of.",
+    "translations": {
+      "es": "ALGUNOS"
+    }
+  },
+  "SOMEONE": {
+    "def": "",
+    "translations": {}
+  },
+  "SOMETHING": {
+    "def": "",
+    "translations": {}
+  },
+  "SOMETIMES": {
+    "def": "",
+    "translations": {}
+  },
+  "SON": {
+    "def": "A male child or person in relation to his parents.",
+    "translations": {
+      "es": "HIJO"
+    }
+  },
+  "SOON": {
+    "def": "In or after a short time.",
+    "translations": {
+      "es": "PRONTO"
+    }
+  },
+  "SOP": {
+    "def": "",
+    "translations": {}
+  },
+  "SORRY": {
+    "def": "Feeling regret or penitence.",
+    "translations": {
+      "es": "PERDON"
+    }
+  },
+  "SORT": {
+    "def": "",
+    "translations": {}
+  },
+  "SOS": {
+    "def": "",
+    "translations": {}
+  },
+  "SOT": {
+    "def": "",
+    "translations": {}
+  },
+  "SOU": {
+    "def": "",
+    "translations": {}
+  },
+  "SOUND": {
+    "def": "Vibrations that travel through the air or another medium and can be heard when they reach a person's or animal's ear.",
+    "translations": {
+      "es": "SONIDO"
+    }
+  },
+  "SOUTH": {
+    "def": "The direction toward the point of the horizon 90 to the right of east.",
+    "translations": {
+      "es": "SUR"
+    }
+  },
+  "SOV": {
+    "def": "",
+    "translations": {}
+  },
+  "SOW": {
+    "def": "",
+    "translations": {}
+  },
+  "SOX": {
+    "def": "",
+    "translations": {}
+  },
+  "SOY": {
+    "def": "",
+    "translations": {}
+  },
+  "SPA": {
+    "def": "",
+    "translations": {}
+  },
+  "SPACE": {
+    "def": "A continuous area or expanse which is free, available, or unoccupied.",
+    "translations": {
+      "es": "ESPACIO"
+    }
+  },
+  "SPEAK": {
+    "def": "Say something in order to convey information, an opinion, or a feeling.",
+    "translations": {
+      "es": "HABLAR"
+    }
+  },
+  "SPECIAL": {
+    "def": "",
+    "translations": {}
+  },
+  "SPECIFIC": {
+    "def": "",
+    "translations": {}
+  },
+  "SPEED": {
+    "def": "",
+    "translations": {}
+  },
+  "SPELL": {
+    "def": "",
+    "translations": {}
+  },
+  "SPEND": {
+    "def": "",
+    "translations": {}
+  },
+  "SPOIL": {
+    "def": "",
+    "translations": {}
+  },
+  "SPORT": {
+    "def": "",
+    "translations": {}
+  },
+  "SPOT": {
+    "def": "",
+    "translations": {}
+  },
+  "SPY": {
+    "def": "",
+    "translations": {}
+  },
+  "SRI": {
+    "def": "",
+    "translations": {}
+  },
+  "STAFF": {
+    "def": "",
+    "translations": {}
+  },
+  "STAGE": {
+    "def": "",
+    "translations": {}
+  },
+  "STAND": {
+    "def": "",
+    "translations": {}
+  },
+  "STANDARD": {
+    "def": "",
+    "translations": {}
+  },
+  "STAR": {
+    "def": "A fixed luminous point in the night sky which is a large, remote incandescent body like the sun.",
+    "translations": {
+      "es": "ESTRELLA"
+    }
+  },
+  "START": {
+    "def": "Begin or be reckoned from a particular point in time or space.",
+    "translations": {
+      "es": "COMENZAR"
+    }
+  },
+  "STATE": {
+    "def": "",
+    "translations": {}
+  },
+  "STATION": {
+    "def": "",
+    "translations": {}
+  },
+  "STAY": {
+    "def": "Remain in the same place.",
+    "translations": {
+      "es": "QUEDARSE"
+    }
+  },
+  "STEP": {
+    "def": "An act or movement of lifting the foot and setting it down again when walking or running.",
+    "translations": {
+      "es": "PASO"
+    }
+  },
+  "STICK": {
+    "def": "",
+    "translations": {}
+  },
+  "STILL": {
+    "def": "Up to and including the present or the time mentioned; even now (or then) as formerly.",
+    "translations": {
+      "es": "TODAVIA"
+    }
+  },
+  "STOP": {
+    "def": "(of an event, action, or process) come to an end; cease to happen.",
+    "translations": {
+      "es": "PARAR"
+    }
+  },
+  "STORE": {
+    "def": "",
+    "translations": {}
+  },
+  "STORY": {
+    "def": "An account of imaginary or real people and events told for entertainment.",
+    "translations": {
+      "es": "HISTORIA"
+    }
+  },
+  "STRAIGHT": {
+    "def": "",
+    "translations": {}
+  },
+  "STRATEGY": {
+    "def": "",
+    "translations": {}
+  },
+  "STREET": {
+    "def": "",
+    "translations": {}
+  },
+  "STRIKE": {
+    "def": "",
+    "translations": {}
+  },
+  "STRONG": {
+    "def": "",
+    "translations": {}
+  },
+  "STUDENT": {
+    "def": "",
+    "translations": {}
+  },
+  "STUDY": {
+    "def": "",
+    "translations": {}
+  },
+  "STUFF": {
+    "def": "",
+    "translations": {}
+  },
+  "STY": {
+    "def": "",
+    "translations": {}
+  },
+  "STYLE": {
+    "def": "",
+    "translations": {}
+  },
+  "SUB": {
+    "def": "",
+    "translations": {}
+  },
+  "SUBJECT": {
+    "def": "",
+    "translations": {}
+  },
+  "SUBSTANCE": {
+    "def": "",
+    "translations": {}
+  },
+  "SUCCEED": {
+    "def": "",
+    "translations": {}
+  },
+  "SUCCESS": {
+    "def": "",
+    "translations": {}
+  },
+  "SUCH": {
+    "def": "",
+    "translations": {}
+  },
+  "SUDDEN": {
+    "def": "",
+    "translations": {}
+  },
+  "SUE": {
+    "def": "",
+    "translations": {}
+  },
+  "SUGGEST": {
+    "def": "",
+    "translations": {}
+  },
+  "SUIT": {
+    "def": "",
+    "translations": {}
+  },
+  "SUK": {
+    "def": "",
+    "translations": {}
+  },
+  "SUM": {
+    "def": "",
+    "translations": {}
+  },
+  "SUMMER": {
+    "def": "",
+    "translations": {}
+  },
+  "SUN": {
+    "def": "The star around which the earth orbits.",
+    "translations": {
+      "es": "SOL"
+    }
+  },
+  "SUNDAY": {
+    "def": "",
+    "translations": {}
+  },
+  "SUP": {
+    "def": "",
+    "translations": {}
+  },
+  "SUPER": {
+    "def": "",
+    "translations": {}
+  },
+  "SUPPLY": {
+    "def": "",
+    "translations": {}
+  },
+  "SUPPORT": {
+    "def": "",
+    "translations": {}
+  },
+  "SUPPOSE": {
+    "def": "",
+    "translations": {}
+  },
+  "SUQ": {
+    "def": "",
+    "translations": {}
+  },
+  "SURE": {
+    "def": "Confident in what one thinks or knows; having no doubt that one is right.",
+    "translations": {
+      "es": "SEGURO"
+    }
+  },
+  "SURPRISE": {
+    "def": "",
+    "translations": {}
+  },
+  "SWITCH": {
+    "def": "",
+    "translations": {}
+  },
+  "SYN": {
+    "def": "",
+    "translations": {}
+  },
+  "SYSTEM": {
+    "def": "A set of connected things or parts forming a complex whole, in particular a set of things working together as parts of a mechanism or an interconnecting network.",
+    "translations": {
+      "es": "SISTEMA"
+    }
+  },
+  "TAB": {
+    "def": "",
+    "translations": {}
+  },
+  "TABLE": {
+    "def": "A piece of furniture with a flat top and one or more legs, providing a level surface on which objects may be placed, and that can be used for such as eating, writing, or working.",
+    "translations": {
+      "es": "MESA"
+    }
+  },
+  "TAD": {
+    "def": "",
+    "translations": {}
+  },
+  "TAE": {
+    "def": "",
+    "translations": {}
+  },
+  "TAG": {
+    "def": "",
+    "translations": {}
+  },
+  "TAI": {
+    "def": "",
+    "translations": {}
+  },
+  "TAJ": {
+    "def": "",
+    "translations": {}
+  },
+  "TAKE": {
+    "def": "Lay hold of (something) with one's hands; reach for and hold.",
+    "translations": {
+      "es": "TOMAR"
+    }
+  },
+  "TALK": {
+    "def": "Speak in order to give information or express ideas or feelings.",
+    "translations": {
+      "es": "HABLAR"
+    }
+  },
+  "TAM": {
+    "def": "",
+    "translations": {}
+  },
+  "TAN": {
+    "def": "",
+    "translations": {}
+  },
+  "TAO": {
+    "def": "",
+    "translations": {}
+  },
+  "TAP": {
+    "def": "",
+    "translations": {}
+  },
+  "TAPE": {
+    "def": "",
+    "translations": {}
+  },
+  "TAR": {
+    "def": "",
+    "translations": {}
+  },
+  "TARGET": {
+    "def": "",
+    "translations": {}
+  },
+  "TAS": {
+    "def": "",
+    "translations": {}
+  },
+  "TASK": {
+    "def": "",
+    "translations": {}
+  },
+  "TAT": {
+    "def": "",
+    "translations": {}
+  },
+  "TAU": {
+    "def": "",
+    "translations": {}
+  },
+  "TAV": {
+    "def": "",
+    "translations": {}
+  },
+  "TAW": {
+    "def": "",
+    "translations": {}
+  },
+  "TAX": {
+    "def": "",
+    "translations": {}
+  },
+  "TEA": {
+    "def": "A hot drink made by infusing the dried crushed leaves of the tea plant in boiling water.",
+    "translations": {
+      "es": "TE"
+    }
+  },
+  "TEACH": {
+    "def": "",
+    "translations": {}
+  },
+  "TEAM": {
+    "def": "A group of players forming one side in a competitive game or sport.",
+    "translations": {
+      "es": "EQUIPO"
+    }
+  },
+  "TED": {
+    "def": "",
+    "translations": {}
+  },
+  "TEE": {
+    "def": "",
+    "translations": {}
+  },
+  "TEG": {
+    "def": "",
+    "translations": {}
+  },
+  "TEL": {
+    "def": "",
+    "translations": {}
+  },
+  "TELL": {
+    "def": "Communicate information, facts, or news to someone in spoken or written words.",
+    "translations": {
+      "es": "CONTAR"
+    }
+  },
+  "TEN": {
+    "def": "Equivalent to the product of five and two; one more than nine.",
+    "translations": {
+      "es": "DIEZ"
+    }
+  },
+  "TEND": {
+    "def": "",
+    "translations": {}
+  },
+  "TERM": {
+    "def": "",
+    "translations": {}
+  },
+  "TERRIBLE": {
+    "def": "",
+    "translations": {}
+  },
+  "TEST": {
+    "def": "A procedure intended to establish the quality, performance, or reliability of something, especially before it is taken into widespread use.",
+    "translations": {
+      "es": "PRUEBA"
+    }
+  },
+  "TET": {
+    "def": "",
+    "translations": {}
+  },
+  "TEW": {
+    "def": "",
+    "translations": {}
+  },
+  "THAN": {
+    "def": "Used in expressions, introducing the second element in a comparison.",
+    "translations": {
+      "es": "QUE"
+    }
+  },
+  "THANK": {
+    "def": "",
+    "translations": {}
+  },
+  "THANKS": {
+    "def": "",
+    "translations": {}
+  },
+  "THAT": {
+    "def": "Used to identify a specific person or thing observed by the speaker.",
+    "translations": {
+      "es": "ESO"
+    }
+  },
+  "THE": {
+    "def": "(article) Used before a noun phrase",
+    "translations": {
+      "es": "EL"
+    }
+  },
+  "THEATRE": {
+    "def": "",
+    "translations": {}
+  },
+  "THEIR": {
+    "def": "",
+    "translations": {}
+  },
+  "THEM": {
+    "def": "Used as the object of a verb or preposition to refer to two or more people or things previously mentioned or easily identified.",
+    "translations": {
+      "es": "ELLOS"
+    }
+  },
+  "THENCE": {
+    "def": "",
+    "translations": {}
+  },
+  "THERE": {
+    "def": "In, at, or to that place or position.",
+    "translations": {
+      "es": "ALLI"
+    }
+  },
+  "THEREFORE": {
+    "def": "",
+    "translations": {}
+  },
+  "THESE": {
+    "def": "Used to identify specific people or things close at hand or being indicated or experienced.",
+    "translations": {
+      "es": "ESTOS"
+    }
+  },
+  "THEY": {
+    "def": "Used to refer to two or more people or things previously mentioned or easily identified.",
+    "translations": {
+      "es": "ELLOS"
+    }
+  },
+  "THING": {
+    "def": "An object that one need not or cannot specific name.",
+    "translations": {
+      "es": "COSA"
+    }
+  },
+  "THINK": {
+    "def": "Have a particular opinion, belief, or idea about someone or something.",
+    "translations": {
+      "es": "PENSAR"
+    }
+  },
+  "THIRTEEN": {
+    "def": "",
+    "translations": {}
+  },
+  "THIRTY": {
+    "def": "",
+    "translations": {}
+  },
+  "THIS": {
+    "def": "Used to identify a specific person or thing close at hand, being indicated or experienced, or for the first time.",
+    "translations": {
+      "es": "ESTE"
+    }
+  },
+  "THO": {
+    "def": "",
+    "translations": {}
+  },
+  "THOSE": {
+    "def": "Used to identify specific people or things at a distance or previously mentioned.",
+    "translations": {
+      "es": "ESOS"
+    }
+  },
+  "THOUGH": {
+    "def": "",
+    "translations": {}
+  },
+  "THOUGHT": {
+    "def": "",
+    "translations": {}
+  },
+  "THOUSAND": {
+    "def": "",
+    "translations": {}
+  },
+  "THREE": {
+    "def": "Equivalent to the product of one and three; one more than two.",
+    "translations": {
+      "es": "TRES"
+    }
+  },
+  "THROUGH": {
+    "def": "Moving in one side and out of the other side of (an opening, channel, or location).",
+    "translations": {
+      "es": "A TRAVES"
+    }
+  },
+  "THROW": {
+    "def": "",
+    "translations": {}
+  },
+  "THURSDAY": {
+    "def": "",
+    "translations": {}
+  },
+  "THY": {
+    "def": "",
+    "translations": {}
+  },
+  "TIC": {
+    "def": "",
+    "translations": {}
+  },
+  "TICKET": {
+    "def": "",
+    "translations": {}
+  },
+  "TIE": {
+    "def": "",
+    "translations": {}
+  },
+  "TIG": {
+    "def": "",
+    "translations": {}
+  },
+  "TIGHT": {
+    "def": "",
+    "translations": {}
+  },
+  "TIL": {
+    "def": "",
+    "translations": {}
+  },
+  "TILL": {
+    "def": "",
+    "translations": {}
+  },
+  "TIME": {
+    "def": "The indefinite continued progress of existence and events in the past, present, and future regarded as a whole.",
+    "translations": {
+      "es": "TIEMPO"
+    }
+  },
+  "TIN": {
+    "def": "",
+    "translations": {}
+  },
+  "TINY": {
+    "def": "Very small.",
+    "translations": {
+      "es": "DIMINUTO"
+    }
+  },
+  "TIP": {
+    "def": "",
+    "translations": {}
+  },
+  "TIRE": {
+    "def": "",
+    "translations": {}
+  },
+  "TIS": {
+    "def": "",
+    "translations": {}
+  },
+  "TIT": {
+    "def": "",
+    "translations": {}
+  },
+  "TITLE": {
+    "def": "The name of a book, composition, or other artistic work.",
+    "translations": {
+      "es": "TITULO"
+    }
+  },
+  "TIX": {
+    "def": "",
+    "translations": {}
+  },
+  "TIZ": {
+    "def": "",
+    "translations": {}
+  },
+  "TO": {
+    "def": "Expressing motion in the direction of (a particular location).",
+    "translations": {
+      "es": "A"
+    }
+  },
+  "TOD": {
+    "def": "",
+    "translations": {}
+  },
+  "TODAY": {
+    "def": "On or during the present day.",
+    "translations": {
+      "es": "HOY"
+    }
+  },
+  "TOE": {
+    "def": "",
+    "translations": {}
+  },
+  "TOG": {
+    "def": "",
+    "translations": {}
+  },
+  "TOGETHER": {
+    "def": "",
+    "translations": {}
+  },
+  "TOM": {
+    "def": "",
+    "translations": {}
+  },
+  "TOMORROW": {
+    "def": "",
+    "translations": {}
+  },
+  "TON": {
+    "def": "",
+    "translations": {}
+  },
+  "TONIGHT": {
+    "def": "",
+    "translations": {}
+  },
+  "TOO": {
+    "def": "To a higher degree than is desirable, permissible, or possible; excessively.",
+    "translations": {
+      "es": "TAMBIEN"
+    }
+  },
+  "TOOL": {
+    "def": "A device or implement, especially one held in the hand, used to carry out a particular function.",
+    "translations": {
+      "es": "HERRAMIENTA"
+    }
+  },
+  "TOP": {
+    "def": "The highest or uppermost point, part, or surface of something.",
+    "translations": {
+      "es": "ARRIBA"
+    }
+  },
+  "TOR": {
+    "def": "",
+    "translations": {}
+  },
+  "TOT": {
+    "def": "",
+    "translations": {}
+  },
+  "TOTAL": {
+    "def": "Comprising the whole number or amount.",
+    "translations": {
+      "es": "TOTAL"
+    }
+  },
+  "TOUCH": {
+    "def": "",
+    "translations": {}
+  },
+  "TOW": {
+    "def": "",
+    "translations": {}
+  },
+  "TOWARD": {
+    "def": "",
+    "translations": {}
+  },
+  "TOWN": {
+    "def": "An urban area that has a name, defined boundaries, and local government, and that is larger than a village and generally smaller than a city.",
+    "translations": {
+      "es": "PUEBLO"
+    }
+  },
+  "TOY": {
+    "def": "",
+    "translations": {}
+  },
+  "TRACK": {
+    "def": "",
+    "translations": {}
+  },
+  "TRADE": {
+    "def": "",
+    "translations": {}
+  },
+  "TRAFFIC": {
+    "def": "",
+    "translations": {}
+  },
+  "TRAIN": {
+    "def": "",
+    "translations": {}
+  },
+  "TRANSFER": {
+    "def": "",
+    "translations": {}
+  },
+  "TRAVEL": {
+    "def": "",
+    "translations": {}
+  },
+  "TREAT": {
+    "def": "",
+    "translations": {}
+  },
+  "TREE": {
+    "def": "A woody perennial plant, typically having a single stem or trunk growing to a considerable height and bearing lateral branches at some distance from the ground.",
+    "translations": {
+      "es": "ARBOL"
+    }
+  },
+  "TROUBLE": {
+    "def": "",
+    "translations": {}
+  },
+  "TRUE": {
+    "def": "In accordance with fact or reality.",
+    "translations": {
+      "es": "VERDADERO"
+    }
+  },
+  "TRUST": {
+    "def": "",
+    "translations": {}
+  },
+  "TRY": {
+    "def": "Make an attempt or effort to do something.",
+    "translations": {
+      "es": "INTENTAR"
+    }
+  },
+  "TSK": {
+    "def": "",
+    "translations": {}
+  },
+  "TUB": {
+    "def": "",
+    "translations": {}
+  },
+  "TUESDAY": {
+    "def": "",
+    "translations": {}
+  },
+  "TUG": {
+    "def": "",
+    "translations": {}
+  },
+  "TUI": {
+    "def": "",
+    "translations": {}
+  },
+  "TUM": {
+    "def": "",
+    "translations": {}
+  },
+  "TUN": {
+    "def": "",
+    "translations": {}
+  },
+  "TUP": {
+    "def": "",
+    "translations": {}
+  },
+  "TURN": {
+    "def": "Move in a circular direction wholly or partly around an axis or point.",
+    "translations": {
+      "es": "GIRAR"
+    }
+  },
+  "TUT": {
+    "def": "",
+    "translations": {}
+  },
+  "TUX": {
+    "def": "",
+    "translations": {}
+  },
+  "TWA": {
+    "def": "",
+    "translations": {}
+  },
+  "TWELVE": {
+    "def": "",
+    "translations": {}
+  },
+  "TWENTY": {
+    "def": "",
+    "translations": {}
+  },
+  "TWO": {
+    "def": "Equivalent to the sum of one and one; one more than one; 2.",
+    "translations": {
+      "es": "DOS"
+    }
+  },
+  "TYE": {
+    "def": "",
+    "translations": {}
+  },
+  "TYO": {
+    "def": "",
+    "translations": {}
+  },
+  "TYPE": {
+    "def": "A category of people or things having common characteristics.",
+    "translations": {
+      "es": "TIPO"
+    }
+  },
+  "UDO": {
+    "def": "",
+    "translations": {}
+  },
+  "UGH": {
+    "def": "",
+    "translations": {}
+  },
+  "UKE": {
+    "def": "",
+    "translations": {}
+  },
+  "ULL": {
+    "def": "",
+    "translations": {}
+  },
+  "UMM": {
+    "def": "",
+    "translations": {}
+  },
+  "UMP": {
+    "def": "",
+    "translations": {}
+  },
+  "UNDER": {
+    "def": "Extending or directly below.",
+    "translations": {
+      "es": "BAJO"
+    }
+  },
+  "UNDO": {
+    "def": "",
+    "translations": {}
+  },
+  "UNI": {
+    "def": "",
+    "translations": {}
+  },
+  "UNIT": {
+    "def": "An individual thing or person regarded as single and complete but which can also form an individual component of a larger or more complex whole.",
+    "translations": {
+      "es": "UNIDAD"
+    }
+  },
+  "UNS": {
+    "def": "",
+    "translations": {}
+  },
+  "UNTIL": {
+    "def": "",
+    "translations": {}
+  },
+  "UP": {
+    "def": "Toward a higher place or position.",
+    "translations": {
+      "es": "ARRIBA"
+    }
+  },
+  "UPON": {
+    "def": "",
+    "translations": {}
+  },
+  "UPS": {
+    "def": "",
+    "translations": {}
+  },
+  "URB": {
+    "def": "",
+    "translations": {}
+  },
+  "URD": {
+    "def": "",
+    "translations": {}
+  },
+  "URE": {
+    "def": "",
+    "translations": {}
+  },
+  "URN": {
+    "def": "",
+    "translations": {}
+  },
+  "URP": {
+    "def": "",
+    "translations": {}
+  },
+  "USE": {
+    "def": "Take, hold, or deploy (something) as a means of accomplishing a purpose or achieving a result.",
+    "translations": {
+      "es": "USO"
+    }
+  },
+  "USUAL": {
+    "def": "",
+    "translations": {}
+  },
+  "UTA": {
+    "def": "",
+    "translations": {}
+  },
+  "UTE": {
+    "def": "",
+    "translations": {}
+  },
+  "UTS": {
+    "def": "",
+    "translations": {}
+  },
+  "VAC": {
+    "def": "",
+    "translations": {}
+  },
+  "VALUE": {
+    "def": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+    "translations": {
+      "es": "VALOR"
+    }
+  },
+  "VAN": {
+    "def": "",
+    "translations": {}
+  },
+  "VAR": {
+    "def": "",
+    "translations": {}
+  },
+  "VARIOUS": {
+    "def": "",
+    "translations": {}
+  },
+  "VAS": {
+    "def": "",
+    "translations": {}
+  },
+  "VAT": {
+    "def": "",
+    "translations": {}
+  },
+  "VAU": {
+    "def": "",
+    "translations": {}
+  },
+  "VAV": {
+    "def": "",
+    "translations": {}
+  },
+  "VAW": {
+    "def": "",
+    "translations": {}
+  },
+  "VAX": {
+    "def": "",
+    "translations": {}
+  },
+  "VEE": {
+    "def": "",
+    "translations": {}
+  },
+  "VEG": {
+    "def": "",
+    "translations": {}
+  },
+  "VERY": {
+    "def": "In a high degree.",
+    "translations": {
+      "es": "MUY"
+    }
+  },
+  "VET": {
+    "def": "",
+    "translations": {}
+  },
+  "VEX": {
+    "def": "",
+    "translations": {}
+  },
+  "VIA": {
+    "def": "",
+    "translations": {}
+  },
+  "VID": {
+    "def": "",
+    "translations": {}
+  },
+  "VIDEO": {
+    "def": "The recording, reproducing, or broadcasting of moving visual images.",
+    "translations": {
+      "es": "VIDEO"
+    }
+  },
+  "VIE": {
+    "def": "",
+    "translations": {}
+  },
+  "VIEW": {
+    "def": "Visual percept of a region.",
+    "translations": {
+      "es": "VISTA"
+    }
+  },
+  "VIG": {
+    "def": "",
+    "translations": {}
+  },
+  "VILLAGE": {
+    "def": "",
+    "translations": {}
+  },
+  "VIM": {
+    "def": "",
+    "translations": {}
+  },
+  "VIN": {
+    "def": "",
+    "translations": {}
+  },
+  "VIS": {
+    "def": "",
+    "translations": {}
+  },
+  "VISIT": {
+    "def": "",
+    "translations": {}
+  },
+  "VLY": {
+    "def": "",
+    "translations": {}
+  },
+  "VOE": {
+    "def": "",
+    "translations": {}
+  },
+  "VOG": {
+    "def": "",
+    "translations": {}
+  },
+  "VOL": {
+    "def": "",
+    "translations": {}
+  },
+  "VOTE": {
+    "def": "A formal indication of a choice between two or more candidates or courses of action, expressed typically through a ballot or a show of hands.",
+    "translations": {
+      "es": "VOTO"
+    }
+  },
+  "VOW": {
+    "def": "",
+    "translations": {}
+  },
+  "VOX": {
+    "def": "",
+    "translations": {}
+  },
+  "VUG": {
+    "def": "",
+    "translations": {}
+  },
+  "VUM": {
+    "def": "",
+    "translations": {}
+  },
+  "WAB": {
+    "def": "",
+    "translations": {}
+  },
+  "WAD": {
+    "def": "",
+    "translations": {}
+  },
+  "WAE": {
+    "def": "",
+    "translations": {}
+  },
+  "WAG": {
+    "def": "",
+    "translations": {}
+  },
+  "WAGE": {
+    "def": "",
+    "translations": {}
+  },
+  "WAIT": {
+    "def": "Stay where one is or delay action until a particular time or event.",
+    "translations": {
+      "es": "ESPERAR"
+    }
+  },
+  "WALK": {
+    "def": "Move at a regular pace by lifting and setting down each foot in turn, never having both feet off the ground at once.",
+    "translations": {
+      "es": "CAMINAR"
+    }
+  },
+  "WALL": {
+    "def": "A continuous vertical brick or stone structure that encloses or divides an area of land.",
+    "translations": {
+      "es": "PARED"
+    }
+  },
+  "WAN": {
+    "def": "",
+    "translations": {}
+  },
+  "WANT": {
+    "def": "Have a desire to possess or do (something); wish for.",
+    "translations": {
+      "es": "QUERER"
+    }
+  },
+  "WAP": {
+    "def": "",
+    "translations": {}
+  },
+  "WAR": {
+    "def": "A state of armed conflict between different nations or states or different groups within a nation or state.",
+    "translations": {
+      "es": "GUERRA"
+    }
+  },
+  "WARM": {
+    "def": "Of or at a fairly or comfortably high temperature.",
+    "translations": {
+      "es": "CALIENTE"
+    }
+  },
+  "WAS": {
+    "def": "",
+    "translations": {}
+  },
+  "WASH": {
+    "def": "",
+    "translations": {}
+  },
+  "WASTE": {
+    "def": "",
+    "translations": {}
+  },
+  "WAT": {
+    "def": "",
+    "translations": {}
+  },
+  "WATCH": {
+    "def": "Look at or observe attentively over a period of time.",
+    "translations": {
+      "es": "RELOJ"
+    }
+  },
+  "WATER": {
+    "def": "A colorless, transparent, odorless, tasteless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.",
+    "translations": {
+      "es": "AGUA"
+    }
+  },
+  "WAW": {
+    "def": "",
+    "translations": {}
+  },
+  "WAX": {
+    "def": "",
+    "translations": {}
+  },
+  "WAY": {
+    "def": "A method, style, or manner of doing something.",
+    "translations": {
+      "es": "CAMINO"
+    }
+  },
+  "WE": {
+    "def": "Used by a speaker to refer to himself or herself and one or more other people considered together.",
+    "translations": {
+      "es": "NOSOTROS"
+    }
+  },
+  "WEAK": {
+    "def": "",
+    "translations": {}
+  },
+  "WEAR": {
+    "def": "",
+    "translations": {}
+  },
+  "WEATHER": {
+    "def": "",
+    "translations": {}
+  },
+  "WEB": {
+    "def": "",
+    "translations": {}
+  },
+  "WED": {
+    "def": "",
+    "translations": {}
+  },
+  "WEDNESDAY": {
+    "def": "",
+    "translations": {}
+  },
+  "WEE": {
+    "def": "",
+    "translations": {}
+  },
+  "WEEK": {
+    "def": "A period of seven days.",
+    "translations": {
+      "es": "SEMANA"
+    }
+  },
+  "WEIGHT": {
+    "def": "",
+    "translations": {}
+  },
+  "WELL": {
+    "def": "In a good or satisfactory way.",
+    "translations": {
+      "es": "BIEN"
+    }
+  },
+  "WEN": {
+    "def": "",
+    "translations": {}
+  },
+  "WEST": {
+    "def": "The direction toward the point of the horizon where the sun sets at the equinoxes; the side of the earth or heaven which is at the left of a person facing north.",
+    "translations": {
+      "es": "OESTE"
+    }
+  },
+  "WET": {
+    "def": "",
+    "translations": {}
+  },
+  "WHA": {
+    "def": "",
+    "translations": {}
+  },
+  "WHAT": {
+    "def": "Asking for information specifying something.",
+    "translations": {
+      "es": "QUE"
+    }
+  },
+  "WHATEVER": {
+    "def": "",
+    "translations": {}
+  },
+  "WHEN": {
+    "def": "At or during which time.",
+    "translations": {
+      "es": "CUANDO"
+    }
+  },
+  "WHERE": {
+    "def": "In or to what place or position.",
+    "translations": {
+      "es": "DONDE"
+    }
+  },
+  "WHEREAS": {
+    "def": "",
+    "translations": {}
+  },
+  "WHETHER": {
+    "def": "",
+    "translations": {}
+  },
+  "WHICH": {
+    "def": "",
+    "translations": {}
+  },
+  "WHILE": {
+    "def": "",
+    "translations": {}
+  },
+  "WHITE": {
+    "def": "Of the color of milk or fresh snow, due to the reflection of all visible rays of light; the opposite of black.",
+    "translations": {
+      "es": "BLANCO"
+    }
+  },
+  "WHO": {
+    "def": "Asking about the identity of a person.",
+    "translations": {
+      "es": "QUIEN"
+    }
+  },
+  "WHOLE": {
+    "def": "All of; entire.",
+    "translations": {
+      "es": "TODO"
+    }
+  },
+  "WHY": {
+    "def": "For what reason or purpose.",
+    "translations": {
+      "es": "POR QUE"
+    }
+  },
+  "WIDE": {
+    "def": "Of great or more than average width.",
+    "translations": {
+      "es": "ANCHO"
+    }
+  },
+  "WIFE": {
+    "def": "A married woman considered in relation to her husband.",
+    "translations": {
+      "es": "ESPOSA"
+    }
+  },
+  "WIG": {
+    "def": "",
+    "translations": {}
+  },
+  "WILL": {
+    "def": "Expressing the future tense.",
+    "translations": {
+      "es": "VOLUNTAD"
+    }
+  },
+  "WIN": {
+    "def": "Be successful or victorious in (a contest or conflict).",
+    "translations": {
+      "es": "GANAR"
+    }
+  },
+  "WIND": {
+    "def": "The perceptible natural movement of the air, especially in the form of a current of air blowing from a particular direction.",
+    "translations": {
+      "es": "VIENTO"
+    }
+  },
+  "WINDOW": {
+    "def": "",
+    "translations": {}
+  },
+  "WIS": {
+    "def": "",
+    "translations": {}
+  },
+  "WISH": {
+    "def": "Feel or express a strong desire or hope for something that is not easily attainable; want something that cannot or probably will not happen.",
+    "translations": {
+      "es": "DESEO"
+    }
+  },
+  "WIT": {
+    "def": "",
+    "translations": {}
+  },
+  "WITH": {
+    "def": "Accompanied by (another person or thing).",
+    "translations": {
+      "es": "CON"
+    }
+  },
+  "WITHIN": {
+    "def": "",
+    "translations": {}
+  },
+  "WITHOUT": {
+    "def": "",
+    "translations": {}
+  },
+  "WIZ": {
+    "def": "",
+    "translations": {}
+  },
+  "WOE": {
+    "def": "",
+    "translations": {}
+  },
+  "WOK": {
+    "def": "",
+    "translations": {}
+  },
+  "WOMAN": {
+    "def": "An adult female human being.",
+    "translations": {
+      "es": "MUJER"
+    }
+  },
+  "WON": {
+    "def": "",
+    "translations": {}
+  },
+  "WONDER": {
+    "def": "",
+    "translations": {}
+  },
+  "WOO": {
+    "def": "",
+    "translations": {}
+  },
+  "WOOD": {
+    "def": "The hard fibrous material that forms the main substance of the trunk or branches of a tree or shrub, used for fuel or timber.",
+    "translations": {
+      "es": "MADERA"
+    }
+  },
+  "WORD": {
+    "def": "A single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed.",
+    "translations": {
+      "es": "PALABRA"
+    }
+  },
+  "WORK": {
+    "def": "Activity involving mental or physical effort done in order to achieve a purpose or result.",
+    "translations": {
+      "es": "TRABAJO"
+    }
+  },
+  "WORLD": {
+    "def": "The earth, together with all of its countries, peoples, and natural features.",
+    "translations": {
+      "es": "MUNDO"
+    }
+  },
+  "WORRY": {
+    "def": "",
+    "translations": {}
+  },
+  "WORSE": {
+    "def": "",
+    "translations": {}
+  },
+  "WORTH": {
+    "def": "",
+    "translations": {}
+  },
+  "WOS": {
+    "def": "",
+    "translations": {}
+  },
+  "WOT": {
+    "def": "",
+    "translations": {}
+  },
+  "WOULD": {
+    "def": "",
+    "translations": {}
+  },
+  "WOW": {
+    "def": "",
+    "translations": {}
+  },
+  "WRITE": {
+    "def": "Mark (letters, words, or other symbols) on a surface, typically paper, with a pen, pencil, or similar implement.",
+    "translations": {
+      "es": "ESCRIBIR"
+    }
+  },
+  "WRONG": {
+    "def": "Not correct or true.",
+    "translations": {
+      "es": "INCORRECTO"
+    }
+  },
+  "WRY": {
+    "def": "",
+    "translations": {}
+  },
+  "WUD": {
+    "def": "",
+    "translations": {}
+  },
+  "WUZ": {
+    "def": "",
+    "translations": {}
+  },
+  "WYE": {
+    "def": "",
+    "translations": {}
+  },
+  "WYN": {
+    "def": "",
+    "translations": {}
+  },
+  "XIS": {
+    "def": "",
+    "translations": {}
+  },
+  "YAD": {
+    "def": "",
+    "translations": {}
+  },
+  "YAG": {
+    "def": "",
+    "translations": {}
+  },
+  "YAH": {
+    "def": "",
+    "translations": {}
+  },
+  "YAK": {
+    "def": "",
+    "translations": {}
+  },
+  "YAM": {
+    "def": "",
+    "translations": {}
+  },
+  "YAP": {
+    "def": "",
+    "translations": {}
+  },
+  "YAR": {
+    "def": "",
+    "translations": {}
+  },
+  "YAW": {
+    "def": "",
+    "translations": {}
+  },
+  "YAY": {
+    "def": "",
+    "translations": {}
+  },
+  "YEA": {
+    "def": "",
+    "translations": {}
+  },
+  "YEAR": {
+    "def": "The time taken by a planetary body to make one revolution around its sun.",
+    "translations": {
+      "es": "ANO"
+    }
+  },
+  "YEH": {
+    "def": "",
+    "translations": {}
+  },
+  "YEN": {
+    "def": "",
+    "translations": {}
+  },
+  "YEP": {
+    "def": "",
+    "translations": {}
+  },
+  "YES": {
+    "def": "Used to give an affirmative response.",
+    "translations": {
+      "es": "SI"
+    }
+  },
+  "YESTERDAY": {
+    "def": "",
+    "translations": {}
+  },
+  "YET": {
+    "def": "Up to the present or a specified or implied time; by now or then.",
+    "translations": {
+      "es": "TODAVIA"
+    }
+  },
+  "YEW": {
+    "def": "",
+    "translations": {}
+  },
+  "YID": {
+    "def": "",
+    "translations": {}
+  },
+  "YIN": {
+    "def": "",
+    "translations": {}
+  },
+  "YIP": {
+    "def": "",
+    "translations": {}
+  },
+  "YOB": {
+    "def": "",
+    "translations": {}
+  },
+  "YOD": {
+    "def": "",
+    "translations": {}
+  },
+  "YOK": {
+    "def": "",
+    "translations": {}
+  },
+  "YOM": {
+    "def": "",
+    "translations": {}
+  },
+  "YON": {
+    "def": "",
+    "translations": {}
+  },
+  "YOU": {
+    "def": "Used to refer to the person or people that the speaker is addressing.",
+    "translations": {
+      "es": "TU"
+    }
+  },
+  "YOUNG": {
+    "def": "Having lived or existed for only a short time.",
+    "translations": {
+      "es": "JOVEN"
+    }
+  },
+  "YOUR": {
+    "def": "Belonging to or associated with the person or people that the speaker is addressing.",
+    "translations": {
+      "es": "TU"
+    }
+  },
+  "YOW": {
+    "def": "",
+    "translations": {}
+  },
+  "YUK": {
+    "def": "",
+    "translations": {}
+  },
+  "YUM": {
+    "def": "",
+    "translations": {}
+  },
+  "YUP": {
+    "def": "",
+    "translations": {}
+  },
+  "YUS": {
+    "def": "",
+    "translations": {}
+  },
+  "ZAG": {
+    "def": "",
+    "translations": {}
+  },
+  "ZAP": {
+    "def": "",
+    "translations": {}
+  },
+  "ZAS": {
+    "def": "",
+    "translations": {}
+  },
+  "ZAX": {
+    "def": "",
+    "translations": {}
+  },
+  "ZED": {
+    "def": "",
+    "translations": {}
+  },
+  "ZEE": {
+    "def": "",
+    "translations": {}
+  },
+  "ZEK": {
+    "def": "",
+    "translations": {}
+  },
+  "ZEL": {
+    "def": "",
+    "translations": {}
+  },
+  "ZEN": {
+    "def": "",
+    "translations": {}
+  },
+  "ZEP": {
+    "def": "",
+    "translations": {}
+  },
+  "ZIG": {
+    "def": "",
+    "translations": {}
+  },
+  "ZIN": {
+    "def": "",
+    "translations": {}
+  },
+  "ZIP": {
+    "def": "",
+    "translations": {}
+  },
+  "ZIT": {
+    "def": "",
+    "translations": {}
+  },
+  "ZOA": {
+    "def": "",
+    "translations": {}
+  },
+  "ZOO": {
+    "def": "",
+    "translations": {}
+  },
+  "ZOS": {
+    "def": "",
+    "translations": {}
+  },
+  "ZUZ": {
+    "def": "",
+    "translations": {}
+  }
+}

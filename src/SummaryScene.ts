@@ -7,8 +7,9 @@ export interface RoundResult {
         word: string,
         lang: string,
         score: number,
+        def?: string,
         translation?: string,
-        meaning?: string
+        transDef?: string
     }[];
     linesCleared: number;
     goalMet: boolean;
@@ -72,27 +73,49 @@ export class SummaryScene extends Phaser.Scene {
                 fontStyle: 'bold'
             }).setOrigin(0.5, 0);
             listContainer.add(wordTxt);
+            currentY += 24;
 
-            currentY += 25;
-
-            // 2. Definition Line
-            if (w.translation || w.meaning) {
-                const trans = w.translation ? `[${w.translation}]` : '';
-                const meaning = w.meaning ? (trans ? ` - ${w.meaning}` : w.meaning) : '';
-                const display = `${trans}${meaning}`;
-
-                const defTxt = this.add.text(width / 2, currentY, display, {
+            // 2. Primary Definition
+            if (w.def) {
+                const defTxt = this.add.text(width / 2, currentY, w.def, {
                     fontSize: '14px',
                     color: '#aaaaaa',
                     align: 'center',
                     wordWrap: { width: wrapWidth }
                 }).setOrigin(0.5, 0);
                 listContainer.add(defTxt);
+                currentY += defTxt.height + 4;
+            }
 
-                currentY += defTxt.height + 15;
+            // 3. Translation & Translation Definition
+            if (w.translation) {
+                const transLang = w.lang === this.result.homeLang ? this.result.learningLang.toUpperCase() : this.result.homeLang.toUpperCase();
+                const transText = `→ ${w.translation} (${transLang})`;
+                const transTxtObj = this.add.text(width / 2, currentY, transText, {
+                    fontSize: '15px',
+                    color: '#44aa44', // Subtle green for translation
+                    fontStyle: 'bold'
+                }).setOrigin(0.5, 0);
+                listContainer.add(transTxtObj);
+                currentY += 20;
+
+                if (w.transDef) {
+                    const transDefTxt = this.add.text(width / 2, currentY, w.transDef, {
+                        fontSize: '13px',
+                        color: '#888888',
+                        align: 'center',
+                        wordWrap: { width: wrapWidth }
+                    }).setOrigin(0.5, 0);
+                    listContainer.add(transDefTxt);
+                    currentY += transDefTxt.height + 15;
+                } else {
+                    currentY += 10;
+                }
             } else {
                 currentY += 15;
             }
+
+            currentY += 10; // Extra padding between items
         });
 
         // Scrolling Logic

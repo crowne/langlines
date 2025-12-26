@@ -27,7 +27,14 @@ export class GameScene extends Phaser.Scene {
     private goalText!: Phaser.GameObjects.Text;
     private currentScore = 0;
     private currentRound = 1;
-    private foundWords: { word: string, lang: string, score: number }[] = [];
+    private foundWords: {
+        word: string,
+        lang: string,
+        score: number,
+        def?: string,
+        translation?: string,
+        transDef?: string
+    }[] = [];
     private timeRemaining = 180; // 3 minutes
     private timerEvent!: Phaser.Time.TimerEvent;
 
@@ -52,14 +59,15 @@ export class GameScene extends Phaser.Scene {
         this.load.json('i18n', `data/i18n/${this.homeLang}.json`);
     }
 
-    create() {
+    async create() {
         // Load Dictionaries for both languages
-        Promise.all([
-            this.wordLogic.loadDictionary(`data/${this.homeLang}.json`, this.homeLang),
-            this.wordLogic.loadDictionary(`data/${this.learningLang}.json`, this.learningLang),
-            this.wordLogic.loadDefinitions('data/definitions.json')
-        ]).then(() => console.log('Dictionaries and definitions loaded'))
-            .catch(e => console.error('Error loading data:', e));
+        try {
+            await this.wordLogic.loadDictionary(`data/lang_${this.homeLang}.json`, this.homeLang);
+            await this.wordLogic.loadDictionary(`data/lang_${this.learningLang}.json`, this.learningLang);
+            console.log('Structured dictionaries loaded');
+        } catch (e) {
+            console.error('Error loading data:', e);
+        }
 
         const { width, height } = this.scale;
 
@@ -252,21 +260,23 @@ export class GameScene extends Phaser.Scene {
         const linesCleared = this.grid.getLinesCleared();
         const goalMet = linesCleared >= this.currentRound;
 
-        // Enrich found words with definitions
-        const enrichedWords = this.foundWords.map(w => {
-            const def = this.wordLogic.getDefinition(w.word);
-            return {
-                ...w,
-                translation: def?.translation,
-                meaning: def?.meaning
-            };
+        // foundWords is already enriched during handleWordSelection, 
+        // but we can ensure transDef is filled here if not already.
+        const finalizedWords = this.foundWords.map(w => {
+            if (w.translation && !w.transDef) {
+                // Determine translation language
+                const transLang = w.lang === this.homeLang ? this.learningLang : this.homeLang;
+                const transEntry = this.wordLogic.getEntry(w.translation, transLang);
+                return { ...w, transDef: transEntry?.def || '' };
+            }
+            return w;
         });
 
         this.time.delayedCall(1500, () => {
             this.scene.start('SummaryScene', {
                 round: this.currentRound,
                 score: this.currentScore,
-                foundWords: enrichedWords,
+                foundWords: finalizedWords,
                 linesCleared: linesCleared,
                 goalMet: goalMet,
                 homeLang: this.homeLang,
@@ -281,8 +291,8 @@ export class GameScene extends Phaser.Scene {
         console.log('Reloading dictionaries...');
         this.wordLogic.clear();
         Promise.all([
-            this.wordLogic.loadDictionary(`data/${this.homeLang}.json`, this.homeLang),
-            this.wordLogic.loadDictionary(`data/${this.learningLang}.json`, this.learningLang)
+            this.wordLogic.loadDictionary(`data/lang_${this.homeLang}.json`, this.homeLang),
+            this.wordLogic.loadDictionary(`data/lang_${this.learningLang}.json`, this.learningLang)
         ]).then(() => {
             console.log('Dictionaries reloaded');
             // Flash a small feedback
@@ -293,9 +303,9 @@ export class GameScene extends Phaser.Scene {
     private updateTopPanel(word: string, multipliers: number[] = []) {
         if (word.length >= 3) {
             // Prioritize learning language match for preview
-            const matchLang = this.wordLogic.checkWord(word, this.learningLang);
-            if (matchLang) {
-                const langMultiplier = (matchLang === this.learningLang) ? 3 : 1;
+            const match = this.wordLogic.checkWord(word, this.learningLang);
+            if (match) {
+                const langMultiplier = (match.lang === this.learningLang) ? 3 : 1;
                 const baseScore = word.length * langMultiplier;
 
                 let totalScore = baseScore;
@@ -305,7 +315,7 @@ export class GameScene extends Phaser.Scene {
                     multString += ` *${m}`;
                 });
 
-                const langCode = matchLang.toUpperCase();
+                const langCode = match.lang.toUpperCase();
                 const scoreDisplay = multipliers.length > 0 ? `+${baseScore}${multString} = ${totalScore}` : `+${baseScore}`;
 
                 this.topText.setText(`${word} (${langCode}) ${scoreDisplay}`);
@@ -322,18 +332,30 @@ export class GameScene extends Phaser.Scene {
 
     private handleWordSelection(word: string, multipliers: number[] = []) {
         // Prioritize learning language match
-        const matchLang = this.wordLogic.checkWord(word, this.learningLang);
-        console.log(`Selected word: ${word}, Match: ${matchLang}, Multipliers: ${multipliers.join(',')}`);
+        const match = this.wordLogic.checkWord(word, this.learningLang);
+        console.log(`Selected word: ${word}, Match: ${match?.lang}, Multipliers: ${multipliers.join(',')}`);
 
-        if (matchLang) {
+        if (match) {
             // Scoring: 1 point per letter for home, 3 for learning
-            const langMultiplier = (matchLang === this.learningLang) ? 3 : 1;
+            const langMultiplier = (match.lang === this.learningLang) ? 3 : 1;
             const baseScore = word.length * langMultiplier;
             let totalScore = baseScore;
             multipliers.forEach(m => totalScore *= m);
 
             this.currentScore += totalScore;
-            this.foundWords.push({ word: word, lang: matchLang, score: totalScore });
+
+            // Enrich found word with immediate definition and translation info
+            const transLang = match.lang === this.homeLang ? this.learningLang : this.homeLang;
+            const translation = match.entry.translations[transLang];
+
+            this.foundWords.push({
+                word: match.word,
+                lang: match.lang,
+                score: totalScore,
+                def: match.entry.def,
+                translation: translation
+            });
+
             this.updateScoreDisplay();
 
             // Flash feedback and apply gravity
