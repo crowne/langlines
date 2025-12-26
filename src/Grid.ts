@@ -7,7 +7,7 @@ export class Grid {
     private tileSize: number;
     private tiles: (Phaser.GameObjects.Container | null)[][];
     private letters: string[] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Ñ'];
-    private selectedTiles: Phaser.GameObjects.Container[] = [];
+    private isSelecting: boolean = false;
     private onWordSelected: (word: string, multipliers: number[]) => void;
     private onSelectionUpdate: (word: string, multipliers: number[]) => void;
     private startX: number = 0;
@@ -38,9 +38,12 @@ export class Grid {
 
         this.assignSpecialTiles();
 
-        // Handle global input up to end selection even if off-tile
+        // Handle global selection logic
+        this.scene.input.on('pointermove', (pointer: Phaser.Input.Pointer) => this.handlePointerMove(pointer));
         this.scene.input.on('pointerup', () => this.endSelection());
     }
+
+    private selectedTiles: Phaser.GameObjects.Container[] = [];
 
     private createTile(row: number, col: number, x: number, y: number, multiplier: number = 1) {
         const char = Phaser.Utils.Array.GetRandom(this.letters);
@@ -84,11 +87,93 @@ export class Grid {
         container.setSize(this.tileSize - 4, this.tileSize - 4);
         container.setInteractive();
 
-        // Interaction
+        // Interaction - pointerover is removed in favor of handlePointerMove
         container.on('pointerdown', () => this.startSelection(container));
-        container.on('pointerover', () => this.updateSelection(container));
 
         this.tiles[row][col] = container;
+    }
+
+    private startSelection(tile: Phaser.GameObjects.Container) {
+        this.isSelecting = true;
+        this.selectedTiles = [tile];
+        this.highlightTile(tile, true);
+        this.emitSelectionUpdate();
+    }
+
+    private handlePointerMove(pointer: Phaser.Input.Pointer) {
+        if (!this.isSelecting) return;
+
+        // Map world coordinates to grid coordinates
+        const localX = pointer.x - this.startX + (this.tileSize / 2);
+        const localY = pointer.y - this.startY + (this.tileSize / 2);
+
+        const col = Math.floor(localX / this.tileSize);
+        const row = Math.floor(localY / this.tileSize);
+
+        // Bounds check
+        if (row < 0 || row >= this.rows || col < 0 || col >= this.cols) return;
+
+        const tile = this.tiles[row][col];
+        if (!tile) return;
+
+        // Distance check for "intentionality" (Distance from tile center)
+        const tileCenterX = this.startX + (col * this.tileSize);
+        const tileCenterY = this.startY + (row * this.tileSize);
+        const dist = Phaser.Math.Distance.Between(pointer.x, pointer.y, tileCenterX, tileCenterY);
+
+        // Only select if within 40% of tile center radius
+        const threshold = this.tileSize * 0.4;
+        if (dist > threshold) return;
+
+        // Check if already in selection
+        const index = this.selectedTiles.indexOf(tile);
+        if (index === -1) {
+            // New tile: Check adjacency
+            const lastTile = this.selectedTiles[this.selectedTiles.length - 1];
+            const dRow = Math.abs(row - lastTile.getData('row'));
+            const dCol = Math.abs(col - lastTile.getData('col'));
+
+            if (dRow <= 1 && dCol <= 1) {
+                this.selectedTiles.push(tile);
+                this.highlightTile(tile, true);
+                this.emitSelectionUpdate();
+            }
+        } else if (index === this.selectedTiles.length - 2) {
+            // Backtracking: remove the last tile
+            const lastTile = this.selectedTiles.pop()!;
+            this.highlightTile(lastTile, false);
+            this.emitSelectionUpdate();
+        }
+    }
+
+    private emitSelectionUpdate() {
+        const word = this.selectedTiles.map(t => t.getData('letter')).join('');
+        const multipliers = this.getMultipliers();
+        this.onSelectionUpdate(word, multipliers);
+    }
+
+    private getMultipliers(): number[] {
+        const multipliers: number[] = [];
+        this.selectedTiles.forEach(t => {
+            const m = t.getData('multiplier') || 1;
+            if (m > 1) {
+                multipliers.push(m);
+            }
+        });
+        return multipliers;
+    }
+
+    private endSelection() {
+        if (this.isSelecting) {
+            this.isSelecting = false;
+            const word = this.selectedTiles.map(t => t.getData('letter')).join('');
+            const multipliers = this.getMultipliers();
+            this.onWordSelected(word, multipliers);
+
+            this.selectedTiles.forEach(t => this.highlightTile(t, false));
+            this.selectedTiles = [];
+            this.onSelectionUpdate('', []);
+        }
     }
 
     public handleMatch() {
@@ -345,61 +430,6 @@ export class Grid {
                 ease: 'Power2'
             });
         });
-    }
-
-    private startSelection(tile: Phaser.GameObjects.Container) {
-        this.selectedTiles = [tile];
-        this.highlightTile(tile, true);
-        this.emitSelectionUpdate();
-    }
-
-    private updateSelection(tile: Phaser.GameObjects.Container) {
-        if (this.selectedTiles.length > 0 && !this.selectedTiles.includes(tile)) {
-            const lastTile = this.selectedTiles[this.selectedTiles.length - 1];
-            // Simple adjacency check: row/col delta <= 1
-            const dRow = Math.abs(tile.getData('row') - lastTile.getData('row'));
-            const dCol = Math.abs(tile.getData('col') - lastTile.getData('col'));
-
-            if (dRow <= 1 && dCol <= 1) {
-                this.selectedTiles.push(tile);
-                this.highlightTile(tile, true);
-                this.emitSelectionUpdate();
-            }
-        }
-    }
-
-    private emitSelectionUpdate() {
-        const word = this.selectedTiles.map(t => t.getData('letter')).join('');
-        const multipliers = this.getMultipliers();
-        this.onSelectionUpdate(word, multipliers);
-    }
-
-    private getMultipliers(): number[] {
-        const multipliers: number[] = [];
-        this.selectedTiles.forEach(t => {
-            const m = t.getData('multiplier') || 1;
-            if (m > 1) {
-                multipliers.push(m);
-            }
-        });
-        return multipliers;
-    }
-
-    private endSelection() {
-        if (this.selectedTiles.length > 0) {
-            const word = this.selectedTiles.map(t => t.getData('letter')).join('');
-            const multipliers = this.getMultipliers();
-            this.onWordSelected(word, multipliers);
-
-            // Reset visual IF match handling doesn't take over
-            // In GameScene, handleWordSelection will call handleMatch if valid.
-            // We should only reset here if NOT match, but for now reset and let handleMatch destroy.
-            this.selectedTiles.forEach(t => this.highlightTile(t, false));
-            this.selectedTiles = [];
-
-            // Clear current selection text
-            this.onSelectionUpdate('', []);
-        }
     }
 
     private highlightTile(tile: Phaser.GameObjects.Container, isSelected: boolean) {
