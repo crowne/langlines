@@ -3315,7 +3315,10 @@
   },
   "AHI": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "HERE",
+      "es": "AHÍ"
+    }
   },
   "POCO": {
     "def": "",
@@ -3573,7 +3576,9 @@
   },
   "HABER": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "HAVE"
+    }
   },
   "TENER": {
     "def": "",
@@ -4070,5 +4075,9861 @@
     "translations": {
       "en": "I go"
     }
+  },
+  "UNA": {
+    "def": "",
+    "translations": {}
+  },
+  "MÁS": {
+    "def": "",
+    "translations": {}
+  },
+  "SUS": {
+    "def": "",
+    "translations": {}
+  },
+  "SER": {
+    "def": "",
+    "translations": {}
+  },
+  "SON": {
+    "def": "",
+    "translations": {}
+  },
+  "ERA": {
+    "def": "",
+    "translations": {}
+  },
+  "MUY": {
+    "def": "",
+    "translations": {}
+  },
+  "QUÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "ASÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "NOS": {
+    "def": "",
+    "translations": {}
+  },
+  "ESA": {
+    "def": "",
+    "translations": {}
+  },
+  "TAN": {
+    "def": "",
+    "translations": {}
+  },
+  "DÍA": {
+    "def": "",
+    "translations": {}
+  },
+  "TAL": {
+    "def": "",
+    "translations": {}
+  },
+  "SEA": {
+    "def": "",
+    "translations": {}
+  },
+  "AÚN": {
+    "def": "",
+    "translations": {}
+  },
+  "SAN": {
+    "def": "",
+    "translations": {}
+  },
+  "MIS": {
+    "def": "",
+    "translations": {}
+  },
+  "VOZ": {
+    "def": "",
+    "translations": {}
+  },
+  "MIL": {
+    "def": "",
+    "translations": {}
+  },
+  "IBA": {
+    "def": "",
+    "translations": {}
+  },
+  "VAN": {
+    "def": "",
+    "translations": {
+      "en": "I go"
+    }
+  },
+  "PAZ": {
+    "def": "",
+    "translations": {}
+  },
+  "ETC": {
+    "def": "",
+    "translations": {}
+  },
+  "USO": {
+    "def": "",
+    "translations": {}
+  },
+  "SOY": {
+    "def": "",
+    "translations": {
+      "en": "I am"
+    }
+  },
+  "SUR": {
+    "def": "",
+    "translations": {}
+  },
+  "RÍO": {
+    "def": "",
+    "translations": {}
+  },
+  "VÍA": {
+    "def": "",
+    "translations": {}
+  },
+  "VIO": {
+    "def": "",
+    "translations": {}
+  },
+  "IDO": {
+    "def": "",
+    "translations": {}
+  },
+  "RED": {
+    "def": "",
+    "translations": {}
+  },
+  "TUS": {
+    "def": "",
+    "translations": {}
+  },
+  "EFE": {
+    "def": "",
+    "translations": {}
+  },
+  "THE": {
+    "def": "",
+    "translations": {}
+  },
+  "TÍO": {
+    "def": "",
+    "translations": {}
+  },
+  "VEN": {
+    "def": "",
+    "translations": {}
+  },
+  "FIG": {
+    "def": "",
+    "translations": {}
+  },
+  "VEO": {
+    "def": "",
+    "translations": {}
+  },
+  "VAS": {
+    "def": "",
+    "translations": {}
+  },
+  "MÍO": {
+    "def": "",
+    "translations": {}
+  },
+  "III": {
+    "def": "",
+    "translations": {}
+  },
+  "TÍA": {
+    "def": "",
+    "translations": {}
+  },
+  "XIX": {
+    "def": "",
+    "translations": {}
+  },
+  "MÍA": {
+    "def": "",
+    "translations": {}
+  },
+  "OÍR": {
+    "def": "",
+    "translations": {}
+  },
+  "VOS": {
+    "def": "",
+    "translations": {}
+  },
+  "USA": {
+    "def": "",
+    "translations": {}
+  },
+  "OYE": {
+    "def": "",
+    "translations": {}
+  },
+  "ÉSE": {
+    "def": "",
+    "translations": {}
+  },
+  "CAE": {
+    "def": "",
+    "translations": {}
+  },
+  "VES": {
+    "def": "",
+    "translations": {}
+  },
+  "CIU": {
+    "def": "",
+    "translations": {}
+  },
+  "ART": {
+    "def": "",
+    "translations": {}
+  },
+  "PRI": {
+    "def": "",
+    "translations": {}
+  },
+  "ÉSA": {
+    "def": "",
+    "translations": {}
+  },
+  "ONU": {
+    "def": "",
+    "translations": {}
+  },
+  "ACÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "PNV": {
+    "def": "",
+    "translations": {}
+  },
+  "TEL": {
+    "def": "",
+    "translations": {}
+  },
+  "MAX": {
+    "def": "",
+    "translations": {}
+  },
+  "UGT": {
+    "def": "",
+    "translations": {}
+  },
+  "AND": {
+    "def": "",
+    "translations": {}
+  },
+  "AJO": {
+    "def": "",
+    "translations": {}
+  },
+  "XVI": {
+    "def": "",
+    "translations": {}
+  },
+  "TVE": {
+    "def": "",
+    "translations": {}
+  },
+  "NEW": {
+    "def": "",
+    "translations": {}
+  },
+  "ABC": {
+    "def": "",
+    "translations": {}
+  },
+  "COM": {
+    "def": "",
+    "translations": {}
+  },
+  "UNE": {
+    "def": "",
+    "translations": {}
+  },
+  "VIH": {
+    "def": "",
+    "translations": {}
+  },
+  "AFP": {
+    "def": "",
+    "translations": {}
+  },
+  "DOY": {
+    "def": "",
+    "translations": {}
+  },
+  "VEA": {
+    "def": "",
+    "translations": {}
+  },
+  "OYÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "PÁG": {
+    "def": "",
+    "translations": {}
+  },
+  "UCD": {
+    "def": "",
+    "translations": {}
+  },
+  "IRÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "RÍE": {
+    "def": "",
+    "translations": {}
+  },
+  "WEB": {
+    "def": "",
+    "translations": {}
+  },
+  "ROL": {
+    "def": "",
+    "translations": {}
+  },
+  "IRA": {
+    "def": "",
+    "translations": {}
+  },
+  "PRO": {
+    "def": "",
+    "translations": {}
+  },
+  "MIN": {
+    "def": "",
+    "translations": {}
+  },
+  "DAS": {
+    "def": "",
+    "translations": {}
+  },
+  "PRD": {
+    "def": "",
+    "translations": {}
+  },
+  "PIB": {
+    "def": "",
+    "translations": {}
+  },
+  "FAX": {
+    "def": "",
+    "translations": {}
+  },
+  "CEE": {
+    "def": "",
+    "translations": {}
+  },
+  "VII": {
+    "def": "",
+    "translations": {}
+  },
+  "OLA": {
+    "def": "",
+    "translations": {}
+  },
+  "VON": {
+    "def": "",
+    "translations": {}
+  },
+  "WWW": {
+    "def": "",
+    "translations": {}
+  },
+  "OÍA": {
+    "def": "",
+    "translations": {}
+  },
+  "XXI": {
+    "def": "",
+    "translations": {}
+  },
+  "SED": {
+    "def": "",
+    "translations": {}
+  },
+  "CHE": {
+    "def": "",
+    "translations": {}
+  },
+  "PER": {
+    "def": "",
+    "translations": {}
+  },
+  "FMI": {
+    "def": "",
+    "translations": {}
+  },
+  "PSC": {
+    "def": "",
+    "translations": {}
+  },
+  "XII": {
+    "def": "",
+    "translations": {}
+  },
+  "CIA": {
+    "def": "",
+    "translations": {}
+  },
+  "IDA": {
+    "def": "",
+    "translations": {}
+  },
+  "SOR": {
+    "def": "",
+    "translations": {}
+  },
+  "PCE": {
+    "def": "",
+    "translations": {}
+  },
+  "POP": {
+    "def": "",
+    "translations": {}
+  },
+  "PÍO": {
+    "def": "",
+    "translations": {}
+  },
+  "PEZ": {
+    "def": "",
+    "translations": {}
+  },
+  "ING": {
+    "def": "",
+    "translations": {}
+  },
+  "TOM": {
+    "def": "",
+    "translations": {}
+  },
+  "SUB": {
+    "def": "",
+    "translations": {}
+  },
+  "UVA": {
+    "def": "",
+    "translations": {}
+  },
+  "PRE": {
+    "def": "",
+    "translations": {}
+  },
+  "FOX": {
+    "def": "",
+    "translations": {}
+  },
+  "SET": {
+    "def": "",
+    "translations": {}
+  },
+  "BOE": {
+    "def": "",
+    "translations": {}
+  },
+  "XIV": {
+    "def": "",
+    "translations": {}
+  },
+  "MIR": {
+    "def": "",
+    "translations": {}
+  },
+  "RON": {
+    "def": "",
+    "translations": {}
+  },
+  "OSO": {
+    "def": "",
+    "translations": {}
+  },
+  "BEN": {
+    "def": "",
+    "translations": {}
+  },
+  "CDS": {
+    "def": "",
+    "translations": {}
+  },
+  "SOS": {
+    "def": "",
+    "translations": {}
+  },
+  "LÍO": {
+    "def": "",
+    "translations": {}
+  },
+  "LEÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "OFF": {
+    "def": "",
+    "translations": {}
+  },
+  "DER": {
+    "def": "",
+    "translations": {}
+  },
+  "RÚA": {
+    "def": "",
+    "translations": {}
+  },
+  "JOE": {
+    "def": "",
+    "translations": {}
+  },
+  "TOS": {
+    "def": "",
+    "translations": {}
+  },
+  "OMS": {
+    "def": "",
+    "translations": {}
+  },
+  "FOR": {
+    "def": "",
+    "translations": {}
+  },
+  "RIÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "NON": {
+    "def": "",
+    "translations": {}
+  },
+  "ZOE": {
+    "def": "",
+    "translations": {}
+  },
+  "POS": {
+    "def": "",
+    "translations": {}
+  },
+  "KID": {
+    "def": "",
+    "translations": {}
+  },
+  "OEA": {
+    "def": "",
+    "translations": {}
+  },
+  "TEN": {
+    "def": "",
+    "translations": {}
+  },
+  "BOB": {
+    "def": "",
+    "translations": {}
+  },
+  "FEA": {
+    "def": "",
+    "translations": {}
+  },
+  "IRÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "AIR": {
+    "def": "",
+    "translations": {}
+  },
+  "PON": {
+    "def": "",
+    "translations": {}
+  },
+  "DÚO": {
+    "def": "",
+    "translations": {}
+  },
+  "ERC": {
+    "def": "",
+    "translations": {}
+  },
+  "USÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "FBI": {
+    "def": "",
+    "translations": {}
+  },
+  "EPR": {
+    "def": "",
+    "translations": {}
+  },
+  "PÍA": {
+    "def": "",
+    "translations": {}
+  },
+  "BBV": {
+    "def": "",
+    "translations": {}
+  },
+  "ORA": {
+    "def": "",
+    "translations": {}
+  },
+  "SIR": {
+    "def": "",
+    "translations": {}
+  },
+  "LIC": {
+    "def": "",
+    "translations": {}
+  },
+  "GRS": {
+    "def": "",
+    "translations": {}
+  },
+  "NOU": {
+    "def": "",
+    "translations": {}
+  },
+  "JIM": {
+    "def": "",
+    "translations": {}
+  },
+  "IPC": {
+    "def": "",
+    "translations": {}
+  },
+  "SIC": {
+    "def": "",
+    "translations": {}
+  },
+  "MAN": {
+    "def": "",
+    "translations": {}
+  },
+  "HOZ": {
+    "def": "",
+    "translations": {}
+  },
+  "KIM": {
+    "def": "",
+    "translations": {}
+  },
+  "IBM": {
+    "def": "",
+    "translations": {}
+  },
+  "SAO": {
+    "def": "",
+    "translations": {}
+  },
+  "ROM": {
+    "def": "",
+    "translations": {}
+  },
+  "RFA": {
+    "def": "",
+    "translations": {}
+  },
+  "ONG": {
+    "def": "",
+    "translations": {}
+  },
+  "EMI": {
+    "def": "",
+    "translations": {}
+  },
+  "MNR": {
+    "def": "",
+    "translations": {}
+  },
+  "DNA": {
+    "def": "",
+    "translations": {}
+  },
+  "SAM": {
+    "def": "",
+    "translations": {}
+  },
+  "ELS": {
+    "def": "",
+    "translations": {}
+  },
+  "RES": {
+    "def": "",
+    "translations": {}
+  },
+  "NBA": {
+    "def": "",
+    "translations": {}
+  },
+  "YOU": {
+    "def": "",
+    "translations": {}
+  },
+  "DEI": {
+    "def": "",
+    "translations": {}
+  },
+  "PET": {
+    "def": "",
+    "translations": {}
+  },
+  "BID": {
+    "def": "",
+    "translations": {}
+  },
+  "MAO": {
+    "def": "",
+    "translations": {}
+  },
+  "PPD": {
+    "def": "",
+    "translations": {}
+  },
+  "INI": {
+    "def": "",
+    "translations": {}
+  },
+  "MAC": {
+    "def": "",
+    "translations": {}
+  },
+  "BBC": {
+    "def": "",
+    "translations": {}
+  },
+  "PSE": {
+    "def": "",
+    "translations": {}
+  },
+  "PGR": {
+    "def": "",
+    "translations": {}
+  },
+  "OLP": {
+    "def": "",
+    "translations": {}
+  },
+  "ALÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "BIG": {
+    "def": "",
+    "translations": {}
+  },
+  "REO": {
+    "def": "",
+    "translations": {}
+  },
+  "EGO": {
+    "def": "",
+    "translations": {}
+  },
+  "CGT": {
+    "def": "",
+    "translations": {}
+  },
+  "INC": {
+    "def": "",
+    "translations": {}
+  },
+  "RAS": {
+    "def": "",
+    "translations": {}
+  },
+  "DOM": {
+    "def": "",
+    "translations": {}
+  },
+  "RAY": {
+    "def": "",
+    "translations": {}
+  },
+  "TLC": {
+    "def": "",
+    "translations": {}
+  },
+  "VIE": {
+    "def": "",
+    "translations": {}
+  },
+  "UCR": {
+    "def": "",
+    "translations": {}
+  },
+  "RÍA": {
+    "def": "",
+    "translations": {}
+  },
+  "USE": {
+    "def": "",
+    "translations": {}
+  },
+  "ZOO": {
+    "def": "",
+    "translations": {}
+  },
+  "PLA": {
+    "def": "",
+    "translations": {}
+  },
+  "DRA": {
+    "def": "",
+    "translations": {}
+  },
+  "MRS": {
+    "def": "",
+    "translations": {}
+  },
+  "RNE": {
+    "def": "",
+    "translations": {}
+  },
+  "ABU": {
+    "def": "",
+    "translations": {}
+  },
+  "UDI": {
+    "def": "",
+    "translations": {}
+  },
+  "PAU": {
+    "def": "",
+    "translations": {}
+  },
+  "CDC": {
+    "def": "",
+    "translations": {}
+  },
+  "TOP": {
+    "def": "",
+    "translations": {}
+  },
+  "NÚM": {
+    "def": "",
+    "translations": {}
+  },
+  "ELN": {
+    "def": "",
+    "translations": {}
+  },
+  "ROY": {
+    "def": "",
+    "translations": {}
+  },
+  "JON": {
+    "def": "",
+    "translations": {}
+  },
+  "CMS": {
+    "def": "",
+    "translations": {}
+  },
+  "DIÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "ATP": {
+    "def": "",
+    "translations": {}
+  },
+  "SRA": {
+    "def": "",
+    "translations": {}
+  },
+  "BMW": {
+    "def": "",
+    "translations": {}
+  },
+  "FUÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "NET": {
+    "def": "",
+    "translations": {}
+  },
+  "OUT": {
+    "def": "",
+    "translations": {}
+  },
+  "ESP": {
+    "def": "",
+    "translations": {}
+  },
+  "VID": {
+    "def": "",
+    "translations": {}
+  },
+  "SÁB": {
+    "def": "",
+    "translations": {}
+  },
+  "CAÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "AJÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "ARN": {
+    "def": "",
+    "translations": {}
+  },
+  "COI": {
+    "def": "",
+    "translations": {}
+  },
+  "CES": {
+    "def": "",
+    "translations": {}
+  },
+  "MAY": {
+    "def": "",
+    "translations": {}
+  },
+  "ONE": {
+    "def": "",
+    "translations": {}
+  },
+  "EST": {
+    "def": "",
+    "translations": {}
+  },
+  "PSV": {
+    "def": "",
+    "translations": {}
+  },
+  "BAH": {
+    "def": "",
+    "translations": {}
+  },
+  "TIM": {
+    "def": "",
+    "translations": {}
+  },
+  "VIL": {
+    "def": "",
+    "translations": {}
+  },
+  "BCH": {
+    "def": "",
+    "translations": {}
+  },
+  "OMC": {
+    "def": "",
+    "translations": {}
+  },
+  "HIT": {
+    "def": "",
+    "translations": {}
+  },
+  "KIO": {
+    "def": "",
+    "translations": {}
+  },
+  "OPA": {
+    "def": "",
+    "translations": {}
+  },
+  "PNC": {
+    "def": "",
+    "translations": {}
+  },
+  "PAT": {
+    "def": "",
+    "translations": {}
+  },
+  "ALL": {
+    "def": "",
+    "translations": {}
+  },
+  "DIR": {
+    "def": "",
+    "translations": {}
+  },
+  "DOW": {
+    "def": "",
+    "translations": {}
+  },
+  "HIV": {
+    "def": "",
+    "translations": {}
+  },
+  "ROS": {
+    "def": "",
+    "translations": {}
+  },
+  "ZAR": {
+    "def": "",
+    "translations": {}
+  },
+  "PTS": {
+    "def": "",
+    "translations": {}
+  },
+  "RUE": {
+    "def": "",
+    "translations": {}
+  },
+  "UÑA": {
+    "def": "",
+    "translations": {}
+  },
+  "SUN": {
+    "def": "",
+    "translations": {}
+  },
+  "CNN": {
+    "def": "",
+    "translations": {}
+  },
+  "INE": {
+    "def": "",
+    "translations": {}
+  },
+  "TAC": {
+    "def": "",
+    "translations": {}
+  },
+  "EGB": {
+    "def": "",
+    "translations": {}
+  },
+  "DVD": {
+    "def": "",
+    "translations": {}
+  },
+  "ROA": {
+    "def": "",
+    "translations": {}
+  },
+  "OCA": {
+    "def": "",
+    "translations": {}
+  },
+  "CNT": {
+    "def": "",
+    "translations": {}
+  },
+  "ISO": {
+    "def": "",
+    "translations": {}
+  },
+  "IAN": {
+    "def": "",
+    "translations": {}
+  },
+  "DPA": {
+    "def": "",
+    "translations": {}
+  },
+  "BNG": {
+    "def": "",
+    "translations": {}
+  },
+  "CAM": {
+    "def": "",
+    "translations": {}
+  },
+  "RIO": {
+    "def": "",
+    "translations": {}
+  },
+  "DEA": {
+    "def": "",
+    "translations": {}
+  },
+  "TIC": {
+    "def": "",
+    "translations": {}
+  },
+  "POL": {
+    "def": "",
+    "translations": {}
+  },
+  "HOC": {
+    "def": "",
+    "translations": {}
+  },
+  "ACB": {
+    "def": "",
+    "translations": {}
+  },
+  "HAB": {
+    "def": "",
+    "translations": {}
+  },
+  "BIS": {
+    "def": "",
+    "translations": {}
+  },
+  "EPA": {
+    "def": "",
+    "translations": {}
+  },
+  "CBS": {
+    "def": "",
+    "translations": {}
+  },
+  "PTJ": {
+    "def": "",
+    "translations": {}
+  },
+  "PEN": {
+    "def": "",
+    "translations": {}
+  },
+  "KAS": {
+    "def": "",
+    "translations": {}
+  },
+  "ATÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "ADA": {
+    "def": "",
+    "translations": {}
+  },
+  "UPI": {
+    "def": "",
+    "translations": {}
+  },
+  "PAS": {
+    "def": "",
+    "translations": {}
+  },
+  "QUO": {
+    "def": "",
+    "translations": {}
+  },
+  "CHI": {
+    "def": "",
+    "translations": {}
+  },
+  "PDC": {
+    "def": "",
+    "translations": {}
+  },
+  "TEZ": {
+    "def": "",
+    "translations": {}
+  },
+  "PUB": {
+    "def": "",
+    "translations": {}
+  },
+  "RDA": {
+    "def": "",
+    "translations": {}
+  },
+  "SUI": {
+    "def": "",
+    "translations": {}
+  },
+  "BLA": {
+    "def": "",
+    "translations": {}
+  },
+  "IAC": {
+    "def": "",
+    "translations": {}
+  },
+  "ROO": {
+    "def": "",
+    "translations": {}
+  },
+  "BOX": {
+    "def": "",
+    "translations": {}
+  },
+  "PSA": {
+    "def": "",
+    "translations": {}
+  },
+  "TEO": {
+    "def": "",
+    "translations": {}
+  },
+  "FIS": {
+    "def": "",
+    "translations": {}
+  },
+  "WAY": {
+    "def": "",
+    "translations": {}
+  },
+  "ORG": {
+    "def": "",
+    "translations": {}
+  },
+  "KUS": {
+    "def": "",
+    "translations": {}
+  },
+  "ZEN": {
+    "def": "",
+    "translations": {}
+  },
+  "FDA": {
+    "def": "",
+    "translations": {}
+  },
+  "KÚS": {
+    "def": "",
+    "translations": {}
+  },
+  "FRA": {
+    "def": "",
+    "translations": {}
+  },
+  "TSE": {
+    "def": "",
+    "translations": {}
+  },
+  "CEN": {
+    "def": "",
+    "translations": {}
+  },
+  "MOR": {
+    "def": "",
+    "translations": {}
+  },
+  "MEC": {
+    "def": "",
+    "translations": {}
+  },
+  "PAC": {
+    "def": "",
+    "translations": {}
+  },
+  "VOL": {
+    "def": "",
+    "translations": {}
+  },
+  "FAO": {
+    "def": "",
+    "translations": {}
+  },
+  "CHA": {
+    "def": "",
+    "translations": {}
+  },
+  "IBN": {
+    "def": "",
+    "translations": {}
+  },
+  "PDP": {
+    "def": "",
+    "translations": {}
+  },
+  "NOÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "VAL": {
+    "def": "",
+    "translations": {}
+  },
+  "MHZ": {
+    "def": "",
+    "translations": {}
+  },
+  "KEN": {
+    "def": "",
+    "translations": {}
+  },
+  "GUY": {
+    "def": "",
+    "translations": {}
+  },
+  "BCE": {
+    "def": "",
+    "translations": {}
+  },
+  "NBC": {
+    "def": "",
+    "translations": {}
+  },
+  "ANN": {
+    "def": "",
+    "translations": {}
+  },
+  "MON": {
+    "def": "",
+    "translations": {}
+  },
+  "RAM": {
+    "def": "",
+    "translations": {}
+  },
+  "PCR": {
+    "def": "",
+    "translations": {}
+  },
+  "RAI": {
+    "def": "",
+    "translations": {}
+  },
+  "AZT": {
+    "def": "",
+    "translations": {}
+  },
+  "AMÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "BIN": {
+    "def": "",
+    "translations": {}
+  },
+  "IPI": {
+    "def": "",
+    "translations": {}
+  },
+  "RNA": {
+    "def": "",
+    "translations": {}
+  },
+  "GEL": {
+    "def": "",
+    "translations": {}
+  },
+  "ELA": {
+    "def": "",
+    "translations": {}
+  },
+  "EPL": {
+    "def": "",
+    "translations": {}
+  },
+  "INS": {
+    "def": "",
+    "translations": {}
+  },
+  "ITA": {
+    "def": "",
+    "translations": {}
+  },
+  "YIN": {
+    "def": "",
+    "translations": {}
+  },
+  "AFA": {
+    "def": "",
+    "translations": {}
+  },
+  "VIA": {
+    "def": "",
+    "translations": {}
+  },
+  "BAY": {
+    "def": "",
+    "translations": {}
+  },
+  "KGB": {
+    "def": "",
+    "translations": {}
+  },
+  "PNP": {
+    "def": "",
+    "translations": {}
+  },
+  "OIL": {
+    "def": "",
+    "translations": {}
+  },
+  "PLD": {
+    "def": "",
+    "translations": {}
+  },
+  "BEA": {
+    "def": "",
+    "translations": {}
+  },
+  "EDU": {
+    "def": "",
+    "translations": {}
+  },
+  "DYN": {
+    "def": "",
+    "translations": {}
+  },
+  "SRI": {
+    "def": "",
+    "translations": {}
+  },
+  "ALÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "FAN": {
+    "def": "",
+    "translations": {}
+  },
+  "YEN": {
+    "def": "",
+    "translations": {}
+  },
+  "AMB": {
+    "def": "",
+    "translations": {}
+  },
+  "ANF": {
+    "def": "",
+    "translations": {}
+  },
+  "DGI": {
+    "def": "",
+    "translations": {}
+  },
+  "ICE": {
+    "def": "",
+    "translations": {}
+  },
+  "NEO": {
+    "def": "",
+    "translations": {}
+  },
+  "OLD": {
+    "def": "",
+    "translations": {}
+  },
+  "PBI": {
+    "def": "",
+    "translations": {}
+  },
+  "UCI": {
+    "def": "",
+    "translations": {}
+  },
+  "INT": {
+    "def": "",
+    "translations": {}
+  },
+  "SIP": {
+    "def": "",
+    "translations": {}
+  },
+  "SPD": {
+    "def": "",
+    "translations": {}
+  },
+  "DIC": {
+    "def": "",
+    "translations": {}
+  },
+  "CEM": {
+    "def": "",
+    "translations": {}
+  },
+  "TON": {
+    "def": "",
+    "translations": {}
+  },
+  "FIV": {
+    "def": "",
+    "translations": {}
+  },
+  "DAY": {
+    "def": "",
+    "translations": {}
+  },
+  "ARY": {
+    "def": "",
+    "translations": {}
+  },
+  "NOT": {
+    "def": "",
+    "translations": {}
+  },
+  "SEG": {
+    "def": "",
+    "translations": {}
+  },
+  "DSM": {
+    "def": "",
+    "translations": {}
+  },
+  "KEY": {
+    "def": "",
+    "translations": {}
+  },
+  "HUY": {
+    "def": "",
+    "translations": {}
+  },
+  "MEA": {
+    "def": "",
+    "translations": {}
+  },
+  "YPF": {
+    "def": "",
+    "translations": {}
+  },
+  "GMT": {
+    "def": "",
+    "translations": {}
+  },
+  "SIG": {
+    "def": "",
+    "translations": {}
+  },
+  "DNI": {
+    "def": "",
+    "translations": {}
+  },
+  "PNB": {
+    "def": "",
+    "translations": {}
+  },
+  "AJÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "POE": {
+    "def": "",
+    "translations": {}
+  },
+  "UPN": {
+    "def": "",
+    "translations": {}
+  },
+  "PUM": {
+    "def": "",
+    "translations": {}
+  },
+  "LAN": {
+    "def": "",
+    "translations": {}
+  },
+  "PEP": {
+    "def": "",
+    "translations": {}
+  },
+  "SEU": {
+    "def": "",
+    "translations": {}
+  },
+  "CTM": {
+    "def": "",
+    "translations": {}
+  },
+  "RAP": {
+    "def": "",
+    "translations": {}
+  },
+  "UEO": {
+    "def": "",
+    "translations": {}
+  },
+  "PVP": {
+    "def": "",
+    "translations": {}
+  },
+  "SUD": {
+    "def": "",
+    "translations": {}
+  },
+  "ABD": {
+    "def": "",
+    "translations": {}
+  },
+  "CNI": {
+    "def": "",
+    "translations": {}
+  },
+  "OLÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "COB": {
+    "def": "",
+    "translations": {}
+  },
+  "IGE": {
+    "def": "",
+    "translations": {}
+  },
+  "TDK": {
+    "def": "",
+    "translations": {}
+  },
+  "REM": {
+    "def": "",
+    "translations": {}
+  },
+  "VIÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "PUS": {
+    "def": "",
+    "translations": {}
+  },
+  "CDU": {
+    "def": "",
+    "translations": {}
+  },
+  "ALE": {
+    "def": "",
+    "translations": {}
+  },
+  "HIP": {
+    "def": "",
+    "translations": {}
+  },
+  "IFE": {
+    "def": "",
+    "translations": {}
+  },
+  "LAB": {
+    "def": "",
+    "translations": {}
+  },
+  "OIT": {
+    "def": "",
+    "translations": {}
+  },
+  "BOJ": {
+    "def": "",
+    "translations": {}
+  },
+  "OSA": {
+    "def": "",
+    "translations": {}
+  },
+  "ANP": {
+    "def": "",
+    "translations": {}
+  },
+  "END": {
+    "def": "",
+    "translations": {}
+  },
+  "KMS": {
+    "def": "",
+    "translations": {}
+  },
+  "SEX": {
+    "def": "",
+    "translations": {}
+  },
+  "CNE": {
+    "def": "",
+    "translations": {}
+  },
+  "FAR": {
+    "def": "",
+    "translations": {}
+  },
+  "SPP": {
+    "def": "",
+    "translations": {}
+  },
+  "SHA": {
+    "def": "",
+    "translations": {}
+  },
+  "HOT": {
+    "def": "",
+    "translations": {}
+  },
+  "EUA": {
+    "def": "",
+    "translations": {}
+  },
+  "COU": {
+    "def": "",
+    "translations": {}
+  },
+  "TED": {
+    "def": "",
+    "translations": {}
+  },
+  "TAM": {
+    "def": "",
+    "translations": {}
+  },
+  "BUP": {
+    "def": "",
+    "translations": {}
+  },
+  "ICO": {
+    "def": "",
+    "translations": {}
+  },
+  "PSP": {
+    "def": "",
+    "translations": {}
+  },
+  "MEL": {
+    "def": "",
+    "translations": {}
+  },
+  "UDC": {
+    "def": "",
+    "translations": {}
+  },
+  "VIC": {
+    "def": "",
+    "translations": {}
+  },
+  "ACT": {
+    "def": "",
+    "translations": {}
+  },
+  "CSD": {
+    "def": "",
+    "translations": {}
+  },
+  "PDS": {
+    "def": "",
+    "translations": {}
+  },
+  "RIN": {
+    "def": "",
+    "translations": {}
+  },
+  "UCV": {
+    "def": "",
+    "translations": {}
+  },
+  "SEP": {
+    "def": "",
+    "translations": {}
+  },
+  "TRE": {
+    "def": "",
+    "translations": {}
+  },
+  "AES": {
+    "def": "",
+    "translations": {}
+  },
+  "CTC": {
+    "def": "",
+    "translations": {}
+  },
+  "FED": {
+    "def": "",
+    "translations": {}
+  },
+  "INN": {
+    "def": "",
+    "translations": {}
+  },
+  "TWO": {
+    "def": "",
+    "translations": {}
+  },
+  "ZAS": {
+    "def": "",
+    "translations": {}
+  },
+  "ZIN": {
+    "def": "",
+    "translations": {}
+  },
+  "ICA": {
+    "def": "",
+    "translations": {}
+  },
+  "ODA": {
+    "def": "",
+    "translations": {}
+  },
+  "SNC": {
+    "def": "",
+    "translations": {}
+  },
+  "TOC": {
+    "def": "",
+    "translations": {}
+  },
+  "VIS": {
+    "def": "",
+    "translations": {}
+  },
+  "UAM": {
+    "def": "",
+    "translations": {}
+  },
+  "EMT": {
+    "def": "",
+    "translations": {}
+  },
+  "GHZ": {
+    "def": "",
+    "translations": {}
+  },
+  "JOY": {
+    "def": "",
+    "translations": {}
+  },
+  "ARQ": {
+    "def": "",
+    "translations": {}
+  },
+  "JAY": {
+    "def": "",
+    "translations": {}
+  },
+  "MAP": {
+    "def": "",
+    "translations": {}
+  },
+  "ALT": {
+    "def": "",
+    "translations": {}
+  },
+  "DOC": {
+    "def": "",
+    "translations": {}
+  },
+  "PCF": {
+    "def": "",
+    "translations": {}
+  },
+  "POT": {
+    "def": "",
+    "translations": {}
+  },
+  "SKY": {
+    "def": "",
+    "translations": {}
+  },
+  "LAM": {
+    "def": "",
+    "translations": {}
+  },
+  "LSD": {
+    "def": "",
+    "translations": {}
+  },
+  "MCI": {
+    "def": "",
+    "translations": {}
+  },
+  "CEI": {
+    "def": "",
+    "translations": {}
+  },
+  "CÍA": {
+    "def": "",
+    "translations": {}
+  },
+  "UCS": {
+    "def": "",
+    "translations": {}
+  },
+  "AFE": {
+    "def": "",
+    "translations": {}
+  },
+  "CSE": {
+    "def": "",
+    "translations": {}
+  },
+  "ECU": {
+    "def": "",
+    "translations": {}
+  },
+  "EPI": {
+    "def": "",
+    "translations": {}
+  },
+  "SEC": {
+    "def": "",
+    "translations": {}
+  },
+  "UND": {
+    "def": "",
+    "translations": {}
+  },
+  "FAD": {
+    "def": "",
+    "translations": {}
+  },
+  "PCN": {
+    "def": "",
+    "translations": {}
+  },
+  "PIN": {
+    "def": "",
+    "translations": {}
+  },
+  "PIS": {
+    "def": "",
+    "translations": {}
+  },
+  "CDE": {
+    "def": "",
+    "translations": {}
+  },
+  "MIA": {
+    "def": "",
+    "translations": {}
+  },
+  "MAÎ": {
+    "def": "",
+    "translations": {}
+  },
+  "BCV": {
+    "def": "",
+    "translations": {}
+  },
+  "FSM": {
+    "def": "",
+    "translations": {}
+  },
+  "PPM": {
+    "def": "",
+    "translations": {}
+  },
+  "PTE": {
+    "def": "",
+    "translations": {}
+  },
+  "RIF": {
+    "def": "",
+    "translations": {}
+  },
+  "MAG": {
+    "def": "",
+    "translations": {}
+  },
+  "PCI": {
+    "def": "",
+    "translations": {}
+  },
+  "ATI": {
+    "def": "",
+    "translations": {}
+  },
+  "PCA": {
+    "def": "",
+    "translations": {}
+  },
+  "BCR": {
+    "def": "",
+    "translations": {}
+  },
+  "CNA": {
+    "def": "",
+    "translations": {}
+  },
+  "MTV": {
+    "def": "",
+    "translations": {}
+  },
+  "QUA": {
+    "def": "",
+    "translations": {}
+  },
+  "CAT": {
+    "def": "",
+    "translations": {}
+  },
+  "DOG": {
+    "def": "",
+    "translations": {}
+  },
+  "ETS": {
+    "def": "",
+    "translations": {}
+  },
+  "LAU": {
+    "def": "",
+    "translations": {}
+  },
+  "RUY": {
+    "def": "",
+    "translations": {}
+  },
+  "KIT": {
+    "def": "",
+    "translations": {}
+  },
+  "FOT": {
+    "def": "",
+    "translations": {}
+  },
+  "CIG": {
+    "def": "",
+    "translations": {}
+  },
+  "TAO": {
+    "def": "",
+    "translations": {}
+  },
+  "CSJ": {
+    "def": "",
+    "translations": {}
+  },
+  "PAL": {
+    "def": "",
+    "translations": {}
+  },
+  "CUM": {
+    "def": "",
+    "translations": {}
+  },
+  "SME": {
+    "def": "",
+    "translations": {}
+  },
+  "DDF": {
+    "def": "",
+    "translations": {}
+  },
+  "UCM": {
+    "def": "",
+    "translations": {}
+  },
+  "UEM": {
+    "def": "",
+    "translations": {}
+  },
+  "AOL": {
+    "def": "",
+    "translations": {}
+  },
+  "KWH": {
+    "def": "",
+    "translations": {}
+  },
+  "AGE": {
+    "def": "",
+    "translations": {}
+  },
+  "BAN": {
+    "def": "",
+    "translations": {}
+  },
+  "IME": {
+    "def": "",
+    "translations": {}
+  },
+  "TUL": {
+    "def": "",
+    "translations": {}
+  },
+  "USD": {
+    "def": "",
+    "translations": {}
+  },
+  "PSI": {
+    "def": "",
+    "translations": {}
+  },
+  "HOP": {
+    "def": "",
+    "translations": {}
+  },
+  "LFP": {
+    "def": "",
+    "translations": {}
+  },
+  "COE": {
+    "def": "",
+    "translations": {}
+  },
+  "JOB": {
+    "def": "",
+    "translations": {}
+  },
+  "REX": {
+    "def": "",
+    "translations": {}
+  },
+  "EDH": {
+    "def": "",
+    "translations": {}
+  },
+  "MEN": {
+    "def": "",
+    "translations": {}
+  },
+  "NIN": {
+    "def": "",
+    "translations": {}
+  },
+  "TVN": {
+    "def": "",
+    "translations": {}
+  },
+  "FCC": {
+    "def": "",
+    "translations": {}
+  },
+  "SEN": {
+    "def": "",
+    "translations": {}
+  },
+  "IAM": {
+    "def": "",
+    "translations": {}
+  },
+  "IES": {
+    "def": "",
+    "translations": {}
+  },
+  "CTV": {
+    "def": "",
+    "translations": {}
+  },
+  "EIA": {
+    "def": "",
+    "translations": {}
+  },
+  "SUE": {
+    "def": "",
+    "translations": {}
+  },
+  "INF": {
+    "def": "",
+    "translations": {}
+  },
+  "BAM": {
+    "def": "",
+    "translations": {}
+  },
+  "ICC": {
+    "def": "",
+    "translations": {}
+  },
+  "KGS": {
+    "def": "",
+    "translations": {}
+  },
+  "LCR": {
+    "def": "",
+    "translations": {}
+  },
+  "MBL": {
+    "def": "",
+    "translations": {}
+  },
+  "ELE": {
+    "def": "",
+    "translations": {}
+  },
+  "PLC": {
+    "def": "",
+    "translations": {}
+  },
+  "SPA": {
+    "def": "",
+    "translations": {}
+  },
+  "SUL": {
+    "def": "",
+    "translations": {}
+  },
+  "AMY": {
+    "def": "",
+    "translations": {}
+  },
+  "CDN": {
+    "def": "",
+    "translations": {}
+  },
+  "CHÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "MIG": {
+    "def": "",
+    "translations": {}
+  },
+  "MIT": {
+    "def": "",
+    "translations": {}
+  },
+  "LAW": {
+    "def": "",
+    "translations": {}
+  },
+  "UCA": {
+    "def": "",
+    "translations": {}
+  },
+  "GLP": {
+    "def": "",
+    "translations": {}
+  },
+  "ARI": {
+    "def": "",
+    "translations": {}
+  },
+  "CUP": {
+    "def": "",
+    "translations": {}
+  },
+  "EMA": {
+    "def": "",
+    "translations": {}
+  },
+  "FDG": {
+    "def": "",
+    "translations": {}
+  },
+  "EPS": {
+    "def": "",
+    "translations": {}
+  },
+  "MUS": {
+    "def": "",
+    "translations": {}
+  },
+  "CFR": {
+    "def": "",
+    "translations": {}
+  },
+  "ITS": {
+    "def": "",
+    "translations": {}
+  },
+  "ETT": {
+    "def": "",
+    "translations": {}
+  },
+  "LIN": {
+    "def": "",
+    "translations": {}
+  },
+  "RPR": {
+    "def": "",
+    "translations": {}
+  },
+  "DDT": {
+    "def": "",
+    "translations": {}
+  },
+  "UTE": {
+    "def": "",
+    "translations": {}
+  },
+  "AMÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "GTC": {
+    "def": "",
+    "translations": {}
+  },
+  "NOV": {
+    "def": "",
+    "translations": {}
+  },
+  "PLN": {
+    "def": "",
+    "translations": {}
+  },
+  "ATS": {
+    "def": "",
+    "translations": {}
+  },
+  "ISA": {
+    "def": "",
+    "translations": {}
+  },
+  "MÚS": {
+    "def": "",
+    "translations": {}
+  },
+  "OLE": {
+    "def": "",
+    "translations": {}
+  },
+  "XXV": {
+    "def": "",
+    "translations": {}
+  },
+  "COC": {
+    "def": "",
+    "translations": {}
+  },
+  "RCA": {
+    "def": "",
+    "translations": {}
+  },
+  "MTS": {
+    "def": "",
+    "translations": {}
+  },
+  "NOW": {
+    "def": "",
+    "translations": {}
+  },
+  "ROB": {
+    "def": "",
+    "translations": {}
+  },
+  "TÉC": {
+    "def": "",
+    "translations": {}
+  },
+  "TÍT": {
+    "def": "",
+    "translations": {}
+  },
+  "IZQ": {
+    "def": "",
+    "translations": {}
+  },
+  "LIZ": {
+    "def": "",
+    "translations": {}
+  },
+  "NUN": {
+    "def": "",
+    "translations": {}
+  },
+  "OIR": {
+    "def": "",
+    "translations": {}
+  },
+  "ORI": {
+    "def": "",
+    "translations": {}
+  },
+  "VIP": {
+    "def": "",
+    "translations": {}
+  },
+  "BCP": {
+    "def": "",
+    "translations": {}
+  },
+  "LTD": {
+    "def": "",
+    "translations": {}
+  },
+  "MOP": {
+    "def": "",
+    "translations": {}
+  },
+  "TUY": {
+    "def": "",
+    "translations": {}
+  },
+  "ZEA": {
+    "def": "",
+    "translations": {}
+  },
+  "MER": {
+    "def": "",
+    "translations": {}
+  },
+  "PAM": {
+    "def": "",
+    "translations": {}
+  },
+  "UVI": {
+    "def": "",
+    "translations": {}
+  },
+  "AOD": {
+    "def": "",
+    "translations": {}
+  },
+  "BRU": {
+    "def": "",
+    "translations": {}
+  },
+  "ISS": {
+    "def": "",
+    "translations": {}
+  },
+  "REÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "VUH": {
+    "def": "",
+    "translations": {}
+  },
+  "REI": {
+    "def": "",
+    "translations": {}
+  },
+  "TIN": {
+    "def": "",
+    "translations": {}
+  },
+  "BOS": {
+    "def": "",
+    "translations": {}
+  },
+  "PIP": {
+    "def": "",
+    "translations": {}
+  },
+  "RUS": {
+    "def": "",
+    "translations": {}
+  },
+  "TEA": {
+    "def": "",
+    "translations": {}
+  },
+  "ANR": {
+    "def": "",
+    "translations": {}
+  },
+  "FÍA": {
+    "def": "",
+    "translations": {}
+  },
+  "IPS": {
+    "def": "",
+    "translations": {}
+  },
+  "MOL": {
+    "def": "",
+    "translations": {}
+  },
+  "SIM": {
+    "def": "",
+    "translations": {}
+  },
+  "WHO": {
+    "def": "",
+    "translations": {}
+  },
+  "SUP": {
+    "def": "",
+    "translations": {}
+  },
+  "MOI": {
+    "def": "",
+    "translations": {}
+  },
+  "AAA": {
+    "def": "",
+    "translations": {}
+  },
+  "FRG": {
+    "def": "",
+    "translations": {}
+  },
+  "FDP": {
+    "def": "",
+    "translations": {}
+  },
+  "FÍO": {
+    "def": "",
+    "translations": {}
+  },
+  "GAG": {
+    "def": "",
+    "translations": {}
+  },
+  "HLA": {
+    "def": "",
+    "translations": {}
+  },
+  "PCS": {
+    "def": "",
+    "translations": {}
+  },
+  "SUM": {
+    "def": "",
+    "translations": {}
+  },
+  "EEG": {
+    "def": "",
+    "translations": {}
+  },
+  "NAT": {
+    "def": "",
+    "translations": {}
+  },
+  "UIA": {
+    "def": "",
+    "translations": {}
+  },
+  "ACE": {
+    "def": "",
+    "translations": {}
+  },
+  "CFC": {
+    "def": "",
+    "translations": {}
+  },
+  "FSH": {
+    "def": "",
+    "translations": {}
+  },
+  "LAO": {
+    "def": "",
+    "translations": {}
+  },
+  "PNN": {
+    "def": "",
+    "translations": {}
+  },
+  "TUI": {
+    "def": "",
+    "translations": {}
+  },
+  "BÍO": {
+    "def": "",
+    "translations": {}
+  },
+  "HDL": {
+    "def": "",
+    "translations": {}
+  },
+  "KEL": {
+    "def": "",
+    "translations": {}
+  },
+  "NAO": {
+    "def": "",
+    "translations": {}
+  },
+  "CSI": {
+    "def": "",
+    "translations": {}
+  },
+  "JUL": {
+    "def": "",
+    "translations": {}
+  },
+  "HOW": {
+    "def": "",
+    "translations": {}
+  },
+  "HTM": {
+    "def": "",
+    "translations": {}
+  },
+  "LRU": {
+    "def": "",
+    "translations": {}
+  },
+  "RUN": {
+    "def": "",
+    "translations": {}
+  },
+  "CYT": {
+    "def": "",
+    "translations": {}
+  },
+  "EAJ": {
+    "def": "",
+    "translations": {}
+  },
+  "EDO": {
+    "def": "",
+    "translations": {}
+  },
+  "AMI": {
+    "def": "",
+    "translations": {}
+  },
+  "ECA": {
+    "def": "",
+    "translations": {}
+  },
+  "BAT": {
+    "def": "",
+    "translations": {}
+  },
+  "HAL": {
+    "def": "",
+    "translations": {}
+  },
+  "ONC": {
+    "def": "",
+    "translations": {}
+  },
+  "POU": {
+    "def": "",
+    "translations": {}
+  },
+  "PSD": {
+    "def": "",
+    "translations": {}
+  },
+  "TWA": {
+    "def": "",
+    "translations": {}
+  },
+  "AYA": {
+    "def": "",
+    "translations": {}
+  },
+  "ITT": {
+    "def": "",
+    "translations": {}
+  },
+  "PIL": {
+    "def": "",
+    "translations": {}
+  },
+  "TAT": {
+    "def": "",
+    "translations": {}
+  },
+  "USB": {
+    "def": "",
+    "translations": {}
+  },
+  "ANI": {
+    "def": "",
+    "translations": {}
+  },
+  "MEF": {
+    "def": "",
+    "translations": {}
+  },
+  "PSN": {
+    "def": "",
+    "translations": {}
+  },
+  "BUT": {
+    "def": "",
+    "translations": {}
+  },
+  "REG": {
+    "def": "",
+    "translations": {}
+  },
+  "SIT": {
+    "def": "",
+    "translations": {}
+  },
+  "ARS": {
+    "def": "",
+    "translations": {}
+  },
+  "CNC": {
+    "def": "",
+    "translations": {}
+  },
+  "GEA": {
+    "def": "",
+    "translations": {}
+  },
+  "PVC": {
+    "def": "",
+    "translations": {}
+  },
+  "REF": {
+    "def": "",
+    "translations": {}
+  },
+  "SEO": {
+    "def": "",
+    "translations": {}
+  },
+  "VOX": {
+    "def": "",
+    "translations": {}
+  },
+  "ALÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "ATC": {
+    "def": "",
+    "translations": {}
+  },
+  "CAF": {
+    "def": "",
+    "translations": {}
+  },
+  "CAO": {
+    "def": "",
+    "translations": {}
+  },
+  "FRY": {
+    "def": "",
+    "translations": {}
+  },
+  "LDL": {
+    "def": "",
+    "translations": {}
+  },
+  "PEA": {
+    "def": "",
+    "translations": {}
+  },
+  "ROD": {
+    "def": "",
+    "translations": {}
+  },
+  "TRI": {
+    "def": "",
+    "translations": {}
+  },
+  "CRA": {
+    "def": "",
+    "translations": {}
+  },
+  "PIA": {
+    "def": "",
+    "translations": {}
+  },
+  "ZOÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "DGT": {
+    "def": "",
+    "translations": {}
+  },
+  "AME": {
+    "def": "",
+    "translations": {}
+  },
+  "BSO": {
+    "def": "",
+    "translations": {}
+  },
+  "OLI": {
+    "def": "",
+    "translations": {}
+  },
+  "SAT": {
+    "def": "",
+    "translations": {}
+  },
+  "VAB": {
+    "def": "",
+    "translations": {}
+  },
+  "ATÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "CSU": {
+    "def": "",
+    "translations": {}
+  },
+  "ETB": {
+    "def": "",
+    "translations": {}
+  },
+  "MIX": {
+    "def": "",
+    "translations": {}
+  },
+  "ORT": {
+    "def": "",
+    "translations": {}
+  },
+  "SMS": {
+    "def": "",
+    "translations": {}
+  },
+  "YES": {
+    "def": "",
+    "translations": {}
+  },
+  "BOU": {
+    "def": "",
+    "translations": {}
+  },
+  "DIF": {
+    "def": "",
+    "translations": {}
+  },
+  "ICI": {
+    "def": "",
+    "translations": {}
+  },
+  "ITO": {
+    "def": "",
+    "translations": {}
+  },
+  "SAR": {
+    "def": "",
+    "translations": {}
+  },
+  "SAS": {
+    "def": "",
+    "translations": {}
+  },
+  "BTT": {
+    "def": "",
+    "translations": {}
+  },
+  "EEB": {
+    "def": "",
+    "translations": {}
+  },
+  "EVO": {
+    "def": "",
+    "translations": {}
+  },
+  "MAE": {
+    "def": "",
+    "translations": {}
+  },
+  "SSA": {
+    "def": "",
+    "translations": {}
+  },
+  "WAR": {
+    "def": "",
+    "translations": {}
+  },
+  "ADO": {
+    "def": "",
+    "translations": {}
+  },
+  "AUC": {
+    "def": "",
+    "translations": {}
+  },
+  "AVA": {
+    "def": "",
+    "translations": {}
+  },
+  "BAD": {
+    "def": "",
+    "translations": {}
+  },
+  "INA": {
+    "def": "",
+    "translations": {}
+  },
+  "MUR": {
+    "def": "",
+    "translations": {}
+  },
+  "OUA": {
+    "def": "",
+    "translations": {}
+  },
+  "WAS": {
+    "def": "",
+    "translations": {}
+  },
+  "AUT": {
+    "def": "",
+    "translations": {}
+  },
+  "OIJ": {
+    "def": "",
+    "translations": {}
+  },
+  "FAC": {
+    "def": "",
+    "translations": {}
+  },
+  "MTC": {
+    "def": "",
+    "translations": {}
+  },
+  "UPA": {
+    "def": "",
+    "translations": {}
+  },
+  "AIN": {
+    "def": "",
+    "translations": {}
+  },
+  "APA": {
+    "def": "",
+    "translations": {}
+  },
+  "AUB": {
+    "def": "",
+    "translations": {}
+  },
+  "CPU": {
+    "def": "",
+    "translations": {}
+  },
+  "PSG": {
+    "def": "",
+    "translations": {}
+  },
+  "TAU": {
+    "def": "",
+    "translations": {}
+  },
+  "TEC": {
+    "def": "",
+    "translations": {}
+  },
+  "TUE": {
+    "def": "",
+    "translations": {}
+  },
+  "CRC": {
+    "def": "",
+    "translations": {}
+  },
+  "LID": {
+    "def": "",
+    "translations": {}
+  },
+  "OPS": {
+    "def": "",
+    "translations": {}
+  },
+  "PCC": {
+    "def": "",
+    "translations": {}
+  },
+  "TER": {
+    "def": "",
+    "translations": {}
+  },
+  "USÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "ANG": {
+    "def": "",
+    "translations": {}
+  },
+  "LEJ": {
+    "def": "",
+    "translations": {}
+  },
+  "UDF": {
+    "def": "",
+    "translations": {}
+  },
+  "ABS": {
+    "def": "",
+    "translations": {}
+  },
+  "AUX": {
+    "def": "",
+    "translations": {}
+  },
+  "ERP": {
+    "def": "",
+    "translations": {}
+  },
+  "OÍS": {
+    "def": "",
+    "translations": {}
+  },
+  "SPE": {
+    "def": "",
+    "translations": {}
+  },
+  "ABR": {
+    "def": "",
+    "translations": {}
+  },
+  "FBF": {
+    "def": "",
+    "translations": {}
+  },
+  "IGS": {
+    "def": "",
+    "translations": {}
+  },
+  "NOR": {
+    "def": "",
+    "translations": {}
+  },
+  "URL": {
+    "def": "",
+    "translations": {}
+  },
+  "VHS": {
+    "def": "",
+    "translations": {}
+  },
+  "API": {
+    "def": "",
+    "translations": {}
+  },
+  "BYE": {
+    "def": "",
+    "translations": {}
+  },
+  "FIU": {
+    "def": "",
+    "translations": {}
+  },
+  "GSM": {
+    "def": "",
+    "translations": {}
+  },
+  "OCT": {
+    "def": "",
+    "translations": {}
+  },
+  "PIC": {
+    "def": "",
+    "translations": {}
+  },
+  "CFE": {
+    "def": "",
+    "translations": {}
+  },
+  "DIU": {
+    "def": "",
+    "translations": {}
+  },
+  "GEW": {
+    "def": "",
+    "translations": {}
+  },
+  "IMC": {
+    "def": "",
+    "translations": {}
+  },
+  "PÚA": {
+    "def": "",
+    "translations": {}
+  },
+  "RAE": {
+    "def": "",
+    "translations": {}
+  },
+  "TOO": {
+    "def": "",
+    "translations": {}
+  },
+  "ERT": {
+    "def": "",
+    "translations": {}
+  },
+  "KAY": {
+    "def": "",
+    "translations": {}
+  },
+  "MOT": {
+    "def": "",
+    "translations": {}
+  },
+  "OUD": {
+    "def": "",
+    "translations": {}
+  },
+  "TOT": {
+    "def": "",
+    "translations": {}
+  },
+  "CIV": {
+    "def": "",
+    "translations": {}
+  },
+  "CÓD": {
+    "def": "",
+    "translations": {}
+  },
+  "ITV": {
+    "def": "",
+    "translations": {}
+  },
+  "LÍA": {
+    "def": "",
+    "translations": {}
+  },
+  "ZIG": {
+    "def": "",
+    "translations": {}
+  },
+  "AID": {
+    "def": "",
+    "translations": {}
+  },
+  "ELY": {
+    "def": "",
+    "translations": {}
+  },
+  "FAA": {
+    "def": "",
+    "translations": {}
+  },
+  "ORS": {
+    "def": "",
+    "translations": {}
+  },
+  "UDS": {
+    "def": "",
+    "translations": {}
+  },
+  "UMA": {
+    "def": "",
+    "translations": {}
+  },
+  "WIM": {
+    "def": "",
+    "translations": {}
+  },
+  "ZOA": {
+    "def": "",
+    "translations": {}
+  },
+  "MED": {
+    "def": "",
+    "translations": {}
+  },
+  "OBS": {
+    "def": "",
+    "translations": {}
+  },
+  "SCT": {
+    "def": "",
+    "translations": {}
+  },
+  "STV": {
+    "def": "",
+    "translations": {}
+  },
+  "ASP": {
+    "def": "",
+    "translations": {}
+  },
+  "HEY": {
+    "def": "",
+    "translations": {}
+  },
+  "PAX": {
+    "def": "",
+    "translations": {}
+  },
+  "PAY": {
+    "def": "",
+    "translations": {}
+  },
+  "BOC": {
+    "def": "",
+    "translations": {}
+  },
+  "CCD": {
+    "def": "",
+    "translations": {}
+  },
+  "FEF": {
+    "def": "",
+    "translations": {}
+  },
+  "IIU": {
+    "def": "",
+    "translations": {}
+  },
+  "MSP": {
+    "def": "",
+    "translations": {}
+  },
+  "OCU": {
+    "def": "",
+    "translations": {}
+  },
+  "UBA": {
+    "def": "",
+    "translations": {}
+  },
+  "UNI": {
+    "def": "",
+    "translations": {}
+  },
+  "BAL": {
+    "def": "",
+    "translations": {}
+  },
+  "CNU": {
+    "def": "",
+    "translations": {}
+  },
+  "LIB": {
+    "def": "",
+    "translations": {}
+  },
+  "PTA": {
+    "def": "",
+    "translations": {}
+  },
+  "ROE": {
+    "def": "",
+    "translations": {}
+  },
+  "SÃO": {
+    "def": "",
+    "translations": {}
+  },
+  "HUN": {
+    "def": "",
+    "translations": {}
+  },
+  "MEX": {
+    "def": "",
+    "translations": {}
+  },
+  "PMA": {
+    "def": "",
+    "translations": {}
+  },
+  "DDI": {
+    "def": "",
+    "translations": {}
+  },
+  "FEB": {
+    "def": "",
+    "translations": {}
+  },
+  "HIS": {
+    "def": "",
+    "translations": {}
+  },
+  "ISR": {
+    "def": "",
+    "translations": {}
+  },
+  "NEL": {
+    "def": "",
+    "translations": {}
+  },
+  "ARP": {
+    "def": "",
+    "translations": {}
+  },
+  "DRY": {
+    "def": "",
+    "translations": {}
+  },
+  "ÉSO": {
+    "def": "",
+    "translations": {}
+  },
+  "PAG": {
+    "def": "",
+    "translations": {}
+  },
+  "PGP": {
+    "def": "",
+    "translations": {}
+  },
+  "TAS": {
+    "def": "",
+    "translations": {}
+  },
+  "TVM": {
+    "def": "",
+    "translations": {}
+  },
+  "PIÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "REA": {
+    "def": "",
+    "translations": {}
+  },
+  "SAI": {
+    "def": "",
+    "translations": {}
+  },
+  "TOA": {
+    "def": "",
+    "translations": {}
+  },
+  "ATT": {
+    "def": "",
+    "translations": {}
+  },
+  "CET": {
+    "def": "",
+    "translations": {}
+  },
+  "HTA": {
+    "def": "",
+    "translations": {}
+  },
+  "KAI": {
+    "def": "",
+    "translations": {}
+  },
+  "PGA": {
+    "def": "",
+    "translations": {}
+  },
+  "RUI": {
+    "def": "",
+    "translations": {}
+  },
+  "BOI": {
+    "def": "",
+    "translations": {}
+  },
+  "CHU": {
+    "def": "",
+    "translations": {}
+  },
+  "GAN": {
+    "def": "",
+    "translations": {}
+  },
+  "RTE": {
+    "def": "",
+    "translations": {}
+  },
+  "AGA": {
+    "def": "",
+    "translations": {}
+  },
+  "MAI": {
+    "def": "",
+    "translations": {}
+  },
+  "XXX": {
+    "def": "",
+    "translations": {}
+  },
+  "CRM": {
+    "def": "",
+    "translations": {}
+  },
+  "ESQ": {
+    "def": "",
+    "translations": {}
+  },
+  "SAC": {
+    "def": "",
+    "translations": {}
+  },
+  "SNI": {
+    "def": "",
+    "translations": {}
+  },
+  "UCP": {
+    "def": "",
+    "translations": {}
+  },
+  "BAC": {
+    "def": "",
+    "translations": {}
+  },
+  "CMB": {
+    "def": "",
+    "translations": {}
+  },
+  "MAU": {
+    "def": "",
+    "translations": {}
+  },
+  "OUI": {
+    "def": "",
+    "translations": {}
+  },
+  "UMD": {
+    "def": "",
+    "translations": {}
+  },
+  "BEI": {
+    "def": "",
+    "translations": {}
+  },
+  "FUÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "IDC": {
+    "def": "",
+    "translations": {}
+  },
+  "SOC": {
+    "def": "",
+    "translations": {}
+  },
+  "UPC": {
+    "def": "",
+    "translations": {}
+  },
+  "BEE": {
+    "def": "",
+    "translations": {}
+  },
+  "FAP": {
+    "def": "",
+    "translations": {}
+  },
+  "FES": {
+    "def": "",
+    "translations": {}
+  },
+  "RCP": {
+    "def": "",
+    "translations": {}
+  },
+  "TIP": {
+    "def": "",
+    "translations": {}
+  },
+  "BRE": {
+    "def": "",
+    "translations": {}
+  },
+  "EXT": {
+    "def": "",
+    "translations": {}
+  },
+  "FIM": {
+    "def": "",
+    "translations": {}
+  },
+  "GUS": {
+    "def": "",
+    "translations": {}
+  },
+  "NAM": {
+    "def": "",
+    "translations": {}
+  },
+  "PYM": {
+    "def": "",
+    "translations": {}
+  },
+  "ZAG": {
+    "def": "",
+    "translations": {}
+  },
+  "AIM": {
+    "def": "",
+    "translations": {}
+  },
+  "EDI": {
+    "def": "",
+    "translations": {}
+  },
+  "EXE": {
+    "def": "",
+    "translations": {}
+  },
+  "FLY": {
+    "def": "",
+    "translations": {}
+  },
+  "IGG": {
+    "def": "",
+    "translations": {}
+  },
+  "MVR": {
+    "def": "",
+    "translations": {}
+  },
+  "PUC": {
+    "def": "",
+    "translations": {}
+  },
+  "RUA": {
+    "def": "",
+    "translations": {}
+  },
+  "SIL": {
+    "def": "",
+    "translations": {}
+  },
+  "VPH": {
+    "def": "",
+    "translations": {}
+  },
+  "WIN": {
+    "def": "",
+    "translations": {}
+  },
+  "AEE": {
+    "def": "",
+    "translations": {}
+  },
+  "ARG": {
+    "def": "",
+    "translations": {}
+  },
+  "DAX": {
+    "def": "",
+    "translations": {}
+  },
+  "FDN": {
+    "def": "",
+    "translations": {}
+  },
+  "FOZ": {
+    "def": "",
+    "translations": {}
+  },
+  "GOD": {
+    "def": "",
+    "translations": {}
+  },
+  "TAE": {
+    "def": "",
+    "translations": {}
+  },
+  "TRH": {
+    "def": "",
+    "translations": {}
+  },
+  "AUS": {
+    "def": "",
+    "translations": {}
+  },
+  "GOG": {
+    "def": "",
+    "translations": {}
+  },
+  "VAR": {
+    "def": "",
+    "translations": {}
+  },
+  "FET": {
+    "def": "",
+    "translations": {}
+  },
+  "MME": {
+    "def": "",
+    "translations": {}
+  },
+  "RAC": {
+    "def": "",
+    "translations": {}
+  },
+  "ROF": {
+    "def": "",
+    "translations": {}
+  },
+  "WWF": {
+    "def": "",
+    "translations": {}
+  },
+  "CCC": {
+    "def": "",
+    "translations": {}
+  },
+  "CSF": {
+    "def": "",
+    "translations": {}
+  },
+  "MOS": {
+    "def": "",
+    "translations": {}
+  },
+  "OSÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "ATM": {
+    "def": "",
+    "translations": {}
+  },
+  "CAD": {
+    "def": "",
+    "translations": {}
+  },
+  "CMT": {
+    "def": "",
+    "translations": {}
+  },
+  "EEM": {
+    "def": "",
+    "translations": {}
+  },
+  "HBO": {
+    "def": "",
+    "translations": {}
+  },
+  "JNE": {
+    "def": "",
+    "translations": {}
+  },
+  "TEM": {
+    "def": "",
+    "translations": {}
+  },
+  "TÉS": {
+    "def": "",
+    "translations": {}
+  },
+  "TNT": {
+    "def": "",
+    "translations": {}
+  },
+  "BMV": {
+    "def": "",
+    "translations": {}
+  },
+  "DDN": {
+    "def": "",
+    "translations": {}
+  },
+  "FLN": {
+    "def": "",
+    "translations": {}
+  },
+  "FTP": {
+    "def": "",
+    "translations": {}
+  },
+  "REV": {
+    "def": "",
+    "translations": {}
+  },
+  "AIT": {
+    "def": "",
+    "translations": {}
+  },
+  "ANT": {
+    "def": "",
+    "translations": {}
+  },
+  "CAC": {
+    "def": "",
+    "translations": {}
+  },
+  "FPÖ": {
+    "def": "",
+    "translations": {}
+  },
+  "IBI": {
+    "def": "",
+    "translations": {}
+  },
+  "OPV": {
+    "def": "",
+    "translations": {}
+  },
+  "AEB": {
+    "def": "",
+    "translations": {}
+  },
+  "BUM": {
+    "def": "",
+    "translations": {}
+  },
+  "EMV": {
+    "def": "",
+    "translations": {}
+  },
+  "ERO": {
+    "def": "",
+    "translations": {}
+  },
+  "HOL": {
+    "def": "",
+    "translations": {}
+  },
+  "KAN": {
+    "def": "",
+    "translations": {}
+  },
+  "NEC": {
+    "def": "",
+    "translations": {}
+  },
+  "NOA": {
+    "def": "",
+    "translations": {}
+  },
+  "SNS": {
+    "def": "",
+    "translations": {}
+  },
+  "UNP": {
+    "def": "",
+    "translations": {}
+  },
+  "AIE": {
+    "def": "",
+    "translations": {}
+  },
+  "FIC": {
+    "def": "",
+    "translations": {}
+  },
+  "GLU": {
+    "def": "",
+    "translations": {}
+  },
+  "MSN": {
+    "def": "",
+    "translations": {}
+  },
+  "OTI": {
+    "def": "",
+    "translations": {}
+  },
+  "SIS": {
+    "def": "",
+    "translations": {}
+  },
+  "APC": {
+    "def": "",
+    "translations": {}
+  },
+  "DAU": {
+    "def": "",
+    "translations": {}
+  },
+  "GAP": {
+    "def": "",
+    "translations": {}
+  },
+  "IPN": {
+    "def": "",
+    "translations": {}
+  },
+  "MEU": {
+    "def": "",
+    "translations": {}
+  },
+  "PPC": {
+    "def": "",
+    "translations": {}
+  },
+  "TUN": {
+    "def": "",
+    "translations": {}
+  },
+  "CVC": {
+    "def": "",
+    "translations": {}
+  },
+  "ESC": {
+    "def": "",
+    "translations": {}
+  },
+  "FMF": {
+    "def": "",
+    "translations": {}
+  },
+  "GPS": {
+    "def": "",
+    "translations": {}
+  },
+  "JUN": {
+    "def": "",
+    "translations": {}
+  },
+  "MGM": {
+    "def": "",
+    "translations": {}
+  },
+  "MMX": {
+    "def": "",
+    "translations": {}
+  },
+  "RCD": {
+    "def": "",
+    "translations": {}
+  },
+  "TAB": {
+    "def": "",
+    "translations": {}
+  },
+  "TNE": {
+    "def": "",
+    "translations": {}
+  },
+  "ZIY": {
+    "def": "",
+    "translations": {}
+  },
+  "APM": {
+    "def": "",
+    "translations": {}
+  },
+  "DEO": {
+    "def": "",
+    "translations": {}
+  },
+  "FÜR": {
+    "def": "",
+    "translations": {}
+  },
+  "IÓN": {
+    "def": "",
+    "translations": {}
+  },
+  "MAD": {
+    "def": "",
+    "translations": {}
+  },
+  "NEN": {
+    "def": "",
+    "translations": {}
+  },
+  "RAF": {
+    "def": "",
+    "translations": {}
+  },
+  "SES": {
+    "def": "",
+    "translations": {}
+  },
+  "TIE": {
+    "def": "",
+    "translations": {}
+  },
+  "WEI": {
+    "def": "",
+    "translations": {}
+  },
+  "AGO": {
+    "def": "",
+    "translations": {}
+  },
+  "CCE": {
+    "def": "",
+    "translations": {}
+  },
+  "CMV": {
+    "def": "",
+    "translations": {}
+  },
+  "DAD": {
+    "def": "",
+    "translations": {}
+  },
+  "DIP": {
+    "def": "",
+    "translations": {}
+  },
+  "DIZ": {
+    "def": "",
+    "translations": {}
+  },
+  "EAT": {
+    "def": "",
+    "translations": {}
+  },
+  "IAE": {
+    "def": "",
+    "translations": {}
+  },
+  "SSP": {
+    "def": "",
+    "translations": {}
+  },
+  "ACP": {
+    "def": "",
+    "translations": {}
+  },
+  "PPP": {
+    "def": "",
+    "translations": {}
+  },
+  "SDS": {
+    "def": "",
+    "translations": {}
+  },
+  "WTA": {
+    "def": "",
+    "translations": {}
+  },
+  "AIX": {
+    "def": "",
+    "translations": {}
+  },
+  "AMD": {
+    "def": "",
+    "translations": {}
+  },
+  "BOO": {
+    "def": "",
+    "translations": {}
+  },
+  "GET": {
+    "def": "",
+    "translations": {}
+  },
+  "LIU": {
+    "def": "",
+    "translations": {}
+  },
+  "MLS": {
+    "def": "",
+    "translations": {}
+  },
+  "ONO": {
+    "def": "",
+    "translations": {}
+  },
+  "THS": {
+    "def": "",
+    "translations": {}
+  },
+  "ATE": {
+    "def": "",
+    "translations": {}
+  },
+  "CBI": {
+    "def": "",
+    "translations": {}
+  },
+  "FPR": {
+    "def": "",
+    "translations": {}
+  },
+  "JAI": {
+    "def": "",
+    "translations": {}
+  },
+  "LEM": {
+    "def": "",
+    "translations": {}
+  },
+  "PKK": {
+    "def": "",
+    "translations": {}
+  },
+  "PLÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "SAE": {
+    "def": "",
+    "translations": {}
+  },
+  "WAL": {
+    "def": "",
+    "translations": {}
+  },
+  "ADE": {
+    "def": "",
+    "translations": {}
+  },
+  "AEC": {
+    "def": "",
+    "translations": {}
+  },
+  "CEU": {
+    "def": "",
+    "translations": {}
+  },
+  "CIP": {
+    "def": "",
+    "translations": {}
+  },
+  "DCL": {
+    "def": "",
+    "translations": {}
+  },
+  "DEF": {
+    "def": "",
+    "translations": {}
+  },
+  "EMP": {
+    "def": "",
+    "translations": {}
+  },
+  "FIB": {
+    "def": "",
+    "translations": {}
+  },
+  "GIF": {
+    "def": "",
+    "translations": {}
+  },
+  "IND": {
+    "def": "",
+    "translations": {}
+  },
+  "INH": {
+    "def": "",
+    "translations": {}
+  },
+  "ISP": {
+    "def": "",
+    "translations": {}
+  },
+  "LED": {
+    "def": "",
+    "translations": {}
+  },
+  "MET": {
+    "def": "",
+    "translations": {}
+  },
+  "MLN": {
+    "def": "",
+    "translations": {}
+  },
+  "SAA": {
+    "def": "",
+    "translations": {}
+  },
+  "SAP": {
+    "def": "",
+    "translations": {}
+  },
+  "SCH": {
+    "def": "",
+    "translations": {}
+  },
+  "STA": {
+    "def": "",
+    "translations": {}
+  },
+  "UGO": {
+    "def": "",
+    "translations": {}
+  },
+  "AGF": {
+    "def": "",
+    "translations": {}
+  },
+  "DGB": {
+    "def": "",
+    "translations": {}
+  },
+  "FIZ": {
+    "def": "",
+    "translations": {}
+  },
+  "GRO": {
+    "def": "",
+    "translations": {}
+  },
+  "HRS": {
+    "def": "",
+    "translations": {}
+  },
+  "IEO": {
+    "def": "",
+    "translations": {}
+  },
+  "ISI": {
+    "def": "",
+    "translations": {}
+  },
+  "KLM": {
+    "def": "",
+    "translations": {}
+  },
+  "LAI": {
+    "def": "",
+    "translations": {}
+  },
+  "TAI": {
+    "def": "",
+    "translations": {}
+  },
+  "UVE": {
+    "def": "",
+    "translations": {}
+  },
+  "VCT": {
+    "def": "",
+    "translations": {}
+  },
+  "CEL": {
+    "def": "",
+    "translations": {}
+  },
+  "CSN": {
+    "def": "",
+    "translations": {}
+  },
+  "EGM": {
+    "def": "",
+    "translations": {}
+  },
+  "FUN": {
+    "def": "",
+    "translations": {}
+  },
+  "OAR": {
+    "def": "",
+    "translations": {}
+  },
+  "OBI": {
+    "def": "",
+    "translations": {}
+  },
+  "PDK": {
+    "def": "",
+    "translations": {}
+  },
+  "RUZ": {
+    "def": "",
+    "translations": {}
+  },
+  "SAU": {
+    "def": "",
+    "translations": {}
+  },
+  "TSJ": {
+    "def": "",
+    "translations": {}
+  },
+  "UPR": {
+    "def": "",
+    "translations": {}
+  },
+  "IMS": {
+    "def": "",
+    "translations": {}
+  },
+  "JAP": {
+    "def": "",
+    "translations": {}
+  },
+  "NYT": {
+    "def": "",
+    "translations": {}
+  },
+  "ONA": {
+    "def": "",
+    "translations": {}
+  },
+  "PDF": {
+    "def": "",
+    "translations": {}
+  },
+  "RAD": {
+    "def": "",
+    "translations": {}
+  },
+  "TCP": {
+    "def": "",
+    "translations": {}
+  },
+  "CHÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "HAM": {
+    "def": "",
+    "translations": {}
+  },
+  "KOK": {
+    "def": "",
+    "translations": {}
+  },
+  "LEX": {
+    "def": "",
+    "translations": {}
+  },
+  "MOD": {
+    "def": "",
+    "translations": {}
+  },
+  "OUR": {
+    "def": "",
+    "translations": {}
+  },
+  "PPI": {
+    "def": "",
+    "translations": {}
+  },
+  "RCN": {
+    "def": "",
+    "translations": {}
+  },
+  "TES": {
+    "def": "",
+    "translations": {}
+  },
+  "ULM": {
+    "def": "",
+    "translations": {}
+  },
+  "AYO": {
+    "def": "",
+    "translations": {}
+  },
+  "CUC": {
+    "def": "",
+    "translations": {}
+  },
+  "EDS": {
+    "def": "",
+    "translations": {}
+  },
+  "EME": {
+    "def": "",
+    "translations": {}
+  },
+  "GTE": {
+    "def": "",
+    "translations": {}
+  },
+  "IMM": {
+    "def": "",
+    "translations": {}
+  },
+  "NIT": {
+    "def": "",
+    "translations": {}
+  },
+  "PAP": {
+    "def": "",
+    "translations": {}
+  },
+  "PPE": {
+    "def": "",
+    "translations": {}
+  },
+  "PPS": {
+    "def": "",
+    "translations": {}
+  },
+  "RPM": {
+    "def": "",
+    "translations": {}
+  },
+  "TAJ": {
+    "def": "",
+    "translations": {}
+  },
+  "AUF": {
+    "def": "",
+    "translations": {}
+  },
+  "EBB": {
+    "def": "",
+    "translations": {}
+  },
+  "FÍN": {
+    "def": "",
+    "translations": {}
+  },
+  "HAT": {
+    "def": "",
+    "translations": {}
+  },
+  "ÍES": {
+    "def": "",
+    "translations": {}
+  },
+  "JUE": {
+    "def": "",
+    "translations": {}
+  },
+  "NED": {
+    "def": "",
+    "translations": {}
+  },
+  "OMB": {
+    "def": "",
+    "translations": {}
+  },
+  "PRC": {
+    "def": "",
+    "translations": {}
+  },
+  "SEM": {
+    "def": "",
+    "translations": {}
+  },
+  "BMG": {
+    "def": "",
+    "translations": {}
+  },
+  "CMC": {
+    "def": "",
+    "translations": {}
+  },
+  "COD": {
+    "def": "",
+    "translations": {}
+  },
+  "HAV": {
+    "def": "",
+    "translations": {}
+  },
+  "KTM": {
+    "def": "",
+    "translations": {}
+  },
+  "ONS": {
+    "def": "",
+    "translations": {}
+  },
+  "PCT": {
+    "def": "",
+    "translations": {}
+  },
+  "PIT": {
+    "def": "",
+    "translations": {}
+  },
+  "SID": {
+    "def": "",
+    "translations": {}
+  },
+  "TAP": {
+    "def": "",
+    "translations": {}
+  },
+  "VED": {
+    "def": "",
+    "translations": {}
+  },
+  "BAS": {
+    "def": "",
+    "translations": {}
+  },
+  "CPI": {
+    "def": "",
+    "translations": {}
+  },
+  "FDO": {
+    "def": "",
+    "translations": {}
+  },
+  "LTS": {
+    "def": "",
+    "translations": {}
+  },
+  "MCG": {
+    "def": "",
+    "translations": {}
+  },
+  "NGC": {
+    "def": "",
+    "translations": {}
+  },
+  "UTA": {
+    "def": "",
+    "translations": {}
+  },
+  "YAN": {
+    "def": "",
+    "translations": {}
+  },
+  "AGR": {
+    "def": "",
+    "translations": {}
+  },
+  "BIP": {
+    "def": "",
+    "translations": {}
+  },
+  "DDC": {
+    "def": "",
+    "translations": {}
+  },
+  "EET": {
+    "def": "",
+    "translations": {}
+  },
+  "IGV": {
+    "def": "",
+    "translations": {}
+  },
+  "INV": {
+    "def": "",
+    "translations": {}
+  },
+  "KYO": {
+    "def": "",
+    "translations": {}
+  },
+  "LIÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "PAD": {
+    "def": "",
+    "translations": {}
+  },
+  "SBS": {
+    "def": "",
+    "translations": {}
+  },
+  "UPS": {
+    "def": "",
+    "translations": {}
+  },
+  "ZUR": {
+    "def": "",
+    "translations": {}
+  },
+  "CAB": {
+    "def": "",
+    "translations": {}
+  },
+  "CTI": {
+    "def": "",
+    "translations": {}
+  },
+  "JFK": {
+    "def": "",
+    "translations": {}
+  },
+  "MHC": {
+    "def": "",
+    "translations": {}
+  },
+  "PIM": {
+    "def": "",
+    "translations": {}
+  },
+  "SIE": {
+    "def": "",
+    "translations": {}
+  },
+  "TAD": {
+    "def": "",
+    "translations": {}
+  },
+  "UHF": {
+    "def": "",
+    "translations": {}
+  },
+  "UIT": {
+    "def": "",
+    "translations": {}
+  },
+  "UPF": {
+    "def": "",
+    "translations": {}
+  },
+  "BCG": {
+    "def": "",
+    "translations": {}
+  },
+  "CEP": {
+    "def": "",
+    "translations": {}
+  },
+  "LCD": {
+    "def": "",
+    "translations": {}
+  },
+  "MEG": {
+    "def": "",
+    "translations": {}
+  },
+  "MGR": {
+    "def": "",
+    "translations": {}
+  },
+  "OCM": {
+    "def": "",
+    "translations": {}
+  },
+  "OMT": {
+    "def": "",
+    "translations": {}
+  },
+  "SKI": {
+    "def": "",
+    "translations": {}
+  },
+  "UPP": {
+    "def": "",
+    "translations": {}
+  },
+  "DHL": {
+    "def": "",
+    "translations": {}
+  },
+  "ELF": {
+    "def": "",
+    "translations": {}
+  },
+  "EYE": {
+    "def": "",
+    "translations": {}
+  },
+  "FEM": {
+    "def": "",
+    "translations": {}
+  },
+  "IEC": {
+    "def": "",
+    "translations": {}
+  },
+  "MAÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "MCC": {
+    "def": "",
+    "translations": {}
+  },
+  "MDP": {
+    "def": "",
+    "translations": {}
+  },
+  "MUI": {
+    "def": "",
+    "translations": {}
+  },
+  "NIC": {
+    "def": "",
+    "translations": {}
+  },
+  "TEY": {
+    "def": "",
+    "translations": {}
+  },
+  "YON": {
+    "def": "",
+    "translations": {}
+  },
+  "AEA": {
+    "def": "",
+    "translations": {}
+  },
+  "CDA": {
+    "def": "",
+    "translations": {}
+  },
+  "CRO": {
+    "def": "",
+    "translations": {}
+  },
+  "DNS": {
+    "def": "",
+    "translations": {}
+  },
+  "IGM": {
+    "def": "",
+    "translations": {}
+  },
+  "REP": {
+    "def": "",
+    "translations": {}
+  },
+  "SDA": {
+    "def": "",
+    "translations": {}
+  },
+  "SEK": {
+    "def": "",
+    "translations": {}
+  },
+  "TII": {
+    "def": "",
+    "translations": {}
+  },
+  "ATL": {
+    "def": "",
+    "translations": {}
+  },
+  "BIC": {
+    "def": "",
+    "translations": {}
+  },
+  "DEE": {
+    "def": "",
+    "translations": {}
+  },
+  "HAI": {
+    "def": "",
+    "translations": {}
+  },
+  "SAÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "SAY": {
+    "def": "",
+    "translations": {}
+  },
+  "UPV": {
+    "def": "",
+    "translations": {}
+  },
+  "ACS": {
+    "def": "",
+    "translations": {}
+  },
+  "AVT": {
+    "def": "",
+    "translations": {}
+  },
+  "CVG": {
+    "def": "",
+    "translations": {}
+  },
+  "GOV": {
+    "def": "",
+    "translations": {}
+  },
+  "IDE": {
+    "def": "",
+    "translations": {}
+  },
+  "ORÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "PEM": {
+    "def": "",
+    "translations": {}
+  },
+  "SAB": {
+    "def": "",
+    "translations": {}
+  },
+  "SDI": {
+    "def": "",
+    "translations": {}
+  },
+  "TZU": {
+    "def": "",
+    "translations": {}
+  },
+  "UCN": {
+    "def": "",
+    "translations": {}
+  },
+  "ABM": {
+    "def": "",
+    "translations": {}
+  },
+  "CEO": {
+    "def": "",
+    "translations": {}
+  },
+  "CSS": {
+    "def": "",
+    "translations": {}
+  },
+  "DAO": {
+    "def": "",
+    "translations": {}
+  },
+  "ILE": {
+    "def": "",
+    "translations": {}
+  },
+  "KDA": {
+    "def": "",
+    "translations": {}
+  },
+  "LAY": {
+    "def": "",
+    "translations": {}
+  },
+  "NUX": {
+    "def": "",
+    "translations": {}
+  },
+  "PCM": {
+    "def": "",
+    "translations": {}
+  },
+  "PSS": {
+    "def": "",
+    "translations": {}
+  },
+  "PUF": {
+    "def": "",
+    "translations": {}
+  },
+  "ROC": {
+    "def": "",
+    "translations": {}
+  },
+  "TAV": {
+    "def": "",
+    "translations": {}
+  },
+  "TEP": {
+    "def": "",
+    "translations": {}
+  },
+  "ZIA": {
+    "def": "",
+    "translations": {}
+  },
+  "DAI": {
+    "def": "",
+    "translations": {}
+  },
+  "ENS": {
+    "def": "",
+    "translations": {}
+  },
+  "FAI": {
+    "def": "",
+    "translations": {}
+  },
+  "GGT": {
+    "def": "",
+    "translations": {}
+  },
+  "NIH": {
+    "def": "",
+    "translations": {}
+  },
+  "ORÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "PME": {
+    "def": "",
+    "translations": {}
+  },
+  "ROI": {
+    "def": "",
+    "translations": {}
+  },
+  "TOI": {
+    "def": "",
+    "translations": {}
+  },
+  "VPO": {
+    "def": "",
+    "translations": {}
+  },
+  "AÑA": {
+    "def": "",
+    "translations": {}
+  },
+  "DIX": {
+    "def": "",
+    "translations": {}
+  },
+  "HUÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "MÁX": {
+    "def": "",
+    "translations": {}
+  },
+  "OAK": {
+    "def": "",
+    "translations": {}
+  },
+  "PMD": {
+    "def": "",
+    "translations": {}
+  },
+  "PST": {
+    "def": "",
+    "translations": {}
+  },
+  "SAD": {
+    "def": "",
+    "translations": {}
+  },
+  "SEE": {
+    "def": "",
+    "translations": {}
+  },
+  "SQL": {
+    "def": "",
+    "translations": {}
+  },
+  "TRY": {
+    "def": "",
+    "translations": {}
+  },
+  "UCE": {
+    "def": "",
+    "translations": {}
+  },
+  "VRS": {
+    "def": "",
+    "translations": {}
+  },
+  "ANC": {
+    "def": "",
+    "translations": {}
+  },
+  "DAL": {
+    "def": "",
+    "translations": {}
+  },
+  "DTN": {
+    "def": "",
+    "translations": {}
+  },
+  "HUE": {
+    "def": "",
+    "translations": {}
+  },
+  "NUM": {
+    "def": "",
+    "translations": {}
+  },
+  "PEG": {
+    "def": "",
+    "translations": {}
+  },
+  "RMN": {
+    "def": "",
+    "translations": {}
+  },
+  "SCI": {
+    "def": "",
+    "translations": {}
+  },
+  "STC": {
+    "def": "",
+    "translations": {}
+  },
+  "TEX": {
+    "def": "",
+    "translations": {}
+  },
+  "UVG": {
+    "def": "",
+    "translations": {}
+  },
+  "XML": {
+    "def": "",
+    "translations": {}
+  },
+  "ABI": {
+    "def": "",
+    "translations": {}
+  },
+  "CTA": {
+    "def": "",
+    "translations": {}
+  },
+  "DGA": {
+    "def": "",
+    "translations": {}
+  },
+  "JCE": {
+    "def": "",
+    "translations": {}
+  },
+  "MMM": {
+    "def": "",
+    "translations": {}
+  },
+  "MST": {
+    "def": "",
+    "translations": {}
+  },
+  "SAF": {
+    "def": "",
+    "translations": {}
+  },
+  "TIG": {
+    "def": "",
+    "translations": {}
+  },
+  "USS": {
+    "def": "",
+    "translations": {}
+  },
+  "VIN": {
+    "def": "",
+    "translations": {}
+  },
+  "AKI": {
+    "def": "",
+    "translations": {}
+  },
+  "BAB": {
+    "def": "",
+    "translations": {}
+  },
+  "BOP": {
+    "def": "",
+    "translations": {}
+  },
+  "CDT": {
+    "def": "",
+    "translations": {}
+  },
+  "CIC": {
+    "def": "",
+    "translations": {}
+  },
+  "DOR": {
+    "def": "",
+    "translations": {}
+  },
+  "FSC": {
+    "def": "",
+    "translations": {}
+  },
+  "GBR": {
+    "def": "",
+    "translations": {}
+  },
+  "GIS": {
+    "def": "",
+    "translations": {}
+  },
+  "GTI": {
+    "def": "",
+    "translations": {}
+  },
+  "IZÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "JOC": {
+    "def": "",
+    "translations": {}
+  },
+  "JOL": {
+    "def": "",
+    "translations": {}
+  },
+  "MYC": {
+    "def": "",
+    "translations": {}
+  },
+  "PAF": {
+    "def": "",
+    "translations": {}
+  },
+  "PAI": {
+    "def": "",
+    "translations": {}
+  },
+  "PEC": {
+    "def": "",
+    "translations": {}
+  },
+  "SHE": {
+    "def": "",
+    "translations": {}
+  },
+  "SIX": {
+    "def": "",
+    "translations": {}
+  },
+  "SMI": {
+    "def": "",
+    "translations": {}
+  },
+  "TSÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "TUR": {
+    "def": "",
+    "translations": {}
+  },
+  "UNÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "ATV": {
+    "def": "",
+    "translations": {}
+  },
+  "DUM": {
+    "def": "",
+    "translations": {}
+  },
+  "ENV": {
+    "def": "",
+    "translations": {}
+  },
+  "FCE": {
+    "def": "",
+    "translations": {}
+  },
+  "FPL": {
+    "def": "",
+    "translations": {}
+  },
+  "FSP": {
+    "def": "",
+    "translations": {}
+  },
+  "GWH": {
+    "def": "",
+    "translations": {}
+  },
+  "IGA": {
+    "def": "",
+    "translations": {}
+  },
+  "ITC": {
+    "def": "",
+    "translations": {}
+  },
+  "LAG": {
+    "def": "",
+    "translations": {}
+  },
+  "LAR": {
+    "def": "",
+    "translations": {}
+  },
+  "NUI": {
+    "def": "",
+    "translations": {}
+  },
+  "OID": {
+    "def": "",
+    "translations": {}
+  },
+  "PCP": {
+    "def": "",
+    "translations": {}
+  },
+  "UBS": {
+    "def": "",
+    "translations": {}
+  },
+  "UBÚ": {
+    "def": "",
+    "translations": {}
+  },
+  "UTI": {
+    "def": "",
+    "translations": {}
+  },
+  "UZI": {
+    "def": "",
+    "translations": {}
+  },
+  "WAN": {
+    "def": "",
+    "translations": {}
+  },
+  "AEG": {
+    "def": "",
+    "translations": {}
+  },
+  "BRA": {
+    "def": "",
+    "translations": {}
+  },
+  "CCI": {
+    "def": "",
+    "translations": {}
+  },
+  "CDR": {
+    "def": "",
+    "translations": {}
+  },
+  "DAC": {
+    "def": "",
+    "translations": {}
+  },
+  "DJK": {
+    "def": "",
+    "translations": {}
+  },
+  "FAT": {
+    "def": "",
+    "translations": {}
+  },
+  "FCA": {
+    "def": "",
+    "translations": {}
+  },
+  "FDR": {
+    "def": "",
+    "translations": {}
+  },
+  "FOL": {
+    "def": "",
+    "translations": {}
+  },
+  "ITE": {
+    "def": "",
+    "translations": {}
+  },
+  "PHN": {
+    "def": "",
+    "translations": {}
+  },
+  "PHU": {
+    "def": "",
+    "translations": {}
+  },
+  "REC": {
+    "def": "",
+    "translations": {}
+  },
+  "UNS": {
+    "def": "",
+    "translations": {}
+  },
+  "AEK": {
+    "def": "",
+    "translations": {}
+  },
+  "BOÎ": {
+    "def": "",
+    "translations": {}
+  },
+  "BPR": {
+    "def": "",
+    "translations": {}
+  },
+  "CAU": {
+    "def": "",
+    "translations": {}
+  },
+  "CAV": {
+    "def": "",
+    "translations": {}
+  },
+  "CPT": {
+    "def": "",
+    "translations": {}
+  },
+  "FAL": {
+    "def": "",
+    "translations": {}
+  },
+  "GOT": {
+    "def": "",
+    "translations": {}
+  },
+  "ILO": {
+    "def": "",
+    "translations": {}
+  },
+  "MEO": {
+    "def": "",
+    "translations": {}
+  },
+  "ULA": {
+    "def": "",
+    "translations": {}
+  },
+  "WOO": {
+    "def": "",
+    "translations": {}
+  },
+  "BED": {
+    "def": "",
+    "translations": {}
+  },
+  "CFI": {
+    "def": "",
+    "translations": {}
+  },
+  "CNL": {
+    "def": "",
+    "translations": {}
+  },
+  "CUY": {
+    "def": "",
+    "translations": {}
+  },
+  "FEU": {
+    "def": "",
+    "translations": {}
+  },
+  "GHI": {
+    "def": "",
+    "translations": {}
+  },
+  "IDT": {
+    "def": "",
+    "translations": {}
+  },
+  "NFL": {
+    "def": "",
+    "translations": {}
+  },
+  "NOM": {
+    "def": "",
+    "translations": {}
+  },
+  "ONI": {
+    "def": "",
+    "translations": {}
+  },
+  "OTR": {
+    "def": "",
+    "translations": {}
+  },
+  "PIO": {
+    "def": "",
+    "translations": {}
+  },
+  "PSF": {
+    "def": "",
+    "translations": {}
+  },
+  "SUA": {
+    "def": "",
+    "translations": {}
+  },
+  "UTC": {
+    "def": "",
+    "translations": {}
+  },
+  "ZIP": {
+    "def": "",
+    "translations": {}
+  },
+  "ANY": {
+    "def": "",
+    "translations": {}
+  },
+  "DÉU": {
+    "def": "",
+    "translations": {}
+  },
+  "DUN": {
+    "def": "",
+    "translations": {}
+  },
+  "EAU": {
+    "def": "",
+    "translations": {}
+  },
+  "ERG": {
+    "def": "",
+    "translations": {}
+  },
+  "FRI": {
+    "def": "",
+    "translations": {}
+  },
+  "GAO": {
+    "def": "",
+    "translations": {}
+  },
+  "NFR": {
+    "def": "",
+    "translations": {}
+  },
+  "NIX": {
+    "def": "",
+    "translations": {}
+  },
+  "PMS": {
+    "def": "",
+    "translations": {}
+  },
+  "RDC": {
+    "def": "",
+    "translations": {}
+  },
+  "SGP": {
+    "def": "",
+    "translations": {}
+  },
+  "SHI": {
+    "def": "",
+    "translations": {}
+  },
+  "SKA": {
+    "def": "",
+    "translations": {}
+  },
+  "UPK": {
+    "def": "",
+    "translations": {}
+  },
+  "AGP": {
+    "def": "",
+    "translations": {}
+  },
+  "BAG": {
+    "def": "",
+    "translations": {}
+  },
+  "CMF": {
+    "def": "",
+    "translations": {}
+  },
+  "COP": {
+    "def": "",
+    "translations": {}
+  },
+  "CPR": {
+    "def": "",
+    "translations": {}
+  },
+  "EEE": {
+    "def": "",
+    "translations": {}
+  },
+  "ENT": {
+    "def": "",
+    "translations": {}
+  },
+  "EVE": {
+    "def": "",
+    "translations": {}
+  },
+  "GUN": {
+    "def": "",
+    "translations": {}
+  },
+  "HUT": {
+    "def": "",
+    "translations": {}
+  },
+  "JOS": {
+    "def": "",
+    "translations": {}
+  },
+  "PNR": {
+    "def": "",
+    "translations": {}
+  },
+  "REE": {
+    "def": "",
+    "translations": {}
+  },
+  "UWE": {
+    "def": "",
+    "translations": {}
+  },
+  "VOI": {
+    "def": "",
+    "translations": {}
+  },
+  "ARC": {
+    "def": "",
+    "translations": {}
+  },
+  "DPI": {
+    "def": "",
+    "translations": {}
+  },
+  "IMP": {
+    "def": "",
+    "translations": {}
+  },
+  "IST": {
+    "def": "",
+    "translations": {}
+  },
+  "KHZ": {
+    "def": "",
+    "translations": {}
+  },
+  "PDR": {
+    "def": "",
+    "translations": {}
+  },
+  "PRA": {
+    "def": "",
+    "translations": {}
+  },
+  "PUE": {
+    "def": "",
+    "translations": {}
+  },
+  "SVA": {
+    "def": "",
+    "translations": {}
+  },
+  "TUM": {
+    "def": "",
+    "translations": {}
+  },
+  "TVG": {
+    "def": "",
+    "translations": {}
+  },
+  "ULI": {
+    "def": "",
+    "translations": {}
+  },
+  "VAI": {
+    "def": "",
+    "translations": {}
+  },
+  "VDA": {
+    "def": "",
+    "translations": {}
+  },
+  "ADP": {
+    "def": "",
+    "translations": {}
+  },
+  "APS": {
+    "def": "",
+    "translations": {}
+  },
+  "AVI": {
+    "def": "",
+    "translations": {}
+  },
+  "BAO": {
+    "def": "",
+    "translations": {}
+  },
+  "BCN": {
+    "def": "",
+    "translations": {}
+  },
+  "BUD": {
+    "def": "",
+    "translations": {}
+  },
+  "CST": {
+    "def": "",
+    "translations": {}
+  },
+  "FUT": {
+    "def": "",
+    "translations": {}
+  },
+  "KRT": {
+    "def": "",
+    "translations": {}
+  },
+  "MEP": {
+    "def": "",
+    "translations": {}
+  },
+  "OSE": {
+    "def": "",
+    "translations": {}
+  },
+  "RII": {
+    "def": "",
+    "translations": {}
+  },
+  "SFP": {
+    "def": "",
+    "translations": {}
+  },
+  "TNC": {
+    "def": "",
+    "translations": {}
+  },
+  "ULF": {
+    "def": "",
+    "translations": {}
+  },
+  "AJÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "AMP": {
+    "def": "",
+    "translations": {}
+  },
+  "CGR": {
+    "def": "",
+    "translations": {}
+  },
+  "COW": {
+    "def": "",
+    "translations": {}
+  },
+  "CRE": {
+    "def": "",
+    "translations": {}
+  },
+  "FIT": {
+    "def": "",
+    "translations": {}
+  },
+  "ICH": {
+    "def": "",
+    "translations": {}
+  },
+  "NOH": {
+    "def": "",
+    "translations": {}
+  },
+  "PEU": {
+    "def": "",
+    "translations": {}
+  },
+  "SAG": {
+    "def": "",
+    "translations": {}
+  },
+  "UJI": {
+    "def": "",
+    "translations": {}
+  },
+  "FMC": {
+    "def": "",
+    "translations": {}
+  },
+  "GRI": {
+    "def": "",
+    "translations": {}
+  },
+  "HMG": {
+    "def": "",
+    "translations": {}
+  },
+  "IAD": {
+    "def": "",
+    "translations": {}
+  },
+  "JEU": {
+    "def": "",
+    "translations": {}
+  },
+  "MRI": {
+    "def": "",
+    "translations": {}
+  },
+  "OTP": {
+    "def": "",
+    "translations": {}
+  },
+  "RAN": {
+    "def": "",
+    "translations": {}
+  },
+  "RCH": {
+    "def": "",
+    "translations": {}
+  },
+  "RIU": {
+    "def": "",
+    "translations": {}
+  },
+  "THC": {
+    "def": "",
+    "translations": {}
+  },
+  "TRA": {
+    "def": "",
+    "translations": {}
+  },
+  "UAB": {
+    "def": "",
+    "translations": {}
+  },
+  "UDP": {
+    "def": "",
+    "translations": {}
+  },
+  "VAZ": {
+    "def": "",
+    "translations": {}
+  },
+  "BCU": {
+    "def": "",
+    "translations": {}
+  },
+  "CDP": {
+    "def": "",
+    "translations": {}
+  },
+  "CEC": {
+    "def": "",
+    "translations": {}
+  },
+  "CRT": {
+    "def": "",
+    "translations": {}
+  },
+  "FIR": {
+    "def": "",
+    "translations": {}
+  },
+  "HIC": {
+    "def": "",
+    "translations": {}
+  },
+  "IAA": {
+    "def": "",
+    "translations": {}
+  },
+  "JVM": {
+    "def": "",
+    "translations": {}
+  },
+  "MAM": {
+    "def": "",
+    "translations": {}
+  },
+  "MDD": {
+    "def": "",
+    "translations": {}
+  },
+  "MID": {
+    "def": "",
+    "translations": {}
+  },
+  "MSI": {
+    "def": "",
+    "translations": {}
+  },
+  "NIF": {
+    "def": "",
+    "translations": {}
+  },
+  "RIE": {
+    "def": "",
+    "translations": {}
+  },
+  "SIÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "TAG": {
+    "def": "",
+    "translations": {}
+  },
+  "TEU": {
+    "def": "",
+    "translations": {}
+  },
+  "TUA": {
+    "def": "",
+    "translations": {}
+  },
+  "TVP": {
+    "def": "",
+    "translations": {}
+  },
+  "URI": {
+    "def": "",
+    "translations": {}
+  },
+  "YAK": {
+    "def": "",
+    "translations": {}
+  },
+  "ZEC": {
+    "def": "",
+    "translations": {}
+  },
+  "ZHU": {
+    "def": "",
+    "translations": {}
+  },
+  "BNP": {
+    "def": "",
+    "translations": {}
+  },
+  "BOM": {
+    "def": "",
+    "translations": {}
+  },
+  "BPS": {
+    "def": "",
+    "translations": {}
+  },
+  "DÑA": {
+    "def": "",
+    "translations": {}
+  },
+  "GAM": {
+    "def": "",
+    "translations": {}
+  },
+  "JIT": {
+    "def": "",
+    "translations": {}
+  },
+  "KEE": {
+    "def": "",
+    "translations": {}
+  },
+  "MÉS": {
+    "def": "",
+    "translations": {}
+  },
+  "POA": {
+    "def": "",
+    "translations": {}
+  },
+  "PUY": {
+    "def": "",
+    "translations": {}
+  },
+  "RAT": {
+    "def": "",
+    "translations": {}
+  },
+  "RUM": {
+    "def": "",
+    "translations": {}
+  },
+  "SHU": {
+    "def": "",
+    "translations": {}
+  },
+  "TPI": {
+    "def": "",
+    "translations": {}
+  },
+  "UFF": {
+    "def": "",
+    "translations": {}
+  },
+  "VTR": {
+    "def": "",
+    "translations": {}
+  },
+  "ABE": {
+    "def": "",
+    "translations": {}
+  },
+  "BAZ": {
+    "def": "",
+    "translations": {}
+  },
+  "BDA": {
+    "def": "",
+    "translations": {}
+  },
+  "CNM": {
+    "def": "",
+    "translations": {}
+  },
+  "DAT": {
+    "def": "",
+    "translations": {}
+  },
+  "DCA": {
+    "def": "",
+    "translations": {}
+  },
+  "DUE": {
+    "def": "",
+    "translations": {}
+  },
+  "EIN": {
+    "def": "",
+    "translations": {}
+  },
+  "FOC": {
+    "def": "",
+    "translations": {}
+  },
+  "GBM": {
+    "def": "",
+    "translations": {}
+  },
+  "IFA": {
+    "def": "",
+    "translations": {}
+  },
+  "KPH": {
+    "def": "",
+    "translations": {}
+  },
+  "LIV": {
+    "def": "",
+    "translations": {}
+  },
+  "MIÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "NEB": {
+    "def": "",
+    "translations": {}
+  },
+  "NEF": {
+    "def": "",
+    "translations": {}
+  },
+  "PDA": {
+    "def": "",
+    "translations": {}
+  },
+  "SRE": {
+    "def": "",
+    "translations": {}
+  },
+  "SYS": {
+    "def": "",
+    "translations": {}
+  },
+  "TYC": {
+    "def": "",
+    "translations": {}
+  },
+  "UJC": {
+    "def": "",
+    "translations": {}
+  },
+  "WRC": {
+    "def": "",
+    "translations": {}
+  },
+  "APD": {
+    "def": "",
+    "translations": {}
+  },
+  "BPA": {
+    "def": "",
+    "translations": {}
+  },
+  "CEF": {
+    "def": "",
+    "translations": {}
+  },
+  "CFN": {
+    "def": "",
+    "translations": {}
+  },
+  "CGI": {
+    "def": "",
+    "translations": {}
+  },
+  "DAF": {
+    "def": "",
+    "translations": {}
+  },
+  "DIM": {
+    "def": "",
+    "translations": {}
+  },
+  "DRI": {
+    "def": "",
+    "translations": {}
+  },
+  "IRC": {
+    "def": "",
+    "translations": {}
+  },
+  "NPC": {
+    "def": "",
+    "translations": {}
+  },
+  "OZU": {
+    "def": "",
+    "translations": {}
+  },
+  "TAX": {
+    "def": "",
+    "translations": {}
+  },
+  "UIP": {
+    "def": "",
+    "translations": {}
+  },
+  "VGA": {
+    "def": "",
+    "translations": {}
+  },
+  "VHF": {
+    "def": "",
+    "translations": {}
+  },
+  "YOM": {
+    "def": "",
+    "translations": {}
+  },
+  "ASC": {
+    "def": "",
+    "translations": {}
+  },
+  "ATH": {
+    "def": "",
+    "translations": {}
+  },
+  "BCI": {
+    "def": "",
+    "translations": {}
+  },
+  "BHN": {
+    "def": "",
+    "translations": {}
+  },
+  "CND": {
+    "def": "",
+    "translations": {}
+  },
+  "FAM": {
+    "def": "",
+    "translations": {}
+  },
+  "FCO": {
+    "def": "",
+    "translations": {}
+  },
+  "FGD": {
+    "def": "",
+    "translations": {}
+  },
+  "HOM": {
+    "def": "",
+    "translations": {}
+  },
+  "HOX": {
+    "def": "",
+    "translations": {}
+  },
+  "HWY": {
+    "def": "",
+    "translations": {}
+  },
+  "INP": {
+    "def": "",
+    "translations": {}
+  },
+  "LTR": {
+    "def": "",
+    "translations": {}
+  },
+  "MEQ": {
+    "def": "",
+    "translations": {}
+  },
+  "MSC": {
+    "def": "",
+    "translations": {}
+  },
+  "POM": {
+    "def": "",
+    "translations": {}
+  },
+  "RTV": {
+    "def": "",
+    "translations": {}
+  },
+  "TCE": {
+    "def": "",
+    "translations": {}
+  },
+  "TGV": {
+    "def": "",
+    "translations": {}
+  },
+  "TIR": {
+    "def": "",
+    "translations": {}
+  },
+  "UFA": {
+    "def": "",
+    "translations": {}
+  },
+  "YAO": {
+    "def": "",
+    "translations": {}
+  },
+  "ZSA": {
+    "def": "",
+    "translations": {}
+  },
+  "AFL": {
+    "def": "",
+    "translations": {}
+  },
+  "ATR": {
+    "def": "",
+    "translations": {}
+  },
+  "BNT": {
+    "def": "",
+    "translations": {}
+  },
+  "BSE": {
+    "def": "",
+    "translations": {}
+  },
+  "CHO": {
+    "def": "",
+    "translations": {}
+  },
+  "CNP": {
+    "def": "",
+    "translations": {}
+  },
+  "CNS": {
+    "def": "",
+    "translations": {}
+  },
+  "FEI": {
+    "def": "",
+    "translations": {}
+  },
+  "FÍE": {
+    "def": "",
+    "translations": {}
+  },
+  "FSE": {
+    "def": "",
+    "translations": {}
+  },
+  "GER": {
+    "def": "",
+    "translations": {}
+  },
+  "GNU": {
+    "def": "",
+    "translations": {}
+  },
+  "LIT": {
+    "def": "",
+    "translations": {}
+  },
+  "LNP": {
+    "def": "",
+    "translations": {}
+  },
+  "MBA": {
+    "def": "",
+    "translations": {}
+  },
+  "MBE": {
+    "def": "",
+    "translations": {}
+  },
+  "MTA": {
+    "def": "",
+    "translations": {}
+  },
+  "MUC": {
+    "def": "",
+    "translations": {}
+  },
+  "PDM": {
+    "def": "",
+    "translations": {}
+  },
+  "PES": {
+    "def": "",
+    "translations": {}
+  },
+  "RAO": {
+    "def": "",
+    "translations": {}
+  },
+  "ROH": {
+    "def": "",
+    "translations": {}
+  },
+  "TLF": {
+    "def": "",
+    "translations": {}
+  },
+  "XEW": {
+    "def": "",
+    "translations": {}
+  },
+  "ADR": {
+    "def": "",
+    "translations": {}
+  },
+  "AJA": {
+    "def": "",
+    "translations": {}
+  },
+  "ALP": {
+    "def": "",
+    "translations": {}
+  },
+  "ASÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "FAB": {
+    "def": "",
+    "translations": {}
+  },
+  "FOB": {
+    "def": "",
+    "translations": {}
+  },
+  "IAG": {
+    "def": "",
+    "translations": {}
+  },
+  "ICF": {
+    "def": "",
+    "translations": {}
+  },
+  "IPA": {
+    "def": "",
+    "translations": {}
+  },
+  "MOA": {
+    "def": "",
+    "translations": {}
+  },
+  "OJD": {
+    "def": "",
+    "translations": {}
+  },
+  "OLÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "RIP": {
+    "def": "",
+    "translations": {}
+  },
+  "TUC": {
+    "def": "",
+    "translations": {}
+  },
+  "UDE": {
+    "def": "",
+    "translations": {}
+  },
+  "ASH": {
+    "def": "",
+    "translations": {}
+  },
+  "AZA": {
+    "def": "",
+    "translations": {}
+  },
+  "CVR": {
+    "def": "",
+    "translations": {}
+  },
+  "DDR": {
+    "def": "",
+    "translations": {}
+  },
+  "DGS": {
+    "def": "",
+    "translations": {}
+  },
+  "FGR": {
+    "def": "",
+    "translations": {}
+  },
+  "IFI": {
+    "def": "",
+    "translations": {}
+  },
+  "ILS": {
+    "def": "",
+    "translations": {}
+  },
+  "KAT": {
+    "def": "",
+    "translations": {}
+  },
+  "NOI": {
+    "def": "",
+    "translations": {}
+  },
+  "OCP": {
+    "def": "",
+    "translations": {}
+  },
+  "OHL": {
+    "def": "",
+    "translations": {}
+  },
+  "OWN": {
+    "def": "",
+    "translations": {}
+  },
+  "OZÚ": {
+    "def": "",
+    "translations": {}
+  },
+  "PCB": {
+    "def": "",
+    "translations": {}
+  },
+  "PCL": {
+    "def": "",
+    "translations": {}
+  },
+  "SCS": {
+    "def": "",
+    "translations": {}
+  },
+  "SPV": {
+    "def": "",
+    "translations": {}
+  },
+  "STS": {
+    "def": "",
+    "translations": {}
+  },
+  "TOR": {
+    "def": "",
+    "translations": {}
+  },
+  "TOY": {
+    "def": "",
+    "translations": {}
+  },
+  "UES": {
+    "def": "",
+    "translations": {}
+  },
+  "WEN": {
+    "def": "",
+    "translations": {}
+  },
+  "WHY": {
+    "def": "",
+    "translations": {}
+  },
+  "ABB": {
+    "def": "",
+    "translations": {}
+  },
+  "ABÚ": {
+    "def": "",
+    "translations": {}
+  },
+  "ADI": {
+    "def": "",
+    "translations": {}
+  },
+  "BUC": {
+    "def": "",
+    "translations": {}
+  },
+  "DDP": {
+    "def": "",
+    "translations": {}
+  },
+  "DUC": {
+    "def": "",
+    "translations": {}
+  },
+  "FOU": {
+    "def": "",
+    "translations": {}
+  },
+  "HEM": {
+    "def": "",
+    "translations": {}
+  },
+  "ICV": {
+    "def": "",
+    "translations": {}
+  },
+  "JUS": {
+    "def": "",
+    "translations": {}
+  },
+  "NAN": {
+    "def": "",
+    "translations": {}
+  },
+  "NRO": {
+    "def": "",
+    "translations": {}
+  },
+  "ROT": {
+    "def": "",
+    "translations": {}
+  },
+  "SSI": {
+    "def": "",
+    "translations": {}
+  },
+  "UER": {
+    "def": "",
+    "translations": {}
+  },
+  "AFI": {
+    "def": "",
+    "translations": {}
+  },
+  "CMA": {
+    "def": "",
+    "translations": {}
+  },
+  "CTE": {
+    "def": "",
+    "translations": {}
+  },
+  "DEU": {
+    "def": "",
+    "translations": {}
+  },
+  "DIÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "DOE": {
+    "def": "",
+    "translations": {}
+  },
+  "EIX": {
+    "def": "",
+    "translations": {}
+  },
+  "FAY": {
+    "def": "",
+    "translations": {}
+  },
+  "HEZ": {
+    "def": "",
+    "translations": {}
+  },
+  "HSU": {
+    "def": "",
+    "translations": {}
+  },
+  "INJ": {
+    "def": "",
+    "translations": {}
+  },
+  "IRU": {
+    "def": "",
+    "translations": {}
+  },
+  "JAD": {
+    "def": "",
+    "translations": {}
+  },
+  "MBP": {
+    "def": "",
+    "translations": {}
+  },
+  "MÉX": {
+    "def": "",
+    "translations": {}
+  },
+  "MIC": {
+    "def": "",
+    "translations": {}
+  },
+  "OCB": {
+    "def": "",
+    "translations": {}
+  },
+  "OMI": {
+    "def": "",
+    "translations": {}
+  },
+  "POO": {
+    "def": "",
+    "translations": {}
+  },
+  "SAX": {
+    "def": "",
+    "translations": {}
+  },
+  "SMN": {
+    "def": "",
+    "translations": {}
+  },
+  "SÚA": {
+    "def": "",
+    "translations": {}
+  },
+  "TBC": {
+    "def": "",
+    "translations": {}
+  },
+  "TFP": {
+    "def": "",
+    "translations": {}
+  },
+  "TIL": {
+    "def": "",
+    "translations": {}
+  },
+  "VHC": {
+    "def": "",
+    "translations": {}
+  },
+  "ABA": {
+    "def": "",
+    "translations": {}
+  },
+  "BBK": {
+    "def": "",
+    "translations": {}
+  },
+  "BMP": {
+    "def": "",
+    "translations": {}
+  },
+  "BNF": {
+    "def": "",
+    "translations": {}
+  },
+  "CIF": {
+    "def": "",
+    "translations": {}
+  },
+  "DAM": {
+    "def": "",
+    "translations": {}
+  },
+  "DTP": {
+    "def": "",
+    "translations": {}
+  },
+  "ECG": {
+    "def": "",
+    "translations": {}
+  },
+  "EDE": {
+    "def": "",
+    "translations": {}
+  },
+  "EIS": {
+    "def": "",
+    "translations": {}
+  },
+  "GMA": {
+    "def": "",
+    "translations": {}
+  },
+  "GOB": {
+    "def": "",
+    "translations": {}
+  },
+  "HAD": {
+    "def": "",
+    "translations": {}
+  },
+  "IMD": {
+    "def": "",
+    "translations": {}
+  },
+  "IVY": {
+    "def": "",
+    "translations": {}
+  },
+  "JAC": {
+    "def": "",
+    "translations": {}
+  },
+  "JMC": {
+    "def": "",
+    "translations": {}
+  },
+  "MCA": {
+    "def": "",
+    "translations": {}
+  },
+  "NCR": {
+    "def": "",
+    "translations": {}
+  },
+  "OVN": {
+    "def": "",
+    "translations": {}
+  },
+  "OVO": {
+    "def": "",
+    "translations": {}
+  },
+  "PAO": {
+    "def": "",
+    "translations": {}
+  },
+  "PDI": {
+    "def": "",
+    "translations": {}
+  },
+  "PTO": {
+    "def": "",
+    "translations": {}
+  },
+  "RTP": {
+    "def": "",
+    "translations": {}
+  },
+  "SAW": {
+    "def": "",
+    "translations": {}
+  },
+  "TIÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "ULL": {
+    "def": "",
+    "translations": {}
+  },
+  "UOM": {
+    "def": "",
+    "translations": {}
+  },
+  "BUN": {
+    "def": "",
+    "translations": {}
+  },
+  "CCN": {
+    "def": "",
+    "translations": {}
+  },
+  "CNO": {
+    "def": "",
+    "translations": {}
+  },
+  "CTN": {
+    "def": "",
+    "translations": {}
+  },
+  "CUL": {
+    "def": "",
+    "translations": {}
+  },
+  "EGA": {
+    "def": "",
+    "translations": {}
+  },
+  "FNT": {
+    "def": "",
+    "translations": {}
+  },
+  "HDR": {
+    "def": "",
+    "translations": {}
+  },
+  "ICD": {
+    "def": "",
+    "translations": {}
+  },
+  "ICP": {
+    "def": "",
+    "translations": {}
+  },
+  "IEE": {
+    "def": "",
+    "translations": {}
+  },
+  "LEG": {
+    "def": "",
+    "translations": {}
+  },
+  "MAT": {
+    "def": "",
+    "translations": {}
+  },
+  "NPS": {
+    "def": "",
+    "translations": {}
+  },
+  "OÑA": {
+    "def": "",
+    "translations": {}
+  },
+  "OTT": {
+    "def": "",
+    "translations": {}
+  },
+  "PAA": {
+    "def": "",
+    "translations": {}
+  },
+  "SEI": {
+    "def": "",
+    "translations": {}
+  },
+  "TFT": {
+    "def": "",
+    "translations": {}
+  },
+  "TSU": {
+    "def": "",
+    "translations": {}
+  },
+  "URB": {
+    "def": "",
+    "translations": {}
+  },
+  "UTU": {
+    "def": "",
+    "translations": {}
+  },
+  "VIT": {
+    "def": "",
+    "translations": {}
+  },
+  "WAP": {
+    "def": "",
+    "translations": {}
+  },
+  "ABN": {
+    "def": "",
+    "translations": {}
+  },
+  "CCU": {
+    "def": "",
+    "translations": {}
+  },
+  "CFP": {
+    "def": "",
+    "translations": {}
+  },
+  "CPA": {
+    "def": "",
+    "translations": {}
+  },
+  "CUÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "DDD": {
+    "def": "",
+    "translations": {}
+  },
+  "DID": {
+    "def": "",
+    "translations": {}
+  },
+  "DRO": {
+    "def": "",
+    "translations": {}
+  },
+  "DUI": {
+    "def": "",
+    "translations": {}
+  },
+  "EMS": {
+    "def": "",
+    "translations": {}
+  },
+  "EZP": {
+    "def": "",
+    "translations": {}
+  },
+  "FLO": {
+    "def": "",
+    "translations": {}
+  },
+  "ITP": {
+    "def": "",
+    "translations": {}
+  },
+  "LAV": {
+    "def": "",
+    "translations": {}
+  },
+  "MBI": {
+    "def": "",
+    "translations": {}
+  },
+  "MOF": {
+    "def": "",
+    "translations": {}
+  },
+  "NIL": {
+    "def": "",
+    "translations": {}
+  },
+  "NUR": {
+    "def": "",
+    "translations": {}
+  },
+  "OMM": {
+    "def": "",
+    "translations": {}
+  },
+  "PUR": {
+    "def": "",
+    "translations": {}
+  },
+  "RSU": {
+    "def": "",
+    "translations": {}
+  },
+  "SCA": {
+    "def": "",
+    "translations": {}
+  },
+  "TAR": {
+    "def": "",
+    "translations": {}
+  },
+  "TNP": {
+    "def": "",
+    "translations": {}
+  },
+  "TPM": {
+    "def": "",
+    "translations": {}
+  },
+  "TPS": {
+    "def": "",
+    "translations": {}
+  },
+  "UBI": {
+    "def": "",
+    "translations": {}
+  },
+  "VCM": {
+    "def": "",
+    "translations": {}
+  },
+  "ACC": {
+    "def": "",
+    "translations": {}
+  },
+  "AGS": {
+    "def": "",
+    "translations": {}
+  },
+  "ARD": {
+    "def": "",
+    "translations": {}
+  },
+  "ASU": {
+    "def": "",
+    "translations": {}
+  },
+  "BAE": {
+    "def": "",
+    "translations": {}
+  },
+  "BEY": {
+    "def": "",
+    "translations": {}
+  },
+  "CBA": {
+    "def": "",
+    "translations": {}
+  },
+  "CCR": {
+    "def": "",
+    "translations": {}
+  },
+  "CIR": {
+    "def": "",
+    "translations": {}
+  },
+  "COT": {
+    "def": "",
+    "translations": {}
+  },
+  "CPC": {
+    "def": "",
+    "translations": {}
+  },
+  "DAE": {
+    "def": "",
+    "translations": {}
+  },
+  "DDE": {
+    "def": "",
+    "translations": {}
+  },
+  "DTH": {
+    "def": "",
+    "translations": {}
+  },
+  "DYA": {
+    "def": "",
+    "translations": {}
+  },
+  "GDF": {
+    "def": "",
+    "translations": {}
+  },
+  "HMS": {
+    "def": "",
+    "translations": {}
+  },
+  "IDI": {
+    "def": "",
+    "translations": {}
+  },
+  "IKE": {
+    "def": "",
+    "translations": {}
+  },
+  "ITF": {
+    "def": "",
+    "translations": {}
+  },
+  "IVE": {
+    "def": "",
+    "translations": {}
+  },
+  "KUO": {
+    "def": "",
+    "translations": {}
+  },
+  "MEI": {
+    "def": "",
+    "translations": {}
+  },
+  "MUN": {
+    "def": "",
+    "translations": {}
+  },
+  "PAK": {
+    "def": "",
+    "translations": {}
+  },
+  "PHD": {
+    "def": "",
+    "translations": {}
+  },
+  "RKO": {
+    "def": "",
+    "translations": {}
+  },
+  "SGT": {
+    "def": "",
+    "translations": {}
+  },
+  "SNP": {
+    "def": "",
+    "translations": {}
+  },
+  "TTE": {
+    "def": "",
+    "translations": {}
+  },
+  "TTL": {
+    "def": "",
+    "translations": {}
+  },
+  "WAI": {
+    "def": "",
+    "translations": {}
+  },
+  "ZUM": {
+    "def": "",
+    "translations": {}
+  },
+  "AGD": {
+    "def": "",
+    "translations": {}
+  },
+  "CMQ": {
+    "def": "",
+    "translations": {}
+  },
+  "CNJ": {
+    "def": "",
+    "translations": {}
+  },
+  "COV": {
+    "def": "",
+    "translations": {}
+  },
+  "DIB": {
+    "def": "",
+    "translations": {}
+  },
+  "DLS": {
+    "def": "",
+    "translations": {}
+  },
+  "ENI": {
+    "def": "",
+    "translations": {}
+  },
+  "FNA": {
+    "def": "",
+    "translations": {}
+  },
+  "FNI": {
+    "def": "",
+    "translations": {}
+  },
+  "HAR": {
+    "def": "",
+    "translations": {}
+  },
+  "IDM": {
+    "def": "",
+    "translations": {}
+  },
+  "KIA": {
+    "def": "",
+    "translations": {}
+  },
+  "LPS": {
+    "def": "",
+    "translations": {}
+  },
+  "NEY": {
+    "def": "",
+    "translations": {}
+  },
+  "OBC": {
+    "def": "",
+    "translations": {}
+  },
+  "OIC": {
+    "def": "",
+    "translations": {}
+  },
+  "PPA": {
+    "def": "",
+    "translations": {}
+  },
+  "RMS": {
+    "def": "",
+    "translations": {}
+  },
+  "RND": {
+    "def": "",
+    "translations": {}
+  },
+  "SRM": {
+    "def": "",
+    "translations": {}
+  },
+  "TEE": {
+    "def": "",
+    "translations": {}
+  },
+  "TVA": {
+    "def": "",
+    "translations": {}
+  },
+  "UDO": {
+    "def": "",
+    "translations": {}
+  },
+  "UPM": {
+    "def": "",
+    "translations": {}
+  },
+  "VPN": {
+    "def": "",
+    "translations": {}
+  },
+  "VPP": {
+    "def": "",
+    "translations": {}
+  },
+  "WAV": {
+    "def": "",
+    "translations": {}
+  },
+  "ZDF": {
+    "def": "",
+    "translations": {}
+  },
+  "ADC": {
+    "def": "",
+    "translations": {}
+  },
+  "ANE": {
+    "def": "",
+    "translations": {}
+  },
+  "CHÚ": {
+    "def": "",
+    "translations": {}
+  },
+  "CUI": {
+    "def": "",
+    "translations": {}
+  },
+  "DOO": {
+    "def": "",
+    "translations": {}
+  },
+  "EDF": {
+    "def": "",
+    "translations": {}
+  },
+  "GOU": {
+    "def": "",
+    "translations": {}
+  },
+  "LEL": {
+    "def": "",
+    "translations": {}
+  },
+  "LEW": {
+    "def": "",
+    "translations": {}
+  },
+  "MTI": {
+    "def": "",
+    "translations": {}
+  },
+  "NAS": {
+    "def": "",
+    "translations": {}
+  },
+  "PGE": {
+    "def": "",
+    "translations": {}
+  },
+  "PRT": {
+    "def": "",
+    "translations": {}
+  },
+  "PUT": {
+    "def": "",
+    "translations": {}
+  },
+  "REN": {
+    "def": "",
+    "translations": {}
+  },
+  "RTL": {
+    "def": "",
+    "translations": {}
+  },
+  "SOM": {
+    "def": "",
+    "translations": {}
+  },
+  "TIÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "TMS": {
+    "def": "",
+    "translations": {}
+  },
+  "TNF": {
+    "def": "",
+    "translations": {}
+  },
+  "UOC": {
+    "def": "",
+    "translations": {}
+  },
+  "VDS": {
+    "def": "",
+    "translations": {}
+  },
+  "AKA": {
+    "def": "",
+    "translations": {}
+  },
+  "AMS": {
+    "def": "",
+    "translations": {}
+  },
+  "APG": {
+    "def": "",
+    "translations": {}
+  },
+  "APO": {
+    "def": "",
+    "translations": {}
+  },
+  "BEX": {
+    "def": "",
+    "translations": {}
+  },
+  "BIR": {
+    "def": "",
+    "translations": {}
+  },
+  "CJD": {
+    "def": "",
+    "translations": {}
+  },
+  "CPS": {
+    "def": "",
+    "translations": {}
+  },
+  "CTS": {
+    "def": "",
+    "translations": {}
+  },
+  "CUS": {
+    "def": "",
+    "translations": {}
+  },
+  "DEM": {
+    "def": "",
+    "translations": {}
+  },
+  "DEX": {
+    "def": "",
+    "translations": {}
+  },
+  "EMG": {
+    "def": "",
+    "translations": {}
+  },
+  "ENP": {
+    "def": "",
+    "translations": {}
+  },
+  "HMM": {
+    "def": "",
+    "translations": {}
+  },
+  "HWA": {
+    "def": "",
+    "translations": {}
+  },
+  "LAC": {
+    "def": "",
+    "translations": {}
+  },
+  "MDC": {
+    "def": "",
+    "translations": {}
+  },
+  "MPD": {
+    "def": "",
+    "translations": {}
+  },
+  "NSA": {
+    "def": "",
+    "translations": {}
+  },
+  "OÍD": {
+    "def": "",
+    "translations": {}
+  },
+  "OTA": {
+    "def": "",
+    "translations": {}
+  },
+  "PCD": {
+    "def": "",
+    "translations": {}
+  },
+  "PLI": {
+    "def": "",
+    "translations": {}
+  },
+  "POC": {
+    "def": "",
+    "translations": {}
+  },
+  "RIS": {
+    "def": "",
+    "translations": {}
+  },
+  "SND": {
+    "def": "",
+    "translations": {}
+  },
+  "STO": {
+    "def": "",
+    "translations": {}
+  },
+  "STT": {
+    "def": "",
+    "translations": {}
+  },
+  "TOD": {
+    "def": "",
+    "translations": {}
+  },
+  "TXT": {
+    "def": "",
+    "translations": {}
+  },
+  "UAX": {
+    "def": "",
+    "translations": {}
+  },
+  "ACF": {
+    "def": "",
+    "translations": {}
+  },
+  "AGB": {
+    "def": "",
+    "translations": {}
+  },
+  "BCC": {
+    "def": "",
+    "translations": {}
+  },
+  "CEV": {
+    "def": "",
+    "translations": {}
+  },
+  "CII": {
+    "def": "",
+    "translations": {}
+  },
+  "DEG": {
+    "def": "",
+    "translations": {}
+  },
+  "ERI": {
+    "def": "",
+    "translations": {}
+  },
+  "EUS": {
+    "def": "",
+    "translations": {}
+  },
+  "FAU": {
+    "def": "",
+    "translations": {}
+  },
+  "FMV": {
+    "def": "",
+    "translations": {}
+  },
+  "GRE": {
+    "def": "",
+    "translations": {}
+  },
+  "HAQ": {
+    "def": "",
+    "translations": {}
+  },
+  "HGB": {
+    "def": "",
+    "translations": {}
+  },
+  "JPG": {
+    "def": "",
+    "translations": {}
+  },
+  "KON": {
+    "def": "",
+    "translations": {}
+  },
+  "MGS": {
+    "def": "",
+    "translations": {}
+  },
+  "MSD": {
+    "def": "",
+    "translations": {}
+  },
+  "NRC": {
+    "def": "",
+    "translations": {}
+  },
+  "OCI": {
+    "def": "",
+    "translations": {}
+  },
+  "PAE": {
+    "def": "",
+    "translations": {}
+  },
+  "PEL": {
+    "def": "",
+    "translations": {}
+  },
+  "RUC": {
+    "def": "",
+    "translations": {}
+  },
+  "SIJ": {
+    "def": "",
+    "translations": {}
+  },
+  "SPS": {
+    "def": "",
+    "translations": {}
+  },
+  "TMB": {
+    "def": "",
+    "translations": {}
+  },
+  "WET": {
+    "def": "",
+    "translations": {}
+  },
+  "AMQ": {
+    "def": "",
+    "translations": {}
+  },
+  "ASE": {
+    "def": "",
+    "translations": {}
+  },
+  "BFP": {
+    "def": "",
+    "translations": {}
+  },
+  "CGE": {
+    "def": "",
+    "translations": {}
+  },
+  "COY": {
+    "def": "",
+    "translations": {}
+  },
+  "DUX": {
+    "def": "",
+    "translations": {}
+  },
+  "EBA": {
+    "def": "",
+    "translations": {}
+  },
+  "EUR": {
+    "def": "",
+    "translations": {}
+  },
+  "FUL": {
+    "def": "",
+    "translations": {}
+  },
+  "GAT": {
+    "def": "",
+    "translations": {}
+  },
+  "GES": {
+    "def": "",
+    "translations": {}
+  },
+  "GMC": {
+    "def": "",
+    "translations": {}
+  },
+  "HUD": {
+    "def": "",
+    "translations": {}
+  },
+  "ICQ": {
+    "def": "",
+    "translations": {}
+  },
+  "ICS": {
+    "def": "",
+    "translations": {}
+  },
+  "ITB": {
+    "def": "",
+    "translations": {}
+  },
+  "LIG": {
+    "def": "",
+    "translations": {}
+  },
+  "MOB": {
+    "def": "",
+    "translations": {}
+  },
+  "NHK": {
+    "def": "",
+    "translations": {}
+  },
+  "ORY": {
+    "def": "",
+    "translations": {}
+  },
+  "PCV": {
+    "def": "",
+    "translations": {}
+  },
+  "PJF": {
+    "def": "",
+    "translations": {}
+  },
+  "QAP": {
+    "def": "",
+    "translations": {}
+  },
+  "RAU": {
+    "def": "",
+    "translations": {}
+  },
+  "RRV": {
+    "def": "",
+    "translations": {}
+  },
+  "SNE": {
+    "def": "",
+    "translations": {}
+  },
+  "VIF": {
+    "def": "",
+    "translations": {}
+  },
+  "ZAC": {
+    "def": "",
+    "translations": {}
+  },
+  "ADD": {
+    "def": "",
+    "translations": {}
+  },
+  "AHU": {
+    "def": "",
+    "translations": {}
+  },
+  "BDC": {
+    "def": "",
+    "translations": {}
+  },
+  "CGC": {
+    "def": "",
+    "translations": {}
+  },
+  "CJM": {
+    "def": "",
+    "translations": {}
+  },
+  "DHU": {
+    "def": "",
+    "translations": {}
+  },
+  "DNC": {
+    "def": "",
+    "translations": {}
+  },
+  "DTO": {
+    "def": "",
+    "translations": {}
+  },
+  "EIC": {
+    "def": "",
+    "translations": {}
+  },
+  "EMC": {
+    "def": "",
+    "translations": {}
+  },
+  "ETI": {
+    "def": "",
+    "translations": {}
+  },
+  "HCL": {
+    "def": "",
+    "translations": {}
+  },
+  "HIM": {
+    "def": "",
+    "translations": {}
+  },
+  "IMA": {
+    "def": "",
+    "translations": {}
+  },
+  "INO": {
+    "def": "",
+    "translations": {}
+  },
+  "JOÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "LAE": {
+    "def": "",
+    "translations": {}
+  },
+  "NEA": {
+    "def": "",
+    "translations": {}
+  },
+  "NOC": {
+    "def": "",
+    "translations": {}
+  },
+  "OMA": {
+    "def": "",
+    "translations": {}
+  },
+  "SCO": {
+    "def": "",
+    "translations": {}
+  },
+  "SEL": {
+    "def": "",
+    "translations": {}
+  },
+  "SKF": {
+    "def": "",
+    "translations": {}
+  },
+  "SRL": {
+    "def": "",
+    "translations": {}
+  },
+  "SUC": {
+    "def": "",
+    "translations": {}
+  },
+  "TIT": {
+    "def": "",
+    "translations": {}
+  },
+  "TPA": {
+    "def": "",
+    "translations": {}
+  },
+  "TSH": {
+    "def": "",
+    "translations": {}
+  },
+  "UFP": {
+    "def": "",
+    "translations": {}
+  },
+  "UTM": {
+    "def": "",
+    "translations": {}
+  },
+  "VPR": {
+    "def": "",
+    "translations": {}
+  },
+  "AAE": {
+    "def": "",
+    "translations": {}
+  },
+  "AAP": {
+    "def": "",
+    "translations": {}
+  },
+  "APP": {
+    "def": "",
+    "translations": {}
+  },
+  "ATB": {
+    "def": "",
+    "translations": {}
+  },
+  "BBS": {
+    "def": "",
+    "translations": {}
+  },
+  "BER": {
+    "def": "",
+    "translations": {}
+  },
+  "BET": {
+    "def": "",
+    "translations": {}
+  },
+  "BOW": {
+    "def": "",
+    "translations": {}
+  },
+  "CLL": {
+    "def": "",
+    "translations": {}
+  },
+  "DSL": {
+    "def": "",
+    "translations": {}
+  },
+  "ECP": {
+    "def": "",
+    "translations": {}
+  },
+  "EDP": {
+    "def": "",
+    "translations": {}
+  },
+  "EDY": {
+    "def": "",
+    "translations": {}
+  },
+  "EFA": {
+    "def": "",
+    "translations": {}
+  },
+  "EHP": {
+    "def": "",
+    "translations": {}
+  },
+  "EOC": {
+    "def": "",
+    "translations": {}
+  },
+  "ESL": {
+    "def": "",
+    "translations": {}
+  },
+  "FFS": {
+    "def": "",
+    "translations": {}
+  },
+  "FLA": {
+    "def": "",
+    "translations": {}
+  },
+  "GLI": {
+    "def": "",
+    "translations": {}
+  },
+  "HCH": {
+    "def": "",
+    "translations": {}
+  },
+  "IED": {
+    "def": "",
+    "translations": {}
+  },
+  "IET": {
+    "def": "",
+    "translations": {}
+  },
+  "IOM": {
+    "def": "",
+    "translations": {}
+  },
+  "JAB": {
+    "def": "",
+    "translations": {}
+  },
+  "LGS": {
+    "def": "",
+    "translations": {}
+  },
+  "MRL": {
+    "def": "",
+    "translations": {}
+  },
+  "NTX": {
+    "def": "",
+    "translations": {}
+  },
+  "OSI": {
+    "def": "",
+    "translations": {}
+  },
+  "PDH": {
+    "def": "",
+    "translations": {}
+  },
+  "PJE": {
+    "def": "",
+    "translations": {}
+  },
+  "PSU": {
+    "def": "",
+    "translations": {}
+  },
+  "RNV": {
+    "def": "",
+    "translations": {}
+  },
+  "RSA": {
+    "def": "",
+    "translations": {}
+  },
+  "STE": {
+    "def": "",
+    "translations": {}
+  },
+  "SUK": {
+    "def": "",
+    "translations": {}
+  },
+  "TUT": {
+    "def": "",
+    "translations": {}
+  },
+  "UDN": {
+    "def": "",
+    "translations": {}
+  },
+  "UPG": {
+    "def": "",
+    "translations": {}
+  },
+  "VEL": {
+    "def": "",
+    "translations": {}
+  },
+  "VIR": {
+    "def": "",
+    "translations": {}
+  },
+  "VMS": {
+    "def": "",
+    "translations": {}
+  },
+  "ACH": {
+    "def": "",
+    "translations": {}
+  },
+  "BIE": {
+    "def": "",
+    "translations": {}
+  },
+  "BUY": {
+    "def": "",
+    "translations": {}
+  },
+  "CAA": {
+    "def": "",
+    "translations": {}
+  },
+  "CCS": {
+    "def": "",
+    "translations": {}
+  },
+  "CFT": {
+    "def": "",
+    "translations": {}
+  },
+  "EBC": {
+    "def": "",
+    "translations": {}
+  },
+  "EÇA": {
+    "def": "",
+    "translations": {}
+  },
+  "EDÚ": {
+    "def": "",
+    "translations": {}
+  },
+  "ENC": {
+    "def": "",
+    "translations": {}
+  },
+  "ENL": {
+    "def": "",
+    "translations": {}
+  },
+  "GAR": {
+    "def": "",
+    "translations": {}
+  },
+  "GTZ": {
+    "def": "",
+    "translations": {}
+  },
+  "MEW": {
+    "def": "",
+    "translations": {}
+  },
+  "MOE": {
+    "def": "",
+    "translations": {}
+  },
+  "NAC": {
+    "def": "",
+    "translations": {}
+  },
+  "NAD": {
+    "def": "",
+    "translations": {}
+  },
+  "NIÑ": {
+    "def": "",
+    "translations": {}
+  },
+  "NOX": {
+    "def": "",
+    "translations": {}
+  },
+  "OHM": {
+    "def": "",
+    "translations": {}
+  },
+  "PEI": {
+    "def": "",
+    "translations": {}
+  },
+  "PNL": {
+    "def": "",
+    "translations": {}
+  },
+  "PTT": {
+    "def": "",
+    "translations": {}
+  },
+  "RIA": {
+    "def": "",
+    "translations": {}
+  },
+  "SUH": {
+    "def": "",
+    "translations": {}
+  },
+  "SUV": {
+    "def": "",
+    "translations": {}
+  },
+  "SVE": {
+    "def": "",
+    "translations": {}
+  },
+  "TGN": {
+    "def": "",
+    "translations": {}
+  },
+  "TUZ": {
+    "def": "",
+    "translations": {}
+  },
+  "ULD": {
+    "def": "",
+    "translations": {}
+  },
+  "UME": {
+    "def": "",
+    "translations": {}
+  },
+  "VUK": {
+    "def": "",
+    "translations": {}
+  },
+  "YUL": {
+    "def": "",
+    "translations": {}
+  },
+  "AHM": {
+    "def": "",
+    "translations": {}
+  },
+  "CBF": {
+    "def": "",
+    "translations": {}
+  },
+  "CCM": {
+    "def": "",
+    "translations": {}
+  },
+  "CCP": {
+    "def": "",
+    "translations": {}
+  },
+  "CMD": {
+    "def": "",
+    "translations": {}
+  },
+  "CRS": {
+    "def": "",
+    "translations": {}
+  },
+  "DAP": {
+    "def": "",
+    "translations": {}
+  },
+  "DIT": {
+    "def": "",
+    "translations": {}
+  },
+  "EEC": {
+    "def": "",
+    "translations": {}
+  },
+  "EID": {
+    "def": "",
+    "translations": {}
+  },
+  "EOS": {
+    "def": "",
+    "translations": {}
+  },
+  "ETE": {
+    "def": "",
+    "translations": {}
+  },
+  "FAV": {
+    "def": "",
+    "translations": {}
+  },
+  "FCI": {
+    "def": "",
+    "translations": {}
+  },
+  "HAU": {
+    "def": "",
+    "translations": {}
+  },
+  "HAW": {
+    "def": "",
+    "translations": {}
+  },
+  "IPM": {
+    "def": "",
+    "translations": {}
+  },
+  "ISC": {
+    "def": "",
+    "translations": {}
+  },
+  "ITÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "IXE": {
+    "def": "",
+    "translations": {}
+  },
+  "LOF": {
+    "def": "",
+    "translations": {}
+  },
+  "MSF": {
+    "def": "",
+    "translations": {}
+  },
+  "MUT": {
+    "def": "",
+    "translations": {}
+  },
+  "NSF": {
+    "def": "",
+    "translations": {}
+  },
+  "OPP": {
+    "def": "",
+    "translations": {}
+  },
+  "PMT": {
+    "def": "",
+    "translations": {}
+  },
+  "PRP": {
+    "def": "",
+    "translations": {}
+  },
+  "PZA": {
+    "def": "",
+    "translations": {}
+  },
+  "RDS": {
+    "def": "",
+    "translations": {}
+  },
+  "TCR": {
+    "def": "",
+    "translations": {}
+  },
+  "UAS": {
+    "def": "",
+    "translations": {}
+  },
+  "UCO": {
+    "def": "",
+    "translations": {}
+  },
+  "VAO": {
+    "def": "",
+    "translations": {}
+  },
+  "VOC": {
+    "def": "",
+    "translations": {}
+  },
+  "WES": {
+    "def": "",
+    "translations": {}
+  },
+  "XLI": {
+    "def": "",
+    "translations": {}
+  },
+  "XLV": {
+    "def": "",
+    "translations": {}
+  },
+  "ZAJ": {
+    "def": "",
+    "translations": {}
+  },
+  "ACD": {
+    "def": "",
+    "translations": {}
+  },
+  "ADJ": {
+    "def": "",
+    "translations": {}
+  },
+  "AEL": {
+    "def": "",
+    "translations": {}
+  },
+  "AFC": {
+    "def": "",
+    "translations": {}
+  },
+  "ALF": {
+    "def": "",
+    "translations": {}
+  },
+  "ASS": {
+    "def": "",
+    "translations": {}
+  },
+  "BAI": {
+    "def": "",
+    "translations": {}
+  },
+  "BAU": {
+    "def": "",
+    "translations": {}
+  },
+  "BWV": {
+    "def": "",
+    "translations": {}
+  },
+  "CGV": {
+    "def": "",
+    "translations": {}
+  },
+  "CPH": {
+    "def": "",
+    "translations": {}
+  },
+  "CUE": {
+    "def": "",
+    "translations": {}
+  },
+  "DÉL": {
+    "def": "",
+    "translations": {}
+  },
+  "DHA": {
+    "def": "",
+    "translations": {}
+  },
+  "DLN": {
+    "def": "",
+    "translations": {}
+  },
+  "EBY": {
+    "def": "",
+    "translations": {}
+  },
+  "EÓN": {
+    "def": "",
+    "translations": {}
+  },
+  "FDC": {
+    "def": "",
+    "translations": {}
+  },
+  "FTT": {
+    "def": "",
+    "translations": {}
+  },
+  "GAZ": {
+    "def": "",
+    "translations": {}
+  },
+  "GEE": {
+    "def": "",
+    "translations": {}
+  },
+  "HRW": {
+    "def": "",
+    "translations": {}
+  },
+  "ICL": {
+    "def": "",
+    "translations": {}
+  },
+  "IRS": {
+    "def": "",
+    "translations": {}
+  },
+  "JPL": {
+    "def": "",
+    "translations": {}
+  },
+  "LAD": {
+    "def": "",
+    "translations": {}
+  },
+  "LYS": {
+    "def": "",
+    "translations": {}
+  },
+  "MMS": {
+    "def": "",
+    "translations": {}
+  },
+  "MÓN": {
+    "def": "",
+    "translations": {}
+  },
+  "MOO": {
+    "def": "",
+    "translations": {}
+  },
+  "MPH": {
+    "def": "",
+    "translations": {}
+  },
+  "MUÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "OAS": {
+    "def": "",
+    "translations": {}
+  },
+  "PAH": {
+    "def": "",
+    "translations": {}
+  },
+  "QIN": {
+    "def": "",
+    "translations": {}
+  },
+  "RAÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "RAW": {
+    "def": "",
+    "translations": {}
+  },
+  "TBO": {
+    "def": "",
+    "translations": {}
+  },
+  "TDC": {
+    "def": "",
+    "translations": {}
+  },
+  "TDI": {
+    "def": "",
+    "translations": {}
+  },
+  "TNM": {
+    "def": "",
+    "translations": {}
+  },
+  "TOX": {
+    "def": "",
+    "translations": {}
+  },
+  "UMO": {
+    "def": "",
+    "translations": {}
+  },
+  "URS": {
+    "def": "",
+    "translations": {}
+  },
+  "URU": {
+    "def": "",
+    "translations": {}
+  },
+  "YUN": {
+    "def": "",
+    "translations": {}
+  },
+  "AHÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "AIS": {
+    "def": "",
+    "translations": {}
+  },
+  "ANS": {
+    "def": "",
+    "translations": {}
+  },
+  "BOT": {
+    "def": "",
+    "translations": {}
+  },
+  "CBC": {
+    "def": "",
+    "translations": {}
+  },
+  "CIB": {
+    "def": "",
+    "translations": {}
+  },
+  "COF": {
+    "def": "",
+    "translations": {}
+  },
+  "CPP": {
+    "def": "",
+    "translations": {}
+  },
+  "CTH": {
+    "def": "",
+    "translations": {}
+  },
+  "DLL": {
+    "def": "",
+    "translations": {}
+  },
+  "DST": {
+    "def": "",
+    "translations": {}
+  },
+  "EGI": {
+    "def": "",
+    "translations": {}
+  },
+  "EJO": {
+    "def": "",
+    "translations": {}
+  },
+  "FRU": {
+    "def": "",
+    "translations": {}
+  },
+  "FTC": {
+    "def": "",
+    "translations": {}
+  },
+  "FUA": {
+    "def": "",
+    "translations": {}
+  },
+  "FVF": {
+    "def": "",
+    "translations": {}
+  },
+  "GOY": {
+    "def": "",
+    "translations": {}
+  },
+  "HDZ": {
+    "def": "",
+    "translations": {}
+  },
+  "INM": {
+    "def": "",
+    "translations": {}
+  },
+  "KAL": {
+    "def": "",
+    "translations": {}
+  },
+  "LÁM": {
+    "def": "",
+    "translations": {}
+  },
+  "LIL": {
+    "def": "",
+    "translations": {}
+  },
+  "LLU": {
+    "def": "",
+    "translations": {}
+  },
+  "LNN": {
+    "def": "",
+    "translations": {}
+  },
+  "LPF": {
+    "def": "",
+    "translations": {}
+  },
+  "MEÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "MOC": {
+    "def": "",
+    "translations": {}
+  },
+  "MOM": {
+    "def": "",
+    "translations": {}
+  },
+  "MPI": {
+    "def": "",
+    "translations": {}
+  },
+  "NUT": {
+    "def": "",
+    "translations": {}
+  },
+  "ODS": {
+    "def": "",
+    "translations": {}
+  },
+  "OES": {
+    "def": "",
+    "translations": {}
+  },
+  "ORE": {
+    "def": "",
+    "translations": {}
+  },
+  "PIÙ": {
+    "def": "",
+    "translations": {}
+  },
+  "PNG": {
+    "def": "",
+    "translations": {}
+  },
+  "PSM": {
+    "def": "",
+    "translations": {}
+  },
+  "RCT": {
+    "def": "",
+    "translations": {}
+  },
+  "RUL": {
+    "def": "",
+    "translations": {}
+  },
+  "SGS": {
+    "def": "",
+    "translations": {}
+  },
+  "TCI": {
+    "def": "",
+    "translations": {}
+  },
+  "UCC": {
+    "def": "",
+    "translations": {}
+  },
+  "UGR": {
+    "def": "",
+    "translations": {}
+  },
+  "URO": {
+    "def": "",
+    "translations": {}
+  },
+  "VEP": {
+    "def": "",
+    "translations": {}
+  },
+  "VPM": {
+    "def": "",
+    "translations": {}
+  },
+  "AGM": {
+    "def": "",
+    "translations": {}
+  },
+  "AIA": {
+    "def": "",
+    "translations": {}
+  },
+  "ALS": {
+    "def": "",
+    "translations": {}
+  },
+  "AMR": {
+    "def": "",
+    "translations": {}
+  },
+  "ASD": {
+    "def": "",
+    "translations": {}
+  },
+  "BEF": {
+    "def": "",
+    "translations": {}
+  },
+  "BLE": {
+    "def": "",
+    "translations": {}
+  },
+  "CGS": {
+    "def": "",
+    "translations": {}
+  },
+  "CSA": {
+    "def": "",
+    "translations": {}
+  },
+  "DZD": {
+    "def": "",
+    "translations": {}
+  },
+  "EGP": {
+    "def": "",
+    "translations": {}
+  },
+  "FAE": {
+    "def": "",
+    "translations": {}
+  },
+  "GAU": {
+    "def": "",
+    "translations": {}
+  },
+  "GRP": {
+    "def": "",
+    "translations": {}
+  },
+  "HUÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "IMO": {
+    "def": "",
+    "translations": {}
+  },
+  "JAS": {
+    "def": "",
+    "translations": {}
+  },
+  "JEC": {
+    "def": "",
+    "translations": {}
+  },
+  "KOS": {
+    "def": "",
+    "translations": {}
+  },
+  "LDR": {
+    "def": "",
+    "translations": {}
+  },
+  "MUA": {
+    "def": "",
+    "translations": {}
+  },
+  "MWH": {
+    "def": "",
+    "translations": {}
+  },
+  "OAX": {
+    "def": "",
+    "translations": {}
+  },
+  "ORR": {
+    "def": "",
+    "translations": {}
+  },
+  "OSM": {
+    "def": "",
+    "translations": {}
+  },
+  "PGN": {
+    "def": "",
+    "translations": {}
+  },
+  "PND": {
+    "def": "",
+    "translations": {}
+  },
+  "PPR": {
+    "def": "",
+    "translations": {}
+  },
+  "PUÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "RAB": {
+    "def": "",
+    "translations": {}
+  },
+  "SÍO": {
+    "def": "",
+    "translations": {}
+  },
+  "SSS": {
+    "def": "",
+    "translations": {}
+  },
+  "STI": {
+    "def": "",
+    "translations": {}
+  },
+  "TCA": {
+    "def": "",
+    "translations": {}
+  },
+  "TDB": {
+    "def": "",
+    "translations": {}
+  },
+  "UAG": {
+    "def": "",
+    "translations": {}
+  },
+  "YAM": {
+    "def": "",
+    "translations": {}
+  },
+  "ZEE": {
+    "def": "",
+    "translations": {}
+  },
+  "ZHI": {
+    "def": "",
+    "translations": {}
+  },
+  "AFÚ": {
+    "def": "",
+    "translations": {}
+  },
+  "AIC": {
+    "def": "",
+    "translations": {}
+  },
+  "BGF": {
+    "def": "",
+    "translations": {}
+  },
+  "BOR": {
+    "def": "",
+    "translations": {}
+  },
+  "BUE": {
+    "def": "",
+    "translations": {}
+  },
+  "CCA": {
+    "def": "",
+    "translations": {}
+  },
+  "CCH": {
+    "def": "",
+    "translations": {}
+  },
+  "CHQ": {
+    "def": "",
+    "translations": {}
+  },
+  "CME": {
+    "def": "",
+    "translations": {}
+  },
+  "CNG": {
+    "def": "",
+    "translations": {}
+  },
+  "CNR": {
+    "def": "",
+    "translations": {}
+  },
+  "CPE": {
+    "def": "",
+    "translations": {}
+  },
+  "CRY": {
+    "def": "",
+    "translations": {}
+  },
+  "DNP": {
+    "def": "",
+    "translations": {}
+  },
+  "DOU": {
+    "def": "",
+    "translations": {}
+  },
+  "DOZ": {
+    "def": "",
+    "translations": {}
+  },
+  "DRS": {
+    "def": "",
+    "translations": {}
+  },
+  "EAR": {
+    "def": "",
+    "translations": {}
+  },
+  "ECM": {
+    "def": "",
+    "translations": {}
+  },
+  "FEC": {
+    "def": "",
+    "translations": {}
+  },
+  "FEN": {
+    "def": "",
+    "translations": {}
+  },
+  "FID": {
+    "def": "",
+    "translations": {}
+  },
+  "FOI": {
+    "def": "",
+    "translations": {}
+  },
+  "FOP": {
+    "def": "",
+    "translations": {}
+  },
+  "GEC": {
+    "def": "",
+    "translations": {}
+  },
+  "GMS": {
+    "def": "",
+    "translations": {}
+  },
+  "HGO": {
+    "def": "",
+    "translations": {}
+  },
+  "HRB": {
+    "def": "",
+    "translations": {}
+  },
+  "IDU": {
+    "def": "",
+    "translations": {}
+  },
+  "IGI": {
+    "def": "",
+    "translations": {}
+  },
+  "JEP": {
+    "def": "",
+    "translations": {}
+  },
+  "KEW": {
+    "def": "",
+    "translations": {}
+  },
+  "KVA": {
+    "def": "",
+    "translations": {}
+  },
+  "LGC": {
+    "def": "",
+    "translations": {}
+  },
+  "LLE": {
+    "def": "",
+    "translations": {}
+  },
+  "LMP": {
+    "def": "",
+    "translations": {}
+  },
+  "MCT": {
+    "def": "",
+    "translations": {}
+  },
+  "MEM": {
+    "def": "",
+    "translations": {}
+  },
+  "MMH": {
+    "def": "",
+    "translations": {}
+  },
+  "MPP": {
+    "def": "",
+    "translations": {}
+  },
+  "MTP": {
+    "def": "",
+    "translations": {}
+  },
+  "NIE": {
+    "def": "",
+    "translations": {}
+  },
+  "NTA": {
+    "def": "",
+    "translations": {}
+  },
+  "OIA": {
+    "def": "",
+    "translations": {}
+  },
+  "PCG": {
+    "def": "",
+    "translations": {}
+  },
+  "PPL": {
+    "def": "",
+    "translations": {}
+  },
+  "PPT": {
+    "def": "",
+    "translations": {}
+  },
+  "PTI": {
+    "def": "",
+    "translations": {}
+  },
+  "RUT": {
+    "def": "",
+    "translations": {}
+  },
+  "SMM": {
+    "def": "",
+    "translations": {}
+  },
+  "SOI": {
+    "def": "",
+    "translations": {}
+  },
+  "SPY": {
+    "def": "",
+    "translations": {}
+  },
+  "TPV": {
+    "def": "",
+    "translations": {}
+  },
+  "UFÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "USC": {
+    "def": "",
+    "translations": {}
+  },
+  "VPU": {
+    "def": "",
+    "translations": {}
+  },
+  "WTC": {
+    "def": "",
+    "translations": {}
+  },
+  "XYZ": {
+    "def": "",
+    "translations": {}
+  },
+  "ALU": {
+    "def": "",
+    "translations": {}
+  },
+  "ASÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "BIM": {
+    "def": "",
+    "translations": {}
+  },
+  "BLÁ": {
+    "def": "",
+    "translations": {}
+  },
+  "BTA": {
+    "def": "",
+    "translations": {}
+  },
+  "CHC": {
+    "def": "",
+    "translations": {}
+  },
+  "CHD": {
+    "def": "",
+    "translations": {}
+  },
+  "DAG": {
+    "def": "",
+    "translations": {}
+  },
+  "FEP": {
+    "def": "",
+    "translations": {}
+  },
+  "FMO": {
+    "def": "",
+    "translations": {}
+  },
+  "FSB": {
+    "def": "",
+    "translations": {}
+  },
+  "HEE": {
+    "def": "",
+    "translations": {}
+  },
+  "HMO": {
+    "def": "",
+    "translations": {}
+  },
+  "HOF": {
+    "def": "",
+    "translations": {}
+  },
+  "HSS": {
+    "def": "",
+    "translations": {}
+  },
+  "IBR": {
+    "def": "",
+    "translations": {}
+  },
+  "ITU": {
+    "def": "",
+    "translations": {}
+  },
+  "JOU": {
+    "def": "",
+    "translations": {}
+  },
+  "KNM": {
+    "def": "",
+    "translations": {}
+  },
+  "LDU": {
+    "def": "",
+    "translations": {}
+  },
+  "LVI": {
+    "def": "",
+    "translations": {}
+  },
+  "MMP": {
+    "def": "",
+    "translations": {}
+  },
+  "NAG": {
+    "def": "",
+    "translations": {}
+  },
+  "NAH": {
+    "def": "",
+    "translations": {}
+  },
+  "NDT": {
+    "def": "",
+    "translations": {}
+  },
+  "NOE": {
+    "def": "",
+    "translations": {}
+  },
+  "PBS": {
+    "def": "",
+    "translations": {}
+  },
+  "PNA": {
+    "def": "",
+    "translations": {}
+  },
+  "PRM": {
+    "def": "",
+    "translations": {}
+  },
+  "RJR": {
+    "def": "",
+    "translations": {}
+  },
+  "RTF": {
+    "def": "",
+    "translations": {}
+  },
+  "RUF": {
+    "def": "",
+    "translations": {}
+  },
+  "SMA": {
+    "def": "",
+    "translations": {}
+  },
+  "TMM": {
+    "def": "",
+    "translations": {}
+  },
+  "TSS": {
+    "def": "",
+    "translations": {}
+  },
+  "UIC": {
+    "def": "",
+    "translations": {}
+  },
+  "USP": {
+    "def": "",
+    "translations": {}
+  },
+  "UTP": {
+    "def": "",
+    "translations": {}
+  },
+  "UVB": {
+    "def": "",
+    "translations": {}
+  },
+  "VHB": {
+    "def": "",
+    "translations": {}
+  },
+  "VSG": {
+    "def": "",
+    "translations": {}
+  },
+  "ZAK": {
+    "def": "",
+    "translations": {}
+  },
+  "ZER": {
+    "def": "",
+    "translations": {}
+  },
+  "ACR": {
+    "def": "",
+    "translations": {}
+  },
+  "ADS": {
+    "def": "",
+    "translations": {}
+  },
+  "AET": {
+    "def": "",
+    "translations": {}
+  },
+  "AGI": {
+    "def": "",
+    "translations": {}
+  },
+  "ANB": {
+    "def": "",
+    "translations": {}
+  },
+  "ANU": {
+    "def": "",
+    "translations": {}
+  },
+  "APE": {
+    "def": "",
+    "translations": {}
+  },
+  "APF": {
+    "def": "",
+    "translations": {}
+  },
+  "ASK": {
+    "def": "",
+    "translations": {}
+  },
+  "BEM": {
+    "def": "",
+    "translations": {}
+  },
+  "BMX": {
+    "def": "",
+    "translations": {}
+  },
+  "BUL": {
+    "def": "",
+    "translations": {}
+  },
+  "CDL": {
+    "def": "",
+    "translations": {}
+  },
+  "CEH": {
+    "def": "",
+    "translations": {}
+  },
+  "CHN": {
+    "def": "",
+    "translations": {}
+  },
+  "CNV": {
+    "def": "",
+    "translations": {}
+  },
+  "CPD": {
+    "def": "",
+    "translations": {}
+  },
+  "CPN": {
+    "def": "",
+    "translations": {}
+  },
+  "CYD": {
+    "def": "",
+    "translations": {}
+  },
+  "DEP": {
+    "def": "",
+    "translations": {}
+  },
+  "DOI": {
+    "def": "",
+    "translations": {}
+  },
+  "DRU": {
+    "def": "",
+    "translations": {}
+  },
+  "DYE": {
+    "def": "",
+    "translations": {}
+  },
+  "EGG": {
+    "def": "",
+    "translations": {}
+  },
+  "ELM": {
+    "def": "",
+    "translations": {}
+  },
+  "FEV": {
+    "def": "",
+    "translations": {}
+  },
+  "FLT": {
+    "def": "",
+    "translations": {}
+  },
+  "HOU": {
+    "def": "",
+    "translations": {}
+  },
+  "IFN": {
+    "def": "",
+    "translations": {}
+  },
+  "IMG": {
+    "def": "",
+    "translations": {}
+  },
+  "JOA": {
+    "def": "",
+    "translations": {}
+  },
+  "LÍE": {
+    "def": "",
+    "translations": {}
+  },
+  "MRE": {
+    "def": "",
+    "translations": {}
+  },
+  "MVP": {
+    "def": "",
+    "translations": {}
+  },
+  "NCE": {
+    "def": "",
+    "translations": {}
+  },
+  "NMB": {
+    "def": "",
+    "translations": {}
+  },
+  "NÓS": {
+    "def": "",
+    "translations": {}
+  },
+  "NTV": {
+    "def": "",
+    "translations": {}
+  },
+  "OPC": {
+    "def": "",
+    "translations": {}
+  },
+  "OXI": {
+    "def": "",
+    "translations": {}
+  },
+  "PEF": {
+    "def": "",
+    "translations": {}
+  },
+  "PIÚ": {
+    "def": "",
+    "translations": {}
+  },
+  "PRN": {
+    "def": "",
+    "translations": {}
+  },
+  "QUÈ": {
+    "def": "",
+    "translations": {}
+  },
+  "RCE": {
+    "def": "",
+    "translations": {}
+  },
+  "REB": {
+    "def": "",
+    "translations": {}
+  },
+  "RET": {
+    "def": "",
+    "translations": {}
+  },
+  "RRE": {
+    "def": "",
+    "translations": {}
+  },
+  "SBC": {
+    "def": "",
+    "translations": {}
+  },
+  "SIB": {
+    "def": "",
+    "translations": {}
+  },
+  "SOO": {
+    "def": "",
+    "translations": {}
+  },
+  "STR": {
+    "def": "",
+    "translations": {}
+  },
+  "SUZ": {
+    "def": "",
+    "translations": {}
+  },
+  "TAY": {
+    "def": "",
+    "translations": {}
+  },
+  "TBA": {
+    "def": "",
+    "translations": {}
+  },
+  "UDA": {
+    "def": "",
+    "translations": {}
+  },
+  "VAD": {
+    "def": "",
+    "translations": {}
+  },
+  "WAD": {
+    "def": "",
+    "translations": {}
+  },
+  "WAT": {
+    "def": "",
+    "translations": {}
+  },
+  "WOW": {
+    "def": "",
+    "translations": {}
+  },
+  "ZIM": {
+    "def": "",
+    "translations": {}
+  },
+  "AHH": {
+    "def": "",
+    "translations": {}
+  },
+  "APU": {
+    "def": "",
+    "translations": {}
+  },
+  "ASO": {
+    "def": "",
+    "translations": {}
+  },
+  "BLU": {
+    "def": "",
+    "translations": {}
+  },
+  "BMJ": {
+    "def": "",
+    "translations": {}
+  },
+  "BNC": {
+    "def": "",
+    "translations": {}
+  },
+  "BSA": {
+    "def": "",
+    "translations": {}
+  },
+  "CER": {
+    "def": "",
+    "translations": {}
+  },
+  "CEW": {
+    "def": "",
+    "translations": {}
+  },
+  "CMP": {
+    "def": "",
+    "translations": {}
+  },
+  "COG": {
+    "def": "",
+    "translations": {}
+  },
+  "CTP": {
+    "def": "",
+    "translations": {}
+  },
+  "DSP": {
+    "def": "",
+    "translations": {}
+  },
+  "EPN": {
+    "def": "",
+    "translations": {}
+  },
+  "FHV": {
+    "def": "",
+    "translations": {}
+  },
+  "FIÓ": {
+    "def": "",
+    "translations": {}
+  },
+  "FLP": {
+    "def": "",
+    "translations": {}
+  },
+  "FSA": {
+    "def": "",
+    "translations": {}
+  },
+  "GLA": {
+    "def": "",
+    "translations": {}
+  },
+  "GRA": {
+    "def": "",
+    "translations": {}
+  },
+  "HDA": {
+    "def": "",
+    "translations": {}
+  },
+  "HTV": {
+    "def": "",
+    "translations": {}
+  },
+  "IIC": {
+    "def": "",
+    "translations": {}
+  },
+  "LLO": {
+    "def": "",
+    "translations": {}
+  },
+  "MÍN": {
+    "def": "",
+    "translations": {}
+  },
+  "MRA": {
+    "def": "",
+    "translations": {}
+  },
+  "MRP": {
+    "def": "",
+    "translations": {}
+  },
+  "MSX": {
+    "def": "",
+    "translations": {}
+  },
+  "MTB": {
+    "def": "",
+    "translations": {}
+  },
+  "NAI": {
+    "def": "",
+    "translations": {}
+  },
+  "NSS": {
+    "def": "",
+    "translations": {}
+  },
+  "OIZ": {
+    "def": "",
+    "translations": {}
+  },
+  "OMO": {
+    "def": "",
+    "translations": {}
+  },
+  "PDB": {
+    "def": "",
+    "translations": {}
+  },
+  "PDV": {
+    "def": "",
+    "translations": {}
+  },
+  "PEW": {
+    "def": "",
+    "translations": {}
+  },
+  "PGB": {
+    "def": "",
+    "translations": {}
+  },
+  "PLT": {
+    "def": "",
+    "translations": {}
+  },
+  "PRF": {
+    "def": "",
+    "translations": {}
+  },
+  "PTB": {
+    "def": "",
+    "translations": {}
+  },
+  "RAJ": {
+    "def": "",
+    "translations": {}
+  },
+  "RWE": {
+    "def": "",
+    "translations": {}
+  },
+  "SAH": {
+    "def": "",
+    "translations": {}
+  },
+  "SDN": {
+    "def": "",
+    "translations": {}
+  },
+  "SNA": {
+    "def": "",
+    "translations": {}
+  },
+  "SWF": {
+    "def": "",
+    "translations": {}
+  },
+  "UCK": {
+    "def": "",
+    "translations": {}
+  },
+  "UNG": {
+    "def": "",
+    "translations": {}
+  },
+  "VIV": {
+    "def": "",
+    "translations": {}
+  },
+  "WEA": {
+    "def": "",
+    "translations": {}
+  },
+  "YAT": {
+    "def": "",
+    "translations": {}
+  },
+  "YET": {
+    "def": "",
+    "translations": {}
+  },
+  "YUC": {
+    "def": "",
+    "translations": {}
+  },
+  "ABO": {
+    "def": "",
+    "translations": {}
+  },
+  "AHV": {
+    "def": "",
+    "translations": {}
+  },
+  "AKÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "AMX": {
+    "def": "",
+    "translations": {}
+  },
+  "BIL": {
+    "def": "",
+    "translations": {}
+  },
+  "BMI": {
+    "def": "",
+    "translations": {}
+  },
+  "BND": {
+    "def": "",
+    "translations": {}
+  },
+  "BOÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "CBN": {
+    "def": "",
+    "translations": {}
+  },
+  "CCF": {
+    "def": "",
+    "translations": {}
+  },
+  "CDF": {
+    "def": "",
+    "translations": {}
+  },
+  "CLU": {
+    "def": "",
+    "translations": {}
+  },
+  "CMH": {
+    "def": "",
+    "translations": {}
+  },
+  "COQ": {
+    "def": "",
+    "translations": {}
+  },
+  "DGC": {
+    "def": "",
+    "translations": {}
+  },
+  "DKW": {
+    "def": "",
+    "translations": {}
+  },
+  "DSI": {
+    "def": "",
+    "translations": {}
+  },
+  "ECV": {
+    "def": "",
+    "translations": {}
+  },
+  "EWA": {
+    "def": "",
+    "translations": {}
+  },
+  "FEE": {
+    "def": "",
+    "translations": {}
+  },
+  "FSV": {
+    "def": "",
+    "translations": {}
+  },
+  "GCP": {
+    "def": "",
+    "translations": {}
+  },
+  "GTO": {
+    "def": "",
+    "translations": {}
+  },
+  "GYM": {
+    "def": "",
+    "translations": {}
+  },
+  "HVO": {
+    "def": "",
+    "translations": {}
+  },
+  "IIB": {
+    "def": "",
+    "translations": {}
+  },
+  "IPD": {
+    "def": "",
+    "translations": {}
+  },
+  "IRI": {
+    "def": "",
+    "translations": {}
+  },
+  "JEN": {
+    "def": "",
+    "translations": {}
+  },
+  "JVC": {
+    "def": "",
+    "translations": {}
+  },
+  "LDA": {
+    "def": "",
+    "translations": {}
+  },
+  "MEY": {
+    "def": "",
+    "translations": {}
+  },
+  "MIP": {
+    "def": "",
+    "translations": {}
+  },
+  "NAU": {
+    "def": "",
+    "translations": {}
+  },
+  "NCA": {
+    "def": "",
+    "translations": {}
+  },
+  "NME": {
+    "def": "",
+    "translations": {}
+  },
+  "OGM": {
+    "def": "",
+    "translations": {}
+  },
+  "OKI": {
+    "def": "",
+    "translations": {}
+  },
+  "OSÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "PDL": {
+    "def": "",
+    "translations": {}
+  },
+  "PIU": {
+    "def": "",
+    "translations": {}
+  },
+  "PRÉ": {
+    "def": "",
+    "translations": {}
+  },
+  "ROW": {
+    "def": "",
+    "translations": {}
+  },
+  "SLD": {
+    "def": "",
+    "translations": {}
+  },
+  "SNT": {
+    "def": "",
+    "translations": {}
+  },
+  "TLD": {
+    "def": "",
+    "translations": {}
+  },
+  "TNA": {
+    "def": "",
+    "translations": {}
+  },
+  "TRW": {
+    "def": "",
+    "translations": {}
+  },
+  "TTC": {
+    "def": "",
+    "translations": {}
+  },
+  "TÚA": {
+    "def": "",
+    "translations": {}
+  },
+  "TVT": {
+    "def": "",
+    "translations": {}
+  },
+  "UAP": {
+    "def": "",
+    "translations": {}
+  },
+  "ULY": {
+    "def": "",
+    "translations": {}
+  },
+  "UNT": {
+    "def": "",
+    "translations": {}
+  },
+  "UUP": {
+    "def": "",
+    "translations": {}
+  },
+  "VOP": {
+    "def": "",
+    "translations": {}
+  },
+  "YEL": {
+    "def": "",
+    "translations": {}
+  },
+  "YIP": {
+    "def": "",
+    "translations": {}
+  },
+  "ADH": {
+    "def": "",
+    "translations": {}
+  },
+  "AFS": {
+    "def": "",
+    "translations": {}
+  },
+  "AGN": {
+    "def": "",
+    "translations": {}
+  },
+  "ALM": {
+    "def": "",
+    "translations": {}
+  },
+  "APN": {
+    "def": "",
+    "translations": {}
+  },
+  "BBO": {
+    "def": "",
+    "translations": {}
+  },
+  "BTU": {
+    "def": "",
+    "translations": {}
+  },
+  "CLA": {
+    "def": "",
+    "translations": {}
+  },
+  "CSC": {
+    "def": "",
+    "translations": {}
+  },
+  "DEC": {
+    "def": "",
+    "translations": {}
+  },
+  "DEV": {
+    "def": "",
+    "translations": {}
+  },
+  "DTF": {
+    "def": "",
+    "translations": {}
+  },
+  "DYC": {
+    "def": "",
+    "translations": {}
+  },
+  "DYP": {
+    "def": "",
+    "translations": {}
+  },
+  "ELÍ": {
+    "def": "",
+    "translations": {}
+  },
+  "ELK": {
+    "def": "",
+    "translations": {}
+  },
+  "EMK": {
+    "def": "",
+    "translations": {}
+  },
+  "ENG": {
+    "def": "",
+    "translations": {}
+  },
+  "EOG": {
+    "def": "",
+    "translations": {}
+  },
+  "FCG": {
+    "def": "",
+    "translations": {}
+  },
+  "FCN": {
+    "def": "",
+    "translations": {}
+  },
+  "FIP": {
+    "def": "",
+    "translations": {}
+  },
+  "FPD": {
+    "def": "",
+    "translations": {}
+  },
+  "FUR": {
+    "def": "",
+    "translations": {}
+  },
+  "GCS": {
+    "def": "",
+    "translations": {}
+  },
+  "GGR": {
+    "def": "",
+    "translations": {}
+  },
+  "HAJ": {
+    "def": "",
+    "translations": {}
+  },
+  "HST": {
+    "def": "",
+    "translations": {}
+  },
+  "ICM": {
+    "def": "",
+    "translations": {}
+  },
+  "ICT": {
+    "def": "",
+    "translations": {}
+  },
+  "IDS": {
+    "def": "",
+    "translations": {}
+  },
+  "IFO": {
+    "def": "",
+    "translations": {}
+  },
+  "IMI": {
+    "def": "",
+    "translations": {}
+  },
+  "IMT": {
+    "def": "",
+    "translations": {}
+  },
+  "JED": {
+    "def": "",
+    "translations": {}
+  },
+  "JMV": {
+    "def": "",
+    "translations": {}
+  },
+  "JNC": {
+    "def": "",
+    "translations": {}
+  },
+  "KAO": {
+    "def": "",
+    "translations": {}
+  },
+  "KAR": {
+    "def": "",
+    "translations": {}
+  },
+  "KFW": {
+    "def": "",
+    "translations": {}
+  },
+  "KOT": {
+    "def": "",
+    "translations": {}
+  },
+  "LCC": {
+    "def": "",
+    "translations": {}
+  },
+  "LIM": {
+    "def": "",
+    "translations": {}
+  },
+  "LNG": {
+    "def": "",
+    "translations": {}
+  },
+  "MCE": {
+    "def": "",
+    "translations": {}
+  },
+  "MLP": {
+    "def": "",
+    "translations": {}
+  },
+  "MRG": {
+    "def": "",
+    "translations": {}
+  },
+  "NBI": {
+    "def": "",
+    "translations": {}
+  },
+  "NHS": {
+    "def": "",
+    "translations": {}
+  },
+  "NIS": {
+    "def": "",
+    "translations": {}
+  },
+  "NOO": {
+    "def": "",
+    "translations": {}
+  },
+  "NOY": {
+    "def": "",
+    "translations": {}
+  },
+  "ODI": {
+    "def": "",
+    "translations": {}
+  },
+  "OME": {
+    "def": "",
+    "translations": {}
+  },
+  "OSS": {
+    "def": "",
+    "translations": {}
+  },
+  "OTC": {
+    "def": "",
+    "translations": {}
+  },
+  "PFC": {
+    "def": "",
+    "translations": {}
+  },
+  "PGS": {
+    "def": "",
+    "translations": {}
+  },
+  "PPG": {
+    "def": "",
+    "translations": {}
+  },
+  "RGB": {
+    "def": "",
+    "translations": {}
+  },
+  "RIT": {
+    "def": "",
+    "translations": {}
+  },
+  "RNM": {
+    "def": "",
+    "translations": {}
+  },
+  "RPC": {
+    "def": "",
+    "translations": {}
+  },
+  "SIA": {
+    "def": "",
+    "translations": {}
+  },
+  "SOX": {
+    "def": "",
+    "translations": {}
+  },
+  "SPG": {
+    "def": "",
+    "translations": {}
+  },
+  "SSM": {
+    "def": "",
+    "translations": {}
+  },
+  "SST": {
+    "def": "",
+    "translations": {}
+  },
+  "TAK": {
+    "def": "",
+    "translations": {}
+  },
+  "TAQ": {
+    "def": "",
+    "translations": {}
+  },
+  "TBS": {
+    "def": "",
+    "translations": {}
+  },
+  "TDF": {
+    "def": "",
+    "translations": {}
+  },
+  "TOV": {
+    "def": "",
+    "translations": {}
+  },
+  "UPB": {
+    "def": "",
+    "translations": {}
+  },
+  "WOR": {
+    "def": "",
+    "translations": {}
+  },
+  "XGA": {
+    "def": "",
+    "translations": {}
+  },
+  "XOR": {
+    "def": "",
+    "translations": {}
+  },
+  "ZAP": {
+    "def": "",
+    "translations": {}
   }
 }
