@@ -35,24 +35,49 @@ export class SummaryScene extends Phaser.Scene {
         const title = this.result.goalMet ? 'GOAL MET!' : 'ROUND FAILED';
         const titleColor = this.result.goalMet ? '#00ff00' : '#ff0000';
 
-        this.add.text(width / 2, 50, title, {
+        const titleTxt = this.add.text(width / 2, 50, title, {
             fontSize: '48px',
             color: titleColor,
+            fontFamily: 'Outfit',
             fontStyle: 'bold'
         }).setOrigin(0.5);
+        titleTxt.setShadow(2, 2, '#000000', 2, true, true);
 
         this.add.text(width / 2, 110, `Round ${this.result.round} Summary`, {
             fontSize: '24px',
-            color: '#ffffff'
+            color: '#ffffff',
+            fontFamily: 'Outfit'
         }).setOrigin(0.5);
 
         // Stats
         const statsY = 180;
-        this.add.text(width / 2, statsY, `Score: ${this.result.score}`, { fontSize: '20px' }).setOrigin(0.5);
-        this.add.text(width / 2, statsY + 30, `Lines Cleared: ${this.result.linesCleared} / ${this.result.round}`, { fontSize: '20px' }).setOrigin(0.5);
+        const totalScoreTxt = this.add.text(width / 2, statsY, `Score: 0`, {
+            fontSize: '20px',
+            fontFamily: 'Outfit'
+        }).setOrigin(0.5);
+
+        const scoreObj = { val: 0 };
+        this.tweens.add({
+            targets: scoreObj,
+            val: this.result.score,
+            duration: 1000,
+            ease: 'Power2',
+            onUpdate: () => {
+                totalScoreTxt.setText(`Score: ${Math.floor(scoreObj.val)}`);
+            }
+        });
+
+        this.add.text(width / 2, statsY + 30, `Lines Cleared: ${this.result.linesCleared} / ${this.result.round}`, {
+            fontSize: '20px',
+            fontFamily: 'Outfit'
+        }).setOrigin(0.5);
 
         // Word List Setup
-        const listHeader = this.add.text(width / 2, statsY + 70, 'Words Found:', { fontSize: '24px', fontStyle: 'bold' }).setOrigin(0.5);
+        const listHeader = this.add.text(width / 2, statsY + 70, 'Words Found:', {
+            fontSize: '24px',
+            fontFamily: 'Outfit',
+            fontStyle: 'bold'
+        }).setOrigin(0.5);
 
         const listAreaY = listHeader.y + 30;
         const listAreaHeight = height - listAreaY - 120; // Space for buttons
@@ -62,60 +87,87 @@ export class SummaryScene extends Phaser.Scene {
         const listContainer = this.add.container(0, 0);
 
         let currentY = 0;
-        this.result.foundWords.forEach((w) => {
+        this.result.foundWords.forEach((w, index) => {
             const langCode = w.lang.toUpperCase();
             const scoreText = `(+${w.score})`;
 
+            // Item Container for staggered fade-in
+            // Note: We position the container at currentY, so children's Y should be RELATIVE to it.
+            const itemContainer = this.add.container(0, currentY);
+            itemContainer.setAlpha(0);
+            listContainer.add(itemContainer);
+
+            let localY = 0;
+
             // 1. Word Line
-            const wordTxt = this.add.text(width / 2, currentY, `${w.word} (${langCode}) ${scoreText}`, {
+            const wordTxt = this.add.text(width / 2, localY, `${w.word} (${langCode}) ${scoreText}`, {
                 fontSize: '18px',
                 color: '#ffffff',
+                fontFamily: 'Outfit',
                 fontStyle: 'bold'
             }).setOrigin(0.5, 0);
-            listContainer.add(wordTxt);
-            currentY += 24;
+            itemContainer.add(wordTxt);
+            localY += 24;
 
             // 2. Primary Definition
             if (w.def) {
-                const defTxt = this.add.text(width / 2, currentY, w.def, {
+                const defTxt = this.add.text(width / 2, localY, w.def, {
                     fontSize: '14px',
                     color: '#aaaaaa',
+                    fontFamily: 'Outfit',
                     align: 'center',
                     wordWrap: { width: wrapWidth }
                 }).setOrigin(0.5, 0);
-                listContainer.add(defTxt);
-                currentY += defTxt.height + 4;
+                itemContainer.add(defTxt);
+                localY += defTxt.height + 4;
             }
 
             // 3. Translation & Translation Definition
             if (w.translation) {
                 const transLang = w.lang === this.result.homeLang ? this.result.learningLang.toUpperCase() : this.result.homeLang.toUpperCase();
                 const transText = `→ ${w.translation} (${transLang})`;
-                const transTxtObj = this.add.text(width / 2, currentY, transText, {
+                const transTxtObj = this.add.text(width / 2, localY, transText, {
                     fontSize: '15px',
                     color: '#44aa44', // Subtle green for translation
+                    fontFamily: 'Outfit',
                     fontStyle: 'bold'
                 }).setOrigin(0.5, 0);
-                listContainer.add(transTxtObj);
-                currentY += 20;
+                itemContainer.add(transTxtObj);
+                localY += 20;
 
                 if (w.transDef) {
-                    const transDefTxt = this.add.text(width / 2, currentY, w.transDef, {
+                    const transDefTxt = this.add.text(width / 2, localY, w.transDef, {
                         fontSize: '13px',
                         color: '#888888',
+                        fontFamily: 'Outfit',
                         align: 'center',
                         wordWrap: { width: wrapWidth }
                     }).setOrigin(0.5, 0);
-                    listContainer.add(transDefTxt);
-                    currentY += transDefTxt.height + 15;
+                    itemContainer.add(transDefTxt);
+                    localY += transDefTxt.height + 15;
                 } else {
-                    currentY += 10;
+                    localY += 10;
                 }
             } else {
-                currentY += 15;
+                localY += 15;
             }
 
-            currentY += 10; // Extra padding between items
+            localY += 10; // Extra padding between items
+            const itemHeight = localY;
+
+            // Staggered Animation (Fade in and slight drift up)
+            const targetY = itemContainer.y;
+            itemContainer.y += 20; // Start slightly lower
+            this.tweens.add({
+                targets: itemContainer,
+                alpha: 1,
+                y: targetY,
+                duration: 400,
+                delay: 200 + (index * 100),
+                ease: 'Power2'
+            });
+
+            currentY += itemHeight;
         });
 
         // Scrolling Logic
@@ -164,6 +216,7 @@ export class SummaryScene extends Phaser.Scene {
         const buttonStyle = {
             fontSize: '28px',
             color: '#ffffff',
+            fontFamily: 'Outfit',
             backgroundColor: '#444444',
             padding: { x: 20, y: 10 }
         };

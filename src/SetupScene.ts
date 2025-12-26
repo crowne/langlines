@@ -43,14 +43,24 @@ export class SetupScene extends Phaser.Scene {
         this.titleText = this.add.text(width / 2, height * 0.2, '', {
             fontSize: '64px',
             color: '#ffffff',
-            fontFamily: 'Arial',
+            fontFamily: 'Outfit',
             fontStyle: 'bold'
         }).setOrigin(0.5);
+
+        // Floating Title Animation
+        this.tweens.add({
+            targets: this.titleText,
+            y: height * 0.22,
+            duration: 2000,
+            ease: 'Sine.easeInOut',
+            yoyo: true,
+            loop: -1
+        });
 
         this.selectText = this.add.text(width / 2, height * 0.3, '', {
             fontSize: '32px',
             color: '#aaaaaa',
-            fontFamily: 'Arial'
+            fontFamily: 'Outfit'
         }).setOrigin(0.5);
 
         // Language Buttons
@@ -64,9 +74,19 @@ export class SetupScene extends Phaser.Scene {
         this.startBtnText = this.add.text(0, 0, '', {
             fontSize: '48px',
             color: '#ffffff',
-            fontFamily: 'Arial',
+            fontFamily: 'Outfit',
             fontStyle: 'bold'
         }).setOrigin(0.5);
+
+        // Pulsing Start Button Animation
+        this.tweens.add({
+            targets: this.startBtnContainer,
+            scale: 1.05,
+            duration: 800,
+            ease: 'Sine.easeInOut',
+            yoyo: true,
+            loop: -1
+        });
 
         this.startBtnContainer.add([this.startBtnGraphics, this.startBtnText]);
 
@@ -143,6 +163,7 @@ export class SetupScene extends Phaser.Scene {
         const btn = this.add.text(x, y, text, {
             fontSize: '28px',
             color: '#ffffff',
+            fontFamily: 'Outfit',
             backgroundColor: '#444444',
             padding: { x: 20, y: 10 }
         }).setOrigin(0.5);

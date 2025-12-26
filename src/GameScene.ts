@@ -150,9 +150,10 @@ export class GameScene extends Phaser.Scene {
         this.topText = this.add.text(width / 2, height * 0.45, '', {
             fontSize: '48px',
             color: '#ffffff',
-            fontFamily: 'Arial',
+            fontFamily: 'Outfit',
             fontStyle: 'bold'
         }).setOrigin(0.5);
+        this.topText.setShadow(2, 2, '#000000', 2, true, true);
 
         const i18n = this.cache.json.get('i18n');
 
@@ -160,8 +161,10 @@ export class GameScene extends Phaser.Scene {
         this.goalText = this.add.text(width / 2, 15, '', {
             fontSize: '20px',
             color: '#ffff00',
+            fontFamily: 'Outfit',
             fontStyle: 'bold'
         }).setOrigin(0.5, 0);
+        this.goalText.setShadow(1, 1, '#000000', 1, true, true);
 
         const scoreLabel = i18n?.game?.score || 'Score';
 
@@ -169,8 +172,9 @@ export class GameScene extends Phaser.Scene {
         this.scoreText = this.add.text(width - 20, 15, `${scoreLabel}: 0`, {
             fontSize: '24px',
             color: '#aaaaaa',
-            fontFamily: 'Arial'
+            fontFamily: 'Outfit'
         }).setOrigin(1, 0);
+        this.scoreText.setShadow(1, 1, '#000000', 1, true, true);
 
         const timerLabel = i18n?.game?.timer || 'Time';
 
@@ -178,8 +182,9 @@ export class GameScene extends Phaser.Scene {
         this.timerText = this.add.text(20, 15, `${timerLabel}: 03:00`, {
             fontSize: '24px',
             color: '#aaaaaa',
-            fontFamily: 'Arial'
+            fontFamily: 'Outfit'
         }).setOrigin(0, 0);
+        this.timerText.setShadow(1, 1, '#000000', 1, true, true);
 
         // Finish Round Button (Positioned at bottom of top panel, safely below preview)
         const finishLabel = i18n?.game?.btn?.finish || 'FINISH';
@@ -187,6 +192,7 @@ export class GameScene extends Phaser.Scene {
             fontSize: '20px',
             color: '#ffffff',
             backgroundColor: '#00aa00',
+            fontFamily: 'Outfit',
             padding: { x: 10, y: 5 },
             fontStyle: 'bold'
         }).setOrigin(0.5, 0).setVisible(false);
@@ -375,6 +381,10 @@ export class GameScene extends Phaser.Scene {
 
             // Flash feedback and apply gravity
             this.cameras.main.flash(200, 0, 255, 0);
+
+            // Floating Score Juice
+            this.showScorePopup(totalScore);
+
             this.grid.handleMatch();
 
             // Update goal progress after a short delay to allow gravity to start
@@ -388,7 +398,37 @@ export class GameScene extends Phaser.Scene {
             });
         } else {
             this.cameras.main.shake(100, 0.01);
+
+            // Top text shake for error
+            this.tweens.add({
+                targets: this.topText,
+                x: this.topText.x + 10,
+                duration: 50,
+                yoyo: true,
+                repeat: 2
+            });
         }
+    }
+
+    private showScorePopup(score: number) {
+        const { width, height } = this.scale;
+        const popup = this.add.text(width / 2, height * 0.45, `+${score}`, {
+            fontSize: '64px',
+            color: '#ffff00',
+            fontFamily: 'Outfit',
+            fontStyle: 'bold'
+        }).setOrigin(0.5);
+        popup.setShadow(2, 2, '#000000', 2, true, true);
+
+        this.tweens.add({
+            targets: popup,
+            y: popup.y - 100,
+            alpha: 0,
+            scale: 1.5,
+            duration: 1000,
+            ease: 'Power2',
+            onComplete: () => popup.destroy()
+        });
     }
 
     update() {

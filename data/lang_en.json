@@ -3261,6 +3261,10 @@
     "def": "",
     "translations": {}
   },
+  "JUICE": {
+    "def": "Drinkable fluid",
+    "translations": {}
+  },
   "JUMP": {
     "def": "Push oneself off a surface and into the air by using the muscles in one's legs and feet.",
     "translations": {
@@ -7406,6 +7410,12 @@
   "TUN": {
     "def": "",
     "translations": {}
+  },
+  "TUNA": {
+    "def": "A type of fish.",
+    "translations": {
+      "es": "ATUN"
+    }
   },
   "TUP": {
     "def": "",

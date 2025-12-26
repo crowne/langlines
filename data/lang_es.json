@@ -535,6 +535,12 @@
     "def": "",
     "translations": {}
   },
+  "AQI": {
+    "def": "",
+    "translations": {
+      "en": "HERE"
+    }
+  },
   "ARA": {
     "def": "",
     "translations": {}
@@ -3567,6 +3573,10 @@
     "def": "",
     "translations": {}
   },
+  "QUE": {
+    "def": "",
+    "translations": {}
+  },
   "QUUIEN": {
     "def": "",
     "translations": {}
@@ -3581,11 +3591,15 @@
   },
   "USTED": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "YOU"
+    }
   },
   "ENTRE": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "BETWEEN"
+    }
   },
   "PADRE": {
     "def": "",

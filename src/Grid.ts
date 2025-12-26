@@ -185,7 +185,16 @@ export class Grid {
             const row = tile.getData('row');
             const col = tile.getData('col');
             this.tiles[row][col] = null;
-            tile.destroy();
+
+            // Vanish Animation
+            this.scene.tweens.add({
+                targets: tile,
+                scale: 0,
+                alpha: 0,
+                duration: 300,
+                ease: 'Back.easeIn',
+                onComplete: () => tile.destroy()
+            });
         });
         this.selectedTiles = [];
         this.onSelectionUpdate('', []);
@@ -441,8 +450,24 @@ export class Grid {
             bg.clear();
             if (isSelected) {
                 bg.fillStyle(0x646cff, 1); // Vibrant purple/blue for selection
+
+                // Selection Pulse Juice
+                this.scene.tweens.add({
+                    targets: tile,
+                    scale: 1.1,
+                    duration: 100,
+                    yoyo: true,
+                    ease: 'Quad.easeOut'
+                });
             } else {
                 bg.fillStyle(0xffffff, 1);
+
+                // Reset scale
+                this.scene.tweens.add({
+                    targets: tile,
+                    scale: 1.0,
+                    duration: 100
+                });
             }
             bg.fillRoundedRect(-this.tileSize / 2 + 2, -this.tileSize / 2 + 2, this.tileSize - 4, this.tileSize - 4, 8);
         }
