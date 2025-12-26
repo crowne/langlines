@@ -12,7 +12,8 @@
         "btn": {
             "grid": "RED",
             "shuffle": "BARAJAR",
-            "dict": "DICT"
+            "dict": "DICT",
+            "finish": "TERMINAR"
         },
         "goal": "Meta",
         "line": "Línea",

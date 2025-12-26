@@ -25,6 +25,7 @@ export class GameScene extends Phaser.Scene {
     private scoreText!: Phaser.GameObjects.Text;
     private timerText!: Phaser.GameObjects.Text;
     private goalText!: Phaser.GameObjects.Text;
+    private finishBtn!: Phaser.GameObjects.Text;
     private currentScore = 0;
     private currentRound = 1;
     private foundWords: {
@@ -135,8 +136,10 @@ export class GameScene extends Phaser.Scene {
 
         if (currentProgress >= targetLines) {
             this.goalText.setColor('#00ff00');
+            if (this.finishBtn) this.finishBtn.setVisible(true);
         } else {
             this.goalText.setColor('#ffff00');
+            if (this.finishBtn) this.finishBtn.setVisible(false);
         }
     }
 
@@ -177,6 +180,18 @@ export class GameScene extends Phaser.Scene {
             color: '#aaaaaa',
             fontFamily: 'Arial'
         }).setOrigin(0, 0);
+
+        // Finish Round Button (Positioned near goal)
+        const finishLabel = i18n?.game?.btn?.finish || 'FINISH';
+        this.finishBtn = this.add.text(width / 2, 60, finishLabel, {
+            fontSize: '20px',
+            color: '#ffffff',
+            backgroundColor: '#00aa00',
+            padding: { x: 10, y: 5 },
+            fontStyle: 'bold'
+        }).setOrigin(0.5, 0).setVisible(false);
+        this.finishBtn.setInteractive({ useHandCursor: true });
+        this.finishBtn.on('pointerdown', () => this.handleTimeUp());
     }
 
     private createBottomPanel(width: number, height: number) {
@@ -363,7 +378,14 @@ export class GameScene extends Phaser.Scene {
             this.grid.handleMatch();
 
             // Update goal progress after a short delay to allow gravity to start
-            this.time.delayedCall(500, () => this.updateGoalDisplay());
+            this.time.delayedCall(500, () => {
+                this.updateGoalDisplay();
+                // Auto-finish if grid is empty
+                if (this.grid.isGridEmpty()) {
+                    console.log('Grid empty, finishing round...');
+                    this.handleTimeUp();
+                }
+            });
         } else {
             this.cameras.main.shake(100, 0.01);
         }

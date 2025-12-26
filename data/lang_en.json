@@ -1869,6 +1869,18 @@
     "def": "",
     "translations": {}
   },
+  "FEED": {
+    "def": "Give food to (an animal or person).",
+    "translations": {
+      "es": "ALIMENTAR"
+    }
+  },
+  "FEEDS": {
+    "def": "Give food to (an animal or person).",
+    "translations": {
+      "es": "ALIMENTAR"
+    }
+  },
   "FEEL": {
     "def": "Be aware of (a person or object) through touching or being touched.",
     "translations": {
@@ -2030,6 +2042,14 @@
     "translations": {}
   },
   "FIZ": {
+    "def": "",
+    "translations": {}
+  },
+  "FIZZ": {
+    "def": "",
+    "translations": {}
+  },
+  "FIZZY": {
     "def": "",
     "translations": {}
   },
@@ -2346,6 +2366,18 @@
     "translations": {
       "es": "VASO"
     }
+  },
+  "GLUE": {
+    "def": "",
+    "translations": {}
+  },
+  "GLUED": {
+    "def": "",
+    "translations": {}
+  },
+  "GLUES": {
+    "def": "",
+    "translations": {}
   },
   "GNU": {
     "def": "",
@@ -3888,6 +3920,12 @@
   "MED": {
     "def": "",
     "translations": {}
+  },
+  "MEEK": {
+    "def": "Timid or submissive; easily intimidated.",
+    "translations": {
+      "es": "MISO"
+    }
   },
   "MEET": {
     "def": "Come into the presence or company of (someone) by chance or arrangement.",
@@ -5457,6 +5495,10 @@
       "es": "TRANQUILO"
     }
   },
+  "QUIP": {
+    "def": "",
+    "translations": {}
+  },
   "QUITE": {
     "def": "To a certain or fairly significant extent or degree; fairly.",
     "translations": {
@@ -5528,8 +5570,10 @@
     "translations": {}
   },
   "RAW": {
-    "def": "",
-    "translations": {}
+    "def": "Uncooked; fresh and not yet cooked.",
+    "translations": {
+      "es": "CRU"
+    }
   },
   "RAX": {
     "def": "",

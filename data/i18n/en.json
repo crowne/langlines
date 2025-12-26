@@ -12,7 +12,8 @@
         "btn": {
             "grid": "GRID",
             "shuffle": "SHUFFLE",
-            "dict": "DICT"
+            "dict": "DICT",
+            "finish": "FINISH"
         },
         "goal": "Goal",
         "line": "Line",

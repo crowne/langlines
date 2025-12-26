@@ -6,7 +6,8 @@ export class Grid {
     private cols: number;
     private tileSize: number;
     private tiles: (Phaser.GameObjects.Container | null)[][];
-    private letters: string[] = ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', 'Ñ'];
+    private vowels: string[] = ['A', 'E', 'I', 'O', 'U'];
+    private consonants: string[] = ['B', 'C', 'D', 'F', 'G', 'H', 'J', 'K', 'L', 'M', 'N', 'Ñ', 'P', 'Q', 'R', 'S', 'T', 'V', 'W', 'X', 'Y', 'Z'];
     private isSelecting: boolean = false;
     private onWordSelected: (word: string, multipliers: number[]) => void;
     private onSelectionUpdate: (word: string, multipliers: number[]) => void;
@@ -46,7 +47,9 @@ export class Grid {
     private selectedTiles: Phaser.GameObjects.Container[] = [];
 
     private createTile(row: number, col: number, x: number, y: number, multiplier: number = 1) {
-        const char = Phaser.Utils.Array.GetRandom(this.letters);
+        // Weighted random: 40% vowels, 60% consonants
+        const isVowel = Math.random() < 0.4;
+        const char = Phaser.Utils.Array.GetRandom(isVowel ? this.vowels : this.consonants);
 
         const container = this.scene.add.container(x, y);
 
@@ -498,5 +501,16 @@ export class Grid {
         }
 
         return cleared;
+    }
+
+    public isGridEmpty(): boolean {
+        for (let r = 0; r < this.rows; r++) {
+            for (let c = 0; c < this.cols; c++) {
+                if (this.tiles[r][c] !== null) {
+                    return false;
+                }
+            }
+        }
+        return true;
     }
 }
