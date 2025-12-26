@@ -64,8 +64,8 @@ export class GameScene extends Phaser.Scene {
     async create() {
         // Load Dictionaries for both languages
         try {
-            await this.wordLogic.loadDictionary(`data/lang_${this.homeLang}.json`, this.homeLang);
-            await this.wordLogic.loadDictionary(`data/lang_${this.learningLang}.json`, this.learningLang);
+            await this.wordLogic.loadDictionary(`./data/lang_${this.homeLang}.json`, this.homeLang);
+            await this.wordLogic.loadDictionary(`./data/lang_${this.learningLang}.json`, this.learningLang);
             console.log('Structured dictionaries loaded');
         } catch (e) {
             console.error('Error loading data:', e);
