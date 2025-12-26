@@ -229,7 +229,7 @@ export class SummaryScene extends Phaser.Scene {
         const i18n = this.cache.json.get(`i18n-${this.result.homeLang}`) || {};
         const nextLabel = i18n.summary?.next || 'NEXT ROUND';
         const retryLabel = i18n.summary?.retry || 'RETRY';
-        const exitLabel = i18n.summary?.exit || 'EXIT';
+        const homeLabel = i18n.summary?.home || 'HOME';
 
         if (this.result.goalMet) {
             const nextBtn = this.add.text(width / 2, buttonY, nextLabel, buttonStyle).setOrigin(0.5);
@@ -254,7 +254,7 @@ export class SummaryScene extends Phaser.Scene {
                 });
             });
 
-            const homeBtn = this.add.text(width / 2 + 100, buttonY, exitLabel, buttonStyle).setOrigin(0.5);
+            const homeBtn = this.add.text(width / 2 + 100, buttonY, homeLabel, buttonStyle).setOrigin(0.5);
             homeBtn.setInteractive({ useHandCursor: true });
             homeBtn.on('pointerdown', () => {
                 this.scene.start('SetupScene');

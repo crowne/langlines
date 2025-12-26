@@ -13,4 +13,7 @@ export default defineConfig({
             },
         },
     },
+    server: {
+        allowedHosts: ['langlines.local', 'localhost', '127.0.0.1', '0.0.0.0'],
+    },
 })

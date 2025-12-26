@@ -10,7 +10,7 @@
         "score": "Score",
         "timer": "Time",
         "btn": {
-            "exit": "EXIT",
+            "home": "HOME",
             "shuffle": "SHUFFLE",
             "dict": "DICT",
             "finish": "FINISH"
@@ -28,6 +28,6 @@
         "restart": "PLAY AGAIN",
         "next": "NEXT ROUND",
         "retry": "RETRY",
-        "exit": "EXIT"
+        "home": "HOME"
     }
 }

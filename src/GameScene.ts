@@ -211,7 +211,7 @@ export class GameScene extends Phaser.Scene {
         this.add.rectangle(width / 2, y, width, panelHeight, palette.panel);
 
         const i18n = this.cache.json.get(`i18n-${this.homeLang}`);
-        const exitLabel = i18n?.game?.btn?.exit || 'EXIT';
+        const homeLabel = i18n?.game?.btn?.home || 'HOME';
         const shuffleLabel = i18n?.game?.btn?.shuffle || 'SHUFFLE';
         const dictLabel = i18n?.game?.btn?.dict || 'DICT';
 
@@ -222,20 +222,29 @@ export class GameScene extends Phaser.Scene {
             padding: { x: 15, y: 10 }
         };
 
-        // Exit Button
-        const exitBtn = this.add.text(width / 2 - 140, y, exitLabel, buttonStyle).setOrigin(0.5);
-        exitBtn.setInteractive({ useHandCursor: true });
-        exitBtn.on('pointerdown', () => this.scene.start('SetupScene'));
+        // Home Button
+        const homeBtn = this.add.text(width / 2 - 80, y, homeLabel, buttonStyle).setOrigin(0.5);
+        homeBtn.setInteractive({ useHandCursor: true });
+        homeBtn.on('pointerdown', () => this.scene.start('SetupScene'));
 
         // Shuffle Button
-        const shuffleBtn = this.add.text(width / 2, y, shuffleLabel, buttonStyle).setOrigin(0.5);
+        const shuffleBtn = this.add.text(width / 2 + 100, y, shuffleLabel, buttonStyle).setOrigin(0.5);
         shuffleBtn.setInteractive({ useHandCursor: true });
         shuffleBtn.on('pointerdown', () => this.grid.shuffleTiles());
 
         // Dict Reload Button
-        const dictBtn = this.add.text(width / 2 + 140, y, dictLabel, buttonStyle).setOrigin(0.5);
-        dictBtn.setInteractive({ useHandCursor: true });
-        dictBtn.on('pointerdown', () => this.reloadDictionaries());
+        // Only show for http localhost or http ip addresses
+        if (window.location.protocol === 'http:') {
+            const laxIp4Regex = /^(\d{1,3}\.){3}\d{1,3}$/;
+            if (window.location.hostname === 'localhost' || laxIp4Regex.test(window.location.hostname)) {
+                homeBtn.setX(width / 2 - 140);
+                shuffleBtn.setX(width / 2);
+
+                const dictBtn = this.add.text(width / 2 + 140, y, dictLabel, buttonStyle).setOrigin(0.5);
+                dictBtn.setInteractive({ useHandCursor: true });
+                dictBtn.on('pointerdown', () => this.reloadDictionaries());
+            }
+        }
     }
 
     private startTimer() {

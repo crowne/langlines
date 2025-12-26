@@ -10,7 +10,7 @@
         "score": "Puntaje",
         "timer": "Tiempo",
         "btn": {
-            "exit": "SALIR",
+            "home": "HOGAR",
             "shuffle": "BARAJAR",
             "dict": "DICT",
             "finish": "TERMINAR"
@@ -28,6 +28,6 @@
         "restart": "JUGAR DE NUEVO",
         "next": "SIGUIENTE RONDA",
         "retry": "REINTENTAR",
-        "exit": "SALIR"
+        "home": "HOGAR"
     }
 }
