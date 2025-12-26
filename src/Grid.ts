@@ -1,4 +1,5 @@
 import Phaser from 'phaser';
+import { themeManager } from './ThemeManager';
 
 export class Grid {
     private scene: Phaser.Scene;
@@ -47,6 +48,7 @@ export class Grid {
     private selectedTiles: Phaser.GameObjects.Container[] = [];
 
     private createTile(row: number, col: number, x: number, y: number, multiplier: number = 1) {
+        const palette = themeManager.getPalette();
         // Weighted random: 40% vowels, 60% consonants
         const isVowel = Math.random() < 0.4;
         const char = Phaser.Utils.Array.GetRandom(isVowel ? this.vowels : this.consonants);
@@ -55,15 +57,15 @@ export class Grid {
 
         // Tile Background
         const bg = this.scene.add.graphics();
-        bg.fillStyle(0xffffff, 1);
+        bg.fillStyle(palette.tileBg, 1);
         bg.fillRoundedRect(-this.tileSize / 2 + 2, -this.tileSize / 2 + 2, this.tileSize - 4, this.tileSize - 4, 8);
         bg.setName('bg');
 
         // Letter
         const text = this.scene.add.text(0, 0, char, {
             fontSize: `${this.tileSize * 0.5}px`,
-            color: '#333333',
-            fontFamily: 'Arial',
+            color: palette.tileText,
+            fontFamily: 'Outfit',
             fontStyle: 'bold'
         }).setOrigin(0.5);
 
@@ -445,11 +447,13 @@ export class Grid {
     }
 
     private highlightTile(tile: Phaser.GameObjects.Container, isSelected: boolean) {
+        const palette = themeManager.getPalette();
         const bg = tile.getByName('bg') as Phaser.GameObjects.Graphics;
         if (bg) {
             bg.clear();
             if (isSelected) {
-                bg.fillStyle(0x646cff, 1); // Vibrant purple/blue for selection
+                const accentNum = themeManager.getMode() === 'dark' ? 0x646cff : 0x3b43d6;
+                bg.fillStyle(accentNum, 1);
 
                 // Selection Pulse Juice
                 this.scene.tweens.add({
@@ -460,7 +464,7 @@ export class Grid {
                     ease: 'Quad.easeOut'
                 });
             } else {
-                bg.fillStyle(0xffffff, 1);
+                bg.fillStyle(palette.tileBg, 1);
 
                 // Reset scale
                 this.scene.tweens.add({
@@ -474,7 +478,7 @@ export class Grid {
 
         const text = tile.list[1] as Phaser.GameObjects.Text;
         if (text) {
-            text.setColor(isSelected ? '#ffffff' : '#333333');
+            text.setColor(isSelected ? '#ffffff' : palette.tileText);
         }
     }
 

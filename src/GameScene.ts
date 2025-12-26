@@ -1,6 +1,7 @@
 import Phaser from 'phaser';
 import { Grid } from './Grid';
 import { WordLogic } from './WordLogic';
+import { themeManager } from './ThemeManager';
 
 /**
  * The main game scene.
@@ -71,35 +72,33 @@ export class GameScene extends Phaser.Scene {
         }
 
         const { width, height } = this.scale;
+        const palette = themeManager.getPalette();
 
         // Background
-        this.add.rectangle(width / 2, height / 2, width, height, 0x222222);
+        this.add.rectangle(width / 2, height / 2, width, height, palette.background);
 
         // Calculate grid size based on available space (width vs height)
         const padding = 20;
-        const topOffset = height * 0.20; // 20% top margin for UI (increased from 15% to prevent overlap)
+        const topOffset = height * 0.20; // 20% top margin for UI
         const bottomOffset = height * 0.15; // 15% bottom margin for UI
         const availableWidth = width - (padding * 2);
         const availableHeight = height - topOffset - bottomOffset - padding;
 
-        // Calculate size based on the smaller dimension to ensure fit
         const tileSize = Math.min(
             Math.floor(availableWidth / 8),
             Math.floor(availableHeight / 8)
         );
 
-        // Center the grid
         const gridWidth = tileSize * 8;
         const gridHeight = tileSize * 8;
         const gridStartX = (width - gridWidth) / 2 + (tileSize / 2);
 
-        // Vertical centering within the available space between top and bottom panels
         const availableVerticalSpace = height - topOffset - bottomOffset;
         const verticalPadding = (availableVerticalSpace - gridHeight) / 2;
         const gridStartY = topOffset + verticalPadding + (tileSize / 2);
 
         this.createTopPanel(width, topOffset);
-        this.createBottomPanel(width, height); // Use remaining space if needed
+        this.createBottomPanel(width, height);
 
         this.grid = new Grid(
             this,
@@ -117,12 +116,15 @@ export class GameScene extends Phaser.Scene {
     }
 
     private updateScoreDisplay() {
+        const palette = themeManager.getPalette();
         const i18n = this.cache.json.get('i18n');
         const scoreLabel = i18n?.game?.score || 'Score';
         this.scoreText.setText(`${scoreLabel}: ${this.currentScore}`);
+        this.scoreText.setColor(palette.textSecondary);
     }
 
     private updateGoalDisplay() {
+        const palette = themeManager.getPalette();
         const i18n = this.cache.json.get('i18n');
         const goalLabel = i18n?.game?.goal || 'Goal';
         const linesLabel = i18n?.game?.lines || 'Lines';
@@ -135,21 +137,22 @@ export class GameScene extends Phaser.Scene {
         this.goalText.setText(`${goalLabel}: ${currentProgress} / ${targetLines} ${lineText}`);
 
         if (currentProgress >= targetLines) {
-            this.goalText.setColor('#00ff00');
+            this.goalText.setColor(palette.match);
             if (this.finishBtn) this.finishBtn.setVisible(true);
         } else {
-            this.goalText.setColor('#ffff00');
+            this.goalText.setColor(themeManager.getMode() === 'dark' ? '#ffff00' : '#888800');
             if (this.finishBtn) this.finishBtn.setVisible(false);
         }
     }
 
     private createTopPanel(width: number, height: number) {
-        this.add.rectangle(width / 2, height / 2, width, height, 0x333333);
+        const palette = themeManager.getPalette();
+        this.add.rectangle(width / 2, height / 2, width, height, palette.panel);
 
         // Word Display
         this.topText = this.add.text(width / 2, height * 0.45, '', {
             fontSize: '48px',
-            color: '#ffffff',
+            color: palette.text,
             fontFamily: 'Outfit',
             fontStyle: 'bold'
         }).setOrigin(0.5);
@@ -171,7 +174,7 @@ export class GameScene extends Phaser.Scene {
         // Score
         this.scoreText = this.add.text(width - 20, 15, `${scoreLabel}: 0`, {
             fontSize: '24px',
-            color: '#aaaaaa',
+            color: palette.textSecondary,
             fontFamily: 'Outfit'
         }).setOrigin(1, 0);
         this.scoreText.setShadow(1, 1, '#000000', 1, true, true);
@@ -181,17 +184,17 @@ export class GameScene extends Phaser.Scene {
         // Timer
         this.timerText = this.add.text(20, 15, `${timerLabel}: 03:00`, {
             fontSize: '24px',
-            color: '#aaaaaa',
+            color: palette.textSecondary,
             fontFamily: 'Outfit'
         }).setOrigin(0, 0);
         this.timerText.setShadow(1, 1, '#000000', 1, true, true);
 
-        // Finish Round Button (Positioned at bottom of top panel, safely below preview)
+        // Finish Round Button
         const finishLabel = i18n?.game?.btn?.finish || 'FINISH';
         this.finishBtn = this.add.text(width / 2, height - 35, finishLabel, {
             fontSize: '20px',
             color: '#ffffff',
-            backgroundColor: '#00aa00',
+            backgroundColor: palette.match,
             fontFamily: 'Outfit',
             padding: { x: 10, y: 5 },
             fontStyle: 'bold'
@@ -201,10 +204,11 @@ export class GameScene extends Phaser.Scene {
     }
 
     private createBottomPanel(width: number, height: number) {
+        const palette = themeManager.getPalette();
         const panelHeight = height * 0.15;
         const y = height - (panelHeight / 2);
 
-        this.add.rectangle(width / 2, y, width, panelHeight, 0x333333);
+        this.add.rectangle(width / 2, y, width, panelHeight, palette.panel);
 
         const i18n = this.cache.json.get('i18n');
         const gridLabel = i18n?.game?.btn?.grid || 'GRID';
@@ -214,21 +218,21 @@ export class GameScene extends Phaser.Scene {
         const buttonStyle = {
             fontSize: '24px',
             color: '#ffffff',
-            backgroundColor: '#555555',
+            backgroundColor: themeManager.getMode() === 'dark' ? '#555555' : '#888888',
             padding: { x: 15, y: 10 }
         };
 
-        // Grid Reload Button (Left)
+        // Grid Reload Button
         const gridBtn = this.add.text(width / 2 - 140, y, gridLabel, buttonStyle).setOrigin(0.5);
         gridBtn.setInteractive({ useHandCursor: true });
         gridBtn.on('pointerdown', () => this.grid.reloadGrid());
 
-        // Shuffle Button (Center)
+        // Shuffle Button
         const shuffleBtn = this.add.text(width / 2, y, shuffleLabel, buttonStyle).setOrigin(0.5);
         shuffleBtn.setInteractive({ useHandCursor: true });
         shuffleBtn.on('pointerdown', () => this.grid.shuffleTiles());
 
-        // Dict Reload Button (Right)
+        // Dict Reload Button
         const dictBtn = this.add.text(width / 2 + 140, y, dictLabel, buttonStyle).setOrigin(0.5);
         dictBtn.setInteractive({ useHandCursor: true });
         dictBtn.on('pointerdown', () => this.reloadDictionaries());

@@ -1,4 +1,5 @@
 import Phaser from 'phaser';
+import { themeManager } from './ThemeManager';
 
 export class SetupScene extends Phaser.Scene {
     private homeLang: string = 'en';
@@ -28,6 +29,7 @@ export class SetupScene extends Phaser.Scene {
     private startBtnContainer!: Phaser.GameObjects.Container;
     private startBtnGraphics!: Phaser.GameObjects.Graphics;
     private startBtnText!: Phaser.GameObjects.Text;
+    private themeBtn!: Phaser.GameObjects.Text;
 
     constructor() {
         super('SetupScene');
@@ -35,14 +37,24 @@ export class SetupScene extends Phaser.Scene {
 
     create() {
         const { width, height } = this.scale;
+        const palette = themeManager.getPalette();
 
         // Background
-        this.add.rectangle(width / 2, height / 2, width, height, 0x222222);
+        this.add.rectangle(width / 2, height / 2, width, height, palette.background);
+
+        // Theme Toggle
+        const themeIcon = themeManager.getMode() === 'light' ? '🌙' : '☀️';
+        this.themeBtn = this.add.text(width - 30, 30, themeIcon, {
+            fontSize: '32px',
+            padding: { top: 10, bottom: 10, left: 10, right: 10 }
+        }).setOrigin(1, 0).setInteractive({ useHandCursor: true });
+
+        this.themeBtn.on('pointerdown', () => this.toggleTheme());
 
         // Title
         this.titleText = this.add.text(width / 2, height * 0.2, '', {
             fontSize: '64px',
-            color: '#ffffff',
+            color: palette.text,
             fontFamily: 'Outfit',
             fontStyle: 'bold'
         }).setOrigin(0.5);
@@ -59,7 +71,7 @@ export class SetupScene extends Phaser.Scene {
 
         this.selectText = this.add.text(width / 2, height * 0.3, '', {
             fontSize: '32px',
-            color: '#aaaaaa',
+            color: palette.textSecondary,
             fontFamily: 'Outfit'
         }).setOrigin(0.5);
 
@@ -90,7 +102,7 @@ export class SetupScene extends Phaser.Scene {
 
         this.startBtnContainer.add([this.startBtnGraphics, this.startBtnText]);
 
-        // Hit area for the container or a hidden rectangle
+        // Hit area for the container
         const hitArea = this.add.rectangle(0, 0, 400, 100, 0x000000, 0);
         hitArea.setName('hitArea');
         this.startBtnContainer.add(hitArea);
@@ -103,16 +115,19 @@ export class SetupScene extends Phaser.Scene {
             });
         });
 
-        // Hover effect for the graphics
         hitArea.on('pointerover', () => this.drawStartButton(true));
         hitArea.on('pointerout', () => this.drawStartButton(false));
 
         this.updateLabels();
     }
 
+    private toggleTheme() {
+        themeManager.toggleMode();
+        this.scene.restart();
+    }
+
     private toggleHomeLang() {
         this.homeLang = this.homeLang === 'en' ? 'es' : 'en';
-        // Ensure learning lang is different
         if (this.homeLang === this.learningLang) {
             this.learningLang = this.homeLang === 'en' ? 'es' : 'en';
         }
@@ -121,7 +136,6 @@ export class SetupScene extends Phaser.Scene {
 
     private toggleLearningLang() {
         this.learningLang = this.learningLang === 'en' ? 'es' : 'en';
-        // Ensure home lang is different
         if (this.learningLang === this.homeLang) {
             this.homeLang = this.learningLang === 'en' ? 'es' : 'en';
         }
@@ -144,15 +158,27 @@ export class SetupScene extends Phaser.Scene {
     private drawStartButton(isHover: boolean) {
         if (!this.startBtnGraphics || !this.startBtnText) return;
 
+        const palette = themeManager.getPalette();
         const padding = 80;
         const btnWidth = Math.max(400, this.startBtnText.width + padding);
         const btnHeight = 100;
 
         this.startBtnGraphics.clear();
-        this.startBtnGraphics.fillStyle(isHover ? 0x7c84ff : 0x646cff, 1);
+        // Convert hex strings/numbers correctly. ThemeManager uses numbers for Graphics.
+        this.startBtnGraphics.fillStyle(isHover ? palette.accentSecondary === '#7c84ff' ? 0x7c84ff : 0x5a62ff : palette.accent === '#646cff' ? 0x646cff : 0x3b43d6, 1);
+
+        // Actually, let's update ThemeManager to have numeric values for accent colors too if possible, 
+        // but for now I'll just use the Logic I already have or improve ThemeManager.
+        // Wait, I define them as strings in ThemeManager.
+        // Let's use a quick helper to convert hex string to number if needed, or just add numeric versions.
+
+        const accentColor = isHover ?
+            (themeManager.getMode() === 'dark' ? 0x7c84ff : 0x5a62ff) :
+            (themeManager.getMode() === 'dark' ? 0x646cff : 0x3b43d6);
+
+        this.startBtnGraphics.fillStyle(accentColor, 1);
         this.startBtnGraphics.fillRoundedRect(-btnWidth / 2, -btnHeight / 2, btnWidth, btnHeight, 12);
 
-        // Update hit area size too
         const hitArea = this.startBtnContainer.getByName('hitArea') as Phaser.GameObjects.Rectangle;
         if (hitArea) {
             hitArea.setSize(btnWidth, btnHeight);
@@ -162,11 +188,14 @@ export class SetupScene extends Phaser.Scene {
     private createLangButton(x: number, y: number, text: string, callback: () => void) {
         const btn = this.add.text(x, y, text, {
             fontSize: '28px',
-            color: '#ffffff',
+            color: '#ffffff', // Keep white on language buttons as they have dark background
             fontFamily: 'Outfit',
-            backgroundColor: '#444444',
             padding: { x: 20, y: 10 }
         }).setOrigin(0.5);
+
+        const isDark = themeManager.getMode() === 'dark';
+        btn.setBackgroundColor(isDark ? '#444444' : '#888888');
+
         btn.setInteractive({ useHandCursor: true });
         btn.on('pointerdown', callback);
         return btn;

@@ -1,4 +1,5 @@
 import Phaser from 'phaser';
+import { themeManager } from './ThemeManager';
 
 export interface RoundResult {
     round: number;
@@ -30,10 +31,12 @@ export class SummaryScene extends Phaser.Scene {
 
     create() {
         const { width, height } = this.scale;
-        this.add.rectangle(width / 2, height / 2, width, height, 0x222222);
+        const palette = themeManager.getPalette();
+
+        this.add.rectangle(width / 2, height / 2, width, height, palette.background);
 
         const title = this.result.goalMet ? 'GOAL MET!' : 'ROUND FAILED';
-        const titleColor = this.result.goalMet ? '#00ff00' : '#ff0000';
+        const titleColor = this.result.goalMet ? palette.match : palette.error;
 
         const titleTxt = this.add.text(width / 2, 50, title, {
             fontSize: '48px',
@@ -45,7 +48,7 @@ export class SummaryScene extends Phaser.Scene {
 
         this.add.text(width / 2, 110, `Round ${this.result.round} Summary`, {
             fontSize: '24px',
-            color: '#ffffff',
+            color: palette.text,
             fontFamily: 'Outfit'
         }).setOrigin(0.5);
 
@@ -53,6 +56,7 @@ export class SummaryScene extends Phaser.Scene {
         const statsY = 180;
         const totalScoreTxt = this.add.text(width / 2, statsY, `Score: 0`, {
             fontSize: '20px',
+            color: palette.text,
             fontFamily: 'Outfit'
         }).setOrigin(0.5);
 
@@ -69,12 +73,14 @@ export class SummaryScene extends Phaser.Scene {
 
         this.add.text(width / 2, statsY + 30, `Lines Cleared: ${this.result.linesCleared} / ${this.result.round}`, {
             fontSize: '20px',
+            color: palette.textSecondary,
             fontFamily: 'Outfit'
         }).setOrigin(0.5);
 
         // Word List Setup
         const listHeader = this.add.text(width / 2, statsY + 70, 'Words Found:', {
             fontSize: '24px',
+            color: palette.text,
             fontFamily: 'Outfit',
             fontStyle: 'bold'
         }).setOrigin(0.5);
@@ -92,7 +98,6 @@ export class SummaryScene extends Phaser.Scene {
             const scoreText = `(+${w.score})`;
 
             // Item Container for staggered fade-in
-            // Note: We position the container at currentY, so children's Y should be RELATIVE to it.
             const itemContainer = this.add.container(0, currentY);
             itemContainer.setAlpha(0);
             listContainer.add(itemContainer);
@@ -102,7 +107,7 @@ export class SummaryScene extends Phaser.Scene {
             // 1. Word Line
             const wordTxt = this.add.text(width / 2, localY, `${w.word} (${langCode}) ${scoreText}`, {
                 fontSize: '18px',
-                color: '#ffffff',
+                color: palette.text,
                 fontFamily: 'Outfit',
                 fontStyle: 'bold'
             }).setOrigin(0.5, 0);
@@ -113,7 +118,7 @@ export class SummaryScene extends Phaser.Scene {
             if (w.def) {
                 const defTxt = this.add.text(width / 2, localY, w.def, {
                     fontSize: '14px',
-                    color: '#aaaaaa',
+                    color: palette.textSecondary,
                     fontFamily: 'Outfit',
                     align: 'center',
                     wordWrap: { width: wrapWidth }
@@ -128,7 +133,7 @@ export class SummaryScene extends Phaser.Scene {
                 const transText = `→ ${w.translation} (${transLang})`;
                 const transTxtObj = this.add.text(width / 2, localY, transText, {
                     fontSize: '15px',
-                    color: '#44aa44', // Subtle green for translation
+                    color: palette.match, // Using match color for translations
                     fontFamily: 'Outfit',
                     fontStyle: 'bold'
                 }).setOrigin(0.5, 0);
@@ -138,7 +143,7 @@ export class SummaryScene extends Phaser.Scene {
                 if (w.transDef) {
                     const transDefTxt = this.add.text(width / 2, localY, w.transDef, {
                         fontSize: '13px',
-                        color: '#888888',
+                        color: palette.textSecondary,
                         fontFamily: 'Outfit',
                         align: 'center',
                         wordWrap: { width: wrapWidth }
@@ -155,7 +160,7 @@ export class SummaryScene extends Phaser.Scene {
             localY += 10; // Extra padding between items
             const itemHeight = localY;
 
-            // Staggered Animation (Fade in and slight drift up)
+            // Staggered Animation
             const targetY = itemContainer.y;
             itemContainer.y += 20; // Start slightly lower
             this.tweens.add({
@@ -217,7 +222,7 @@ export class SummaryScene extends Phaser.Scene {
             fontSize: '28px',
             color: '#ffffff',
             fontFamily: 'Outfit',
-            backgroundColor: '#444444',
+            backgroundColor: themeManager.getMode() === 'dark' ? '#444444' : '#888888',
             padding: { x: 20, y: 10 }
         };
 
