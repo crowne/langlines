@@ -4066,7 +4066,7 @@
     "translations": {}
   },
   "DESEO": {
-    "def": "Feel or express a strong desire or hope for something that is not easily attainable; want something that cannot or probably will not happen.",
+    "def": "Atracción por algo hasta el punto de quererlo obtener o alcanzar.",
     "translations": {
       "en": "WISH"
     }
@@ -4075,109 +4075,53 @@
     "def": "",
     "translations": {}
   },
-  "DEU": {
-    "def": "",
-    "translations": {}
-  },
-  "DÉU": {
-    "def": "",
-    "translations": {}
-  },
   "DEUDA": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "DEBT"
+    }
   },
   "DEV": {
-    "def": "",
-    "translations": {}
-  },
-  "DEX": {
-    "def": "",
-    "translations": {}
-  },
-  "DGA": {
-    "def": "",
-    "translations": {}
-  },
-  "DGB": {
-    "def": "",
-    "translations": {}
-  },
-  "DGC": {
-    "def": "",
-    "translations": {}
-  },
-  "DGI": {
-    "def": "",
-    "translations": {}
-  },
-  "DGS": {
-    "def": "",
-    "translations": {}
-  },
-  "DGT": {
-    "def": "",
-    "translations": {}
-  },
-  "DHA": {
-    "def": "",
-    "translations": {}
-  },
-  "DHL": {
-    "def": "",
-    "translations": {}
-  },
-  "DHU": {
-    "def": "",
+    "def": "Obligación de pagar o satisfacer de otro modo un compromiso.",
     "translations": {}
   },
   "DIA": {
     "def": "Día (24 horas).",
     "translations": {
-      "en": "DAY"
+      "en": "DAY",
+      "es": "DÍA",
+      "fr": "JOUR"
     }
-  },
-  "DÍA": {
-    "def": "",
-    "translations": {}
   },
   "DIABLO": {
     "def": "",
-    "translations": {}
+    "translations": {
+      "en": "DEVIL",
+      "es": "DIABLO",
+      "fr": "DIABLE"
+    }
   },
   "DIANA": {
     "def": "",
     "translations": {}
   },
   "DIARIO": {
-    "def": "",
-    "translations": {}
-  },
-  "DIB": {
-    "def": "",
-    "translations": {}
+    "def": "Centro de un objetivo al que se apunta con una flecha o proyectil.",
+    "translations": {
+      "en": "BULLSEYE"
+    }
   },
   "DIBUJO": {
     "def": "",
     "translations": {}
   },
   "DIC": {
-    "def": "",
-    "translations": {}
+    "def": "Diciembre",
+    "translations": {
+      "en": "DEC"
+    }
   },
   "DICTAR": {
-    "def": "",
-    "translations": {}
-  },
-  "DID": {
-    "def": "",
-    "translations": {}
-  },
-  "DIE": {
-    "def": "",
-    "translations": {}
-  },
-  "DIÉ": {
     "def": "",
     "translations": {}
   },
@@ -4195,23 +4139,11 @@
       "en": "TEN"
     }
   },
-  "DIF": {
-    "def": "",
-    "translations": {}
-  },
   "DIGNO": {
     "def": "",
     "translations": {}
   },
   "DILUIR": {
-    "def": "",
-    "translations": {}
-  },
-  "DIM": {
-    "def": "",
-    "translations": {}
-  },
-  "DIN": {
     "def": "",
     "translations": {}
   },
@@ -4221,39 +4153,13 @@
       "en": "MONEY"
     }
   },
-  "DIO": {
-    "def": "",
-    "translations": {}
-  },
-  "DIÓ": {
-    "def": "",
-    "translations": {}
-  },
   "DIOS": {
-    "def": "",
-    "translations": {}
-  },
-  "DIP": {
-    "def": "",
-    "translations": {}
-  },
-  "DIR": {
-    "def": "",
-    "translations": {}
-  },
-  "DIS": {
-    "def": "",
-    "translations": {}
+    "def": "Entidad sobrenatural dotada de poderes superiores a los del hombre.",
+    "translations": {
+      "en": "GOD"
+    }
   },
   "DISCO": {
-    "def": "",
-    "translations": {}
-  },
-  "DIT": {
-    "def": "",
-    "translations": {}
-  },
-  "DIU": {
     "def": "",
     "translations": {}
   },
@@ -4265,115 +4171,47 @@
     "def": "",
     "translations": {}
   },
-  "DIX": {
-    "def": "",
-    "translations": {}
-  },
-  "DIZ": {
-    "def": "",
-    "translations": {}
-  },
-  "DJK": {
-    "def": "",
-    "translations": {}
-  },
-  "DKW": {
-    "def": "",
-    "translations": {}
-  },
-  "DLL": {
-    "def": "",
-    "translations": {}
-  },
-  "DLN": {
-    "def": "",
-    "translations": {}
-  },
-  "DLS": {
-    "def": "",
-    "translations": {}
-  },
-  "DNA": {
-    "def": "",
-    "translations": {}
-  },
-  "DÑA": {
-    "def": "",
-    "translations": {}
-  },
-  "DNC": {
-    "def": "",
-    "translations": {}
-  },
-  "DNI": {
-    "def": "",
-    "translations": {}
-  },
-  "DNP": {
-    "def": "",
-    "translations": {}
-  },
-  "DNS": {
-    "def": "",
-    "translations": {}
-  },
   "DOBLE": {
-    "def": "Consisting of two equal, identical, or similar parts or things.",
+    "def": "Que es exactamente dos veces más grande que otro; que duplica un número, una cantidad o una cualidad.",
     "translations": {
       "en": "DOUBLE"
     }
   },
-  "DOC": {
-    "def": "",
-    "translations": {}
-  },
   "DOCE": {
-    "def": "",
-    "translations": {}
-  },
-  "DOE": {
-    "def": "",
-    "translations": {}
-  },
-  "DOG": {
-    "def": "",
-    "translations": {}
-  },
-  "DOI": {
-    "def": "",
-    "translations": {}
+    "def": "12",
+    "translations": {
+      "en": "TWELVE"
+    }
   },
   "DOLER": {
-    "def": "",
-    "translations": {}
+    "def": "(verbo) Padecer dolor.",
+    "translations": {
+      "en": "HURT"
+    }
   },
   "DOLOR": {
-    "def": "",
-    "translations": {}
-  },
-  "DOM": {
-    "def": "",
-    "translations": {}
+    "def": "(sustantivo) Sensación molesta y aflictiva de una parte del cuerpo por causa interior o exterior.",
+    "translations": {
+      "en": "PAIN"
+    }
   },
   "DON": {
-    "def": "",
-    "translations": {}
+    "def": "Cosa cualquiera que se da de forma voluntaria y gratuita.",
+    "translations": {
+      "en": "GIFT"
+    }
   },
   "DONAR": {
-    "def": "",
-    "translations": {}
+    "def": "(verbo) Dar algo de forma voluntaria y gratuita.",
+    "translations": {
+      "en": "DONATE"
+    }
   },
   "DONDE": {
-    "def": "",
-    "translations": {}
-  },
-  "DOO": {
-    "def": "",
-    "translations": {}
-  },
-  "DOR": {
-    "def": "",
-    "translations": {}
+    "def": "Indica el sitio de la acción o hecho.",
+    "translations": {
+      "en": "WHERE"
+    }
   },
   "DORADO": {
     "def": "",
