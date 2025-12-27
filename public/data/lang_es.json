@@ -4303,33 +4303,24 @@
     "def": "",
     "translations": {}
   },
-  "DUM": {
-    "def": "",
-    "translations": {}
-  },
-  "DUN": {
-    "def": "",
-    "translations": {}
-  },
   "DUO": {
-    "def": "",
-    "translations": {}
-  },
-  "DÚO": {
-    "def": "",
-    "translations": {}
+    "def": "Conjunto de dos personas",
+    "translations": {
+      "en": "DUO",
+      "es": "DÚO"
+    }
   },
   "DUQUE": {
-    "def": "",
-    "translations": {}
-  },
-  "DUR": {
-    "def": "",
-    "translations": {}
+    "def": "Persona con el título nobiliario más alto",
+    "translations": {
+      "en": "DUKE"
+    }
   },
   "DURAR": {
-    "def": "",
-    "translations": {}
+    "def": "Continuar siendo, obrando, sirviendo",
+    "translations": {
+      "en": "LASTING"
+    }
   },
   "DURO": {
     "def": "Solid, firm, and resistant to pressure; not easily broken or bent.",
@@ -4338,66 +4329,10 @@
     }
   },
   "DUX": {
-    "def": "",
-    "translations": {}
-  },
-  "DVD": {
-    "def": "",
-    "translations": {}
-  },
-  "DYA": {
-    "def": "",
-    "translations": {}
-  },
-  "DYC": {
-    "def": "",
-    "translations": {}
-  },
-  "DYE": {
-    "def": "",
-    "translations": {}
-  },
-  "DYN": {
-    "def": "",
-    "translations": {}
-  },
-  "DYP": {
-    "def": "",
-    "translations": {}
-  },
-  "DZD": {
-    "def": "",
-    "translations": {}
-  },
-  "EAJ": {
-    "def": "",
-    "translations": {}
-  },
-  "EAR": {
-    "def": "",
-    "translations": {}
-  },
-  "EAT": {
-    "def": "",
-    "translations": {}
-  },
-  "EAU": {
-    "def": "",
-    "translations": {}
-  },
-  "EBA": {
-    "def": "",
+    "def": "En las repúblicas de Venecia y Génova, príncipe o magistrado supremo",
     "translations": {}
   },
   "EBANO": {
-    "def": "",
-    "translations": {}
-  },
-  "EBB": {
-    "def": "",
-    "translations": {}
-  },
-  "EBC": {
     "def": "",
     "translations": {}
   },
@@ -4405,49 +4340,21 @@
     "def": "",
     "translations": {}
   },
-  "EBY": {
-    "def": "",
-    "translations": {}
-  },
-  "ECA": {
-    "def": "",
-    "translations": {}
-  },
-  "EÇA": {
-    "def": "",
-    "translations": {}
-  },
-  "ECG": {
-    "def": "",
-    "translations": {}
-  },
   "ECHAR": {
     "def": "",
     "translations": {}
   },
-  "ECM": {
-    "def": "",
-    "translations": {}
-  },
   "ECO": {
-    "def": "",
-    "translations": {}
-  },
-  "ECP": {
-    "def": "",
-    "translations": {}
+    "def": "Repetición de un sonido producida al ser reflejadas sus ondas por un obstáculo.",
+    "translations": {
+      "en": "ECHO"
+    }
   },
   "ECU": {
-    "def": "",
-    "translations": {}
-  },
-  "ECV": {
-    "def": "",
-    "translations": {}
-  },
-  "EDA": {
-    "def": "",
-    "translations": {}
+    "def": "Unidad monetaria de cuenta de la Unión Europea, anterior al euro",
+    "translations": {
+      "en": "ECU"
+    }
   },
   "EDAD": {
     "def": "The length of time that a person has lived.",
@@ -4455,83 +4362,13 @@
       "en": "AGE"
     }
   },
-  "EDE": {
-    "def": "",
-    "translations": {}
-  },
-  "EDF": {
-    "def": "",
-    "translations": {}
-  },
-  "EDH": {
-    "def": "",
-    "translations": {}
-  },
-  "EDI": {
-    "def": "",
-    "translations": {}
-  },
   "EDITOR": {
-    "def": "",
-    "translations": {}
-  },
-  "EDO": {
-    "def": "",
-    "translations": {}
-  },
-  "EDP": {
-    "def": "",
-    "translations": {}
-  },
-  "EDS": {
-    "def": "",
-    "translations": {}
-  },
-  "EDU": {
-    "def": "",
-    "translations": {}
-  },
-  "EDÚ": {
-    "def": "",
-    "translations": {}
+    "def": "Que edita",
+    "translations": {
+      "en": "EDITOR"
+    }
   },
   "EDUCAR": {
-    "def": "",
-    "translations": {}
-  },
-  "EDY": {
-    "def": "",
-    "translations": {}
-  },
-  "EEB": {
-    "def": "",
-    "translations": {}
-  },
-  "EEC": {
-    "def": "",
-    "translations": {}
-  },
-  "EEE": {
-    "def": "",
-    "translations": {}
-  },
-  "EEG": {
-    "def": "",
-    "translations": {}
-  },
-  "EEM": {
-    "def": "",
-    "translations": {}
-  },
-  "EET": {
-    "def": "",
-    "translations": {}
-  },
-  "EFA": {
-    "def": "",
-    "translations": {}
-  },
-  "EFE": {
     "def": "",
     "translations": {}
   },
@@ -4543,91 +4380,19 @@
     "def": "",
     "translations": {}
   },
-  "EGA": {
-    "def": "",
-    "translations": {}
-  },
-  "EGB": {
-    "def": "",
-    "translations": {}
-  },
-  "EGG": {
-    "def": "",
-    "translations": {}
-  },
-  "EGI": {
-    "def": "",
-    "translations": {}
-  },
-  "EGM": {
-    "def": "",
-    "translations": {}
-  },
   "EGO": {
-    "def": "",
-    "translations": {}
-  },
-  "EGP": {
-    "def": "",
-    "translations": {}
-  },
-  "EHP": {
-    "def": "",
-    "translations": {}
-  },
-  "EIA": {
-    "def": "",
-    "translations": {}
-  },
-  "EIC": {
-    "def": "",
-    "translations": {}
-  },
-  "EID": {
-    "def": "",
-    "translations": {}
-  },
-  "EIN": {
-    "def": "",
-    "translations": {}
-  },
-  "EIS": {
-    "def": "",
-    "translations": {}
-  },
-  "EIX": {
-    "def": "",
-    "translations": {}
+    "def": "Exceso de autoestima",
+    "translations": {
+      "en": "EGO"
+    }
   },
   "EJE": {
-    "def": "",
-    "translations": {}
-  },
-  "EJO": {
-    "def": "",
-    "translations": {}
-  },
-  "ELA": {
-    "def": "",
-    "translations": {}
-  },
-  "ELE": {
-    "def": "",
-    "translations": {}
+    "def": "Barra, varilla o pieza similar que atraviesa un cuerpo giratorio y le sirve de sostén en el movimiento",
+    "translations": {
+      "en": "AXLE"
+    }
   },
   "ELEVAR": {
-    "def": "",
-    "translations": {}
-  },
-  "ELF": {
-    "def": "",
-    "translations": {}
-  },
-  "ELI": {
-    "def": "",
-    "translations": {}
-  },
-  "ELÍ": {
     "def": "",
     "translations": {}
   },
@@ -6085,18 +5850,6 @@
     "def": "",
     "translations": {}
   },
-  "HOU": {
-    "def": "",
-    "translations": {}
-  },
-  "HOW": {
-    "def": "",
-    "translations": {}
-  },
-  "HOX": {
-    "def": "",
-    "translations": {}
-  },
   "HOY": {
     "def": "On or during the present day.",
     "translations": {
@@ -6104,954 +5857,90 @@
     }
   },
   "HOZ": {
-    "def": "",
-    "translations": {}
-  },
-  "HRB": {
-    "def": "",
-    "translations": {}
-  },
-  "HRS": {
-    "def": "",
-    "translations": {}
-  },
-  "HRW": {
-    "def": "",
-    "translations": {}
-  },
-  "HSS": {
-    "def": "",
-    "translations": {}
-  },
-  "HST": {
-    "def": "",
-    "translations": {}
-  },
-  "HSU": {
-    "def": "",
-    "translations": {}
-  },
-  "HTA": {
-    "def": "",
-    "translations": {}
-  },
-  "HTM": {
-    "def": "",
-    "translations": {}
-  },
-  "HTV": {
-    "def": "",
-    "translations": {}
-  },
-  "HUA": {
-    "def": "",
-    "translations": {}
-  },
-  "HUD": {
-    "def": "",
-    "translations": {}
-  },
-  "HUE": {
-    "def": "",
-    "translations": {}
-  },
-  "HUÉ": {
-    "def": "",
-    "translations": {}
-  },
-  "HUI": {
-    "def": "",
-    "translations": {}
-  },
-  "HUÍ": {
-    "def": "",
-    "translations": {}
-  },
-  "HUM": {
-    "def": "",
-    "translations": {}
-  },
-  "HUN": {
-    "def": "",
-    "translations": {}
-  },
-  "HUR": {
-    "def": "",
-    "translations": {}
-  },
-  "HUT": {
-    "def": "",
-    "translations": {}
+    "def": "Instrumento que sirve para segar mieses y hierbas, compuesto de una hoja acerada, curva, con dientes muy agudos y cortantes o con filo por la parte cóncava, afianzada en un mango de madera",
+    "translations": {
+      "en": "SICKLE"
+    }
   },
   "HUY": {
-    "def": "",
-    "translations": {}
-  },
-  "HVO": {
-    "def": "",
-    "translations": {}
-  },
-  "HWA": {
-    "def": "",
-    "translations": {}
-  },
-  "HWY": {
-    "def": "",
-    "translations": {}
-  },
-  "IAA": {
-    "def": "",
-    "translations": {}
-  },
-  "IAC": {
-    "def": "",
-    "translations": {}
-  },
-  "IAD": {
-    "def": "",
-    "translations": {}
-  },
-  "IAE": {
-    "def": "",
-    "translations": {}
-  },
-  "IAG": {
-    "def": "",
-    "translations": {}
-  },
-  "IAM": {
-    "def": "",
-    "translations": {}
-  },
-  "IAN": {
-    "def": "",
-    "translations": {}
-  },
-  "IBA": {
-    "def": "",
-    "translations": {}
-  },
-  "IBI": {
-    "def": "",
-    "translations": {}
-  },
-  "IBM": {
-    "def": "",
-    "translations": {}
-  },
-  "IBN": {
-    "def": "",
-    "translations": {}
-  },
-  "IBR": {
-    "def": "",
-    "translations": {}
-  },
-  "ICA": {
-    "def": "",
-    "translations": {}
-  },
-  "ICC": {
-    "def": "",
-    "translations": {}
-  },
-  "ICD": {
-    "def": "",
-    "translations": {}
-  },
-  "ICE": {
-    "def": "",
-    "translations": {}
-  },
-  "ICF": {
-    "def": "",
-    "translations": {}
-  },
-  "ICH": {
-    "def": "",
-    "translations": {}
-  },
-  "ICI": {
-    "def": "",
-    "translations": {}
-  },
-  "ICL": {
-    "def": "",
-    "translations": {}
-  },
-  "ICM": {
-    "def": "",
-    "translations": {}
-  },
-  "ICO": {
-    "def": "",
-    "translations": {}
-  },
-  "ICP": {
-    "def": "",
-    "translations": {}
-  },
-  "ICQ": {
-    "def": "",
-    "translations": {}
-  },
-  "ICS": {
-    "def": "",
-    "translations": {}
-  },
-  "ICT": {
-    "def": "",
-    "translations": {}
-  },
-  "ICV": {
-    "def": "",
-    "translations": {}
+    "def": "para denotar dolor físico agudo, vergüenza o asombro",
+    "translations": {
+      "en": "SIGH"
+    }
   },
   "IDA": {
-    "def": "",
-    "translations": {}
-  },
-  "IDC": {
-    "def": "",
-    "translations": {}
-  },
-  "IDE": {
-    "def": "",
-    "translations": {}
+    "def": "Acción de ir de un lugar a otro",
+    "translations": {
+      "en": "GO"
+    }
   },
   "IDEA": {
     "def": "",
     "translations": {}
   },
-  "IDI": {
-    "def": "",
-    "translations": {}
-  },
-  "IDM": {
-    "def": "",
-    "translations": {}
-  },
   "IDO": {
-    "def": "",
-    "translations": {}
-  },
-  "IDS": {
-    "def": "",
-    "translations": {}
-  },
-  "IDT": {
-    "def": "",
-    "translations": {}
-  },
-  "IDU": {
-    "def": "",
-    "translations": {}
-  },
-  "IEC": {
-    "def": "",
-    "translations": {}
-  },
-  "IED": {
-    "def": "",
-    "translations": {}
-  },
-  "IEE": {
-    "def": "",
-    "translations": {}
-  },
-  "IEO": {
-    "def": "",
-    "translations": {}
-  },
-  "IES": {
-    "def": "",
-    "translations": {}
-  },
-  "ÍES": {
-    "def": "",
-    "translations": {}
-  },
-  "IET": {
-    "def": "",
-    "translations": {}
-  },
-  "IFA": {
-    "def": "",
-    "translations": {}
-  },
-  "IFE": {
-    "def": "",
-    "translations": {}
-  },
-  "IFI": {
-    "def": "",
-    "translations": {}
-  },
-  "IFN": {
-    "def": "",
-    "translations": {}
-  },
-  "IFO": {
-    "def": "",
-    "translations": {}
-  },
-  "IGA": {
-    "def": "",
-    "translations": {}
-  },
-  "IGE": {
-    "def": "",
-    "translations": {}
-  },
-  "IGG": {
-    "def": "",
-    "translations": {}
-  },
-  "IGI": {
-    "def": "",
-    "translations": {}
-  },
-  "IGM": {
-    "def": "",
-    "translations": {}
-  },
-  "IGS": {
-    "def": "",
-    "translations": {}
+    "def": "Una persona que está falta de juicio",
+    "translations": {
+      "en": "IDIOT"
+    }
   },
   "IGUAL": {
     "def": "",
     "translations": {}
   },
-  "IGV": {
-    "def": "",
-    "translations": {}
-  },
-  "IIB": {
-    "def": "",
-    "translations": {}
-  },
-  "IIC": {
-    "def": "",
-    "translations": {}
-  },
-  "III": {
-    "def": "",
-    "translations": {}
-  },
-  "IIS": {
-    "def": "",
-    "translations": {}
-  },
-  "IIU": {
-    "def": "",
-    "translations": {}
-  },
-  "IKE": {
-    "def": "",
-    "translations": {}
-  },
-  "ILE": {
-    "def": "",
-    "translations": {}
-  },
-  "ILO": {
-    "def": "",
-    "translations": {}
-  },
-  "ILS": {
-    "def": "",
-    "translations": {}
-  },
-  "IMA": {
-    "def": "",
-    "translations": {}
-  },
-  "IMC": {
-    "def": "",
-    "translations": {}
-  },
-  "IMD": {
-    "def": "",
-    "translations": {}
-  },
-  "IME": {
-    "def": "",
-    "translations": {}
-  },
-  "IMG": {
-    "def": "",
-    "translations": {}
-  },
-  "IMI": {
-    "def": "",
-    "translations": {}
-  },
-  "IMM": {
-    "def": "",
-    "translations": {}
-  },
-  "IMO": {
-    "def": "",
-    "translations": {}
-  },
-  "IMP": {
-    "def": "",
-    "translations": {}
-  },
-  "IMS": {
-    "def": "",
-    "translations": {}
-  },
-  "IMT": {
-    "def": "",
-    "translations": {}
-  },
-  "INA": {
-    "def": "",
-    "translations": {}
-  },
-  "INC": {
-    "def": "",
-    "translations": {}
-  },
-  "IND": {
-    "def": "",
-    "translations": {}
-  },
-  "INE": {
-    "def": "",
-    "translations": {}
-  },
-  "INF": {
-    "def": "",
-    "translations": {}
-  },
-  "ING": {
-    "def": "",
-    "translations": {}
-  },
-  "INH": {
-    "def": "",
-    "translations": {}
-  },
-  "INI": {
-    "def": "",
-    "translations": {}
-  },
-  "INJ": {
-    "def": "",
-    "translations": {}
-  },
-  "INM": {
-    "def": "",
-    "translations": {}
-  },
-  "INN": {
-    "def": "",
-    "translations": {}
-  },
-  "INO": {
-    "def": "",
-    "translations": {}
-  },
-  "INP": {
-    "def": "",
-    "translations": {}
-  },
-  "INS": {
-    "def": "",
-    "translations": {}
-  },
-  "INT": {
-    "def": "",
-    "translations": {}
-  },
-  "INV": {
-    "def": "",
-    "translations": {}
-  },
-  "IOD": {
-    "def": "",
-    "translations": {}
-  },
-  "IOL": {
-    "def": "",
-    "translations": {}
-  },
-  "IOM": {
-    "def": "",
-    "translations": {}
-  },
   "ION": {
-    "def": "",
-    "translations": {}
-  },
-  "IÓN": {
-    "def": "",
-    "translations": {}
-  },
-  "IOR": {
-    "def": "",
-    "translations": {}
-  },
-  "IOS": {
-    "def": "",
-    "translations": {}
-  },
-  "IOU": {
-    "def": "",
-    "translations": {}
-  },
-  "IOV": {
-    "def": "",
-    "translations": {}
-  },
-  "IOX": {
-    "def": "",
-    "translations": {}
-  },
-  "IOY": {
-    "def": "",
-    "translations": {}
-  },
-  "IPA": {
-    "def": "",
-    "translations": {}
-  },
-  "IPC": {
-    "def": "",
-    "translations": {}
-  },
-  "IPD": {
-    "def": "",
-    "translations": {}
-  },
-  "IPI": {
-    "def": "",
-    "translations": {}
-  },
-  "IPM": {
-    "def": "",
-    "translations": {}
-  },
-  "IPN": {
-    "def": "",
-    "translations": {}
-  },
-  "IPS": {
-    "def": "",
-    "translations": {}
+    "def": "Átomo o agrupación de átomos que por pérdida o ganancia de uno o más electrones adquiere carga eléctrica",
+    "translations": {
+      "en": "ION"
+    }
   },
   "IRA": {
-    "def": "",
-    "translations": {}
-  },
-  "IRÁ": {
-    "def": "",
-    "translations": {}
-  },
-  "IRC": {
-    "def": "",
-    "translations": {}
-  },
-  "IRÉ": {
-    "def": "",
-    "translations": {}
-  },
-  "IRI": {
-    "def": "",
-    "translations": {}
-  },
-  "IRS": {
-    "def": "",
-    "translations": {}
-  },
-  "IRU": {
-    "def": "",
-    "translations": {}
+    "def": " Sentimiento de indignación que causa enojo",
+    "translations": {
+      "en": "IRE"
+    }
   },
   "ISA": {
-    "def": "",
-    "translations": {}
-  },
-  "ISC": {
-    "def": "",
-    "translations": {}
-  },
-  "ISI": {
-    "def": "",
-    "translations": {}
+    "def": "Canto y baile típicos de las islas Canarias, en España",
+    "translations": {
+      "en": "CANARIAN SONGS"
+    }
   },
   "ISLA": {
-    "def": "",
-    "translations": {}
-  },
-  "ISO": {
-    "def": "",
-    "translations": {}
-  },
-  "ISP": {
-    "def": "",
-    "translations": {}
-  },
-  "ISR": {
-    "def": "",
-    "translations": {}
-  },
-  "ISS": {
-    "def": "",
-    "translations": {}
-  },
-  "IST": {
-    "def": "",
-    "translations": {}
-  },
-  "ITA": {
-    "def": "",
-    "translations": {}
-  },
-  "ITÁ": {
-    "def": "",
-    "translations": {}
-  },
-  "ITB": {
-    "def": "",
-    "translations": {}
-  },
-  "ITC": {
-    "def": "",
-    "translations": {}
-  },
-  "ITE": {
-    "def": "",
-    "translations": {}
-  },
-  "ITF": {
-    "def": "",
-    "translations": {}
-  },
-  "ITO": {
-    "def": "",
-    "translations": {}
-  },
-  "ITP": {
-    "def": "",
-    "translations": {}
-  },
-  "ITS": {
-    "def": "",
-    "translations": {}
-  },
-  "ITT": {
-    "def": "",
-    "translations": {}
-  },
-  "ITU": {
-    "def": "",
-    "translations": {}
-  },
-  "ITV": {
-    "def": "",
-    "translations": {}
-  },
-  "IUA": {
-    "def": "",
-    "translations": {}
-  },
-  "IUB": {
-    "def": "",
-    "translations": {}
-  },
-  "IUC": {
-    "def": "",
-    "translations": {}
-  },
-  "IUD": {
-    "def": "",
-    "translations": {}
-  },
-  "IUE": {
-    "def": "",
-    "translations": {}
-  },
-  "IUG": {
-    "def": "",
-    "translations": {}
-  },
-  "IUJ": {
-    "def": "",
-    "translations": {}
-  },
-  "IUL": {
-    "def": "",
-    "translations": {}
-  },
-  "IUM": {
-    "def": "",
-    "translations": {}
-  },
-  "IUN": {
-    "def": "",
-    "translations": {}
-  },
-  "IUO": {
-    "def": "",
-    "translations": {}
-  },
-  "IUR": {
-    "def": "",
-    "translations": {}
-  },
-  "IUS": {
-    "def": "",
-    "translations": {}
-  },
-  "IUT": {
-    "def": "",
-    "translations": {}
-  },
-  "IUV": {
-    "def": "",
-    "translations": {}
-  },
-  "IUX": {
-    "def": "",
-    "translations": {}
-  },
-  "IUZ": {
-    "def": "",
-    "translations": {}
-  },
-  "IVA": {
-    "def": "",
-    "translations": {}
-  },
-  "IVE": {
-    "def": "",
-    "translations": {}
-  },
-  "IVO": {
-    "def": "",
-    "translations": {}
-  },
-  "IVY": {
-    "def": "",
-    "translations": {}
-  },
-  "IXE": {
-    "def": "",
-    "translations": {}
+    "def": "Porción de tierra rodeada de agua por todas partes",
+    "translations": {
+      "en": "ISLE"
+    }
   },
   "IZA": {
-    "def": "",
-    "translations": {}
-  },
-  "IZÓ": {
-    "def": "",
-    "translations": {}
-  },
-  "IZQ": {
-    "def": "",
-    "translations": {}
-  },
-  "JAB": {
-    "def": "",
-    "translations": {}
-  },
-  "JAC": {
-    "def": "",
-    "translations": {}
-  },
-  "JAD": {
-    "def": "",
-    "translations": {}
+    "def": "prostituta",
+    "translations": {
+      "en": "WHORE"
+    }
   },
   "JAI": {
-    "def": "",
-    "translations": {}
-  },
-  "JAL": {
-    "def": "",
-    "translations": {}
-  },
-  "JAM": {
-    "def": "",
-    "translations": {}
+    "def": "Mujer joven y atractiva",
+    "translations": {
+      "en": "BIMBO"
+    }
   },
   "JAN": {
-    "def": "",
-    "translations": {}
-  },
-  "JAP": {
-    "def": "",
-    "translations": {}
-  },
-  "JAR": {
-    "def": "",
-    "translations": {}
-  },
-  "JAS": {
-    "def": "",
-    "translations": {}
-  },
-  "JAY": {
-    "def": "",
-    "translations": {}
-  },
-  "JAZ": {
-    "def": "",
-    "translations": {}
-  },
-  "JCE": {
-    "def": "",
-    "translations": {}
-  },
-  "JEB": {
-    "def": "",
-    "translations": {}
-  },
-  "JEC": {
-    "def": "",
-    "translations": {}
-  },
-  "JED": {
-    "def": "",
-    "translations": {}
-  },
-  "JEF": {
-    "def": "",
+    "def": "Vara de madera dura, rematada en una punta de hierro, que se emplea para ahoyar en la tierra",
     "translations": {}
   },
   "JEFE": {
-    "def": "",
-    "translations": {}
-  },
-  "JEN": {
-    "def": "",
-    "translations": {}
-  },
-  "JEP": {
-    "def": "",
-    "translations": {}
-  },
-  "JER": {
-    "def": "",
-    "translations": {}
+    "def": "Superior o cabeza de una corporación, partido u oficio",
+    "translations": {
+      "en": "BOSS"
+    }
   },
   "JET": {
-    "def": "",
-    "translations": {}
-  },
-  "JEU": {
-    "def": "",
-    "translations": {}
-  },
-  "JFK": {
-    "def": "",
-    "translations": {}
-  },
-  "JIA": {
-    "def": "",
-    "translations": {}
-  },
-  "JIG": {
-    "def": "",
-    "translations": {}
-  },
-  "JIL": {
-    "def": "",
-    "translations": {}
-  },
-  "JIM": {
-    "def": "",
-    "translations": {}
-  },
-  "JIN": {
-    "def": "",
-    "translations": {}
-  },
-  "JIO": {
-    "def": "",
-    "translations": {}
-  },
-  "JIR": {
-    "def": "",
-    "translations": {}
-  },
-  "JIT": {
-    "def": "",
-    "translations": {}
-  },
-  "JMC": {
-    "def": "",
-    "translations": {}
-  },
-  "JMV": {
-    "def": "",
-    "translations": {}
-  },
-  "JNC": {
-    "def": "",
-    "translations": {}
-  },
-  "JNE": {
-    "def": "",
-    "translations": {}
-  },
-  "JOA": {
-    "def": "",
-    "translations": {}
-  },
-  "JOB": {
-    "def": "",
-    "translations": {}
-  },
-  "JOC": {
-    "def": "",
-    "translations": {}
+    "def": "reactor avión",
+    "translations": {
+      "en": "JET"
+    }
   },
   "JODER": {
-    "def": "",
-    "translations": {}
-  },
-  "JOE": {
-    "def": "",
-    "translations": {}
-  },
-  "JOÉ": {
-    "def": "",
-    "translations": {}
-  },
-  "JOL": {
-    "def": "",
-    "translations": {}
-  },
-  "JON": {
-    "def": "",
-    "translations": {}
-  },
-  "JOS": {
-    "def": "",
-    "translations": {}
-  },
-  "JOU": {
-    "def": "",
-    "translations": {}
-  },
-  "JOY": {
-    "def": "",
-    "translations": {}
-  },
-  "JPG": {
-    "def": "",
-    "translations": {}
-  },
-  "JPL": {
-    "def": "",
-    "translations": {}
-  },
-  "JUE": {
     "def": "",
     "translations": {}
   },
@@ -7059,31 +5948,11 @@
     "def": "",
     "translations": {}
   },
-  "JUL": {
-    "def": "",
-    "translations": {}
-  },
-  "JUN": {
-    "def": "",
-    "translations": {}
-  },
   "JUNTO": {
     "def": "",
     "translations": {}
   },
-  "JUS": {
-    "def": "",
-    "translations": {}
-  },
   "JUSTO": {
-    "def": "",
-    "translations": {}
-  },
-  "JVC": {
-    "def": "",
-    "translations": {}
-  },
-  "JVM": {
     "def": "",
     "translations": {}
   },
@@ -8798,7 +7667,7 @@
   "QUE": {
     "def": "Pregunta por la identidad de una o varias personas o cosas de un conjunto identificable",
     "translations": {
-      "en": "WHAT",
+      "en": "THAT",
       "es": "QUÉ"
     }
   },
