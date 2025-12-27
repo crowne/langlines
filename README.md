@@ -25,7 +25,7 @@ If the target is reached then the next round can be started else the game will e
 
 ## distribution
 
-The game will be available on the google play store as an instant app with no installation required.
+The game will be available on the google play store as an instant app with no installation required.  
 The game should be playable in offline mode.
 
 ## See

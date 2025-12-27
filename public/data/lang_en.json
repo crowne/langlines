@@ -4048,8 +4048,10 @@
     "translations": {}
   },
   "DUCK": {
-    "def": "",
-    "translations": {}
+    "def": "An aquatic bird with a flat bill and webbed feet.",
+    "translations": {
+      "es": "GALLO"
+    }
   },
   "DUCT": {
     "def": "",
@@ -4060,12 +4062,16 @@
     "translations": {}
   },
   "DUDE": {
-    "def": "",
-    "translations": {}
+    "def": "A man, especially one who is cool or fashionable.",
+    "translations": {
+      "es": "CHAPARRAL"
+    }
   },
   "DUDES": {
-    "def": "",
-    "translations": {}
+    "def": "A group of dudes.",
+    "translations": {
+      "es": "CHAPARRALES"
+    }
   },
   "DUE": {
     "def": "Expected at or planned for at a certain time.",
@@ -4074,116 +4080,142 @@
     }
   },
   "DUEL": {
-    "def": "",
-    "translations": {}
+    "def": "A contest or competition between two people or groups.",
+    "translations": {
+      "es": "DUELO"
+    }
   },
   "DUES": {
-    "def": "",
-    "translations": {}
+    "def": "Respects which are to be shown or debts which are due to be paid.",
+    "translations": {
+      "es": "DEBES"
+    }
   },
   "DUET": {
-    "def": "",
-    "translations": {}
+    "def": "Two people or things that are played or sung together.",
+    "translations": {
+      "es": "DUETO"
+    }
   },
   "DUFF": {
     "def": "",
     "translations": {}
   },
   "DUG": {
-    "def": "",
-    "translations": {}
+    "def": "Past tense of dig.",
+    "translations": {
+      "es": "DIGÓ"
+    }
   },
   "DUH": {
     "def": "",
     "translations": {}
   },
-  "DUI": {
-    "def": "",
-    "translations": {}
-  },
   "DUKE": {
-    "def": "",
-    "translations": {}
+    "def": "A male member of a royal family.",
+    "translations": {
+      "es": "DUQUE"
+    }
   },
   "DULL": {
-    "def": "",
-    "translations": {}
+    "def": "Not sharp or bright; not lively or interesting.",
+    "translations": {
+      "es": "AGUZADO"
+    }
   },
   "DULY": {
-    "def": "",
-    "translations": {}
-  },
-  "DUMA": {
-    "def": "",
-    "translations": {}
+    "def": "In a proper or due manner.",
+    "translations": {
+      "es": "DEBIDAMENTE"
+    }
   },
   "DUMB": {
-    "def": "",
-    "translations": {}
+    "def": "Unable to speak",
+    "translations": {
+      "es": "SORDO"
+    }
   },
   "DUMP": {
-    "def": "",
-    "translations": {}
+    "def": "Discard or throw away.",
+    "translations": {
+      "es": "DESCARTAR"
+    }
   },
   "DUMPS": {
-    "def": "",
-    "translations": {}
+    "def": "Discard or throw away.",
+    "translations": {
+      "es": "DESCARTES"
+    }
   },
   "DUN": {
-    "def": "",
+    "def": "Colour of a horse, dull greyish-brown",
     "translations": {}
   },
   "DUNE": {
-    "def": "",
+    "def": "A mound, hill or ridge of sand.",
     "translations": {}
   },
   "DUNG": {
-    "def": "",
-    "translations": {}
+    "def": "Animal faeces.",
+    "translations": {
+      "es": "ESTIÉRCOL"
+    }
   },
   "DUNS": {
-    "def": "",
+    "def": "Colour of a horse, dull greyish-brown",
     "translations": {}
   },
   "DUO": {
-    "def": "",
-    "translations": {}
-  },
-  "DUP": {
-    "def": "",
-    "translations": {}
-  },
-  "DUPE": {
-    "def": "",
-    "translations": {}
+    "def": "Two people or things that are played or sung together.",
+    "translations": {
+      "es": "DUETO"
+    }
   },
   "DURA": {
     "def": "",
     "translations": {}
   },
   "DURING": {
-    "def": "",
-    "translations": {}
+    "def": "While something is happening.",
+    "translations": {
+      "es": "DURANTE"
+    }
   },
   "DURST": {
-    "def": "",
-    "translations": {}
+    "def": "Boldness or courage",
+    "translations": {
+      "es": "AUDAZ"
+    }
   },
   "DUSK": {
-    "def": "",
-    "translations": {}
+    "def": "Late afternoon or early evening",
+    "translations": {
+      "es": "CREPUSCULO"
+    }
   },
   "DUST": {
-    "def": "",
-    "translations": {}
+    "def": "Small particles of sand or other matter suspended in the air.",
+    "translations": {
+      "es": "POLVO"
+    }
   },
   "DUSTS": {
-    "def": "",
-    "translations": {}
+    "def": "Small particles of sand or other matter suspended in the air.",
+    "translations": {
+      "es": "POLVO"
+    }
+  },
+  "DUTCH": {
+    "def": "Related to the Netherlands or its people or language",
+    "translations": {
+      "es": "HOLANDESA"
+    }
   },
   "DUTY": {
-    "def": "",
-    "translations": {}
+    "def": "Action or responsibility that is expected or required.",
+    "translations": {
+      "es": "DEBER"
+    }
   },
   "DWALM": {
     "def": "",

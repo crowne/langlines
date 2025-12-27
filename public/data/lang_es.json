@@ -8651,981 +8651,209 @@
     "def": "",
     "translations": {}
   },
-  "NET": {
-    "def": "",
-    "translations": {}
-  },
-  "NEW": {
-    "def": "",
-    "translations": {}
-  },
-  "NEY": {
-    "def": "",
-    "translations": {}
-  },
-  "NFL": {
-    "def": "",
-    "translations": {}
-  },
-  "NFR": {
-    "def": "",
-    "translations": {}
-  },
-  "NGC": {
-    "def": "",
-    "translations": {}
-  },
-  "NHK": {
-    "def": "",
-    "translations": {}
-  },
-  "NHS": {
-    "def": "",
-    "translations": {}
-  },
-  "NIC": {
-    "def": "",
-    "translations": {}
-  },
-  "NIE": {
-    "def": "",
-    "translations": {}
-  },
-  "NIF": {
-    "def": "",
-    "translations": {}
-  },
-  "NIH": {
-    "def": "",
-    "translations": {}
-  },
-  "NIL": {
-    "def": "",
-    "translations": {}
-  },
-  "NIN": {
-    "def": "",
-    "translations": {}
-  },
-  "NIÑ": {
-    "def": "",
-    "translations": {}
-  },
-  "NIS": {
-    "def": "",
-    "translations": {}
-  },
-  "NIT": {
-    "def": "",
-    "translations": {}
-  },
   "NIVEL": {
-    "def": "",
-    "translations": {}
-  },
-  "NIX": {
-    "def": "",
-    "translations": {}
-  },
-  "NMB": {
-    "def": "",
-    "translations": {}
-  },
-  "NME": {
-    "def": "",
-    "translations": {}
-  },
-  "NOA": {
-    "def": "",
-    "translations": {}
-  },
-  "NOC": {
-    "def": "",
-    "translations": {}
+    "def": "Height that something reaches, or at which it is placed.",
+    "translations": {
+      "en": "LEVEL"
+    }
   },
   "NOCHE": {
-    "def": "",
-    "translations": {}
-  },
-  "NOE": {
-    "def": "",
-    "translations": {}
-  },
-  "NOÉ": {
-    "def": "",
-    "translations": {}
-  },
-  "NOH": {
-    "def": "",
-    "translations": {}
-  },
-  "NOI": {
-    "def": "",
-    "translations": {}
-  },
-  "NOM": {
-    "def": "",
-    "translations": {}
-  },
-  "NON": {
-    "def": "",
-    "translations": {}
-  },
-  "NOO": {
-    "def": "",
-    "translations": {}
-  },
-  "NOR": {
-    "def": "",
-    "translations": {}
-  },
-  "NOS": {
-    "def": "",
-    "translations": {}
-  },
-  "NÓS": {
-    "def": "",
-    "translations": {}
-  },
-  "NOT": {
-    "def": "",
-    "translations": {}
+    "def": "Parte del día comprendida entre la puesta del sol y el amanecer.",
+    "translations": {
+      "en": "NIGHT"
+    }
   },
   "NOTA": {
-    "def": "",
-    "translations": {}
+    "def": "Mensaje breve escrito",
+    "translations": {
+      "en": "NOTE"
+    }
   },
   "NOTAS": {
-    "def": "",
-    "translations": {}
-  },
-  "NOU": {
-    "def": "",
-    "translations": {}
-  },
-  "NOV": {
-    "def": "",
-    "translations": {}
-  },
-  "NOW": {
-    "def": "",
-    "translations": {}
-  },
-  "NOX": {
-    "def": "",
-    "translations": {}
-  },
-  "NOY": {
-    "def": "",
-    "translations": {}
-  },
-  "NPC": {
-    "def": "",
-    "translations": {}
-  },
-  "NPS": {
-    "def": "",
-    "translations": {}
-  },
-  "NRC": {
-    "def": "",
-    "translations": {}
-  },
-  "NRO": {
-    "def": "",
-    "translations": {}
-  },
-  "NSA": {
-    "def": "",
-    "translations": {}
-  },
-  "NSF": {
-    "def": "",
-    "translations": {}
-  },
-  "NSS": {
-    "def": "",
-    "translations": {}
-  },
-  "NTA": {
-    "def": "",
-    "translations": {}
-  },
-  "NTV": {
-    "def": "",
-    "translations": {}
-  },
-  "NTX": {
-    "def": "",
-    "translations": {}
+    "def": "Plural de nota",
+    "translations": {
+      "en": "NOTES"
+    }
   },
   "NUEVA": {
-    "def": "",
-    "translations": {}
+    "def": "Recién hecho o fabricado",
+    "translations": {
+      "en": "NEW"
+    }
   },
   "NUEVAS": {
-    "def": "",
-    "translations": {}
+    "def": "Plural de nueva",
+    "translations": {
+      "en": "NEW"
+    }
   },
   "NUEVE": {
-    "def": "",
-    "translations": {}
+    "def": "9",
+    "translations": {
+      "en": "NINE"
+    }
   },
   "NUEVO": {
-    "def": "",
-    "translations": {}
-  },
-  "NUI": {
-    "def": "",
-    "translations": {}
-  },
-  "NUM": {
-    "def": "",
-    "translations": {}
-  },
-  "NÚM": {
-    "def": "",
-    "translations": {}
-  },
-  "NUN": {
-    "def": "",
-    "translations": {}
-  },
-  "NUR": {
-    "def": "",
-    "translations": {}
-  },
-  "NUT": {
-    "def": "",
-    "translations": {}
-  },
-  "NUX": {
-    "def": "",
-    "translations": {}
-  },
-  "NYT": {
-    "def": "",
-    "translations": {}
-  },
-  "OAK": {
-    "def": "",
-    "translations": {}
-  },
-  "OAR": {
-    "def": "",
-    "translations": {}
-  },
-  "OAS": {
-    "def": "",
-    "translations": {}
-  },
-  "OAX": {
-    "def": "",
-    "translations": {}
-  },
-  "OBC": {
-    "def": "",
-    "translations": {}
-  },
-  "OBI": {
-    "def": "",
-    "translations": {}
-  },
-  "OBS": {
-    "def": "",
-    "translations": {}
+    "def": "Recién hecho o fabricado",
+    "translations": {
+      "en": "NEW"
+    }
   },
   "OCA": {
-    "def": "",
-    "translations": {}
-  },
-  "OCB": {
-    "def": "",
-    "translations": {}
+    "def": "Ganso doméstico, por lo general de color completamente blanco",
+    "translations": {
+      "en": "GOOSE"
+    }
   },
   "OCHO": {
-    "def": "",
-    "translations": {}
-  },
-  "OCI": {
-    "def": "",
-    "translations": {}
-  },
-  "OCM": {
-    "def": "",
-    "translations": {}
-  },
-  "OCP": {
-    "def": "",
-    "translations": {}
-  },
-  "OCT": {
-    "def": "",
-    "translations": {}
-  },
-  "OCU": {
-    "def": "",
-    "translations": {}
+    "def": "Number 8",
+    "translations": {
+      "en": "EIGHT"
+    }
   },
   "ODA": {
-    "def": "",
-    "translations": {}
-  },
-  "ODI": {
-    "def": "",
-    "translations": {}
+    "def": "Composición lírica en estrofas de tono elevado, que generalmente ensalza algo o a alguien",
+    "translations": {
+      "en": "ODE"
+    }
   },
   "ODIO": {
-    "def": "",
-    "translations": {}
-  },
-  "ODS": {
-    "def": "",
-    "translations": {}
-  },
-  "OEA": {
-    "def": "",
-    "translations": {}
-  },
-  "OES": {
-    "def": "",
-    "translations": {}
-  },
-  "OFF": {
-    "def": "",
-    "translations": {}
-  },
-  "OGM": {
-    "def": "",
-    "translations": {}
-  },
-  "OHL": {
-    "def": "",
-    "translations": {}
-  },
-  "OHM": {
-    "def": "",
-    "translations": {}
-  },
-  "OIA": {
-    "def": "",
-    "translations": {}
-  },
-  "OÍA": {
-    "def": "",
-    "translations": {}
-  },
-  "OIC": {
-    "def": "",
-    "translations": {}
-  },
-  "OID": {
-    "def": "",
-    "translations": {}
-  },
-  "OÍD": {
-    "def": "",
-    "translations": {}
-  },
-  "OIJ": {
-    "def": "",
-    "translations": {}
-  },
-  "OIL": {
-    "def": "",
-    "translations": {}
-  },
-  "OIR": {
-    "def": "",
-    "translations": {}
-  },
-  "OÍR": {
-    "def": "",
-    "translations": {}
-  },
-  "OÍS": {
-    "def": "",
-    "translations": {}
-  },
-  "OIT": {
-    "def": "",
-    "translations": {}
-  },
-  "OIZ": {
-    "def": "",
-    "translations": {}
-  },
-  "OJD": {
-    "def": "",
-    "translations": {}
+    "def": "Antipatía y aversión hacia algo o hacia alguien cuyo mal se desea",
+    "translations": {
+      "en": "HATE"
+    }
   },
   "OJO": {
-    "def": "",
-    "translations": {}
+    "def": "Órgano de la vista en el ser humano y en los animales",
+    "translations": {
+      "en": "EYE"
+    }
   },
   "OJOS": {
-    "def": "",
-    "translations": {}
-  },
-  "OKI": {
-    "def": "",
-    "translations": {}
+    "def": "Plural de ojo",
+    "translations": {
+      "en": "EYES"
+    }
   },
   "OLA": {
-    "def": "",
-    "translations": {}
+    "def": "Onda de gran amplitud que se forma en la superficie de las aguas",
+    "translations": {
+      "en": "WAVE"
+    }
   },
   "OLD": {
     "def": "",
     "translations": {}
   },
   "OLE": {
-    "def": "",
-    "translations": {}
-  },
-  "OLÉ": {
-    "def": "",
-    "translations": {}
+    "def": "para animar y aplaudir",
+    "translations": {
+      "es": "OLÉ"
+    }
   },
   "OLER": {
-    "def": "",
-    "translations": {}
-  },
-  "OLI": {
-    "def": "",
-    "translations": {}
-  },
-  "OLÍ": {
-    "def": "",
-    "translations": {}
-  },
-  "OLP": {
-    "def": "",
-    "translations": {}
-  },
-  "OMA": {
-    "def": "",
-    "translations": {}
-  },
-  "OMB": {
-    "def": "",
-    "translations": {}
-  },
-  "OMC": {
-    "def": "",
-    "translations": {}
-  },
-  "OME": {
-    "def": "",
-    "translations": {}
-  },
-  "OMI": {
-    "def": "",
-    "translations": {}
-  },
-  "OMM": {
-    "def": "",
-    "translations": {}
-  },
-  "OMO": {
-    "def": "",
-    "translations": {}
-  },
-  "OMS": {
-    "def": "",
-    "translations": {}
-  },
-  "OMT": {
-    "def": "",
-    "translations": {}
+    "def": "Percibir los olores",
+    "translations": {
+      "en": "SMELL"
+    }
   },
   "ONA": {
-    "def": "",
-    "translations": {}
-  },
-  "OÑA": {
-    "def": "",
-    "translations": {}
-  },
-  "ONC": {
-    "def": "",
-    "translations": {}
-  },
-  "ONE": {
-    "def": "",
-    "translations": {}
-  },
-  "ONG": {
-    "def": "",
-    "translations": {}
-  },
-  "ONI": {
-    "def": "",
-    "translations": {}
-  },
-  "ONO": {
-    "def": "",
-    "translations": {}
-  },
-  "ONS": {
-    "def": "",
-    "translations": {}
-  },
-  "ONU": {
-    "def": "",
-    "translations": {}
-  },
-  "OPA": {
-    "def": "",
-    "translations": {}
-  },
-  "OPC": {
-    "def": "",
-    "translations": {}
-  },
-  "OPP": {
-    "def": "",
-    "translations": {}
-  },
-  "OPS": {
-    "def": "",
-    "translations": {}
-  },
-  "OPV": {
-    "def": "",
-    "translations": {}
-  },
-  "ORA": {
-    "def": "",
-    "translations": {}
-  },
-  "ORE": {
-    "def": "",
-    "translations": {}
-  },
-  "ORÉ": {
-    "def": "",
-    "translations": {}
-  },
-  "ORG": {
-    "def": "",
-    "translations": {}
-  },
-  "ORI": {
-    "def": "",
+    "def": "Perteneciente o relativo a los onas",
     "translations": {}
   },
   "ORO": {
-    "def": "",
-    "translations": {}
-  },
-  "ORÓ": {
-    "def": "",
-    "translations": {}
-  },
-  "ORR": {
-    "def": "",
-    "translations": {}
-  },
-  "ORS": {
-    "def": "",
-    "translations": {}
-  },
-  "ORT": {
-    "def": "",
-    "translations": {}
-  },
-  "ORY": {
-    "def": "",
-    "translations": {}
+    "def": "Valuable metal with atomic number 79",
+    "translations": {
+      "en": "GOLD"
+    }
   },
   "OSA": {
-    "def": "",
-    "translations": {}
-  },
-  "OSE": {
-    "def": "",
-    "translations": {}
-  },
-  "OSÉ": {
-    "def": "",
-    "translations": {}
-  },
-  "OSI": {
-    "def": "",
-    "translations": {}
-  },
-  "OSM": {
-    "def": "",
-    "translations": {}
+    "def": "Mamífero carnívoro plantígrado, de gran tamaño, de pelaje pardo",
+    "translations": {
+      "en": "BEAR"
+    }
   },
   "OSO": {
-    "def": "",
-    "translations": {}
-  },
-  "OSÓ": {
-    "def": "",
-    "translations": {}
-  },
-  "OSS": {
-    "def": "",
-    "translations": {}
-  },
-  "OTA": {
-    "def": "",
-    "translations": {}
-  },
-  "OTC": {
-    "def": "",
-    "translations": {}
-  },
-  "OTI": {
-    "def": "",
-    "translations": {}
-  },
-  "OTP": {
-    "def": "",
-    "translations": {}
-  },
-  "OTR": {
-    "def": "",
-    "translations": {}
-  },
-  "OTT": {
-    "def": "",
-    "translations": {}
-  },
-  "OUA": {
-    "def": "",
-    "translations": {}
-  },
-  "OUD": {
-    "def": "",
-    "translations": {}
-  },
-  "OUI": {
-    "def": "",
-    "translations": {}
-  },
-  "OUR": {
-    "def": "",
-    "translations": {}
-  },
-  "OUT": {
-    "def": "",
-    "translations": {}
-  },
-  "OVN": {
-    "def": "",
-    "translations": {}
-  },
-  "OVO": {
-    "def": "",
-    "translations": {}
-  },
-  "OWN": {
-    "def": "",
-    "translations": {}
-  },
-  "OXI": {
-    "def": "",
-    "translations": {}
-  },
-  "OYE": {
-    "def": "",
-    "translations": {}
-  },
-  "OYÓ": {
-    "def": "",
-    "translations": {}
-  },
-  "OZU": {
-    "def": "",
-    "translations": {}
-  },
-  "OZÚ": {
-    "def": "",
-    "translations": {}
-  },
-  "PAA": {
-    "def": "",
-    "translations": {}
-  },
-  "PAC": {
-    "def": "",
-    "translations": {}
-  },
-  "PAD": {
-    "def": "",
-    "translations": {}
+    "def": "Mamífero carnívoro plantígrado, de gran tamaño, de pelaje pardo",
+    "translations": {
+      "en": "BEAR"
+    }
   },
   "PADRE": {
-    "def": "",
-    "translations": {}
-  },
-  "PAE": {
-    "def": "",
-    "translations": {}
-  },
-  "PAF": {
-    "def": "",
-    "translations": {}
-  },
-  "PAG": {
-    "def": "",
-    "translations": {}
-  },
-  "PÁG": {
-    "def": "",
-    "translations": {}
+    "def": "Varón que ha engendrado uno o más hijos.",
+    "translations": {
+      "en": "FATHER"
+    }
   },
   "PAGAR": {
-    "def": "",
-    "translations": {}
-  },
-  "PAH": {
-    "def": "",
-    "translations": {}
-  },
-  "PAI": {
-    "def": "",
-    "translations": {}
-  },
-  "PAK": {
-    "def": "",
-    "translations": {}
+    "def": "Dar a otra, o satisfacer, lo que le debe.",
+    "translations": {
+      "en": "PAY"
+    }
   },
   "PAL": {
-    "def": "",
-    "translations": {}
-  },
-  "PAM": {
-    "def": "",
+    "def": "Palo o partición y mueble del escudo.",
     "translations": {}
   },
   "PAN": {
-    "def": "",
-    "translations": {}
+    "def": "Alimento que consiste en una masa de harina, por lo común de trigo, levadura y agua, cocida en un horno.",
+    "translations": {
+      "en": "BREAD"
+    }
   },
   "PANEL": {
-    "def": "",
-    "translations": {}
-  },
-  "PAO": {
-    "def": "",
-    "translations": {}
-  },
-  "PAP": {
-    "def": "",
-    "translations": {}
+    "def": "Pieza plana, generalmente cuadrangular y de grandes dimensiones",
+    "translations": {
+      "en": "PANEL"
+    }
   },
   "PAPA": {
-    "def": "",
-    "translations": {}
+    "def": "Sumo pontífice romano, vicario de Cristo",
+    "translations": {
+      "en": "POPE"
+    }
   },
   "PAR": {
-    "def": "",
-    "translations": {}
+    "def": "The same or exactly the same",
+    "translations": {
+      "en": "PAR"
+    }
   },
   "PARTE": {
-    "def": "",
-    "translations": {}
-  },
-  "PAS": {
-    "def": "",
-    "translations": {}
+    "def": "Porción de un todo",
+    "translations": {
+      "en": "PART"
+    }
   },
   "PASO": {
-    "def": "",
-    "translations": {}
-  },
-  "PAT": {
-    "def": "",
-    "translations": {}
-  },
-  "PAU": {
-    "def": "",
-    "translations": {}
-  },
-  "PAX": {
-    "def": "",
-    "translations": {}
-  },
-  "PAY": {
-    "def": "",
-    "translations": {}
+    "def": "Movimiento sucesivo de ambos pies al andar",
+    "translations": {
+      "en": "STEP"
+    }
   },
   "PAZ": {
-    "def": "",
-    "translations": {}
-  },
-  "PBI": {
-    "def": "",
-    "translations": {}
-  },
-  "PBS": {
-    "def": "",
-    "translations": {}
-  },
-  "PCA": {
-    "def": "",
-    "translations": {}
-  },
-  "PCB": {
-    "def": "",
-    "translations": {}
-  },
-  "PCC": {
-    "def": "",
-    "translations": {}
-  },
-  "PCD": {
-    "def": "",
-    "translations": {}
-  },
-  "PCE": {
-    "def": "",
-    "translations": {}
-  },
-  "PCF": {
-    "def": "",
-    "translations": {}
-  },
-  "PCG": {
-    "def": "",
-    "translations": {}
-  },
-  "PCI": {
-    "def": "",
-    "translations": {}
-  },
-  "PCL": {
-    "def": "",
-    "translations": {}
-  },
-  "PCM": {
-    "def": "",
-    "translations": {}
-  },
-  "PCN": {
-    "def": "",
-    "translations": {}
-  },
-  "PCP": {
-    "def": "",
-    "translations": {}
-  },
-  "PCR": {
-    "def": "",
-    "translations": {}
-  },
-  "PCS": {
-    "def": "",
-    "translations": {}
-  },
-  "PCT": {
-    "def": "",
-    "translations": {}
-  },
-  "PCV": {
-    "def": "",
-    "translations": {}
-  },
-  "PDA": {
-    "def": "",
-    "translations": {}
-  },
-  "PDB": {
-    "def": "",
-    "translations": {}
-  },
-  "PDC": {
-    "def": "",
-    "translations": {}
-  },
-  "PDF": {
-    "def": "",
-    "translations": {}
-  },
-  "PDH": {
-    "def": "",
-    "translations": {}
-  },
-  "PDI": {
-    "def": "",
-    "translations": {}
-  },
-  "PDK": {
-    "def": "",
-    "translations": {}
-  },
-  "PDL": {
-    "def": "",
-    "translations": {}
-  },
-  "PDM": {
-    "def": "",
-    "translations": {}
-  },
-  "PDP": {
-    "def": "",
-    "translations": {}
-  },
-  "PDR": {
-    "def": "",
-    "translations": {}
-  },
-  "PDS": {
-    "def": "",
-    "translations": {}
-  },
-  "PDV": {
-    "def": "",
-    "translations": {}
+    "def": "Situación en la que no existe lucha armada en un país o entre países",
+    "translations": {
+      "en": "PEACE"
+    }
   },
   "PEA": {
-    "def": "",
-    "translations": {}
-  },
-  "PEC": {
-    "def": "",
-    "translations": {}
-  },
-  "PEF": {
-    "def": "",
-    "translations": {}
-  },
-  "PEG": {
-    "def": "",
-    "translations": {}
-  },
-  "PEI": {
-    "def": "",
-    "translations": {}
-  },
-  "PEL": {
-    "def": "",
-    "translations": {}
+    "def": "Embriaguez, borrachera",
+    "translations": {
+      "en": "DRUNK"
+    }
   },
   "PELO": {
-    "def": "",
-    "translations": {}
-  },
-  "PEM": {
-    "def": "",
-    "translations": {}
-  },
-  "PEN": {
-    "def": "",
-    "translations": {}
-  },
-  "PEP": {
-    "def": "",
-    "translations": {}
+    "def": "Cabello",
+    "translations": {
+      "en": "HAIR"
+    }
   },
   "PER": {
-    "def": "",
-    "translations": {}
+    "def": "a través de",
+    "translations": {
+      "en": "PER"
+    }
   },
   "PERRO": {
     "def": "Variedad doméstica del lobo de muchas y diversas razas",
@@ -9633,1787 +8861,440 @@
       "en": "DOG"
     }
   },
-  "PES": {
-    "def": "",
-    "translations": {}
-  },
   "PESO": {
-    "def": "",
-    "translations": {}
-  },
-  "PET": {
-    "def": "",
-    "translations": {}
-  },
-  "PEU": {
-    "def": "",
-    "translations": {}
-  },
-  "PEW": {
-    "def": "",
-    "translations": {}
+    "def": "Fuerza con que la Tierra atrae a un cuerpo",
+    "translations": {
+      "en": "WEIGHT"
+    }
   },
   "PEZ": {
-    "def": "",
-    "translations": {}
-  },
-  "PFC": {
-    "def": "",
-    "translations": {}
-  },
-  "PGA": {
-    "def": "",
-    "translations": {}
-  },
-  "PGB": {
-    "def": "",
-    "translations": {}
-  },
-  "PGE": {
-    "def": "",
-    "translations": {}
-  },
-  "PGN": {
-    "def": "",
-    "translations": {}
-  },
-  "PGP": {
-    "def": "",
-    "translations": {}
-  },
-  "PGR": {
-    "def": "",
-    "translations": {}
-  },
-  "PGS": {
-    "def": "",
-    "translations": {}
-  },
-  "PHD": {
-    "def": "",
-    "translations": {}
-  },
-  "PHN": {
-    "def": "",
-    "translations": {}
-  },
-  "PHU": {
-    "def": "",
-    "translations": {}
-  },
-  "PIA": {
-    "def": "",
-    "translations": {}
-  },
-  "PÍA": {
-    "def": "",
-    "translations": {}
-  },
-  "PIB": {
-    "def": "",
-    "translations": {}
-  },
-  "PIC": {
-    "def": "",
-    "translations": {}
+    "def": "Vertebrados acuáticos con escamas, branquias y aletas",
+    "translations": {
+      "en": "FISH"
+    }
   },
   "PIE": {
-    "def": "",
-    "translations": {}
-  },
-  "PIÉ": {
-    "def": "",
-    "translations": {}
-  },
-  "PIL": {
-    "def": "",
-    "translations": {}
-  },
-  "PIM": {
-    "def": "",
-    "translations": {}
+    "def": "Base o parte en que se apoya algo",
+    "translations": {
+      "en": "FOOT"
+    }
   },
   "PIN": {
-    "def": "",
-    "translations": {}
-  },
-  "PIO": {
-    "def": "",
-    "translations": {}
-  },
-  "PÍO": {
-    "def": "",
-    "translations": {}
-  },
-  "PIP": {
-    "def": "",
-    "translations": {}
-  },
-  "PIPEL": {
-    "def": "",
-    "translations": {}
+    "def": "Insignia o adorno pequeño que se lleva prendido en la ropa",
+    "translations": {
+      "en": "PIN"
+    }
   },
   "PIS": {
-    "def": "",
-    "translations": {}
+    "def": "orina",
+    "translations": {
+      "en": "PISS"
+    }
   },
   "PISO": {
-    "def": "",
-    "translations": {}
+    "def": "Acción y efecto de pisar",
+    "translations": {
+      "en": "STEP"
+    }
   },
   "PISTA": {
-    "def": "",
-    "translations": {}
-  },
-  "PIT": {
-    "def": "",
-    "translations": {}
-  },
-  "PIU": {
-    "def": "",
-    "translations": {}
-  },
-  "PIÚ": {
-    "def": "",
-    "translations": {}
-  },
-  "PIÙ": {
-    "def": "",
-    "translations": {}
-  },
-  "PJE": {
-    "def": "",
-    "translations": {}
-  },
-  "PJF": {
-    "def": "",
-    "translations": {}
-  },
-  "PKK": {
-    "def": "",
-    "translations": {}
-  },
-  "PLA": {
-    "def": "",
-    "translations": {}
-  },
-  "PLÁ": {
-    "def": "",
-    "translations": {}
+    "def": "Huella o rastro que dejan los animales o personas en la tierra por donde han pasado",
+    "translations": {
+      "en": "TRACK"
+    }
   },
   "PLAN": {
-    "def": "",
-    "translations": {}
-  },
-  "PLC": {
-    "def": "",
-    "translations": {}
-  },
-  "PLD": {
-    "def": "",
-    "translations": {}
-  },
-  "PLI": {
-    "def": "",
-    "translations": {}
-  },
-  "PLN": {
-    "def": "",
-    "translations": {}
-  },
-  "PLT": {
-    "def": "",
-    "translations": {}
-  },
-  "PMA": {
-    "def": "",
-    "translations": {}
-  },
-  "PMD": {
-    "def": "",
-    "translations": {}
-  },
-  "PME": {
-    "def": "",
-    "translations": {}
-  },
-  "PMS": {
-    "def": "",
-    "translations": {}
-  },
-  "PMT": {
-    "def": "",
-    "translations": {}
-  },
-  "PNA": {
-    "def": "",
-    "translations": {}
-  },
-  "PNB": {
-    "def": "",
-    "translations": {}
-  },
-  "PNC": {
-    "def": "",
-    "translations": {}
-  },
-  "PND": {
-    "def": "",
-    "translations": {}
-  },
-  "PNG": {
-    "def": "",
-    "translations": {}
-  },
-  "PNL": {
-    "def": "",
-    "translations": {}
-  },
-  "PNN": {
-    "def": "",
-    "translations": {}
-  },
-  "PNP": {
-    "def": "",
-    "translations": {}
-  },
-  "PNR": {
-    "def": "",
-    "translations": {}
-  },
-  "PNV": {
-    "def": "",
-    "translations": {}
-  },
-  "POA": {
-    "def": "",
+    "def": "Altitud o nivel.",
     "translations": {}
   },
   "POBRE": {
-    "def": "",
-    "translations": {}
-  },
-  "POC": {
-    "def": "",
-    "translations": {}
+    "def": "Necesitado",
+    "translations": {
+      "en": "POOR"
+    }
   },
   "POCO": {
-    "def": "",
-    "translations": {}
+    "def": "escasa",
+    "translations": {
+      "en": "LITTLE"
+    }
   },
   "PODER": {
-    "def": "",
-    "translations": {}
-  },
-  "POE": {
-    "def": "",
-    "translations": {}
-  },
-  "POL": {
-    "def": "",
-    "translations": {}
+    "def": "Tener expedita la facultad o potencia de hacer algo",
+    "translations": {
+      "en": "POWER"
+    }
   },
   "POM": {
-    "def": "",
-    "translations": {}
+    "def": "Especie de incienso usado por los indígenas",
+    "translations": {
+      "en": "INCENSE"
+    }
   },
   "PON": {
-    "def": "",
-    "translations": {}
-  },
-  "POO": {
-    "def": "",
+    "def": "Ofrecer transporte",
     "translations": {}
   },
   "POP": {
-    "def": "",
-    "translations": {}
+    "def": "Música, ritmo pop",
+    "translations": {
+      "en": "POP"
+    }
   },
   "POR": {
-    "def": "For each (used with units to express a rate).",
+    "def": "Denota causa",
     "translations": {
-      "en": "PER"
+      "en": "FOR"
     }
-  },
-  "POS": {
-    "def": "",
-    "translations": {}
-  },
-  "POT": {
-    "def": "",
-    "translations": {}
-  },
-  "POU": {
-    "def": "",
-    "translations": {}
-  },
-  "PPA": {
-    "def": "",
-    "translations": {}
-  },
-  "PPC": {
-    "def": "",
-    "translations": {}
-  },
-  "PPD": {
-    "def": "",
-    "translations": {}
-  },
-  "PPE": {
-    "def": "",
-    "translations": {}
-  },
-  "PPG": {
-    "def": "",
-    "translations": {}
-  },
-  "PPI": {
-    "def": "",
-    "translations": {}
-  },
-  "PPL": {
-    "def": "",
-    "translations": {}
-  },
-  "PPM": {
-    "def": "",
-    "translations": {}
-  },
-  "PPP": {
-    "def": "",
-    "translations": {}
-  },
-  "PPR": {
-    "def": "",
-    "translations": {}
-  },
-  "PPS": {
-    "def": "",
-    "translations": {}
-  },
-  "PPT": {
-    "def": "",
-    "translations": {}
-  },
-  "PRA": {
-    "def": "",
-    "translations": {}
-  },
-  "PRC": {
-    "def": "",
-    "translations": {}
-  },
-  "PRD": {
-    "def": "",
-    "translations": {}
-  },
-  "PRE": {
-    "def": "",
-    "translations": {}
-  },
-  "PRÉ": {
-    "def": "",
-    "translations": {}
-  },
-  "PRF": {
-    "def": "",
-    "translations": {}
-  },
-  "PRI": {
-    "def": "",
-    "translations": {}
-  },
-  "PRIMO": {
-    "def": "",
-    "translations": {}
-  },
-  "PRM": {
-    "def": "",
-    "translations": {}
-  },
-  "PRN": {
-    "def": "",
-    "translations": {}
   },
   "PRO": {
-    "def": "",
-    "translations": {}
-  },
-  "PRP": {
-    "def": "",
-    "translations": {}
-  },
-  "PRT": {
-    "def": "",
-    "translations": {}
-  },
-  "PSA": {
-    "def": "",
-    "translations": {}
-  },
-  "PSC": {
-    "def": "",
-    "translations": {}
-  },
-  "PSD": {
-    "def": "",
-    "translations": {}
-  },
-  "PSE": {
-    "def": "",
-    "translations": {}
-  },
-  "PSF": {
-    "def": "",
-    "translations": {}
-  },
-  "PSG": {
-    "def": "",
-    "translations": {}
+    "def": "Ventaja o aspecto favorable",
+    "translations": {
+      "en": "PRO"
+    }
   },
   "PSI": {
-    "def": "",
-    "translations": {}
-  },
-  "PSM": {
-    "def": "",
-    "translations": {}
-  },
-  "PSN": {
-    "def": "",
-    "translations": {}
-  },
-  "PSP": {
-    "def": "",
-    "translations": {}
-  },
-  "PSS": {
-    "def": "",
-    "translations": {}
-  },
-  "PST": {
-    "def": "",
-    "translations": {}
-  },
-  "PSU": {
-    "def": "",
-    "translations": {}
-  },
-  "PSV": {
-    "def": "",
-    "translations": {}
-  },
-  "PTA": {
-    "def": "",
-    "translations": {}
-  },
-  "PTB": {
-    "def": "",
-    "translations": {}
-  },
-  "PTE": {
-    "def": "",
-    "translations": {}
-  },
-  "PTI": {
-    "def": "",
-    "translations": {}
-  },
-  "PTJ": {
-    "def": "",
-    "translations": {}
-  },
-  "PTO": {
-    "def": "",
-    "translations": {}
-  },
-  "PTS": {
-    "def": "",
-    "translations": {}
-  },
-  "PTT": {
-    "def": "",
-    "translations": {}
-  },
-  "PÚA": {
-    "def": "",
-    "translations": {}
-  },
-  "PUB": {
-    "def": "",
-    "translations": {}
-  },
-  "PUC": {
-    "def": "",
-    "translations": {}
-  },
-  "PUE": {
-    "def": "",
-    "translations": {}
-  },
-  "PUÉ": {
-    "def": "",
-    "translations": {}
+    "def": "Vigesimotercera letra del alfabeto griego ψ",
+    "translations": {
+      "en": "PSI",
+      "he": "Ψ"
+    }
   },
   "PUES": {
-    "def": "",
-    "translations": {}
+    "def": "Denota causa, motivo o razón",
+    "translations": {
+      "en": "CAUSE"
+    }
   },
   "PUF": {
-    "def": "",
-    "translations": {}
-  },
-  "PUM": {
-    "def": "",
-    "translations": {}
-  },
-  "PUR": {
-    "def": "",
-    "translations": {}
+    "def": "para denotar molestia o repugnancia causada por malos olores o cosas nauseabundas",
+    "translations": {
+      "af": "POEF",
+      "en": "POOF"
+    }
   },
   "PUS": {
-    "def": "",
-    "translations": {}
-  },
-  "PUT": {
-    "def": "",
-    "translations": {}
-  },
-  "PUY": {
-    "def": "",
-    "translations": {}
-  },
-  "PVC": {
-    "def": "",
-    "translations": {}
-  },
-  "PVP": {
-    "def": "",
-    "translations": {}
-  },
-  "PYM": {
-    "def": "",
-    "translations": {}
-  },
-  "PZA": {
-    "def": "",
-    "translations": {}
-  },
-  "QAP": {
-    "def": "",
-    "translations": {}
-  },
-  "QIN": {
-    "def": "",
-    "translations": {}
-  },
-  "QUA": {
-    "def": "",
-    "translations": {}
+    "def": "Líquido espeso de color amarillento o verdoso, segregado por un tejido inflamado",
+    "translations": {
+      "en": "PUSS"
+    }
   },
   "QUE": {
-    "def": "",
+    "def": "Pregunta por la identidad de una o varias personas o cosas de un conjunto identificable",
     "translations": {
-      "en": "WHAT"
+      "en": "WHAT",
+      "es": "QUÉ"
     }
-  },
-  "QUÉ": {
-    "def": "",
-    "translations": {}
-  },
-  "QUÈ": {
-    "def": "",
-    "translations": {}
-  },
-  "QUI": {
-    "def": "",
-    "translations": {
-      "en": "WHO"
-    }
-  },
-  "QUO": {
-    "def": "",
-    "translations": {}
-  },
-  "QUUIEN": {
-    "def": "",
-    "translations": {
-      "en": "WHO"
-    }
-  },
-  "RAB": {
-    "def": "",
-    "translations": {}
-  },
-  "RAC": {
-    "def": "",
-    "translations": {}
-  },
-  "RAD": {
-    "def": "",
-    "translations": {}
   },
   "RADIO": {
-    "def": "",
-    "translations": {}
-  },
-  "RAE": {
-    "def": "",
-    "translations": {}
-  },
-  "RAF": {
-    "def": "",
-    "translations": {}
-  },
-  "RAI": {
-    "def": "",
-    "translations": {}
-  },
-  "RAÍ": {
-    "def": "",
-    "translations": {}
-  },
-  "RAJ": {
-    "def": "",
-    "translations": {}
-  },
-  "RAM": {
-    "def": "",
-    "translations": {}
-  },
-  "RAN": {
-    "def": "",
-    "translations": {}
-  },
-  "RAO": {
-    "def": "",
-    "translations": {}
+    "def": "Rayo de la rueda",
+    "translations": {
+      "en": "WHEEL SPOKE"
+    }
   },
   "RAP": {
-    "def": "",
-    "translations": {}
+    "def": "Música rap",
+    "translations": {
+      "en": "RAP"
+    }
   },
   "RARO": {
-    "def": "",
-    "translations": {}
+    "def": "Que se comporta de un modo inhabitual",
+    "translations": {
+      "en": "STRANGE"
+    }
   },
   "RAS": {
-    "def": "",
-    "translations": {}
-  },
-  "RAT": {
-    "def": "",
-    "translations": {}
+    "def": "Igualdad en la superficie o la altura de las cosas",
+    "translations": {
+      "en": "EVEN"
+    }
   },
   "RATO": {
-    "def": "",
-    "translations": {}
-  },
-  "RAU": {
-    "def": "",
-    "translations": {}
-  },
-  "RAW": {
-    "def": "",
-    "translations": {}
-  },
-  "RAY": {
-    "def": "",
-    "translations": {}
+    "def": "Espacio de tiempo, especialmente cuando es corto",
+    "translations": {
+      "en": "WHILE"
+    }
   },
   "RAYO": {
-    "def": "",
-    "translations": {}
+    "def": "Línea de luz que procede de un cuerpo luminoso",
+    "translations": {
+      "en": "RAY"
+    }
   },
   "RAZON": {
-    "def": "",
-    "translations": {}
-  },
-  "RCA": {
-    "def": "",
-    "translations": {}
-  },
-  "RCD": {
-    "def": "",
-    "translations": {}
-  },
-  "RCE": {
-    "def": "",
-    "translations": {}
-  },
-  "RCH": {
-    "def": "",
-    "translations": {}
-  },
-  "RCN": {
-    "def": "",
-    "translations": {}
-  },
-  "RCP": {
-    "def": "",
-    "translations": {}
-  },
-  "RCT": {
-    "def": "",
-    "translations": {}
-  },
-  "RDA": {
-    "def": "",
-    "translations": {}
-  },
-  "RDC": {
-    "def": "",
-    "translations": {}
-  },
-  "RDS": {
-    "def": "",
-    "translations": {}
-  },
-  "REA": {
-    "def": "",
-    "translations": {}
+    "def": "Facultad de discurrir",
+    "translations": {
+      "en": "REASON",
+      "es": "RAZÓN"
+    }
   },
   "REAL": {
-    "def": "",
-    "translations": {}
-  },
-  "REB": {
-    "def": "",
-    "translations": {}
-  },
-  "REC": {
-    "def": "",
-    "translations": {}
+    "def": "Que tiene existencia objetiva",
+    "translations": {
+      "en": "REAL"
+    }
   },
   "RED": {
-    "def": "",
-    "translations": {}
+    "def": "Labor o tejido de mallas",
+    "translations": {
+      "en": "GRID"
+    }
   },
   "REDEL": {
-    "def": "",
-    "translations": {}
-  },
-  "REE": {
-    "def": "",
-    "translations": {}
-  },
-  "REF": {
-    "def": "",
-    "translations": {}
-  },
-  "REG": {
-    "def": "",
-    "translations": {}
+    "def": "Cada una de las cuadernas que se colocan en los puntos en que comienzan los delgados del buque",
+    "translations": {
+      "en": "RIBS"
+    }
   },
   "REGLA": {
-    "def": "",
-    "translations": {}
-  },
-  "REI": {
-    "def": "",
-    "translations": {}
-  },
-  "REÍ": {
-    "def": "",
-    "translations": {}
-  },
-  "REM": {
-    "def": "",
-    "translations": {}
-  },
-  "REN": {
-    "def": "",
-    "translations": {}
+    "def": "Modo establecido de ejecutar algo",
+    "translations": {
+      "en": "RULE"
+    }
   },
   "REO": {
-    "def": "",
-    "translations": {}
-  },
-  "REP": {
-    "def": "",
-    "translations": {}
+    "def": "Vez, turno",
+    "translations": {
+      "en": "ROUND"
+    }
   },
   "RES": {
-    "def": "",
-    "translations": {}
-  },
-  "RET": {
-    "def": "",
-    "translations": {}
-  },
-  "REV": {
-    "def": "",
-    "translations": {}
-  },
-  "REX": {
-    "def": "",
-    "translations": {}
+    "def": "Animal cuadrúpedo de ciertas especies domésticas, como del ganado vacuno, lanar",
+    "translations": {
+      "en": "LIVESTOCK"
+    }
   },
   "REY": {
-    "def": "",
-    "translations": {}
-  },
-  "RFA": {
-    "def": "",
-    "translations": {}
-  },
-  "RGB": {
-    "def": "",
-    "translations": {}
+    "def": "Monarca soberano de un reino",
+    "translations": {
+      "en": "MONARCH"
+    }
   },
   "RIA": {
-    "def": "",
-    "translations": {}
-  },
-  "RÍA": {
-    "def": "",
-    "translations": {}
-  },
-  "RIC": {
-    "def": "",
-    "translations": {}
+    "def": "Ensenada amplia en la que vierten al mar aguas profundas",
+    "translations": {
+      "en": "GULF",
+      "es": "RÍA"
+    }
   },
   "RICO": {
-    "def": "",
-    "translations": {}
-  },
-  "RIE": {
-    "def": "",
-    "translations": {}
-  },
-  "RÍE": {
-    "def": "",
-    "translations": {}
-  },
-  "RIF": {
-    "def": "",
-    "translations": {}
-  },
-  "RII": {
-    "def": "",
-    "translations": {}
-  },
-  "RIN": {
-    "def": "",
-    "translations": {}
+    "def": "Adinerado, hacendado o acaudalado",
+    "translations": {
+      "en": "RICH"
+    }
   },
   "RIO": {
-    "def": "",
-    "translations": {}
-  },
-  "RIÓ": {
-    "def": "",
-    "translations": {}
-  },
-  "RÍO": {
-    "def": "",
-    "translations": {}
-  },
-  "RIP": {
-    "def": "",
-    "translations": {}
-  },
-  "RIS": {
-    "def": "",
-    "translations": {}
-  },
-  "RIT": {
-    "def": "",
-    "translations": {}
-  },
-  "RIU": {
-    "def": "",
-    "translations": {}
-  },
-  "RJR": {
-    "def": "",
-    "translations": {}
-  },
-  "RKO": {
-    "def": "",
-    "translations": {}
-  },
-  "RMN": {
-    "def": "",
-    "translations": {}
-  },
-  "RMS": {
-    "def": "",
-    "translations": {}
-  },
-  "RNA": {
-    "def": "",
-    "translations": {}
-  },
-  "RND": {
-    "def": "",
-    "translations": {}
-  },
-  "RNE": {
-    "def": "",
-    "translations": {}
-  },
-  "RNM": {
-    "def": "",
-    "translations": {}
-  },
-  "RNV": {
-    "def": "",
-    "translations": {}
+    "def": "Corriente de agua continua y más o menos caudalosa que va a desembocar en otra, en un lago o en el mar",
+    "translations": {
+      "en": "RIVER",
+      "es": "RÍO"
+    }
   },
   "ROA": {
-    "def": "",
-    "translations": {}
-  },
-  "ROB": {
-    "def": "",
-    "translations": {}
+    "def": "Tributo u obsequio al terminar algunos trabajos",
+    "translations": {
+      "en": "TIP"
+    }
   },
   "ROBAR": {
-    "def": "",
-    "translations": {}
+    "def": "Quitar o tomar para sí con violencia o con fuerza lo ajeno",
+    "translations": {
+      "en": "ROB"
+    }
   },
   "ROBO": {
-    "def": "",
-    "translations": {}
-  },
-  "ROC": {
-    "def": "",
-    "translations": {}
-  },
-  "ROD": {
-    "def": "",
-    "translations": {}
-  },
-  "ROE": {
-    "def": "",
-    "translations": {}
-  },
-  "ROF": {
-    "def": "",
-    "translations": {}
-  },
-  "ROH": {
-    "def": "",
-    "translations": {}
-  },
-  "ROI": {
-    "def": "",
-    "translations": {}
+    "def": "Acción y efecto de robar",
+    "translations": {
+      "en": "ROBBERY"
+    }
   },
   "ROJO": {
-    "def": "",
-    "translations": {}
-  },
-  "ROL": {
-    "def": "",
-    "translations": {}
-  },
-  "ROM": {
-    "def": "",
-    "translations": {}
+    "def": "color primario no azul ni amarillo",
+    "translations": {
+      "en": "RED"
+    }
   },
   "RON": {
-    "def": "",
-    "translations": {}
-  },
-  "ROO": {
-    "def": "",
-    "translations": {}
+    "def": "Bebida alcohólica obtenida por fermentación de la caña de azúcar",
+    "translations": {
+      "en": "RUM"
+    }
   },
   "ROPA": {
-    "def": "",
-    "translations": {}
-  },
-  "ROS": {
-    "def": "",
-    "translations": {}
-  },
-  "ROT": {
-    "def": "",
-    "translations": {}
-  },
-  "ROW": {
-    "def": "",
-    "translations": {}
-  },
-  "ROY": {
-    "def": "",
-    "translations": {}
-  },
-  "RPC": {
-    "def": "",
-    "translations": {}
-  },
-  "RPM": {
-    "def": "",
-    "translations": {}
-  },
-  "RPR": {
-    "def": "",
-    "translations": {}
-  },
-  "RRE": {
-    "def": "",
-    "translations": {}
-  },
-  "RRV": {
-    "def": "",
-    "translations": {}
-  },
-  "RSA": {
-    "def": "",
-    "translations": {}
-  },
-  "RSU": {
-    "def": "",
-    "translations": {}
-  },
-  "RTE": {
-    "def": "",
-    "translations": {}
-  },
-  "RTF": {
-    "def": "",
-    "translations": {}
-  },
-  "RTL": {
-    "def": "",
-    "translations": {}
-  },
-  "RTP": {
-    "def": "",
-    "translations": {}
-  },
-  "RTV": {
-    "def": "",
-    "translations": {}
-  },
-  "RUA": {
-    "def": "",
-    "translations": {}
-  },
-  "RÚA": {
-    "def": "",
-    "translations": {}
-  },
-  "RUC": {
-    "def": "",
-    "translations": {}
-  },
-  "RUE": {
-    "def": "",
-    "translations": {}
-  },
-  "RUF": {
-    "def": "",
-    "translations": {}
-  },
-  "RUI": {
-    "def": "",
-    "translations": {}
-  },
-  "RUL": {
-    "def": "",
-    "translations": {}
-  },
-  "RUM": {
-    "def": "",
-    "translations": {}
+    "def": "Prenda de vestir",
+    "translations": {
+      "en": "CLOTHING"
+    }
   },
   "RUN": {
-    "def": "",
-    "translations": {}
-  },
-  "RUS": {
-    "def": "",
-    "translations": {}
-  },
-  "RUT": {
-    "def": "",
-    "translations": {}
-  },
-  "RUY": {
-    "def": "",
-    "translations": {}
-  },
-  "RUZ": {
-    "def": "",
-    "translations": {}
-  },
-  "RWE": {
-    "def": "",
-    "translations": {}
-  },
-  "SAA": {
-    "def": "",
-    "translations": {}
-  },
-  "SAÁ": {
-    "def": "",
-    "translations": {}
-  },
-  "SAB": {
-    "def": "",
-    "translations": {}
-  },
-  "SÁB": {
-    "def": "",
-    "translations": {}
+    "def": "armadillo",
+    "translations": {
+      "en": "ARMADILLO"
+    }
   },
   "SABER": {
-    "def": "",
-    "translations": {}
-  },
-  "SAC": {
-    "def": "",
-    "translations": {}
-  },
-  "SAD": {
-    "def": "",
-    "translations": {}
-  },
-  "SAE": {
-    "def": "",
-    "translations": {}
-  },
-  "SAF": {
-    "def": "",
-    "translations": {}
-  },
-  "SAG": {
-    "def": "",
-    "translations": {}
-  },
-  "SAH": {
-    "def": "",
-    "translations": {}
-  },
-  "SAI": {
-    "def": "",
-    "translations": {}
+    "def": "Estar instruido en algo",
+    "translations": {
+      "en": "KNOW"
+    }
   },
   "SAL": {
-    "def": "",
-    "translations": {}
+    "def": "Agudeza, donaire, chiste en el habla.",
+    "translations": {
+      "en": "WIT"
+    }
   },
   "SALIR": {
-    "def": "",
-    "translations": {}
-  },
-  "SAM": {
-    "def": "",
-    "translations": {}
-  },
-  "SAN": {
-    "def": "",
-    "translations": {}
+    "def": "Pasar de dentro afuera",
+    "translations": {
+      "en": "EXIT"
+    }
   },
   "SANTO": {
-    "def": "",
-    "translations": {}
-  },
-  "SAO": {
-    "def": "",
-    "translations": {}
-  },
-  "SÃO": {
-    "def": "",
-    "translations": {}
-  },
-  "SAP": {
-    "def": "",
-    "translations": {}
-  },
-  "SAR": {
-    "def": "",
-    "translations": {}
-  },
-  "SAS": {
-    "def": "",
-    "translations": {}
-  },
-  "SAT": {
-    "def": "",
-    "translations": {}
-  },
-  "SAU": {
-    "def": "",
-    "translations": {}
-  },
-  "SAW": {
-    "def": "",
-    "translations": {}
-  },
-  "SAX": {
-    "def": "",
-    "translations": {}
-  },
-  "SAY": {
-    "def": "",
-    "translations": {}
-  },
-  "SBC": {
-    "def": "",
-    "translations": {}
-  },
-  "SBS": {
-    "def": "",
-    "translations": {}
-  },
-  "SCA": {
-    "def": "",
-    "translations": {}
-  },
-  "SCH": {
-    "def": "",
-    "translations": {}
-  },
-  "SCI": {
-    "def": "",
-    "translations": {}
-  },
-  "SCO": {
-    "def": "",
-    "translations": {}
-  },
-  "SCS": {
-    "def": "",
-    "translations": {}
-  },
-  "SCT": {
-    "def": "",
-    "translations": {}
-  },
-  "SDA": {
-    "def": "",
-    "translations": {}
-  },
-  "SDI": {
-    "def": "",
-    "translations": {}
-  },
-  "SDN": {
-    "def": "",
-    "translations": {}
-  },
-  "SDS": {
-    "def": "",
-    "translations": {}
-  },
-  "SEA": {
-    "def": "",
-    "translations": {}
-  },
-  "SEC": {
-    "def": "",
-    "translations": {}
+    "def": "Perfecto y libre de toda culpa",
+    "translations": {
+      "en": "SAINT"
+    }
   },
   "SED": {
-    "def": "",
-    "translations": {}
-  },
-  "SEE": {
-    "def": "",
-    "translations": {}
-  },
-  "SEG": {
-    "def": "",
-    "translations": {}
+    "def": "Gana y necesidad de beber",
+    "translations": {
+      "en": "THIRST"
+    }
   },
   "SEGUN": {
-    "def": "",
-    "translations": {}
-  },
-  "SEI": {
-    "def": "",
-    "translations": {}
-  },
-  "SEK": {
-    "def": "",
-    "translations": {}
-  },
-  "SEL": {
-    "def": "",
-    "translations": {}
-  },
-  "SEM": {
-    "def": "",
-    "translations": {}
+    "def": "Conforme, o con arreglo",
+    "translations": {
+      "en": "ACCORDING TO",
+      "es": "SEGÚN"
+    }
   },
   "SEN": {
-    "def": "",
-    "translations": {}
+    "def": "Arbusto oriental, de la familia de las papilionáceas",
+    "translations": {
+      "en": "SENNA"
+    }
   },
   "SEO": {
-    "def": "",
-    "translations": {}
-  },
-  "SEP": {
-    "def": "",
-    "translations": {}
+    "def": "catedral",
+    "translations": {
+      "en": "CATHEDRAL"
+    }
   },
   "SER": {
-    "def": "",
-    "translations": {}
+    "def": "Haber o existir",
+    "translations": {
+      "en": "BE"
+    }
   },
   "SERIO": {
-    "def": "",
-    "translations": {}
+    "def": "Grave, sentado y compuesto en las acciones y en el modo de proceder",
+    "translations": {
+      "en": "SERIOUS"
+    }
   },
   "SES": {
-    "def": "",
-    "translations": {}
+    "def": "Extremo final del intestino",
+    "translations": {
+      "en": "ANUS"
+    }
   },
   "SET": {
-    "def": "",
-    "translations": {}
-  },
-  "SEU": {
-    "def": "",
-    "translations": {}
-  },
-  "SEX": {
-    "def": "",
-    "translations": {}
-  },
-  "SFP": {
-    "def": "",
-    "translations": {}
-  },
-  "SGP": {
-    "def": "",
-    "translations": {}
-  },
-  "SGS": {
-    "def": "",
-    "translations": {}
-  },
-  "SGT": {
-    "def": "",
-    "translations": {}
-  },
-  "SHA": {
-    "def": "",
-    "translations": {}
-  },
-  "SHE": {
-    "def": "",
-    "translations": {}
-  },
-  "SHI": {
-    "def": "",
-    "translations": {}
-  },
-  "SHU": {
-    "def": "",
-    "translations": {}
-  },
-  "SIA": {
-    "def": "",
-    "translations": {}
-  },
-  "SIÁ": {
-    "def": "",
-    "translations": {}
-  },
-  "SIB": {
-    "def": "",
-    "translations": {}
+    "def": "Conjunto de elementos que comparten una propiedad o tienen un fin común",
+    "translations": {
+      "en": "SET"
+    }
   },
   "SIC": {
-    "def": "",
-    "translations": {}
-  },
-  "SID": {
-    "def": "",
-    "translations": {}
-  },
-  "SIE": {
-    "def": "",
-    "translations": {}
-  },
-  "SIG": {
-    "def": "",
-    "translations": {}
-  },
-  "SIJ": {
-    "def": "",
-    "translations": {}
+    "def": "generalmente entre paréntesis o corchetes, a continuación de una palabra o frase que pueden parecer erróneas",
+    "translations": {
+      "en": "SIC"
+    }
   },
   "SIL": {
-    "def": "",
-    "translations": {}
-  },
-  "SIM": {
-    "def": "",
-    "translations": {}
+    "def": "ocre, mineral empleado en pintura",
+    "translations": {
+      "en": "SILICON"
+    }
   },
   "SIN": {
-    "def": "",
-    "translations": {}
+    "def": "Denota carencia o falta de algo",
+    "translations": {
+      "en": "WITHOUT"
+    }
   },
   "SINO": {
-    "def": "",
-    "translations": {}
-  },
-  "SÍO": {
-    "def": "",
-    "translations": {}
-  },
-  "SIP": {
-    "def": "",
-    "translations": {}
-  },
-  "SIR": {
-    "def": "",
-    "translations": {}
-  },
-  "SIS": {
-    "def": "",
-    "translations": {}
-  },
-  "SIT": {
-    "def": "",
-    "translations": {}
-  },
-  "SIX": {
-    "def": "",
-    "translations": {}
-  },
-  "SKA": {
-    "def": "",
-    "translations": {}
-  },
-  "SKF": {
-    "def": "",
-    "translations": {}
-  },
-  "SKI": {
-    "def": "",
-    "translations": {}
-  },
-  "SKY": {
-    "def": "",
-    "translations": {}
-  },
-  "SLD": {
-    "def": "",
-    "translations": {}
-  },
-  "SMA": {
-    "def": "",
-    "translations": {}
-  },
-  "SME": {
-    "def": "",
-    "translations": {}
-  },
-  "SMI": {
-    "def": "",
-    "translations": {}
-  },
-  "SMM": {
-    "def": "",
-    "translations": {}
-  },
-  "SMN": {
-    "def": "",
-    "translations": {}
-  },
-  "SMS": {
-    "def": "",
-    "translations": {}
-  },
-  "SNA": {
-    "def": "",
-    "translations": {}
-  },
-  "SNC": {
-    "def": "",
-    "translations": {}
-  },
-  "SND": {
-    "def": "",
-    "translations": {}
-  },
-  "SNE": {
-    "def": "",
-    "translations": {}
-  },
-  "SNI": {
-    "def": "",
-    "translations": {}
-  },
-  "SNP": {
-    "def": "",
-    "translations": {}
-  },
-  "SNS": {
-    "def": "",
-    "translations": {}
-  },
-  "SNT": {
-    "def": "",
-    "translations": {}
+    "def": "hado",
+    "translations": {
+      "en": "FATE"
+    }
   },
   "SOBRE": {
-    "def": "",
-    "translations": {}
-  },
-  "SOC": {
-    "def": "",
-    "translations": {}
-  },
-  "SOI": {
-    "def": "",
-    "translations": {}
+    "def": "Encima de",
+    "translations": {
+      "en": "OVER"
+    }
   },
   "SOL": {
-    "def": "",
-    "translations": {}
+    "def": "La estrella en el centro de nuestra galaxia",
+    "translations": {
+      "en": "SUN"
+    }
   },
   "SOLO": {
-    "def": "",
-    "translations": {}
-  },
-  "SOM": {
-    "def": "",
-    "translations": {}
+    "def": "Único en su especie",
+    "translations": {
+      "en": "Unique"
+    }
   },
   "SON": {
-    "def": "",
-    "translations": {}
-  },
-  "SOO": {
-    "def": "",
-    "translations": {}
+    "def": "Con acompañamiento de tal instrumento.",
+    "translations": {
+      "en": "WITH"
+    }
   },
   "SOR": {
-    "def": "",
-    "translations": {}
-  },
-  "SOS": {
-    "def": "",
-    "translations": {}
-  },
-  "SOX": {
-    "def": "",
-    "translations": {}
+    "def": "Hermana de una comunidad religiosa",
+    "translations": {
+      "en": "NUN"
+    }
   },
   "SOY": {
-    "def": "",
+    "def": "para conjugar todos los verbos en la voz pasiva",
     "translations": {
       "en": "I am"
     }
   },
   "SPA": {
-    "def": "",
-    "translations": {}
-  },
-  "SPD": {
-    "def": "",
-    "translations": {}
-  },
-  "SPE": {
-    "def": "",
-    "translations": {}
-  },
-  "SPG": {
-    "def": "",
-    "translations": {}
-  },
-  "SPP": {
-    "def": "",
-    "translations": {}
-  },
-  "SPS": {
-    "def": "",
-    "translations": {}
-  },
-  "SPV": {
-    "def": "",
-    "translations": {}
-  },
-  "SPY": {
-    "def": "",
-    "translations": {}
-  },
-  "SQL": {
-    "def": "",
-    "translations": {}
-  },
-  "SRA": {
-    "def": "",
-    "translations": {}
-  },
-  "SRE": {
-    "def": "",
-    "translations": {}
-  },
-  "SRI": {
-    "def": "",
-    "translations": {}
-  },
-  "SRL": {
-    "def": "",
-    "translations": {}
-  },
-  "SRM": {
-    "def": "",
-    "translations": {}
-  },
-  "SSA": {
-    "def": "",
-    "translations": {}
-  },
-  "SSI": {
-    "def": "",
-    "translations": {}
-  },
-  "SSM": {
-    "def": "",
-    "translations": {}
-  },
-  "SSP": {
-    "def": "",
-    "translations": {}
-  },
-  "SSS": {
-    "def": "",
-    "translations": {}
-  },
-  "SST": {
-    "def": "",
-    "translations": {}
-  },
-  "STA": {
-    "def": "",
-    "translations": {}
-  },
-  "STC": {
-    "def": "",
-    "translations": {}
-  },
-  "STE": {
-    "def": "",
-    "translations": {}
-  },
-  "STI": {
-    "def": "",
-    "translations": {}
-  },
-  "STO": {
-    "def": "",
-    "translations": {}
-  },
-  "STR": {
-    "def": "",
-    "translations": {}
-  },
-  "STS": {
-    "def": "",
-    "translations": {}
-  },
-  "STT": {
-    "def": "",
-    "translations": {}
-  },
-  "STV": {
-    "def": "",
-    "translations": {}
-  },
-  "SUA": {
-    "def": "",
-    "translations": {}
-  },
-  "SÚA": {
-    "def": "",
-    "translations": {}
-  },
-  "SUB": {
-    "def": "",
-    "translations": {}
+    "def": "Establecimiento que ofrece tratamientos, terapias o sistemas de relajación, utilizando como base principal el agua, generalmente corriente, no medicinal",
+    "translations": {
+      "en": "SPA"
+    }
   },
   "SUBIR": {
-    "def": "",
-    "translations": {}
-  },
-  "SUC": {
-    "def": "",
-    "translations": {}
+    "def": "Ir o moverse hacia arriba",
+    "translations": {
+      "en": "ASCEND"
+    }
   },
   "SUD": {
-    "def": "",
-    "translations": {}
-  },
-  "SUE": {
-    "def": "",
-    "translations": {}
-  },
-  "SUH": {
-    "def": "",
-    "translations": {}
-  },
-  "SUI": {
-    "def": "",
-    "translations": {}
-  },
-  "SUK": {
-    "def": "",
-    "translations": {}
-  },
-  "SUL": {
-    "def": "",
-    "translations": {}
-  },
-  "SUM": {
-    "def": "",
-    "translations": {}
-  },
-  "SUN": {
-    "def": "",
-    "translations": {}
-  },
-  "SUP": {
-    "def": "",
-    "translations": {}
+    "def": "Dirección opuesta al norte",
+    "translations": {
+      "en": "SOUTH"
+    }
   },
   "SUR": {
-    "def": "",
-    "translations": {}
-  },
-  "SURN": {
-    "def": "",
-    "translations": {}
+    "def": "Dirección opuesta al norte",
+    "translations": {
+      "en": "SOUTH"
+    }
   },
   "SUS": {
-    "def": "",
-    "translations": {}
-  },
-  "SUV": {
-    "def": "",
-    "translations": {}
-  },
-  "SUZ": {
-    "def": "",
-    "translations": {}
-  },
-  "SVA": {
-    "def": "",
-    "translations": {}
-  },
-  "SVE": {
-    "def": "",
-    "translations": {}
-  },
-  "SWF": {
-    "def": "",
-    "translations": {}
-  },
-  "SYS": {
-    "def": "",
-    "translations": {}
+    "def": "para infundir ánimo repentinamente, excitando a ejecutar con vigor o celeridad algo",
+    "translations": {
+      "en": "STIMULATE"
+    }
   },
   "TAB": {
     "def": "",
