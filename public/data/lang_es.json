@@ -33,10 +33,6 @@
     "def": "",
     "translations": {}
   },
-  "ABR": {
-    "def": "",
-    "translations": {}
-  },
   "ABRAZO": {
     "def": "",
     "translations": {}
@@ -52,12 +48,6 @@
   "ABUSO": {
     "def": "",
     "translations": {}
-  },
-  "ACA": {
-    "def": "",
-    "translations": {
-      "en": "HERE"
-    }
   },
   "ACABAR": {
     "def": "",
@@ -143,10 +133,6 @@
     "def": "",
     "translations": {}
   },
-  "ADA": {
-    "def": "",
-    "translations": {}
-  },
   "ADICTO": {
     "def": "",
     "translations": {}
@@ -179,12 +165,6 @@
     "def": "",
     "translations": {}
   },
-  "AEL": {
-    "def": "",
-    "translations": {
-      "en": "HIM"
-    }
-  },
   "AEREO": {
     "def": "",
     "translations": {}
@@ -213,19 +193,15 @@
     "def": "",
     "translations": {}
   },
-  "AGO": {
-    "def": "",
-    "translations": {
-      "en": "AUG"
-    }
-  },
   "AGONIA": {
     "def": "",
     "translations": {}
   },
   "AGOSTO": {
-    "def": "",
-    "translations": {}
+    "def": "mes después de julio",
+    "translations": {
+      "en": "AUGUST"
+    }
   },
   "AGOTAR": {
     "def": "",
@@ -240,7 +216,7 @@
     "translations": {}
   },
   "AGUA": {
-    "def": "A colorless, transparent, odorless, tasteless liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.",
+    "def": "A colorless, transparent, odorless, tasteless liquid that forms the seas, lakes, rivers",
     "translations": {
       "en": "WATER"
     }
@@ -338,10 +314,6 @@
     "def": "",
     "translations": {}
   },
-  "ALE": {
-    "def": "",
-    "translations": {}
-  },
   "ALEGRE": {
     "def": "",
     "translations": {}
@@ -358,10 +330,6 @@
     "def": "",
     "translations": {}
   },
-  "ALF": {
-    "def": "",
-    "translations": {}
-  },
   "ALGA": {
     "def": "",
     "translations": {}
@@ -371,12 +339,10 @@
     "translations": {}
   },
   "ALI": {
-    "def": "",
-    "translations": {}
-  },
-  "ALÍ": {
-    "def": "",
-    "translations": {}
+    "def": "En el juego de la secansa, reunión de dos o tres cartas iguales en el número o en la figura.",
+    "translations": {
+      "en": "MATCH"
+    }
   },
   "ALIADO": {
     "def": "",
@@ -386,53 +352,34 @@
     "def": "",
     "translations": {}
   },
-  "ALL": {
-    "def": "",
-    "translations": {}
-  },
-  "ALLA": {
-    "def": "",
-    "translations": {}
-  },
-  "ALLI": {
-    "def": "",
-    "translations": {}
-  },
-  "ALM": {
-    "def": "",
-    "translations": {}
-  },
   "ALMA": {
-    "def": "",
-    "translations": {}
+    "def": "Vida humana",
+    "translations": {
+      "en": "SOUL"
+    }
   },
   "ALMEJA": {
     "def": "",
     "translations": {}
   },
-  "ALÓ": {
-    "def": "",
-    "translations": {}
-  },
-  "ALP": {
-    "def": "",
-    "translations": {}
-  },
-  "ALS": {
-    "def": "",
-    "translations": {}
-  },
-  "ALT": {
-    "def": "",
-    "translations": {}
+  "ALO": {
+    "def": "para responder al teléfono",
+    "translations": {
+      "en": "HELLO",
+      "es": "ALÓ"
+    }
   },
   "ALTA": {
-    "def": "",
-    "translations": {}
+    "def": "Autorización que da el médico para la reincorporación de un paciente a la vida ordinaria",
+    "translations": {
+      "en": "DISCHARGE"
+    }
   },
   "ALTAR": {
-    "def": "",
-    "translations": {}
+    "def": "Mesa rectangular consagrada donde el sacerdote celebra el sacrificio de la misa",
+    "translations": {
+      "en": "ALTAR"
+    }
   },
   "ALTEZA": {
     "def": "",
@@ -452,10 +399,6 @@
     "def": "",
     "translations": {}
   },
-  "ALU": {
-    "def": "",
-    "translations": {}
-  },
   "ALUMNO": {
     "def": "",
     "translations": {}
@@ -465,8 +408,10 @@
     "translations": {}
   },
   "AMA": {
-    "def": "",
-    "translations": {}
+    "def": "Dueño o señor de la casa o familia",
+    "translations": {
+      "en": "LANDLADY"
+    }
   },
   "AMABLE": {
     "def": "",
@@ -484,10 +429,6 @@
     "def": "",
     "translations": {}
   },
-  "AMB": {
-    "def": "",
-    "translations": {}
-  },
   "AMBAR": {
     "def": "",
     "translations": {}
@@ -496,23 +437,7 @@
     "def": "",
     "translations": {}
   },
-  "AMD": {
-    "def": "",
-    "translations": {}
-  },
-  "AME": {
-    "def": "",
-    "translations": {}
-  },
-  "AMÉ": {
-    "def": "",
-    "translations": {}
-  },
   "AMENO": {
-    "def": "",
-    "translations": {}
-  },
-  "AMI": {
     "def": "",
     "translations": {}
   },
@@ -525,10 +450,9 @@
     "translations": {}
   },
   "AMO": {
-    "def": "",
+    "def": "Poseedor de algo",
     "translations": {
-      "en": "I LOVE",
-      "es": "AMÓ"
+      "en": "OWNER"
     }
   },
   "AMOR": {
@@ -7549,30 +7473,6 @@
       "en": "LAW"
     }
   },
-  "LFP": {
-    "def": "",
-    "translations": {}
-  },
-  "LGC": {
-    "def": "",
-    "translations": {}
-  },
-  "LGS": {
-    "def": "",
-    "translations": {}
-  },
-  "LIA": {
-    "def": "",
-    "translations": {}
-  },
-  "LÍA": {
-    "def": "",
-    "translations": {}
-  },
-  "LIB": {
-    "def": "",
-    "translations": {}
-  },
   "LIBRE": {
     "def": "",
     "translations": {}
@@ -7581,79 +7481,29 @@
     "def": "",
     "translations": {}
   },
-  "LIC": {
-    "def": "",
-    "translations": {}
-  },
   "LID": {
-    "def": "",
-    "translations": {}
+    "def": "Combate, pelea",
+    "translations": {
+      "en": "FIGHT"
+    }
   },
   "LÍDER": {
     "def": "",
     "translations": {}
   },
-  "LIE": {
-    "def": "",
-    "translations": {}
-  },
-  "LÍE": {
-    "def": "",
-    "translations": {}
-  },
-  "LIG": {
-    "def": "",
-    "translations": {}
-  },
-  "LIL": {
-    "def": "",
-    "translations": {}
-  },
-  "LIM": {
-    "def": "",
-    "translations": {}
-  },
-  "LIN": {
-    "def": "",
-    "translations": {}
-  },
-  "LIO": {
-    "def": "",
-    "translations": {}
-  },
-  "LIÓ": {
-    "def": "",
-    "translations": {}
-  },
-  "LÍO": {
-    "def": "",
-    "translations": {}
-  },
   "LIS": {
-    "def": "",
-    "translations": {}
+    "def": "lirio",
+    "translations": {
+      "en": "LILY"
+    }
   },
   "LISO": {
-    "def": "",
-    "translations": {}
+    "def": "Una superficie lisa que no tiene rugosidades, decoraciones, áreas elevadas ni arrugas",
+    "translations": {
+      "en": "SMOOTH"
+    }
   },
   "LISTO": {
-    "def": "",
-    "translations": {}
-  },
-  "LIT": {
-    "def": "",
-    "translations": {}
-  },
-  "LIU": {
-    "def": "",
-    "translations": {}
-  },
-  "LIV": {
-    "def": "",
-    "translations": {}
-  },
-  "LIZ": {
     "def": "",
     "translations": {}
   },
@@ -7665,45 +7515,11 @@
     "def": "",
     "translations": {}
   },
-  "LLE": {
-    "def": "",
-    "translations": {}
-  },
-  "LLO": {
-    "def": "",
-    "translations": {}
-  },
-  "LLU": {
-    "def": "",
-    "translations": {}
-  },
-  "LMP": {
-    "def": "",
-    "translations": {}
-  },
-  "LNG": {
-    "def": "",
-    "translations": {}
-  },
-  "LNN": {
-    "def": "",
-    "translations": {}
-  },
-  "LNP": {
-    "def": "",
-    "translations": {}
-  },
   "LOA": {
-    "def": "",
-    "translations": {}
-  },
-  "LOB": {
-    "def": "",
-    "translations": {}
-  },
-  "LOC": {
-    "def": "",
-    "translations": {}
+    "def": "Acción y efecto de loar",
+    "translations": {
+      "en": "PRAISE"
+    }
   },
   "LOCA": {
     "def": "",
@@ -10836,268 +10652,58 @@
     "def": "",
     "translations": {}
   },
-  "WRC": {
-    "def": "",
-    "translations": {}
-  },
-  "WTA": {
-    "def": "",
-    "translations": {}
-  },
-  "WTC": {
-    "def": "",
-    "translations": {}
-  },
-  "WWF": {
-    "def": "",
-    "translations": {}
-  },
-  "WWW": {
-    "def": "",
-    "translations": {}
-  },
-  "XEW": {
-    "def": "",
-    "translations": {}
-  },
-  "XGA": {
-    "def": "",
-    "translations": {}
-  },
-  "XII": {
-    "def": "",
-    "translations": {}
-  },
-  "XIV": {
-    "def": "",
-    "translations": {}
-  },
-  "XIX": {
-    "def": "",
-    "translations": {}
-  },
-  "XLI": {
-    "def": "",
-    "translations": {}
-  },
-  "XLV": {
-    "def": "",
-    "translations": {}
-  },
-  "XML": {
-    "def": "",
-    "translations": {}
-  },
-  "XOR": {
-    "def": "",
-    "translations": {}
-  },
-  "XVI": {
-    "def": "",
-    "translations": {}
-  },
-  "XXI": {
-    "def": "",
-    "translations": {}
-  },
-  "XXV": {
-    "def": "",
-    "translations": {}
-  },
-  "XXX": {
-    "def": "",
-    "translations": {}
-  },
-  "XYZ": {
-    "def": "",
-    "translations": {}
-  },
   "YAK": {
-    "def": "",
-    "translations": {}
-  },
-  "YAM": {
-    "def": "",
-    "translations": {}
-  },
-  "YAN": {
-    "def": "",
-    "translations": {}
-  },
-  "YAO": {
-    "def": "",
-    "translations": {}
-  },
-  "YAT": {
-    "def": "",
-    "translations": {}
-  },
-  "YEL": {
-    "def": "",
-    "translations": {}
+    "def": "Bóvido que habita en las altas montañas del Tíbet",
+    "translations": {
+      "en": "YAK"
+    }
   },
   "YEN": {
-    "def": "",
-    "translations": {}
-  },
-  "YES": {
-    "def": "",
-    "translations": {}
-  },
-  "YET": {
-    "def": "",
-    "translations": {}
+    "def": "Unidad monetaria del Japón",
+    "translations": {
+      "en": "YEN"
+    }
   },
   "YIN": {
-    "def": "",
-    "translations": {}
+    "def": "La fuerza femenina en la filosofía china",
+    "translations": {
+      "en": "YIN"
+    }
   },
   "YIP": {
-    "def": "",
-    "translations": {}
-  },
-  "YOM": {
-    "def": "",
-    "translations": {}
-  },
-  "YON": {
-    "def": "",
-    "translations": {}
-  },
-  "YOU": {
-    "def": "",
-    "translations": {}
-  },
-  "YPF": {
-    "def": "",
-    "translations": {}
-  },
-  "YUC": {
-    "def": "",
-    "translations": {}
-  },
-  "YUL": {
-    "def": "",
-    "translations": {}
-  },
-  "YUN": {
-    "def": "",
-    "translations": {}
-  },
-  "ZAC": {
-    "def": "",
-    "translations": {}
-  },
-  "ZAG": {
-    "def": "",
-    "translations": {}
-  },
-  "ZAJ": {
-    "def": "",
-    "translations": {}
-  },
-  "ZAK": {
-    "def": "",
-    "translations": {}
-  },
-  "ZAP": {
-    "def": "",
-    "translations": {}
+    "def": "Vehículo para circular por zonas escarpadas",
+    "translations": {
+      "en": "JEEP"
+    }
   },
   "ZAR": {
-    "def": "",
-    "translations": {}
-  },
-  "ZAS": {
-    "def": "",
-    "translations": {}
-  },
-  "ZDF": {
-    "def": "",
-    "translations": {}
-  },
-  "ZEA": {
-    "def": "",
-    "translations": {}
-  },
-  "ZEC": {
-    "def": "",
-    "translations": {}
-  },
-  "ZEE": {
-    "def": "",
-    "translations": {}
+    "def": "Emperador de Rusia.",
+    "translations": {
+      "en": "CZAR/TZAR"
+    }
   },
   "ZEN": {
-    "def": "",
-    "translations": {}
-  },
-  "ZER": {
-    "def": "",
-    "translations": {}
-  },
-  "ZHI": {
-    "def": "",
-    "translations": {}
-  },
-  "ZHU": {
-    "def": "",
-    "translations": {}
-  },
-  "ZIA": {
-    "def": "",
-    "translations": {}
-  },
-  "ZIG": {
-    "def": "",
-    "translations": {}
-  },
-  "ZIM": {
-    "def": "",
-    "translations": {}
-  },
-  "ZIN": {
-    "def": "",
-    "translations": {}
-  },
-  "ZIP": {
-    "def": "",
-    "translations": {}
-  },
-  "ZIY": {
-    "def": "",
-    "translations": {}
-  },
-  "ZOA": {
-    "def": "",
-    "translations": {}
-  },
-  "ZOE": {
-    "def": "",
-    "translations": {}
-  },
-  "ZOÉ": {
-    "def": "",
-    "translations": {}
+    "def": "Filosofía budista",
+    "translations": {
+      "en": "ZEN"
+    }
   },
   "ZONA": {
-    "def": "",
-    "translations": {}
+    "def": "Lista o faja",
+    "translations": {
+      "en": "ZONE"
+    }
   },
   "ZOO": {
-    "def": "",
-    "translations": {}
-  },
-  "ZSA": {
-    "def": "",
-    "translations": {}
+    "def": "Parque zoológico",
+    "translations": {
+      "en": "ZOO"
+    }
   },
   "ZUM": {
-    "def": "",
-    "translations": {}
-  },
-  "ZUR": {
-    "def": "",
-    "translations": {}
+    "def": "Objetivo de distancia focal variable, que modifica el ángulo de visión con el efecto de acercar o alejar la imagen",
+    "translations": {
+      "en": "ZOOM"
+    }
   }
 }

@@ -4217,41 +4217,29 @@
       "es": "DEBER"
     }
   },
-  "DWALM": {
-    "def": "",
-    "translations": {}
-  },
-  "DWINE": {
-    "def": "",
-    "translations": {}
-  },
-  "DYAD": {
-    "def": "",
-    "translations": {}
-  },
   "DYE": {
-    "def": "",
-    "translations": {}
+    "def": "To colour or tint",
+    "translations": {
+      "es": "TECER"
+    }
   },
   "DYED": {
-    "def": "",
-    "translations": {}
-  },
-  "DYER": {
-    "def": "",
-    "translations": {}
+    "def": "Past tense of dye.",
+    "translations": {
+      "es": "TECIDO"
+    }
   },
   "DYES": {
-    "def": "",
-    "translations": {}
+    "def": "To colour or tint",
+    "translations": {
+      "es": "TECER"
+    }
   },
   "DYKE": {
-    "def": "",
-    "translations": {}
-  },
-  "DYNES": {
-    "def": "",
-    "translations": {}
+    "def": "An embankment formed by the spoil from the creation of a ditch.",
+    "translations": {
+      "es": "DIQUE"
+    }
   },
   "EACH": {
     "def": "Used to refer to every one of two or more people or things, regarded and identified separately.",
@@ -4260,12 +4248,16 @@
     }
   },
   "EAR": {
-    "def": "",
-    "translations": {}
+    "def": "The organ of hearing",
+    "translations": {
+      "es": "OÍDO"
+    }
   },
   "EARL": {
-    "def": "",
-    "translations": {}
+    "def": "A male member of a royal family.",
+    "translations": {
+      "es": "DUQUE"
+    }
   },
   "EARLY": {
     "def": "Happening or done before the usual or expected time.",
@@ -4274,20 +4266,28 @@
     }
   },
   "EARN": {
-    "def": "",
-    "translations": {}
+    "def": "To receive money or other payment for work done.",
+    "translations": {
+      "es": "GANAR"
+    }
   },
   "EARS": {
-    "def": "",
-    "translations": {}
+    "def": "The organ of hearing",
+    "translations": {
+      "es": "OÍDO"
+    }
   },
   "EASE": {
-    "def": "",
-    "translations": {}
+    "def": "Comfort or ease of movement or action.",
+    "translations": {
+      "es": "COMODIDAD"
+    }
   },
   "EASEL": {
-    "def": "",
-    "translations": {}
+    "def": "A frame for hanging a picture or other object to be painted or drawn on.",
+    "translations": {
+      "es": "TEJEDOR"
+    }
   },
   "EAST": {
     "def": "The direction toward the point of the horizon where the sun rises at the equinoxes.",
@@ -4308,80 +4308,74 @@
     }
   },
   "EATS": {
-    "def": "",
-    "translations": {}
+    "def": "To eat or consume food.",
+    "translations": {
+      "es": "COMER"
+    }
   },
   "EBB": {
-    "def": "",
-    "translations": {}
-  },
-  "EBIKE": {
-    "def": "",
-    "translations": {}
-  },
-  "ECHED": {
-    "def": "",
-    "translations": {}
+    "def": "The flow of water or air from a higher to a lower level.",
+    "translations": {
+      "es": "REBOTE"
+    }
   },
   "ECHO": {
-    "def": "",
-    "translations": {}
-  },
-  "ECO": {
-    "def": "",
-    "translations": {}
+    "def": "The sound of a voice or sound repeated by a surface or medium.",
+    "translations": {
+      "es": "ECHO"
+    }
   },
   "ECONOMY": {
-    "def": "",
-    "translations": {}
-  },
-  "ECRUS": {
-    "def": "",
-    "translations": {}
-  },
-  "ECU": {
-    "def": "",
-    "translations": {}
-  },
-  "EDD": {
-    "def": "",
-    "translations": {}
+    "def": "The state of finances, trade, employment and production in a country or other area.",
+    "translations": {
+      "es": "ECONOMIA"
+    }
   },
   "EDDY": {
-    "def": "",
-    "translations": {}
+    "def": "A current of air or water running back, or in an opposite direction to the main current.",
+    "translations": {
+      "es": "EDDO"
+    }
   },
   "EDGE": {
-    "def": "",
-    "translations": {}
+    "def": "The boundary line of a surface",
+    "translations": {
+      "es": "BORDE"
+    }
   },
   "EDGED": {
-    "def": "",
-    "translations": {}
+    "def": "Having an edging of a certain material, color, and so on. e.g. a smooth-edged table",
+    "translations": {
+      "es": "BORDEADO"
+    }
   },
   "EDGY": {
-    "def": "",
+    "def": "Nervous, apprehensive.",
     "translations": {}
   },
   "EDIT": {
-    "def": "",
-    "translations": {}
+    "def": "A change to the text of a document.",
+    "translations": {
+      "es": "EDICION"
+    }
   },
   "EEL": {
-    "def": "",
-    "translations": {}
+    "def": "Fish shaped like a snake",
+    "translations": {
+      "es": "ELO"
+    }
   },
   "EELS": {
-    "def": "",
-    "translations": {}
+    "def": "Fish shaped like a snake",
+    "translations": {
+      "es": "ELOS"
+    }
   },
   "EFFECT": {
-    "def": "",
-    "translations": {}
-  },
-  "EGEST": {
-    "def": "",
-    "translations": {}
+    "def": "The result of an action or event.",
+    "translations": {
+      "es": "EFECTO"
+    }
   },
   "EGG": {
     "def": "An oval or round object laid by a female bird, reptile, fish, or invertebrate, usually containing a developing embryo.",
@@ -4390,54 +4384,64 @@
     }
   },
   "EGGS": {
-    "def": "",
-    "translations": {}
+    "def": "Plural of egg.",
+    "translations": {
+      "es": "HUEVOS"
+    }
   },
   "EGO": {
-    "def": "",
-    "translations": {}
+    "def": "The self or one's own person.",
+    "translations": {
+      "es": "EGO"
+    }
   },
   "EGOS": {
-    "def": "",
-    "translations": {}
-  },
-  "EHS": {
-    "def": "",
-    "translations": {}
+    "def": "Plural of ego.",
+    "translations": {
+      "es": "EGOS"
+    }
   },
   "EIGHT": {
-    "def": "Equivalent to the product of two and four; one more than seven.",
+    "def": "Number 8",
     "translations": {
       "es": "OCHO"
     }
   },
-  "EINE": {
-    "def": "",
-    "translations": {}
-  },
   "EITHER": {
-    "def": "In addition; besides.",
-    "translations": {}
+    "def": "One or other of two.",
+    "translations": {
+      "es": "CUALQUIERA"
+    }
   },
   "EKE": {
-    "def": "To cut or remove (something) with a sharp tool.",
-    "translations": {}
+    "def": "An addition",
+    "translations": {
+      "es": "ADICION"
+    }
   },
   "ELAN": {
-    "def": "",
-    "translations": {}
+    "def": "A strong feeling of enthusiasm or excitement.",
+    "translations": {
+      "es": "Vivacidad"
+    }
   },
   "ELECT": {
     "def": "Choose (someone) to hold a position or office by voting.",
-    "translations": {}
+    "translations": {
+      "es": "ELECTA/O"
+    }
   },
   "ELEVEN": {
-    "def": "The number 11.",
-    "translations": {}
+    "def": "Number 11",
+    "translations": {
+      "es": "ONCE"
+    }
   },
   "ELF": {
     "def": "A mythical being that is usually depicted as a small, mischievous creature with magical powers.",
-    "translations": {}
+    "translations": {
+      "es": "ELFO"
+    }
   },
   "ELIAD": {
     "def": "",
