@@ -3,6 +3,12 @@
     "def": "",
     "translations": {}
   },
+  "ABAD": {
+    "def": "A man who is the head of an abbey of monks.",
+    "translations": {
+        "en": "ABBOT"
+    }
+  },
   "ABAJO": {
     "def": "",
     "translations": {}
@@ -33,6 +39,12 @@
     "def": "",
     "translations": {}
   },
+  "ABRA": {
+    "def": "An open space in a wood or forest.",
+    "translations": {
+        "en": "OPEN"
+    }
+  },
   "ABRAZO": {
     "def": "",
     "translations": {}
@@ -44,6 +56,12 @@
   "ABUELO": {
     "def": "",
     "translations": {}
+  },
+  "ABUR": {
+    "def": "Used to express good wishes when parting or at the end of a conversation.",
+    "translations": {
+        "en": "GOODBYE"
+    }
   },
   "ABUSO": {
     "def": "",

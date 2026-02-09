@@ -32,6 +32,7 @@ The game should be playable in offline mode.
 https://crowne.github.io/langlines/  
 https://developers.google.com/gamesnacks/developer/sdk  
 https://dle.rae.es/diccionario
+https://howismyspanish.com/4-letter-spanish-words/
 
 ## TODO
 Remove diacritic chars from es dictionary keys except for Ñ
